@@ -1,6 +1,7 @@
-# Türk Hukuku Metin Deposu (turk-hukuku)
+# Açık Mevzuat
 
-Bu depo, Türkiye'deki kanun metinlerini **makine tarafından işlenebilir**, **sürümlenebilir** ve **avukatların doğrudan kullanabileceği** bir formatta tutmak için tasarlanmıştır.
+Türkiye mevzuatını makine tarafından okunabilir, sürümlenebilir ve doğrulanabilir
+JSON/Markdown formatında tutmayı amaçlayan açık veri deposu.
 
 İlham:
 - Bundestag Gesetze: https://github.com/bundestag/gesetze
