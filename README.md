@@ -57,3 +57,14 @@ Her kanun klasöründe:
 ## Lisans
 
 Bu proje için lisans henüz netleştirilmemiştir. `LICENSE` dosyası eklenecektir.
+
+
+## Tam metinleri güncelleme
+
+Resmi kaynaklardan tam metinleri çekmek için:
+
+```bash
+python betikler/kanun_metinlerini_indir.py
+```
+
+Bu komut her kanun klasöründeki `source_url` alanını kullanarak PDF indirir ve `metin.md` dosyasını günceller.
