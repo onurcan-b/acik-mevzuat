@@ -1,0 +1,29 @@
+# Repository License
+
+This repository separates original project code from official law texts.
+
+## Code, schemas, and automation
+
+Scripts, JSON schemas, CI configuration, and other original software files in
+`betikler/`, `semalar/`, and `.github/` are licensed under the MIT License. See
+`LICENSE-CODE`.
+
+## Official law texts
+
+Law texts under `kanunlar/` are sourced from official public sources. This
+repository does not claim copyright over official legal texts and does not grant
+rights that belong to official publishers, public authorities, or other
+rightsholders.
+
+Users should verify every legal text against the official source before relying
+on it. See `NOTICE.md`.
+
+## Contributions
+
+By contributing to this repository, you agree that your contribution is provided
+under the applicable terms above:
+
+- original code, schemas, and automation under the MIT License in
+  `LICENSE-CODE`;
+- official legal text updates as source-backed reproductions of official public
+  legal texts, with no additional copyright claim by the contributor.

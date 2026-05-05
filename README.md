@@ -47,16 +47,22 @@ Her kanun klasöründe:
 3. Doğrulama script'i (`betikler/dogrula.py`)
 4. Otomatik CI doğrulama
 
-## Katkı rehberi (taslak)
+## Katkı
 
-- Yeni kanun eklerken klasör adını `kanunno-kisa-ad` biçiminde verin
-- Metni madde bazında tutarlı başlıklarla yazın
-- Metadata alanlarını boş bırakmayın
-- Kaynak URL ekleyin
+Katkılar pull request ile yapılır. Yeni kanun veya metin değişikliği eklerken
+resmi kaynak URL'si ve kaynağı kontrol ettiğiniz tarih belirtilmelidir.
+
+Ayrıntılar için `CONTRIBUTING.md` dosyasına bakın.
 
 ## Lisans
 
-Bu proje için lisans henüz netleştirilmemiştir. `LICENSE` dosyası eklenecektir.
+Bu depo, özgün proje kodu ile resmi kanun metinlerini ayrı değerlendirir.
+
+- `betikler/`, `semalar/` ve `.github/` altındaki özgün kod, şema ve otomasyon
+  dosyaları MIT lisansı altındadır. Bkz. `LICENSE-CODE`.
+- `kanunlar/` altındaki kanun metinleri resmi kamu kaynaklarından alınır. Bu
+  depo resmi kanun metinleri üzerinde telif hakkı iddia etmez. Bkz. `LICENSE`
+  ve `NOTICE.md`.
 
 
 ## Tam metinleri güncelleme
