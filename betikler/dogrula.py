@@ -10,8 +10,8 @@ except ImportError:
     )
 
 ROOT = Path(__file__).resolve().parents[1]
-SCHEMA_PATH = ROOT / "schemas" / "law.schema.json"
-LAWS_DIR = ROOT / "laws"
+SCHEMA_PATH = ROOT / "semalar" / "kanun.schema.json"
+LAWS_DIR = ROOT / "kanunlar"
 
 
 def main() -> int:
@@ -19,7 +19,7 @@ def main() -> int:
     validator = jsonschema.Draft202012Validator(schema)
 
     errors = []
-    for metadata_path in sorted(LAWS_DIR.glob("*/metadata.json")):
+    for metadata_path in sorted(LAWS_DIR.glob("*/ustveri.json")):
         data = json.loads(metadata_path.read_text(encoding="utf-8"))
         file_errors = list(validator.iter_errors(data))
         if file_errors:

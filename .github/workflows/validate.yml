@@ -15,4 +15,4 @@ jobs:
       - name: Install dependencies
         run: pip install jsonschema
       - name: Run validation
-        run: python scripts/validate.py
+        run: python betikler/dogrula.py

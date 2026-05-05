@@ -16,11 +16,11 @@ Bu depo, Türkiye'deki kanun metinlerini **makine tarafından işlenebilir**, **
 ## Önerilen klasör yapısı
 
 ```text
-laws/
+kanunlar/
   4721-turk-medeni-kanunu/
-    metadata.json
-    law.md
-    history/
+    ustveri.json
+    metin.md
+    gecmis/
       2024-01-01.md
 ```
 
@@ -28,23 +28,23 @@ laws/
 
 Her kanun klasöründe:
 
-1. `metadata.json`
+1. `ustveri.json`
    - kanun numarası
    - resmi adı
    - kabul tarihi
    - yürürlük durumu
    - resmi gazete bilgisi
    - kaynak URL
-2. `law.md`
+2. `metin.md`
    - Madde madde düzenlenmiş metin
-3. `history/*.md`
+3. `gecmis/*.md`
    - Sürüm notları ve değişiklik açıklamaları
 
 ## İlk adım planı
 
-1. Veri modeli üzerinde uzlaşma (`schemas/law.schema.json`)
+1. Veri modeli üzerinde uzlaşma (`semalar/kanun.schema.json`)
 2. İlk örnek kanunları ekleme
-3. Doğrulama script'i (`scripts/validate.py`)
+3. Doğrulama script'i (`betikler/dogrula.py`)
 4. Otomatik CI doğrulama
 
 ## Katkı rehberi (taslak)
