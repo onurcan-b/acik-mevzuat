@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/law.schema.json",
+  "title": "TurkishLawDocument",
+  "type": "object",
+  "required": [
+    "law_number",
+    "title",
+    "slug",
+    "accepted_date",
+    "effective_status",
+    "official_gazette",
+    "source_url",
+    "language"
+  ],
+  "properties": {
+    "law_number": {
+      "type": "string",
+      "pattern": "^[0-9]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "accepted_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "effective_status": {
+      "type": "string",
+      "enum": ["in_force", "repealed", "partially_in_force"]
+    },
+    "official_gazette": {
+      "type": "object",
+      "required": ["date", "number"],
+      "properties": {
+        "date": {
+          "type": "string",
+          "format": "date"
+        },
+        "number": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "language": {
+      "type": "string",
+      "const": "tr"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
