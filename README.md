@@ -68,3 +68,9 @@ python betikler/kanun_metinlerini_indir.py
 ```
 
 Bu komut her kanun klasöründeki `source_url` alanını kullanarak PDF indirir ve `metin.md` dosyasını günceller.
+
+PDF metni çıkarmak için sistemde `pdftotext` varsa kullanılır. Yoksa Python fallback'i için:
+
+```bash
+python -m pip install -r requirements.txt
+```
