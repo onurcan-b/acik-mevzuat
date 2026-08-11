@@ -1,6 +1,6 @@
 {
   "law_number": "5271",
-  "title": "Ceza Muhakemesi Kanunu",
+  "title": "CEZA MUHAKEMESİ KANUNU",
   "slug": "5271-ceza-muhakemesi-kanunu",
   "accepted_date": "2004-12-04",
   "effective_status": "in_force",
@@ -8,7 +8,15 @@
     "date": "2004-12-17",
     "number": "25673"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5271.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
   "language": "tr",
-  "tags": ["ceza_usul", "muhakeme", "sorusturma"]
+  "tags": [
+    "ceza_usul",
+    "muhakeme",
+    "sorusturma"
+  ],
+  "source_mevzuat_id": "1.5.5271",
+  "source_type": "KANUN",
+  "content_sha256": "43e975ee8ddd3998ee789a5de98937e78a909c6a6502f1832ce288013a6ba76c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "3083",
+  "title": "SULAMA ALANLARINDA ARAZİ DÜZENLENMESİNE DAİR TARIM REFORMU KANUNU",
+  "slug": "3083-sulama-alanlarinda-arazi-duzenlenmesine-dair-tarim-reformu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3083.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3083",
+  "source_type": "KANUN",
+  "content_sha256": "2ac939d160121d24e26556678f42f4d8b804b831e5b4e70923b1ae8ad5af426d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

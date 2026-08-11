@@ -1,0 +1,18 @@
+{
+  "law_number": "7183",
+  "title": "TÜRKİYE TURİZM TANITIM VE GELİŞTİRME AJANSI HAKKINDA KANUN",
+  "slug": "7183-turkiye-turizm-tanitim-ve-gelistirme-ajansi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7183.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7183",
+  "source_type": "KANUN",
+  "content_sha256": "269a50e52e20f0f485f0175e71b865e997a849f0bfaef889de18913f384df72b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7",
+  "title": "ANADOLU AJANSI TÜRK ANONİM ŞİRKETİNİN 6762 SAYILI TÜRK TİCARET KANUNUNUN 272 NCİ MADDESİNDEN İSTİSNA EDİLMESİNE DAİR KANUN",
+  "slug": "7-anadolu-ajansi-turk-anonim-sirketinin-6762-sayili-turk-ticaret-kanununun-272-nci-maddesinden-istisna-edilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.7.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.7",
+  "source_type": "KANUN",
+  "content_sha256": "66f5ce65e583af1ec0f8a4e928adc47c2bd85caacd0e9ffa757a281c498368e5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

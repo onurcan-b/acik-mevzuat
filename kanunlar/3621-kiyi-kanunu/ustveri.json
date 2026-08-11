@@ -1,0 +1,18 @@
+{
+  "law_number": "3621",
+  "title": "KIYI KANUNU",
+  "slug": "3621-kiyi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3621.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3621",
+  "source_type": "KANUN",
+  "content_sha256": "c05131c0483f38e18c65edaea1a2e20314a09aa3903e2d6a84bfe2b10a96f650",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

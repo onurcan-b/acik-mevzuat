@@ -1,0 +1,18 @@
+{
+  "law_number": "7039",
+  "title": "NÜFUS HİZMETLERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7039-nufus-hizmetleri-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7039.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7039",
+  "source_type": "KANUN",
+  "content_sha256": "8637a1aacfa9e709a08db102b8a7b3e42635c52e308b6b5c6bfae9c71f4c496e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

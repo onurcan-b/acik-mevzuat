@@ -1,0 +1,18 @@
+{
+  "law_number": "6320",
+  "title": "ÇAVUŞ VE UZMAN ÇAVUŞ KANUNU",
+  "slug": "6320-cavus-ve-uzman-cavus-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6320.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6320",
+  "source_type": "KANUN",
+  "content_sha256": "e24592eaad2de73624016cd49f2ec6112b19f3587b21d6a15d804428b14410b3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

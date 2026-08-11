@@ -1,0 +1,18 @@
+{
+  "law_number": "477",
+  "title": "DİSİPLİN MAHKEMELERİ KURULUŞU, YARGILAMA USULÜ VE DİSİPLİN SUÇ VE CEZALARI HAKKINDA KANUN",
+  "slug": "477-disiplin-mahkemeleri-kurulusu-yargilama-usulu-ve-disiplin-suc-ve-cezalari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.477.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.477",
+  "source_type": "KANUN",
+  "content_sha256": "5332645229a4ab11a10934779fcad36c13eff735cf41b13965534e15012e9c6a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

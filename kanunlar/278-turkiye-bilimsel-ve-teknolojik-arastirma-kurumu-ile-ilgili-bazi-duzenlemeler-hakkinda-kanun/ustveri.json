@@ -1,0 +1,18 @@
+{
+  "law_number": "278",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "278-turkiye-bilimsel-ve-teknolojik-arastirma-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.278.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.278",
+  "source_type": "KANUN",
+  "content_sha256": "206d663a1a4c986dfd3b1af68066dd02e76bf03e0432e1c8fb9427b8d4f20b65",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "57",
+  "title": "ANADOLU AJANSININ MALLARI VE PERSONELİ HAKKINDA KANUN",
+  "slug": "57-anadolu-ajansinin-mallari-ve-personeli-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.57.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.57",
+  "source_type": "KANUN",
+  "content_sha256": "e09a4931e0c2126b0475e34d9a16a073567278268778973fcaad081939b5800a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

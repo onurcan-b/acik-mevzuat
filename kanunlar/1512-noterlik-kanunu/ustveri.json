@@ -1,0 +1,18 @@
+{
+  "law_number": "1512",
+  "title": "NOTERLİK KANUNU",
+  "slug": "1512-noterlik-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1512.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1512",
+  "source_type": "KANUN",
+  "content_sha256": "950102cf63727793b767ad13a32cd8748e6587360414bd2dcdf31042b38d71c9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

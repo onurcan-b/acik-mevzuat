@@ -1,0 +1,18 @@
+{
+  "law_number": "5362",
+  "title": "ESNAF VE SANATKARLAR MESLEK KURULUŞLARI KANUNU",
+  "slug": "5362-esnaf-ve-sanatkarlar-meslek-kuruluslari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5362.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5362",
+  "source_type": "KANUN",
+  "content_sha256": "beb75362135d94ff4386294c482f38d250cef752eba38f5993c930638952dff9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

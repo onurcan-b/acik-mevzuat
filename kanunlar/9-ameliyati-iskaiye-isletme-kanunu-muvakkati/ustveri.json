@@ -1,0 +1,18 @@
+{
+  "law_number": "9",
+  "title": "AMELİYATI İSKAİYE İŞLETME KANUNU MUVAKKATI",
+  "slug": "9-ameliyati-iskaiye-isletme-kanunu-muvakkati",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.9.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "0.1.9",
+  "source_type": "KANUN",
+  "content_sha256": "7cf680ad05ed9863972487c51139fcf45404fa53b807ca989b6525ec34a3cda7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

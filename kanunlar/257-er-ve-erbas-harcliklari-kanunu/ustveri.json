@@ -1,0 +1,18 @@
+{
+  "law_number": "257",
+  "title": "ER VE ERBAŞ HARÇLIKLARI KANUNU",
+  "slug": "257-er-ve-erbas-harcliklari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.257.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.257",
+  "source_type": "KANUN",
+  "content_sha256": "b1a1d0b07224ce7beb0e92e2dd560273c5fd9c28981f0aa2f548d29d4cd91236",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

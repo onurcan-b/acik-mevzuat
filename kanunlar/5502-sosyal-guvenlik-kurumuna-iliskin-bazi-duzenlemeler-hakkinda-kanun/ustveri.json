@@ -1,0 +1,18 @@
+{
+  "law_number": "5502",
+  "title": "SOSYAL GÜVENLİK KURUMUNA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "5502-sosyal-guvenlik-kurumuna-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5502.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5502",
+  "source_type": "KANUN",
+  "content_sha256": "3bcfe87bfc8ea442da48f67cbb0957b7b678e4bec4a07507950a7602e0150a8c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

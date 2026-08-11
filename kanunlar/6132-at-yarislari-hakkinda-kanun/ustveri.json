@@ -1,0 +1,18 @@
+{
+  "law_number": "6132",
+  "title": "AT YARIŞLARI HAKKINDA KANUN",
+  "slug": "6132-at-yarislari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6132.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6132",
+  "source_type": "KANUN",
+  "content_sha256": "7e3c9ca8a2da6369088c3d2a252e6b49d7860fba44d9a4d9cf574a2d376a41fd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5395",
+  "title": "ÇOCUK KORUMA KANUNU",
+  "slug": "5395-cocuk-koruma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5395.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5395",
+  "source_type": "KANUN",
+  "content_sha256": "245da6b0336505781e69585fc699fec98e37373bd02d895022b27126ada9823a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

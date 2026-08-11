@@ -1,0 +1,18 @@
+{
+  "law_number": "3308",
+  "title": "MESLEKİ EĞİTİM KANUNU",
+  "slug": "3308-mesleki-egitim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3308.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3308",
+  "source_type": "KANUN",
+  "content_sha256": "05ab6859844c8faa282dd117b53efe8fd2ecdb6b19365fa2cc47e8e4823eac90",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6487",
+  "title": "BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "6487-bazi-kanunlar-ile-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6487.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6487",
+  "source_type": "KANUN",
+  "content_sha256": "edbf8552a3b18c2eecd3f8892171c7f6f263fed463c8d339ca19d32051a62ddd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

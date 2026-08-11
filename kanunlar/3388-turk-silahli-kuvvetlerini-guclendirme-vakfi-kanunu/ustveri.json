@@ -1,0 +1,18 @@
+{
+  "law_number": "3388",
+  "title": "TÜRK SİLAHLI KUVVETLERİNİ GÜÇLENDİRME VAKFI KANUNU",
+  "slug": "3388-turk-silahli-kuvvetlerini-guclendirme-vakfi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3388.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3388",
+  "source_type": "KANUN",
+  "content_sha256": "53556a46f500efbc4e366f1b3aafbf2691b203ade99babe408128e6b9f118fef",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

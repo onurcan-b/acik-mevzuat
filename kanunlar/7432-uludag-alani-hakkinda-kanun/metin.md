@@ -1,0 +1,338 @@
+# ULUDAĞ ALANI HAKKINDA KANUN (No. 7432)
+
+> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7432.pdf
+> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
+> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+
+---
+
+# MADDE 1 — Amaç ve kapsam
+
+(1) Bu Kanunun amacı; doğal ve turistik değerler açısından büyük öneme
+sahip Uludağ Alanının, doğal sit alanları ve diğer korunan alanlar ile birlikte jeolojik ve
+biyolojik varlıklar, su ve benzeri kaynak değerlerinin korunması, yaşatılması, geliştirilmesi,
+tanıtılması, planlanması, yönetilmesi ve denetlenmesi ile Alanda yürütülen faaliyetlere ilişkin
+usul ve esasları düzenlemektir.
+
+# MADDE 2 — Tanımlar
+
+(1) Bu Kanunun uygulanmasında;
+a) Bakan: Kültür ve Turizm Bakanını,
+b) Bakanlık: Kültür ve Turizm Bakanlığını,
+c) Başkan: Uludağ Alan Başkanını,
+ç) Başkanlık: Uludağ Alan Başkanlığını,
+d) Danışma Kurulu: Başkanlığa danışmanlık etmek ve tavsiyelerde bulunmak üzere
+kurulan kurulu,
+e) Geçiş dönemi koruma esasları ve kullanma şartları: Uludağ Alan planları yürürlüğe
+girinceye kadar uyulacak esasları,
+f) Komisyon: Uludağ Alan Komisyonunu,
+g) Uludağ Alanı: Bu Kanuna ekli Harita ve Koordinat Listesinde sınırları belirtilen ve
+bu Kanun kapsamında Başkanlığın yetkili ve görevli olduğu alanı,
+ğ) Uludağ Alan planları: Bu Kanun hükümlerine göre hazırlanan, Uludağ Alanının
+korunması, geliştirilmesi, yönetimi, tanıtılması, koruma esasları ve kullanma şartlarının
+belirlenmesi, bölgede yer alan konaklama ile kış ve dağ turizmi tesislerinin yapılması,
+iyileştirilmesi, yenilenmesi ve geliştirilmesi, ulaşım yöntemleri ve altyapı tesislerinin tasarım
+esaslarının belirlenmesi konularında hedefleri, stratejileri ve kararları belirleyen her tür ve
+ölçekteki planları
+ifade eder.
+
+# MADDE 3 — Genel esaslar1
+
+(1) Uludağ Alanının kontrollü girişini ve güvenliğini sağlamak esastır.
+Ulaşım, giriş kontrolü, alan güvenliğinin sağlanması, parklanma ve ziyaretçi merkezlerinde
+
+1 20/11/2025 tarihli ve 7565 sayılı Kanunun 16 ncı maddesiyle bu maddeye ikinci fıkrasından sonra gelmek
+üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+ödenecek olan ücretler ile Uludağ Alanından faydalanma koşullarına ilişkin usul ve esaslar
+Başkanlıkça çıkarılacak yönetmelikle belirlenir.
+(2) Uludağ Alanındaki 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını
+Koruma Kanununda belirtilen korunması gerekli taşınmaz kültür ve tabiat varlıklarına yönelik
+yapılacak her tür plan, proje, uygulama, iş ve işlemler, Komisyon kararları uyarınca yürütülür.
+(3) (Ek:20/11/2025-7565/16 md.) Uludağ Alanında 2863 sayılı Kanun kapsamında
+doğal sitler ve tabiat varlıkları ile ilgili olarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+Tabiat Varlıklarını Koruma Genel Müdürlüğüne verilen görevler, Başkanlık tarafından yerine
+getirilir.1
+(4) Uludağ Alanında her türlü aykırı uygulamanın giderilmesini sağlamak, aykırı
+uygulamaya konu yapı ve tesisleri yıkmak veya yıktırmak Başkanlığın yetkisindedir.
+(5) Alanda kömür ve akaryakıt depoları, sanayi ve benzeri tesisler kurulamaz,
+madencilik faaliyetleri yapılamaz, entegre tesislere yer verilemez. Ancak bu Kanunun
+yürürlüğe girdiği tarihten önce 4/6/1985 tarihli ve 3213 sayılı Maden Kanunu hükümleri
+uyarınca işletme ruhsatı almış alanlarda 2863 sayılı Kanun hükümleri saklı kalmak kaydıyla,
+Uludağ Alan Komisyonunun belirleyeceği kriterlere uyulmak ve uygun görüşü alınmak
+koşuluyla kazanılmış haklar korunarak faaliyetler sürdürülür.
+(6) 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun 8 inci ve geçici
+12 nci maddesinin birinci fıkrası hükümleri saklı kalmak kaydıyla Uludağ Alan sınırları
+içindeki; kamu hizmetlerinde kullanılan bina ve tesisler, kamu konutları ile Tarım ve Orman
+Bakanlığı tarafından yapılan veya yaptırılan tüm yapı ve tesisler hariç, Hazinenin özel
+mülkiyetindeki veya Devletin hüküm ve tasarrufu altındaki taşınmazlar, 31/8/1956 tarihli ve
+6831 sayılı Orman Kanunu kapsamında orman sayılan yerler ile daha önce 9/8/1983 tarihli ve
+2873 sayılı Milli Parklar Kanunu gereğince tespit ve ilan edilen yerler, varsa üzerindeki tüm
+yapı ve tesisler ile birlikte bu Kanunun yürürlüğe girdiği tarihten itibaren Başkanlığın talebi
+üzerine bedelsiz olarak Başkanlığa tahsis edilir. Genel kolluk kuvvetlerine tahsisli veya
+bunların kullanımında olan taşınmazlar hakkında bu fıkra hükümleri uygulanmaz.
+(7) Uludağ Alanında bulunan Hazine ile kamu kurum ve kuruluşlarının özel
+mülkiyetindeki taşınmazların satışı, trampası, kiraya verilmesi, işletilmesi, işlettirilmesi, ön
+izin verilmesi ve üzerlerinde irtifak hakkı kurulması, Devletin hüküm ve tasarrufu altındaki
+yerlerin kiraya verilmesi, işletilmesi, işlettirilmesi, ön izin ve kullanma izni verilmesi gibi
+işlemler Başkanlığın uygun görüşü alınarak yapılır. Ancak, bu taşınmazlardan 2634 sayılı
+Kanun kapsamında turizm amaçlı kullanılmasında yarar görülenlerin tahsisi, kamulaştırılması,
+kiralanması, işletilmesi, işlettirilmesinde Bakanlık yetkilidir.
+(8) 2634 sayılı Kanun uyarınca Bakanlıkça talep edilen taşınmazların tahsisi
+Başkanlıkça Bakanlığa devredilir ve bu taşınmazların anılan Kanun hükümleri uyarınca
+tahsisi münhasıran Bakanlıkça yapılır.
+(9) Uludağ Alanında zilyetlik, imar veya ihya yoluyla toprak kazanılamaz. Uludağ
+Alanında 6831 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (B) bendi uygulanmaz.
+(10) Uludağ Alanındaki ormanların bakımı, korunması, yangın, hastalık ve zararlılarla
+mücadele 6831 sayılı Kanun hükümleri uyarınca fonksiyonel orman amenajman planlarına
+göre Orman Genel Müdürlüğünce yürütülür ve elde edilen tüm gelirler Orman Genel
+Müdürlüğü Döner Sermaye bütçesine aktarılır. Uludağ Alanındaki yabani ağaçlık alanların
+bakımı ve korunması ile yangın, hastalık ve zararlılarla mücadelede 6831 sayılı Kanun
+hükümleri uyarınca Tarım ve Orman Bakanlığınca destek ve iş birliği sağlanır. Uludağ Alanı
+için özel yangın söndürme planı yapılır ve uygulanır.
+(11) Bu Kanun kapsamına giren orman alanlarında; 6831 sayılı Kanunun beşinci fasıl
+dördüncü bölümünde yer alan suçların takibi ve aynı Kanun kapsamındaki koruma hizmetleri
+orman muhafaza memurlarınca sağlanır.
+(12) Uludağ Alanında gerçekleştirilecek turizm amaçlı sportif faaliyetler ile alana
+ilişkin işletmecilik faaliyetlerini yapma, (…)2 ve denetleme yetkisi Başkanlıktadır.
+(13) Uludağ Alanında, planların gerektirdiği her türlü hizmet ve faaliyetler ile koruma,
+yönetim, işletme, tanıtım, spor, eğlenme ve dinlenme hizmetleri için gerekli her türlü altyapı ve
+diğer tesislerin yapılmasında, yaptırılmasında, işletilmesinde, işlettirilmesinde ve bu işlemlerin
+ilgili belediye başkanlıkları ile koordine hâlinde yürütülmesinde Başkanlık yetkilidir.
+(14) Uludağ Alanında turizm tesisi yapılmak amacıyla tahsis edilen taşınmazların
+üzerinde yer alan turizm tesislerinde çalışan personelin sadece konaklama ihtiyaçlarının
+giderilmesi ve yaşam kalitelerinin artırılması amacıyla; yardımcı hizmet ünitelerinin
+gerçekleştirilmesi için 2634 sayılı Kanun hükümleri uyarınca personel lojmanı alanları
+planlanabilir ve tahsis edilebilir.
+(15) Planlar uyarınca gerçekleştirilecek her türlü tesisin, Başkanlığın koyacağı
+esaslar dahilinde, çevre sorunu yaratmayacak şekilde, atık su arıtma sistemiyle donatılması ve
+tesisle birlikte bitirilmesi, tesisi yapan kuruluş veya şahıslarca sağlanır ve kullanım alanının
+tabii peyzaja uygun çevre tanzimi Başkanlığın belirleyeceği esaslara göre yapılır.
+(16) Uludağ Alanı sınırları içinde kalan yerlerdeki gerçek ve tüzel kişilere ait taşınmaz
+mallar ile her türlü tesisleri, onaylı uygulama imar planına göre hazırlanacak projelerin
+gerçekleşmesi için, gerekli görüldüğünde, 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma
+Kanunu hükümlerine göre Başkanlıkça kamulaştırılır.
+(17) Başkanlığa ait taşınır ve taşınmazlar Devlet malı hükmündedir. Bunlar aleyhine
+suç işleyenler Devlet malları aleyhine suç işleyenler gibi cezalandırılır. Orman sayılan yerler
+kapsamında işlenen suçlara ilişkin 6831 sayılı Kanun hükümleri uygulanır.
+(18) Bu Kanunda hüküm bulunmayan hâllerde 6831 sayılı Kanun, 2634 sayılı Kanun,
+2863 sayılı Kanun, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu, 3/5/1985 tarihli ve 3194
+sayılı İmar Kanunu, 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanunu ile ilgili diğer
+mevzuat hükümleri uygulanır.
+
+# MADDE 4 — Uludağ Alan planları
+
+(1) Uludağ Alanında yapılacak uygulamalar, meri planlar ile geçiş
+dönemi koruma esasları ve kullanma şartlarına göre yürütülür.
+
+2 Anayasa Mahkemesinin 17/10/2024 Tarihli ve E: 2023/67, K: 2024/175 Sayılı Kararı ile bu fıkrada
+yer alan “…yaptırma, izin verme…” ibaresi iptal edilmiştir.
+(2) Uludağ Alanında her tür ve ölçekte planların hazırlanması, yenilenmesi ve
+değiştirilmesi işlemleri Başkanlıkça yürütülür. Bu planlar, Komisyonun uygun görüşü ve
+Bakan oluru uyarınca Başkanlıkça yapılacak onama sonrasında yürürlüğe girer.
+(3) Uygulamaya yönelik imar planları yürürlüğe girene kadar geçerli olmak üzere,
+Alanın ihtiyaçları göz önünde bulundurularak, Başkanlık teşkilatlanmasının tamamlanmasını
+müteakip üç ay içerisinde geçiş dönemi koruma esasları ve kullanma şartları, Başkanlığın
+teklifi, Komisyonun kararı ve Bakan onayı ile yürürlüğe girer.
+(4) Uludağ Alanı bütününde hazırlanacak olan üst ölçekli planın onaylanmasının
+ardından Alanın nazım ve uygulama imar planları etaplar hâlinde yapılabilir.
+(5) Uludağ Alanında bu Kanunun yürürlüğe girdiği tarihten sonra ilgili diğer
+idarelerce yeni plan onaylanamaz.
+(6) Uludağ Alan planı yapımı ve yürürlüğüne ilişkin usul ve esaslar Bakanlıkça
+çıkarılan yönetmelik ile belirlenir.
+
+# MADDE 5 — Komisyonun belirlenmesi, görevleri ve çalışma esasları
+
+(1) (İptal fıkra: Anayasa Mahkemesinin 17/10/2024 Tarihli ve E:
+2023/67, K: 2024/175 Sayılı Kararı ile.)
+(2) Uludağ Alanında, 2863 sayılı Kanun ile kültür varlıklarını koruma bölge kurulları
+ve tabiat varlıklarını koruma bölge komisyonlarına verilen yetki ve görevler Komisyon
+tarafından kullanılır. Ayrıca, Komisyon, Uludağ Alanı içerisinde doğal sit alanlarının tescili,
+sınır değişiklikleri ve yeniden değerlendirilmesine yönelik karar almaya yetkilidir. Sit sınır ve
+derece değişiklikleri Komisyonun oy birliği ile aldığı karar doğrultusunda gerçekleştirilir.
+(3) Komisyon aşağıda belirtilen üyelerden oluşur:
+a) Üniversitelerin mimarlık, şehir planlama/şehir ve bölge planlama, orman
+mühendisliği, hukuk, jeoloji mühendisliği, harita mühendisliği, çevre mühendisliği ve biyoloji
+bölümlerinden lisans eğitimlerini tamamlayarak mezun olmuş, Bakanlıkça görevlendirilecek,
+alanında uzman ve en az on yıl deneyime sahip dört üye
+b) Bursa Valisi tarafından görevlendirilecek bir vali yardımcısı
+c) Bakanlık Yatırım ve İşletmeler Genel Müdürlüğünden iki üye ile Kültür Varlıkları
+ve Müzeler Genel Müdürlüğünden bir üye, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+Tabiat Varlıklarını Koruma Genel Müdürlüğünden iki üye ile Tarım ve Orman Bakanlığı
+Doğa Koruma ve Milli Parklar Genel Müdürlüğü ve Orman Genel Müdürlüğünden,
+alanlarında uzman birer üye
+ç) Bursa Büyükşehir Belediye Başkanlığından görevlendirilecek bir üye
+(4) Komisyonda görüşülecek konunun niteliğine göre oy hakkı olmamak kaydıyla
+ilgili yerel yönetimler ile kurum ve kuruluşlardan uzman çağrılabilir. Komisyonun
+gündemiyle ilgili meslek odaları, Başkanlığın davetiyle toplantıya gözlemci olarak katılabilir.
+(5) Üçüncü fıkranın (a) bendi uyarınca görevlendirilen Komisyon üyelerinin görev
+süresi iki yıldır. Yeni üyeler görevlendirilene kadar mevcut üyeler görevine devam eder.
+(6) Komisyon kararları idari yargı yolu açık olmak üzere kesindir. Kamu kurum ve
+kuruluşları, belediyeler ile gerçek ve tüzel kişiler Komisyon kararlarına uymak zorundadır.
+(7) Komisyonun kuruluşu, görevleri, çalışma usul ve esasları (…)3 Bakanlıkça
+çıkarılan yönetmelik ile belirlenir.
+
+# MADDE 6 — Danışma Kurulunun belirlenmesi, görevleri ve çalışma esasları
+
+(1) Danışma Kurulu aşağıdaki üyelerden oluşur:
+a) Alan Başkanı
+b) Bursa Ticaret ve Sanayi Odasından bir üye
+c) Güney Marmara Turistik Otelciler ve İşletmeciler Birliğinden bir üye
+ç) Türkiye Seyahat Acentaları Birliği Bursa temsilcisi
+d) Bursa Gençlik ve Spor İl Müdürü ya da yardımcısı
+e) Osmangazi Belediye Başkanlığı temsilcisi
+(2) Gerek görüldüğünde Danışma Kurulu toplantısına Başkanlığın daveti ile
+üniversiteler, ilgili sivil toplum kuruluşlarından ve meslek odalarından birer üye katılabilir.
+(3) Danışma Kuruluna Bakan onayı ile ayrıca görevlendirme yapılabilir.
+(4) Başkan aynı zamanda Danışma Kurulunun da başkanıdır.
+(5) Danışma Kurulu, Başkanlığa danışmanlık eder ve tavsiyelerde bulunur.
+(6) Danışma Kurulu, yılda en az dört kez olmak üzere gerekli görülen hâllerde Kurul
+Başkanının çağrısı ile toplanır.
+(7) Danışma Kurulunca bilgi, tecrübe ve uzmanlığından yararlanılabileceği düşünülen
+kişi veya kurum ve kuruluşların temsilcileri toplantıya çağırılabilir veya görüşleri alınabilir.
+(8) Danışma Kurulunun görevleri, çalışma usul ve esasları ile kurul üyelerinin
+atanması ve üyeliklerinin sona erdirilmesine ilişkin usul ve esaslar Bakanlıkça çıkarılan
+yönetmelik ile belirlenir.
+
+# MADDE 7 — Başkanlığın gelirleri ve giderleri
+
+(1) Başkanlığın gelirleri şunlardır:
+a) Genel bütçeden yapılacak Hazine yardımları
+b) 2634 sayılı Kanun kapsamında yatırımcılara tahsis edilen veya kiralanan
+taşınmazlardan elde edilen gelirler hariç olmak üzere Uludağ Alanında bulunan Hazine ile
+kamu kurum ve kuruluşlarının özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve
+tasarrufu altındaki yerlerin (…)4 kiraya verilmesi, işletilmesi, işlettirilmesi, ön izin verilmesi,
+irtifak hakkı kurulması, kullanma izni verilmesi ve ecrimisil işlemlerinden elde edilen gelirler
+
+3 Anayasa Mahkemesinin 17/10/2024 Tarihli ve E: 2023/67, K: 2024/175 Sayılı Kararı ile bu fıkrada
+yer alan “…ile Komisyon üyelerinin atanması ve üyeliklerinin sona erdirilmesine ilişkin usul ve
+esaslar…” ibaresi iptal edilmiştir.
+4 Anayasa Mahkemesinin 17/10/2024 Tarihli ve E: 2023/67, K: 2024/175 Sayılı Kararı ile bu bentte
+yer alan “…satışı, trampası,…” ibaresi iptal edilmiştir.
+c) Marka ve patent gelirleri
+ç) Başkanlığa yapılacak başvurular ve Başkanlıkça sunulacak hizmetler karşılığı
+alınacak ücretler
+d) Her türlü tanıtım, basım ve yayın gelirleri ile fikrî mülkiyet haklarından kaynaklı
+gelirler
+e) Uludağ Alanındaki işletme ve faaliyet gelirleri
+f) Başkanlıkça verilecek idari para cezalarından elde edilecek gelirlerin yarısı
+g) Yardım ve bağışlar ile sponsorluk gelirleri
+ğ) Başkanlık gelirlerinin değerlendirilmesinden elde edilen gelirler
+h) Diğer gelirler
+(2) Başkanlığın giderleri şunlardır:
+a) Uludağ Alanında etüt, envanter, planlama, proje çalışmaları, müşavirlik, denetim
+hizmetleri, jeolojik/jeoteknik etütlerin elde edilmesi, tabii kaynakların geliştirilmesi,
+düzenlenmesi, imar, ıslah ve çevre tanzimi, özel plan ve projelere göre yapılacak her türlü
+faaliyetlerin gerektirdiği harcamalar
+b) Uludağ Alanında, planları gereğince taşınmazların kamulaştırılması, üzerlerinde
+sınırlı ayni hak tesisi ve kiralanmasına ilişkin harcamalar
+c) Uludağ Alanında yer alan işletme, sportif faaliyet, spor amaçlı organizasyon,
+tanıtma, altyapı, üstyapı, idare binası, sosyal binalar, ziyaretçi merkezi, tanıtma merkezi, saha
+sergileri ve bu tür faaliyetlerle ilgili her türlü harcamalar
+ç) Uludağ Alanı hizmetlerinin gerektirdiği her türlü araç, gereç, ekipman ve benzeri
+taşınırların satın alınması, kiralanması, bakımı, onarımı ve işletilmesi ile ilgili harcamalar
+d) Personel, istihdam, temsil ve ağırlama ile ilgili giderler
+e) Komisyon üyelerine ait yolluk ve huzur hakkı giderleri
+f) Demirbaş ve tüketim malzemeleri ile ilgili harcamalar
+g) Kültür ve turizm işletmeciliğine ait giderler
+ğ) Başkanlıkça tespit edilen aykırı uygulamaya konu yapı ve tesisleri yıkma ve
+yıktırma işlemleri dâhil aykırı uygulamaların giderilmesini sağlamaya yönelik işlemler ile
+ilgili giderler
+h) Başkanlığın görevleriyle ilgili diğer giderler
+(3) Başkanlığa yapılacak ücrete tabi başvurular ve Başkanlıkça sunulacak hizmetler
+karşılığı alınacak ücretlere ilişkin usul ve esaslar, ilgili kurumların görüşü alınarak
+Başkanlıkça çıkarılan yönetmelikle düzenlenir.
+
+# MADDE 8 — Muafiyet ve indirimler
+
+(1) Başkanlık, bu Kanunda ve ilgili mevzuatında sayılan faaliyetleri
+dolayısıyla yapılan işlemler yönünden 2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu ile
+26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu gereğince alınan harçlardan ve
+harcamalara katılma paylarından, düzenlenen kâğıtlar yönünden damga vergisinden,
+kendisine yapılan bağış ve yardımlar nedeniyle veraset ve intikal vergisinden, sahip olduğu
+taşınmazlar dolayısıyla emlak vergisinden ve tapu ve kadastro döner sermaye hizmet
+bedelinden muaftır.
+(2) Başkanlığa yapılan her türlü nakdî ve ayni bağış ve yardımlar ile sponsorluk
+harcamalarının tamamı, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile 13/6/2006
+tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu hükümleri çerçevesinde gelir veya kurumlar
+vergisi matrahının tespitinde, gelir veya kurumlar vergisi beyannamesi üzerinde ayrıca
+gösterilmek şartıyla beyan edilen gelirden veya kurum kazancından indirilebilir.
+(3) Bu Kanunun 7 nci maddesinin birinci fıkrasının (b), (c), (d) ve (e) bentleri hariç
+Başkanlığın bu Kanunda ve ilgili mevzuatında sayılan görevleriyle ilgili faaliyetlerinden elde
+ettiği gelirleri dolayısıyla iktisadi işletme oluşmuş sayılmaz.
+
+# MADDE 9 — Yasaklar ve cezalar
+
+(1) (İptal fıkra: Anayasa Mahkemesinin 17/10/2024 Tarihli ve E: 2023/67,
+K: 2024/175 Sayılı Kararı ile .)
+(2) (İptal fıkra: Anayasa Mahkemesinin 17/10/2024 Tarihli ve E: 2023/67, K: 2024/175
+Sayılı Kararı ile .)
+(3) Uludağ Alanında meri planlar ile geçiş dönemi koruma esasları ve kullanma
+şartlarına aykırı yapılan inşai ve fiziki müdahalelerde 3194 sayılı Kanunun ilgili maddelerinde
+belirtilen idari para cezaları Başkanlıkça uygulanır.
+(4) Uludağ Alanı sınırları içinde;
+a) 6831 sayılı Kanun, 2872 sayılı Kanun ve 4915 sayılı Kanunda yasaklanan fiillerin
+işlenmesi hâlinde idari para cezaları iki misli artırılır. Uludağ Alanı içinde 2863 sayılı
+Kanunun 74 üncü maddesinde belirtilen cezalar yarı oranında artırılarak uygulanır.
+b) 6831 sayılı Kanunun 112 nci, 113 üncü ve 114 üncü maddelerine göre istenecek
+tazminat ve ağaçlandırma gideri bir misli artırılır.
+(5) Bu maddenin birinci ve ikinci fıkrası uyarınca verilen idari para cezaları
+Başkanlıkça uygulanır. Verilen idari para cezalarına karşı otuz gün içinde idare
+mahkemelerinde dava açılabilir. İdari para cezalarına karşı yargı yoluna başvurulması takip
+ve tahsilatı durdurmaz.
+
+# MADDE 10 — Çeşitli hükümler
+
+(1) 2863 sayılı Kanun kapsamında kültür varlıklarını koruma bölge
+kurulu müdürlüklerine, koruma, uygulama ve denetim büroları ile çevre, şehircilik ve iklim
+değişikliği il müdürlüklerine verilen görev ve yetkiler Uludağ Alanında Başkanlık tarafından
+yürütülür.
+(2) Bu Kanunda Başkanlığa verilen görevlerle ilgili olarak diğer mevzuatta Tarım ve
+Orman Bakanlığına yapılan atıflar Bakanlığa, Uludağ Milli Park Müdürlüğüne yapılan atıflar
+ise Başkanlığa yapılmış sayılır.
+(3) Uludağ Alanının sınırları bölgenin kültürel ve doğal varlıkları ile turizm
+potansiyeli göz önünde tutularak ilgili bakanlıkların görüşü alınarak Bakanlığın teklifi üzerine
+Cumhurbaşkanı kararı ile değiştirilebilir.
+
+# MADDE 11 — Değiştirilen hüküm
+
+(10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol
+Kanunu ile ilgili olup yerine işlenmiştir.)
+
+# GEÇİCİ MADDE 1 — Geçiş dönemi bütçesi ve diğer işlemler
+
+(1) Bu Kanunla kurulan Başkanlık teşkilatlanıncaya kadar,
+Uludağ Milli Parkı’nın bu Kanunla Uludağ Alanı olarak belirlenen bölümünde, Uludağ Milli
+Parkı Müdürlüğü ilgili mevzuatına göre faaliyetlerine devam eder.
+(2) Başkanlığın 2023 mali yılı harcamaları, yeni bir düzenleme yapılıncaya kadar
+Bakanlığın 2023 yılı bütçesinde yer alan ödeneklerden karşılanır.
+(3) Uludağ Alanına ilişkin olarak bu Kanunla Başkanlığa devredilen yetki ve görevler
+kapsamında kalan ve Kanunun yürürlüğe girdiği tarihten önce ilgili idarelerce sözleşmeye
+bağlanmış olan işler, Başkanlık teşkilatı kuruluncaya kadar bu idarelerce yürütülür. Başkanlık
+teşkilatı kurulduğu tarih itibarıyla bu sözleşmeler ilgili idarelerce hak, alacak ve borçlarıyla
+birlikte Başkanlığa devredilmiş sayılır.
+(4) Üçüncü fıkra uyarınca Başkanlığa devredilen sözleşmelerden dolayı ilgili
+idarelerce taraf olunan davalar, Uludağ Alanı ile ilgili kültür varlıklarını koruma bölge kurulu
+kararları ve tabiat varlıklarını koruma bölge komisyonu kararlarına karşı açılan davalar ile
+başlatılmış olan takiplerde Başkanlık kendiliğinden taraf sıfatını kazanır. Bu sözleşmelere
+ilişkin olarak bu maddenin yürürlüğe girmesinden önce ilgili idarelerce yapılmış iş ve işlemler
+sebebiyle açılacak dava ve takipler Başkanlığa yöneltilir.
+(5) Uludağ Alanına ilişkin Başkanlığın görev alanını ilgilendiren her türlü arşiv
+belgesi ilgili kamu kurum ve kuruluşları tarafından bu Kanunun yürürlüğe girmesinden
+itibaren üç ay içinde Başkanlığa gönderilir.
+(6) Bu Kanunun uygulanmasına dair yönetmelikler, Başkanlığın teşkilatlanmasının
+tamamlanmasını müteakip en geç bir yıl içinde yürürlüğe konulur.
+(7) Uludağ Alanı içerisinde meri tüm planların uygulaması, geçiş dönemi koruma
+esasları ve kullanma şartları belirlenene kadar devam eder. Geçiş dönemi koruma esasları ve
+kullanma şartlarının belirlenmesi ile meri planların uygulanması durdurulur. Üst ölçek
+planların hazırlanması sürecinde uygulanması durdurulmuş olan mevcut planlar Başkanlıkça
+incelenerek Komisyonun uygun görüşü ile yeniden yürürlüğe konulabilir.
+(8) Bu Kanunda öngörülen Uludağ Alan planları, geçiş dönemi koruma esasları ve
+kullanma şartlarının yürürlüğe girmesini takiben iki yıl içinde Komisyona sunulur.
+
+# MADDE 12 — Yürürlük
+
+(1) Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+# MADDE 13 — Yürütme
+
+(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür.

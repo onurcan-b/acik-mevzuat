@@ -1,0 +1,18 @@
+{
+  "law_number": "4678",
+  "title": "TÜRK SİLAHLI KUVVETLERİNDE İSTİHDAM EDİLECEK SÖZLEŞMELİ SUBAY VE ASTSUBAYLAR HAKKINDA KANUN",
+  "slug": "4678-turk-silahli-kuvvetlerinde-istihdam-edilecek-sozlesmeli-subay-ve-astsubaylar-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4678.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4678",
+  "source_type": "KANUN",
+  "content_sha256": "dfbac4136ff8c0c5aa47c34ec0954ff6af481662827920aaf854398d6f9d0b89",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

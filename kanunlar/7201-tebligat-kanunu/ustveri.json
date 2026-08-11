@@ -1,0 +1,18 @@
+{
+  "law_number": "7201",
+  "title": "TEBLİGAT KANUNU",
+  "slug": "7201-tebligat-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7201.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.7201",
+  "source_type": "KANUN",
+  "content_sha256": "12cc9aeadc8ca239b2c9d044194dd31d1f95681578345e517d1cd2319e885a71",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

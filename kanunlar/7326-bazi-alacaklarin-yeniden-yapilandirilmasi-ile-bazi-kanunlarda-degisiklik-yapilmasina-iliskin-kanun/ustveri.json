@@ -1,0 +1,18 @@
+{
+  "law_number": "7326",
+  "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+  "slug": "7326-bazi-alacaklarin-yeniden-yapilandirilmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7326.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7326",
+  "source_type": "KANUN",
+  "content_sha256": "8e63439df91e0a73bc84e2a2256c9e7f4ecb94d98285643c4d24b4cbe5326d57",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

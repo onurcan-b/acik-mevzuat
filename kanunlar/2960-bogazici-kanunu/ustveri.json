@@ -1,0 +1,18 @@
+{
+  "law_number": "2960",
+  "title": "BOĞAZİÇİ KANUNU",
+  "slug": "2960-bogazici-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2960.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2960",
+  "source_type": "KANUN",
+  "content_sha256": "50e287c253fc393ef49d2008769eae8e6eb1846b18fdf1d92ccc1ca40a315a99",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

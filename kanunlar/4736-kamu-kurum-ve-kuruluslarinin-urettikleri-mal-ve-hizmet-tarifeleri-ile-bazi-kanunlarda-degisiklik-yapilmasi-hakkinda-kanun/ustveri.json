@@ -1,0 +1,18 @@
+{
+  "law_number": "4736",
+  "title": "KAMU KURUM VE KURULUŞLARININ ÜRETTİKLERİ MAL VE HİZMET TARİFELERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "4736-kamu-kurum-ve-kuruluslarinin-urettikleri-mal-ve-hizmet-tarifeleri-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4736.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4736",
+  "source_type": "KANUN",
+  "content_sha256": "3dc28684d47fd9fe7668be84edce7876bb7406fc126a610834152342c74a454a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

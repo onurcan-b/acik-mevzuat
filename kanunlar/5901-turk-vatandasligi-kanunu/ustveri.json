@@ -1,0 +1,18 @@
+{
+  "law_number": "5901",
+  "title": "TÜRK VATANDAŞLIĞI KANUNU",
+  "slug": "5901-turk-vatandasligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5901.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5901",
+  "source_type": "KANUN",
+  "content_sha256": "7f23c51610ba342224f1944f77aec3e7312e8444be23062ca4d48314f5184520",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

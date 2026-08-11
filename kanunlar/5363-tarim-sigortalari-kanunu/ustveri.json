@@ -1,0 +1,18 @@
+{
+  "law_number": "5363",
+  "title": "TARIM SİGORTALARI KANUNU",
+  "slug": "5363-tarim-sigortalari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5363.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5363",
+  "source_type": "KANUN",
+  "content_sha256": "fa064173a3eaea4328c3b42df9cf73c34987675bc43e5e9ed9151445f451dde9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

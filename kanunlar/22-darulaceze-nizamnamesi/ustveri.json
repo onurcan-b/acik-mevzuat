@@ -1,0 +1,18 @@
+{
+  "law_number": "22",
+  "title": "DARÜLACEZE NİZAMNAMESİ",
+  "slug": "22-darulaceze-nizamnamesi",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.22.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "0.1.22",
+  "source_type": "KANUN",
+  "content_sha256": "15bedfbf7755c19673ef2745bb464c3546389394a95d389ad509acb1e9cf26a4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4722",
+  "title": "TÜRK MEDENİ KANUNUNUN YÜRÜRLÜĞÜ VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+  "slug": "4722-turk-medeni-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4722.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4722",
+  "source_type": "KANUN",
+  "content_sha256": "3819ffb6f8cfc63f16219b9040615717a37db9785a9451a06e04d0469e6e68e4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

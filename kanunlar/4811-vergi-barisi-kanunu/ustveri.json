@@ -1,0 +1,18 @@
+{
+  "law_number": "4811",
+  "title": "VERGİ BARIŞI KANUNU",
+  "slug": "4811-vergi-barisi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4811.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4811",
+  "source_type": "KANUN",
+  "content_sha256": "19d8adada78d2ad8ad6cdb0ba8bdc5717de767978af39d05119705bcb1809085",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7552",
+  "title": "İKLİM KANUNU",
+  "slug": "7552-iklim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7552.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7552",
+  "source_type": "KANUN",
+  "content_sha256": "4727187f61ba3711f814cb8c0f29d67adf1efbd619fc0bb6ce7eaf2ed00913f4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

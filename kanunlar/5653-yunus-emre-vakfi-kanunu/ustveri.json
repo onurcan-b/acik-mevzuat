@@ -1,0 +1,18 @@
+{
+  "law_number": "5653",
+  "title": "YUNUS EMRE VAKFI KANUNU",
+  "slug": "5653-yunus-emre-vakfi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5653.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5653",
+  "source_type": "KANUN",
+  "content_sha256": "30f2666e9f4617797234e8fc7cdcec82a0b1210bc08b9834774d9ce218372db3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

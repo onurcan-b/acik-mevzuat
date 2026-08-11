@@ -1,0 +1,18 @@
+{
+  "law_number": "4632",
+  "title": "BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU",
+  "slug": "4632-bireysel-emeklilik-tasarruf-ve-yatirim-sistemi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4632.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4632",
+  "source_type": "KANUN",
+  "content_sha256": "49d3062b8bc8d97c9a9db5e2050587442fd5c9fdc54298e189e3191c7a1f8fc4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

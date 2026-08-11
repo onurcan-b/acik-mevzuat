@@ -1,0 +1,18 @@
+{
+  "law_number": "634",
+  "title": "KAT MÜLKİYETİ KANUNU",
+  "slug": "634-kat-mulkiyeti-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.634.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.634",
+  "source_type": "KANUN",
+  "content_sha256": "aa21bdf900035f2ae45ea0015f76cca3276e46ea871284c0ceb045a0084a1013",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

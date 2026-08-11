@@ -1,0 +1,18 @@
+{
+  "law_number": "6698",
+  "title": "KİŞİSEL VERİLERİN KORUNMASI KANUNU",
+  "slug": "6698-kisisel-verilerin-korunmasi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6698",
+  "source_type": "KANUN",
+  "content_sha256": "86a856b947c985c0b5e5317d713d65e4efa341f1be7694a219ba7f491029cb24",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

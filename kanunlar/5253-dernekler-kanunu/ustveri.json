@@ -1,0 +1,18 @@
+{
+  "law_number": "5253",
+  "title": "DERNEKLER KANUNU",
+  "slug": "5253-dernekler-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5253.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5253",
+  "source_type": "KANUN",
+  "content_sha256": "86cafaea42b76ee337364d4d550828235dd31ccad47b9570d49230645c9ba47a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

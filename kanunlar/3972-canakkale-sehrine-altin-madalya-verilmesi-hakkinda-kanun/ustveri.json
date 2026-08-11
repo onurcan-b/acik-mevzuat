@@ -1,0 +1,18 @@
+{
+  "law_number": "3972",
+  "title": "ÇANAKKALE ŞEHRİNE ALTIN MADALYA VERİLMESİ HAKKINDA KANUN",
+  "slug": "3972-canakkale-sehrine-altin-madalya-verilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3972.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3972",
+  "source_type": "KANUN",
+  "content_sha256": "686ed66ef7831d6a4a26fadf991623e464627089444a77b30f4514d47a435757",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

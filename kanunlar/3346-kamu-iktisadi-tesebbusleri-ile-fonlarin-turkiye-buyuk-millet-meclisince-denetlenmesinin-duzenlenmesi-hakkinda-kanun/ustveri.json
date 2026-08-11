@@ -1,0 +1,18 @@
+{
+  "law_number": "3346",
+  "title": "KAMU İKTİSADİ TEŞEBBÜSLERİ İLE FONLARIN TÜRKİYE BÜYÜK MİLLET MECLİSİNCE DENETLENMESİNİN DÜZENLENMESİ HAKKINDA KANUN",
+  "slug": "3346-kamu-iktisadi-tesebbusleri-ile-fonlarin-turkiye-buyuk-millet-meclisince-denetlenmesinin-duzenlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3346.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3346",
+  "source_type": "KANUN",
+  "content_sha256": "fc33f06ef74481a51f00f6bfa684e0fe644c7e8cce98914af32bce92b8219fec",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

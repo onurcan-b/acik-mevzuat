@@ -1,0 +1,18 @@
+{
+  "law_number": "4760",
+  "title": "TOPRAK BAYRAMI KANUNU",
+  "slug": "4760-toprak-bayrami-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4760.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4760",
+  "source_type": "KANUN",
+  "content_sha256": "af4145fecfcb2093128dafa9f65ce11d7cc4242652b4615905b0eb915aaf869f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

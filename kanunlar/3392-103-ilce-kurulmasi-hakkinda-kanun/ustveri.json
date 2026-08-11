@@ -1,0 +1,18 @@
+{
+  "law_number": "3392",
+  "title": "103 İLÇE KURULMASI HAKKINDA KANUN",
+  "slug": "3392-103-ilce-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3392.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3392",
+  "source_type": "KANUN",
+  "content_sha256": "62efa4853f05de59a83bf96a0f9ed383ce62567b920174665a1f55b936a6822b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

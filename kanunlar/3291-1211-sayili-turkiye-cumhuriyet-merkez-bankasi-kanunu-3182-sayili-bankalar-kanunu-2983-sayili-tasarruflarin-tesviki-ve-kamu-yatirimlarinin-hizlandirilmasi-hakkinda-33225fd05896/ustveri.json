@@ -1,0 +1,18 @@
+{
+  "law_number": "3291",
+  "title": "1211 SAYILI TÜRKİYE CUMHURİYET MERKEZ BANKASI KANUNU, 3182 SAYILI BANKALAR KANUNU, 2983 SAYILI TASARRUFLARIN TEŞVİKİ VE KAMU YATIRIMLARININ HIZLANDIRILMASI HAKKINDA KANUN, 2985 SAYILI TOPLU KONUT KANUNU, 7/11/1985 TARİHLİ VE 3238 SAYILI KANUN, 2499 SAYILI SERMAYE PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASI VE 1177 SAYILI TÜTÜN TEKELİ KANUNUNUN BAZI MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASI VE KAMU İKTİSADİ TEŞEBBÜSLERİNİN ÖZELLEŞTİRİLMESİ HAKKINDA KANUN",
+  "slug": "3291-1211-sayili-turkiye-cumhuriyet-merkez-bankasi-kanunu-3182-sayili-bankalar-kanunu-2983-sayili-tasarruflarin-tesviki-ve-kamu-yatirimlarinin-hizlandirilmasi-hakkinda-33225fd05896",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3291.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3291",
+  "source_type": "KANUN",
+  "content_sha256": "b2b335821470579f75fed5e69a4868f2ca44a36cfbfe1a65f44c76dc475e1d06",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

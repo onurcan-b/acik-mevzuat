@@ -1,0 +1,18 @@
+{
+  "law_number": "5706",
+  "title": "İSTANBUL 2010 AVRUPA KÜLTÜR BAŞKENTİ HAKKINDA KANUN",
+  "slug": "5706-istanbul-2010-avrupa-kultur-baskenti-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5706.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5706",
+  "source_type": "KANUN",
+  "content_sha256": "9baec15fdbcef7de5a14d8aea1ebfded14e2848078c5af3c4c71a966592eb35f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

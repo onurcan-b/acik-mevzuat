@@ -1,0 +1,18 @@
+{
+  "law_number": "2429",
+  "title": "ULUSAL BAYRAM VE GENEL TATİLLER HAKKINDA KANUN",
+  "slug": "2429-ulusal-bayram-ve-genel-tatiller-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2429.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2429",
+  "source_type": "KANUN",
+  "content_sha256": "08e03ee287ef047c4a30adf5be0d515019adb47e9a182a25b2d7646d5129907e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

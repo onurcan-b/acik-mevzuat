@@ -1,0 +1,18 @@
+{
+  "law_number": "6222",
+  "title": "SPORDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİNE DAİR KANUN",
+  "slug": "6222-sporda-siddet-ve-duzensizligin-onlenmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6222.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6222",
+  "source_type": "KANUN",
+  "content_sha256": "f4d81bc0ea52cca1a2bdac28de2e1466daa581cb594a1bf2c1370659deb166a5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

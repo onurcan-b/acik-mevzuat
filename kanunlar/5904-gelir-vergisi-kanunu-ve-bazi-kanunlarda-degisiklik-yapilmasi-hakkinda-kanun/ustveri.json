@@ -1,0 +1,18 @@
+{
+  "law_number": "5904",
+  "title": "GELİR VERGİSİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "5904-gelir-vergisi-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5904.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5904",
+  "source_type": "KANUN",
+  "content_sha256": "78917e073ec52cddcd265ca355ac01356b40d18f7c49d59df42233e53b526175",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6552",
+  "title": "İŞ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI İLE BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA DAİR KANUN",
+  "slug": "6552-is-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-ile-bazi-alacaklarin-yeniden-yapilandirilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6552.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6552",
+  "source_type": "KANUN",
+  "content_sha256": "bb489e6d624232280de2ef492beace5baf50a5bd1c3a54f986feb85531f30f78",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

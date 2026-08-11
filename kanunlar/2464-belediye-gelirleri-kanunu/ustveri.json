@@ -1,0 +1,18 @@
+{
+  "law_number": "2464",
+  "title": "Belediye Gelirleri Kanunu",
+  "slug": "2464-belediye-gelirleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2464.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2464",
+  "source_type": "KANUN",
+  "content_sha256": "fc116a164c20606747893ae46521b6ad35eab949c09b971438b412332e2611bd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

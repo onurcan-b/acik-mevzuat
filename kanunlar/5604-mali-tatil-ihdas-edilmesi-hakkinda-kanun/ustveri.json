@@ -1,0 +1,18 @@
+{
+  "law_number": "5604",
+  "title": "MALİ TATİL İHDAS EDİLMESİ HAKKINDA KANUN",
+  "slug": "5604-mali-tatil-ihdas-edilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5604.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5604",
+  "source_type": "KANUN",
+  "content_sha256": "645e8d4d969bcf044038198317f59a1690b9f2bb5800a51ae1a55effbc0e07cd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

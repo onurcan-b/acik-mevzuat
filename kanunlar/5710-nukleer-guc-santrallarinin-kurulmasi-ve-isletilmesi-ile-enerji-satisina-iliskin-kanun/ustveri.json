@@ -1,0 +1,18 @@
+{
+  "law_number": "5710",
+  "title": "NÜKLEER GÜÇ SANTRALLARININ KURULMASI VE İŞLETİLMESİ İLE ENERJİ SATIŞINA İLİŞKİN KANUN",
+  "slug": "5710-nukleer-guc-santrallarinin-kurulmasi-ve-isletilmesi-ile-enerji-satisina-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5710.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5710",
+  "source_type": "KANUN",
+  "content_sha256": "324b5c5097a5bd2d6c9907740bcb222354d605129016c4bd6182ca32c8aac091",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

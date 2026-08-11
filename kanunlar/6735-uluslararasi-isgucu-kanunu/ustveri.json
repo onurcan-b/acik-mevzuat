@@ -1,0 +1,18 @@
+{
+  "law_number": "6735",
+  "title": "ULUSLARARASI  İŞGÜCÜ KANUNU",
+  "slug": "6735-uluslararasi-isgucu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6735.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6735",
+  "source_type": "KANUN",
+  "content_sha256": "fcf19619e98955d4301830e4d7247b4acdea35bdbd47b5b75b7204a4d76a4fcb",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "2914",
+  "title": "YÜKSEKÖĞRETİM PERSONEL KANUNU",
+  "slug": "2914-yuksekogretim-personel-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2914.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2914",
+  "source_type": "KANUN",
+  "content_sha256": "b1fd7ccd808c5752336296f5baf4b9a71cebed2c52b81f0c917dae609b4a001c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

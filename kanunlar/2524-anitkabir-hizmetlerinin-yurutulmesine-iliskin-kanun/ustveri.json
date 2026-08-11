@@ -1,0 +1,18 @@
+{
+  "law_number": "2524",
+  "title": "ANITKABİR HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN",
+  "slug": "2524-anitkabir-hizmetlerinin-yurutulmesine-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2524.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2524",
+  "source_type": "KANUN",
+  "content_sha256": "28a2c9d3c74cffe1096d6456352d42e993130f6431e316bc063ad15da9acd8f9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

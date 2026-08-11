@@ -1,0 +1,18 @@
+{
+  "law_number": "7176",
+  "title": "BAZI KANUNLAR İLE 635 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7176-bazi-kanunlar-ile-635-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7176.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7176",
+  "source_type": "KANUN",
+  "content_sha256": "aea2f6b6f35eedd96f99b1cf76f71f25f3937237d3191f11ca0862c343a50a24",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

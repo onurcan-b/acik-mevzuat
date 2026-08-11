@@ -1,0 +1,18 @@
+{
+  "law_number": "4947",
+  "title": "SOSYAL GÜVENLİK KURUMU TEŞKİLATI KANUNU",
+  "slug": "4947-sosyal-guvenlik-kurumu-teskilati-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4947.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4947",
+  "source_type": "KANUN",
+  "content_sha256": "9bf750ff490c33c8cfba05b501f83c515a2d3d46aaf602ee8aefdef9397f8c2c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

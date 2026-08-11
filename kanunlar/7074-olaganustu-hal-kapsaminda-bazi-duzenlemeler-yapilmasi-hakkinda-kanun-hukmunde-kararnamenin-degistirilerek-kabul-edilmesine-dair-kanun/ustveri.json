@@ -1,0 +1,18 @@
+{
+  "law_number": "7074",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+  "slug": "7074-olaganustu-hal-kapsaminda-bazi-duzenlemeler-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7074.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7074",
+  "source_type": "KANUN",
+  "content_sha256": "bb98ebbd8635342387c433859ca0c219b2f72cc57efcb76686152e24a84bc7bf",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

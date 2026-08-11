@@ -1,0 +1,18 @@
+{
+  "law_number": "2330",
+  "title": "NAKDİ TAZMİNAT VE AYLIK BAĞLANMASI HAKKINDA KANUN",
+  "slug": "2330-nakdi-tazminat-ve-aylik-baglanmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2330.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2330",
+  "source_type": "KANUN",
+  "content_sha256": "5bdc5c1df2eb1a0c84c55edccbf1909778a7c36cc698b0f747eaf630175f3186",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

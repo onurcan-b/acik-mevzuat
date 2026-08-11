@@ -1,0 +1,18 @@
+{
+  "law_number": "6004",
+  "title": "DIŞİŞLERİ BAKANLIĞI PERSONELİNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "6004-disisleri-bakanligi-personeline-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6004.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6004",
+  "source_type": "KANUN",
+  "content_sha256": "db9e0092d403a092b7fb2e73cd67eef7a3ffd0683e3d849f48ac34df20061d6e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

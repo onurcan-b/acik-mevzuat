@@ -1,0 +1,18 @@
+{
+  "law_number": "5070",
+  "title": "ELEKTRONİK İMZA KANUNU",
+  "slug": "5070-elektronik-imza-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5070.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5070",
+  "source_type": "KANUN",
+  "content_sha256": "9e9f5e08c1d56053a2bb638e6757969401ff1f0a93a25e428d4b94f5bf919816",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

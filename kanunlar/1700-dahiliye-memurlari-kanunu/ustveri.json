@@ -1,0 +1,18 @@
+{
+  "law_number": "1700",
+  "title": "DAHİLİYE MEMURLARI KANUNU",
+  "slug": "1700-dahiliye-memurlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1700.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1700",
+  "source_type": "KANUN",
+  "content_sha256": "dd7d9f41ee830dd56a8438bf2a288d6658a65e7b74d1bc75f8d7950b174a24d4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

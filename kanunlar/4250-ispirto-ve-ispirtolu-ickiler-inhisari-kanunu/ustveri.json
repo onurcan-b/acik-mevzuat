@@ -1,0 +1,18 @@
+{
+  "law_number": "4250",
+  "title": "İspirto ve İspirtolu İçkiler İnhisarı Kanunu",
+  "slug": "4250-ispirto-ve-ispirtolu-ickiler-inhisari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4250.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4250",
+  "source_type": "KANUN",
+  "content_sha256": "be3ef3af1c12ef17f312907c4b2e72c5535c32c7a74daafae0e7d24d12846a28",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

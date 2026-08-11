@@ -1,0 +1,18 @@
+{
+  "law_number": "6102",
+  "title": "Türk Ticaret Kanunu",
+  "slug": "6102-turk-ticaret-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6102",
+  "source_type": "KANUN",
+  "content_sha256": "27125c918bc0d9084d9f20af1bd0f4bd80088a0f5aff225e070207ecb23c17a4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7061",
+  "title": "BAZI VERGİ KANUNLARI İLE DİĞER BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7061-bazi-vergi-kanunlari-ile-diger-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7061.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7061",
+  "source_type": "KANUN",
+  "content_sha256": "fb76e36bc7a1d47dd4f404923385c837fb7945ba04b2335ff19d7bc6104ddd8a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

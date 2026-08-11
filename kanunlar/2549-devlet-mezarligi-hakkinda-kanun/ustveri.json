@@ -1,0 +1,18 @@
+{
+  "law_number": "2549",
+  "title": "DEVLET MEZARLIĞI HAKKINDA KANUN",
+  "slug": "2549-devlet-mezarligi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2549.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2549",
+  "source_type": "KANUN",
+  "content_sha256": "d62d16c13e525d87b1dfe887234b1ca392261a7ce945499935de32176e979046",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "775",
+  "title": "GECEKONDU KANUNU",
+  "slug": "775-gecekondu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.775.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.775",
+  "source_type": "KANUN",
+  "content_sha256": "103e70214f67dd166628e2a666f2cc9e3d5694fe1cc1aab28b9915be57003ea3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

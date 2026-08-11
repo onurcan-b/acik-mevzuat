@@ -1,0 +1,18 @@
+{
+  "law_number": "2559",
+  "title": "POLİS VAZİFE VE SALAHİYET KANUNU",
+  "slug": "2559-polis-vazife-ve-salahiyet-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2559.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.2559",
+  "source_type": "KANUN",
+  "content_sha256": "f7c554185ed74fd0da5793d656fdafeb60826d6e7871ce76b74a77984f4911f5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

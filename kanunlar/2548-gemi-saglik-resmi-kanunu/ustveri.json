@@ -1,0 +1,18 @@
+{
+  "law_number": "2548",
+  "title": "GEMİ SAĞLIK RESMİ KANUNU",
+  "slug": "2548-gemi-saglik-resmi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2548.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2548",
+  "source_type": "KANUN",
+  "content_sha256": "cbea1701e2b669d0421e05cd4a0e2cd41d209469b1329a93212a74c3513bfb02",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

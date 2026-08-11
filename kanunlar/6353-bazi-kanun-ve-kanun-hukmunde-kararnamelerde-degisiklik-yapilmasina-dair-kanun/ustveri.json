@@ -1,0 +1,18 @@
+{
+  "law_number": "6353",
+  "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "6353-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6353.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6353",
+  "source_type": "KANUN",
+  "content_sha256": "695a485d404f16a8d688c1705f9345267de45559ed12a3a4d928a9f0fceea567",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

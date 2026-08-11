@@ -1,0 +1,18 @@
+{
+  "law_number": "3007",
+  "title": "KÜLTÜR BAKANLIĞINA BAĞLI ERTİK OKULLARI ÖĞRETMENLERİ HAKKINDA KANUN",
+  "slug": "3007-kultur-bakanligina-bagli-ertik-okullari-ogretmenleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3007.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.3007",
+  "source_type": "KANUN",
+  "content_sha256": "8963760124ee3796446c99b101ccd35d283c3b2b9450e81871d3dfe3a26283f4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "3795",
+  "title": "BAZI LİSE, OKUL VE FAKÜLTE MEZUNLARINA UNVAN VERİLMESİ HAKKINDA KANUN",
+  "slug": "3795-bazi-lise-okul-ve-fakulte-mezunlarina-unvan-verilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3795.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3795",
+  "source_type": "KANUN",
+  "content_sha256": "ffe2c0bd483c738d4740169d0b0866cae918b9d10f3d7168d1a0fd30f4525a6c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,6 +1,6 @@
 {
   "law_number": "6100",
-  "title": "Hukuk Muhakemeleri Kanunu",
+  "title": "HUKUK MUHAKEMELERİ KANUNU",
   "slug": "6100-hukuk-muhakemeleri-kanunu",
   "accepted_date": "2011-01-12",
   "effective_status": "in_force",
@@ -8,7 +8,15 @@
     "date": "2011-02-04",
     "number": "27836"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6100.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
   "language": "tr",
-  "tags": ["usul_hukuku", "medeni_usul", "yargilama"]
+  "tags": [
+    "usul_hukuku",
+    "medeni_usul",
+    "yargilama"
+  ],
+  "source_mevzuat_id": "1.5.6100",
+  "source_type": "KANUN",
+  "content_sha256": "f6832432dfba5e6ff80fa6bace08642f3de715ee25f70aeb967f9591a95fda35",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "5355",
+  "title": "MAHALLİ İDARE BİRLİKLERİ KANUNU",
+  "slug": "5355-mahalli-idare-birlikleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5355.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5355",
+  "source_type": "KANUN",
+  "content_sha256": "96afff2faa2db6b5a999cd1eae7e94f93a164e7c5ea31243be06bbe83eef8c49",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

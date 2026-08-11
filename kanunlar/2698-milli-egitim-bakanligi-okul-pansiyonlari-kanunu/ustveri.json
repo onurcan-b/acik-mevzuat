@@ -1,0 +1,18 @@
+{
+  "law_number": "2698",
+  "title": "MİLLİ EĞİTİM BAKANLIĞI OKUL PANSİYONLARI KANUNU",
+  "slug": "2698-milli-egitim-bakanligi-okul-pansiyonlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2698.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2698",
+  "source_type": "KANUN",
+  "content_sha256": "8ef46080ef510189b48f16e131123ddb32d43f9cb54776a48570b864b011d1a5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

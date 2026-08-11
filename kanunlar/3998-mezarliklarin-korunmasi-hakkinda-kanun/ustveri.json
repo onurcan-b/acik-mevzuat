@@ -1,0 +1,18 @@
+{
+  "law_number": "3998",
+  "title": "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
+  "slug": "3998-mezarliklarin-korunmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3998.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3998",
+  "source_type": "KANUN",
+  "content_sha256": "bd1a28da009037df8efe8c05d30c206a9f3b3816d9b299d2039fbf58d7e74b9b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

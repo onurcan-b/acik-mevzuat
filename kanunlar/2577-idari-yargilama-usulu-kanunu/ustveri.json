@@ -1,0 +1,18 @@
+{
+  "law_number": "2577",
+  "title": "İdari Yargılama Usulü Kanunu",
+  "slug": "2577-idari-yargilama-usulu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2577",
+  "source_type": "KANUN",
+  "content_sha256": "7125b5a11f2b8ba4adf41d216a70e984f7098c77e4b355a6d34d968efef852f0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

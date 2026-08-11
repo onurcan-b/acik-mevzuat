@@ -1,0 +1,18 @@
+{
+  "law_number": "2809",
+  "title": "YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNU",
+  "slug": "2809-yuksekogretim-kurumlari-teskilati-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2809.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2809",
+  "source_type": "KANUN",
+  "content_sha256": "8d4e8f25c636a1e9a1d0eb3a412edbba10fadf9774fbf703107ddce4be8e2438",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

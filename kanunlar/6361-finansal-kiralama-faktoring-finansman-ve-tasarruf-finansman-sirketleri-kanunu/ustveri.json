@@ -1,0 +1,18 @@
+{
+  "law_number": "6361",
+  "title": "FİNANSAL KİRALAMA, FAKTORİNG, FİNANSMAN VE TASARRUF FİNANSMAN ŞİRKETLERİ KANUNU",
+  "slug": "6361-finansal-kiralama-faktoring-finansman-ve-tasarruf-finansman-sirketleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6361.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6361",
+  "source_type": "KANUN",
+  "content_sha256": "c59b314d4515a12963f0568cd341da5971c659f0c00aced3cd515beae37b1c2f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

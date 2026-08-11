@@ -8,7 +8,15 @@
     "date": "2001-12-08",
     "number": "24607"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4721.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
   "language": "tr",
-  "tags": ["medeni_hukuk", "kisiler_hukuku", "aile_hukuku"]
+  "tags": [
+    "medeni_hukuk",
+    "kisiler_hukuku",
+    "aile_hukuku"
+  ],
+  "source_mevzuat_id": "1.5.4721",
+  "source_type": "KANUN",
+  "content_sha256": "73b184987be8eb707da76d3c8b0e28830364dc61a1091b16e84c2595fa4b61f1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

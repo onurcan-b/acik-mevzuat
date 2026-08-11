@@ -1,0 +1,18 @@
+{
+  "law_number": "7181",
+  "title": "TAPU KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7181-tapu-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7181.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7181",
+  "source_type": "KANUN",
+  "content_sha256": "f727d64b7cae3c0970066cb7e59e10aafbf21f163ca0b0d9a7e6437960bd898f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

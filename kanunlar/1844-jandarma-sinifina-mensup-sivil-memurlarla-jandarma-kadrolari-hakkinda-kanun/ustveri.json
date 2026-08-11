@@ -1,0 +1,18 @@
+{
+  "law_number": "1844",
+  "title": "JANDARMA SINIFINA MENSUP SİVİL MEMURLARLA JANDARMA KADROLARI HAKKINDA KANUN",
+  "slug": "1844-jandarma-sinifina-mensup-sivil-memurlarla-jandarma-kadrolari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1844.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1844",
+  "source_type": "KANUN",
+  "content_sha256": "47f489f463f33a4be03439d070518ce86a5c256a20694f13730a189930a3c7fd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

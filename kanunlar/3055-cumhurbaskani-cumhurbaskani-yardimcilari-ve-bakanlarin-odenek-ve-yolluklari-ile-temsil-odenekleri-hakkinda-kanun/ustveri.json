@@ -1,0 +1,18 @@
+{
+  "law_number": "3055",
+  "title": "CUMHURBAŞKANI, CUMHURBAŞKANI YARDIMCILARI VE BAKANLARIN ÖDENEK VE YOLLUKLARI İLE TEMSİL ÖDENEKLERİ HAKKINDA KANUN",
+  "slug": "3055-cumhurbaskani-cumhurbaskani-yardimcilari-ve-bakanlarin-odenek-ve-yolluklari-ile-temsil-odenekleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3055.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3055",
+  "source_type": "KANUN",
+  "content_sha256": "89eb0aa4b195e4e5f1ec5c5b3ccb5c7227a69fd15d0ea10b6dce4f6f340d6bd7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

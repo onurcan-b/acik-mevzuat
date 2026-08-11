@@ -1,0 +1,18 @@
+{
+  "law_number": "7464",
+  "title": "KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7464-konutlarin-turizm-amacli-kiralanmasina-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7464.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7464",
+  "source_type": "KANUN",
+  "content_sha256": "fcd8371123e3f3d23f5b6022066b21371b6d75802bd04fa232df2b5fbbd1d2bf",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

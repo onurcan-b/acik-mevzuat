@@ -1,0 +1,18 @@
+{
+  "law_number": "2954",
+  "title": "TÜRKİYE RADYO VE TELEVİZYON KANUNU",
+  "slug": "2954-turkiye-radyo-ve-televizyon-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2954.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2954",
+  "source_type": "KANUN",
+  "content_sha256": "552010251b7e885f2e1c1c8880f0933425d776c12172b7b11f3cc722802e9aff",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4922",
+  "title": "DENİZDE CAN VE MAL KORUMA HAKKINDA KANUN",
+  "slug": "4922-denizde-can-ve-mal-koruma-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4922.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4922",
+  "source_type": "KANUN",
+  "content_sha256": "6adaa7cdd01164c14c1ec014fba11d1dfed042806343f8f0c9bc06e75fcfc034",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

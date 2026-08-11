@@ -1,0 +1,18 @@
+{
+  "law_number": "506",
+  "title": "SOSYAL SİGORTALAR KANUNU",
+  "slug": "506-sosyal-sigortalar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.506.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.506",
+  "source_type": "KANUN",
+  "content_sha256": "eedb5a3f0a097da788173a738bd24999b58d864333a9382a545b2ca3a2dce343",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

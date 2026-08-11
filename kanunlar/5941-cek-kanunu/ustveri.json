@@ -1,0 +1,18 @@
+{
+  "law_number": "5941",
+  "title": "ÇEK KANUNU",
+  "slug": "5941-cek-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5941.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5941",
+  "source_type": "KANUN",
+  "content_sha256": "171fd826ef4cd8e595a3f83eaa4b8390ab93c5f4f572e2b0254dca2886e8f7c2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

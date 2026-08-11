@@ -1,0 +1,18 @@
+{
+  "law_number": "2946",
+  "title": "KAMU KONUTLARI KANUNU",
+  "slug": "2946-kamu-konutlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2946.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2946",
+  "source_type": "KANUN",
+  "content_sha256": "885d743ec318b77699749e6c8f08d7f221c17de769aa25ae6daa56719dfc989e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

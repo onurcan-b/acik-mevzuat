@@ -1,0 +1,18 @@
+{
+  "law_number": "5838",
+  "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "5838-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5838.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5838",
+  "source_type": "KANUN",
+  "content_sha256": "c14ae2b81ebee09ed5d2f19db96c68f3ab1ac394f1fdcce512cd2f74e7a75814",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

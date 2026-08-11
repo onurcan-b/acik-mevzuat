@@ -1,0 +1,18 @@
+{
+  "law_number": "5187",
+  "title": "BASIN KANUNU",
+  "slug": "5187-basin-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5187.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5187",
+  "source_type": "KANUN",
+  "content_sha256": "654435ef95ef19fd53bb238cb76bb7ab53df3f14eafcdc73063d309dab57afe0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

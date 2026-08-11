@@ -1,0 +1,18 @@
+{
+  "law_number": "4059",
+  "title": "FİNANSAL İSTİKRAR İLE BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "4059-finansal-istikrar-ile-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4059.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4059",
+  "source_type": "KANUN",
+  "content_sha256": "3fc6214d284206ac65844d9432a5c928dbb5cd24da00ab176a251dd9e9ed86bd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5729",
+  "title": "SES VE GAZ FİŞEĞİ ATABİLEN SİLAHLAR HAKKINDA KANUN",
+  "slug": "5729-ses-ve-gaz-fisegi-atabilen-silahlar-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5729.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5729",
+  "source_type": "KANUN",
+  "content_sha256": "0ae9a65080a1a23aaf0964d34a0d1ca54556397a798ecb199dbfbe4545b3a54b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

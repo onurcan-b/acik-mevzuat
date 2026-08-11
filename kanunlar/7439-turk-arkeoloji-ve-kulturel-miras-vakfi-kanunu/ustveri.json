@@ -1,0 +1,18 @@
+{
+  "law_number": "7439",
+  "title": "TÜRK ARKEOLOJİ VE KÜLTÜREL MİRAS VAKFI KANUNU",
+  "slug": "7439-turk-arkeoloji-ve-kulturel-miras-vakfi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7439.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7439",
+  "source_type": "KANUN",
+  "content_sha256": "0b0d54e0c15db5ced2d64d4cfa16ae1443090abeff061d5a50511a74a20df777",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

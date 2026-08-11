@@ -1,0 +1,18 @@
+{
+  "law_number": "4842",
+  "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "4842-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4842.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4842",
+  "source_type": "KANUN",
+  "content_sha256": "f1a0d5be205fc30dc7f2bf516d609452a29580604880bac5572aa25cc4ea4a5f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

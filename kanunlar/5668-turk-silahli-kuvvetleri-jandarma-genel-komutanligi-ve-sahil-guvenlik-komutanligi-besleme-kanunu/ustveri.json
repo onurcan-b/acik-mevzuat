@@ -1,0 +1,18 @@
+{
+  "law_number": "5668",
+  "title": "TÜRK SİLAHLI KUVVETLERİ,  JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞI BESLEME KANUNU",
+  "slug": "5668-turk-silahli-kuvvetleri-jandarma-genel-komutanligi-ve-sahil-guvenlik-komutanligi-besleme-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5668.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5668",
+  "source_type": "KANUN",
+  "content_sha256": "6078de369ce0440599bb8c0dcb18c4c9147600b2ea3d48c1d724769b37606115",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

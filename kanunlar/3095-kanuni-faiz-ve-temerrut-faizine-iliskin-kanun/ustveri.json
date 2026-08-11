@@ -1,0 +1,18 @@
+{
+  "law_number": "3095",
+  "title": "KANUNİ FAİZ VE TEMERRÜT FAİZİNE İLİŞKİN KANUN",
+  "slug": "3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3095.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3095",
+  "source_type": "KANUN",
+  "content_sha256": "e5c5330f570a96e4947e9fa97f8abc7ded97b7f635476ba633b0452712f48a4d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1480",
+  "title": "AFET BÖLGELERİNDE ÇALIŞTIRILACAK PERSONELE YAPILACAK ÖDEMELER HAKKINDA KANUN",
+  "slug": "1480-afet-bolgelerinde-calistirilacak-personele-yapilacak-odemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1480.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1480",
+  "source_type": "KANUN",
+  "content_sha256": "1e3c0cdc0fe55ccce5ee4072a1a09721d841a095f50f38a1f98728ca8271d8a2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

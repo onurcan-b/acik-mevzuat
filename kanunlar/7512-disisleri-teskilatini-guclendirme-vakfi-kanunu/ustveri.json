@@ -1,0 +1,18 @@
+{
+  "law_number": "7512",
+  "title": "DIŞİŞLERİ TEŞKİLATINI GÜÇLENDİRME VAKFI KANUNU",
+  "slug": "7512-disisleri-teskilatini-guclendirme-vakfi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7512.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7512",
+  "source_type": "KANUN",
+  "content_sha256": "aafe394ae3470cfb54d014ccf83d1b23f0603c151e5b8dbb4642db4cd36b380a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "3092",
+  "title": "ÇAY KANUNU",
+  "slug": "3092-cay-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3092.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3092",
+  "source_type": "KANUN",
+  "content_sha256": "d7fecaa04b909fd71a863086162639f3aa07ac399723de31398e9c755d56ae2d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

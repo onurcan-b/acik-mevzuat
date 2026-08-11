@@ -1,0 +1,18 @@
+{
+  "law_number": "5543",
+  "title": "İSKAN KANUNU",
+  "slug": "5543-iskan-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5543.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5543",
+  "source_type": "KANUN",
+  "content_sha256": "5ca0febe134e61afcc30bfe44f92731f11252f3fddc64815df8208451c121d79",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -8,7 +8,15 @@
     "date": "2011-02-04",
     "number": "27836"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6098.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf",
   "language": "tr",
-  "tags": ["borclar_hukuku", "sozlesmeler", "genel_hukumler"]
+  "tags": [
+    "borclar_hukuku",
+    "sozlesmeler",
+    "genel_hukumler"
+  ],
+  "source_mevzuat_id": "1.5.6098",
+  "source_type": "KANUN",
+  "content_sha256": "033fd6157d4dfb1183f0979e4307018e0dc2bcf0609c2113384c372558940f76",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

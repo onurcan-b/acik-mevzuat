@@ -1,0 +1,18 @@
+{
+  "law_number": "3046",
+  "title": "BAKAN YARDIMCILARININ MALİ HAKLARI VE BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "3046-bakan-yardimcilarinin-mali-haklari-ve-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3046.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3046",
+  "source_type": "KANUN",
+  "content_sha256": "edc1c6095a2e766d8f17841a683518157a8c44ae7e5a35f5397a726135b626f8",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

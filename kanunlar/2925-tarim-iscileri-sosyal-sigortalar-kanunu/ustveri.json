@@ -1,0 +1,18 @@
+{
+  "law_number": "2925",
+  "title": "TARIM İŞÇİLERİ SOSYAL SİGORTALAR KANUNU",
+  "slug": "2925-tarim-iscileri-sosyal-sigortalar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2925.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2925",
+  "source_type": "KANUN",
+  "content_sha256": "cbe56e1eff668af7366633eddceead1b2d0937f65a25ed75daff7b102abb81df",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

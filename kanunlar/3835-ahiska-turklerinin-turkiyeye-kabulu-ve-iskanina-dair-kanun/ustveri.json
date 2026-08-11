@@ -1,0 +1,18 @@
+{
+  "law_number": "3835",
+  "title": "AHISKA TÜRKLERİNİN TÜRKİYE´YE KABULÜ VE İSKANINA DAİR KANUN",
+  "slug": "3835-ahiska-turklerinin-turkiyeye-kabulu-ve-iskanina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3835.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3835",
+  "source_type": "KANUN",
+  "content_sha256": "c5ef60ff9caecd5df4a8adfb204eab57bc772ca991cdbdb1444f8a1e550adc88",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

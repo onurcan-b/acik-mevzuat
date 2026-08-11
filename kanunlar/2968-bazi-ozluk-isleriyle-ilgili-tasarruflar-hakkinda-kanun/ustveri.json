@@ -1,0 +1,18 @@
+{
+  "law_number": "2968",
+  "title": "BAZI ÖZLÜK İŞLERİYLE İLGİLİ TASARRUFLAR HAKKINDA KANUN",
+  "slug": "2968-bazi-ozluk-isleriyle-ilgili-tasarruflar-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2968.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2968",
+  "source_type": "KANUN",
+  "content_sha256": "9c6fb1b7979f5cba6a0da3f48c26a480a7335db08faedb988a7ae0c0cfeda216",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

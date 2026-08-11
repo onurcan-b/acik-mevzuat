@@ -1,0 +1,18 @@
+{
+  "law_number": "5401",
+  "title": "ASKERİ ÖĞRENCİLERDEN BAŞARI GÖSTEREMİYENLER HAKKINDA KANUN",
+  "slug": "5401-askeri-ogrencilerden-basari-gosteremiyenler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5401.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.5401",
+  "source_type": "KANUN",
+  "content_sha256": "db9b802e80a49c3a3173d75a31a370055299455a6966ab78d9529d6f6027feca",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

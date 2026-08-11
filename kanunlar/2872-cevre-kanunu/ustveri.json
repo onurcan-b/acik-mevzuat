@@ -1,0 +1,18 @@
+{
+  "law_number": "2872",
+  "title": "ÇEVRE KANUNU",
+  "slug": "2872-cevre-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2872.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2872",
+  "source_type": "KANUN",
+  "content_sha256": "135e431f1f0be2f98e98b3ace29aac31d37acdf3551a4feb43a94a4367bd4a32",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

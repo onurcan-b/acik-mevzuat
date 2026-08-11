@@ -1,0 +1,18 @@
+{
+  "law_number": "5339",
+  "title": "2006 YILI PROGRAMININ HAZIRLANMASINA DAİR KANUN",
+  "slug": "5339-2006-yili-programinin-hazirlanmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5339.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5339",
+  "source_type": "KANUN",
+  "content_sha256": "c3df710e41264c14cfd30a425f549ebfb203c9452995b920cf6d5451dd9a0ad0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4771",
+  "title": "ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+  "slug": "4771-cesitli-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4771.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4771",
+  "source_type": "KANUN",
+  "content_sha256": "30a4ef818c2aa67cdfe84df9070143153b64a5ec186d3c015d2bfd4b125b8c54",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

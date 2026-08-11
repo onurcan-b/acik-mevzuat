@@ -1,0 +1,18 @@
+{
+  "law_number": "222",
+  "title": "İLKÖĞRETİM VE EĞİTİM KANUNU",
+  "slug": "222-ilkogretim-ve-egitim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.222.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.222",
+  "source_type": "KANUN",
+  "content_sha256": "90ef3b1e15c7a3dd96d42ba30cf04297314887df7bd9ae853abc1c5f0b8f8bf6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

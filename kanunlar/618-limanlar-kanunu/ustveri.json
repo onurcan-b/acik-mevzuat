@@ -1,0 +1,18 @@
+{
+  "law_number": "618",
+  "title": "LİMANLAR KANUNU",
+  "slug": "618-limanlar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.618.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.618",
+  "source_type": "KANUN",
+  "content_sha256": "42c9e5a309e192e6ed466e9d72dcdf3a6b4bdd0b6912f9d535b797ceaf807018",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "86",
+  "title": "YATIRIMLAR (HOLDİNG) ANONİM ŞİRKETİNE BAZI İSTİSNA VE MUAFLIKLAR VERİLMESİNE DAİR KANUN",
+  "slug": "86-yatirimlar-holding-anonim-sirketine-bazi-istisna-ve-muafliklar-verilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.86.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.86",
+  "source_type": "KANUN",
+  "content_sha256": "ede3180afabceabfe56b4dc05ba032601f5ac3fa5d4660795241538d4432c0a7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6356",
+  "title": "SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU",
+  "slug": "6356-sendikalar-ve-toplu-is-sozlesmesi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6356.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6356",
+  "source_type": "KANUN",
+  "content_sha256": "6549fc0129e0820932aff9657b70060d732e8a5d50766ec1ad4f8228801f104e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

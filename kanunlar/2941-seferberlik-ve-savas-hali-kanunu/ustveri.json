@@ -1,0 +1,18 @@
+{
+  "law_number": "2941",
+  "title": "SEFERBERLİK VE SAVAŞ HALİ KANUNU",
+  "slug": "2941-seferberlik-ve-savas-hali-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2941.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2941",
+  "source_type": "KANUN",
+  "content_sha256": "8352293992779d44c1766ca3558a2a41e1ef439d382361c00f7267652973b86f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

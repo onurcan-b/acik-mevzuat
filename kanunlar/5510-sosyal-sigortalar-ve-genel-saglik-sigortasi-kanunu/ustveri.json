@@ -1,0 +1,18 @@
+{
+  "law_number": "5510",
+  "title": "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU",
+  "slug": "5510-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5510.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5510",
+  "source_type": "KANUN",
+  "content_sha256": "124421780f3b8c14559cf87ae52a94eba7445b99e86f781dbe381d23621de342",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "2560",
+  "title": "İSTANBUL SU VE KANALİZASYON İDARESİ GENEL MÜDÜRLÜĞÜ KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "2560-istanbul-su-ve-kanalizasyon-idaresi-genel-mudurlugu-kurulus-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2560.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2560",
+  "source_type": "KANUN",
+  "content_sha256": "ee621e0989fbe05f372da531db621559fe22270af0b47371560205b74848e974",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

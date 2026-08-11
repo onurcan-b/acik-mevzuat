@@ -1,0 +1,18 @@
+{
+  "law_number": "2004",
+  "title": "İCRA VE İFLAS KANUNU",
+  "slug": "2004-icra-ve-iflas-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.2004",
+  "source_type": "KANUN",
+  "content_sha256": "49356b5c8237ac4d40dae6ed5d81dbd19469d80b6074f020f6df4568b4ed2d20",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

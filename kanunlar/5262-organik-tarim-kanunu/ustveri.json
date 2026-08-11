@@ -1,0 +1,18 @@
+{
+  "law_number": "5262",
+  "title": "ORGANİK TARIM KANUNU",
+  "slug": "5262-organik-tarim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5262.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5262",
+  "source_type": "KANUN",
+  "content_sha256": "ff248b2ccc04cb7ab4b0b288d6382a066485219b254edcfd7aafd2e708e4bcf2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

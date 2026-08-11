@@ -1,0 +1,18 @@
+{
+  "law_number": "5737",
+  "title": "VAKIFLAR KANUNU",
+  "slug": "5737-vakiflar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5737.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5737",
+  "source_type": "KANUN",
+  "content_sha256": "0a9eed3a62f1b6efc7aae7bc56a488b96f65663398a1814032a678a91aca1073",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

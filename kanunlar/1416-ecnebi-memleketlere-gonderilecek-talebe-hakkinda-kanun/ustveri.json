@@ -1,0 +1,18 @@
+{
+  "law_number": "1416",
+  "title": "ECNEBİ MEMLEKETLERE GÖNDERİLECEK TALEBE HAKKINDA KANUN",
+  "slug": "1416-ecnebi-memleketlere-gonderilecek-talebe-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1416.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1416",
+  "source_type": "KANUN",
+  "content_sha256": "99133731f7cb5c807522a65faab1699f1253a078aa64bcdbcda91131f2e93320",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

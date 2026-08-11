@@ -1,0 +1,18 @@
+{
+  "law_number": "6831",
+  "title": "Orman Kanunu",
+  "slug": "6831-orman-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6831.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6831",
+  "source_type": "KANUN",
+  "content_sha256": "f6e1d98eb18656968597319ca3a34c89c48d85d32c9f41684c8bda56cf908604",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "492",
+  "title": "HARÇLAR KANUNU",
+  "slug": "492-harclar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.492",
+  "source_type": "KANUN",
+  "content_sha256": "7d7e4d1833ef3c3c1f4bc2739a3af6063c4f8357c92233297d67acd3f7345c8a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

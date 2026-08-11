@@ -1,0 +1,18 @@
+{
+  "law_number": "5352",
+  "title": "ADLİ SİCİL KANUNU",
+  "slug": "5352-adli-sicil-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5352.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5352",
+  "source_type": "KANUN",
+  "content_sha256": "e8d9ce9b49bfb7867785366df4202b937dbb46950886278912c36c97b71ca50e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

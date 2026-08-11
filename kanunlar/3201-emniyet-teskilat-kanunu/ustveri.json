@@ -1,0 +1,18 @@
+{
+  "law_number": "3201",
+  "title": "Emniyet Teşkilat Kanunu",
+  "slug": "3201-emniyet-teskilat-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3201.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.3201",
+  "source_type": "KANUN",
+  "content_sha256": "ddfabb60e9443d0e3cbca078ec34b3386dce60645c9d9f78fc2d07c547566e58",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

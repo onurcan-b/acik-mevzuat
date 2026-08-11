@@ -1,0 +1,18 @@
+{
+  "law_number": "6200",
+  "title": "Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanun",
+  "slug": "6200-devlet-su-isleri-genel-mudurlugunce-yurutulen-hizmetler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6200.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6200",
+  "source_type": "KANUN",
+  "content_sha256": "16866e7e5a0d47ad0b1bb7411d2d82ea85acb367914167350e4b057b016e2927",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

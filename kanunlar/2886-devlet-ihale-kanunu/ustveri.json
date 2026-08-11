@@ -1,0 +1,18 @@
+{
+  "law_number": "2886",
+  "title": "Devlet İhale Kanunu",
+  "slug": "2886-devlet-ihale-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2886.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2886",
+  "source_type": "KANUN",
+  "content_sha256": "f8aa2f575b5689247dcb91c5aa0b8ee6a225196f4bb5b4bc3373d102461581bc",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

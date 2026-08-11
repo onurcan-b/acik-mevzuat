@@ -1,0 +1,18 @@
+{
+  "law_number": "169",
+  "title": "SİLAHLI KUVVETLER YAKACAK, AYDINLATMA, ISITMA VE SOĞUTMA KANUNU",
+  "slug": "169-silahli-kuvvetler-yakacak-aydinlatma-isitma-ve-sogutma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.169.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.169",
+  "source_type": "KANUN",
+  "content_sha256": "ee233da9327943dbe500a8cad9ac4b92b7777ea01aa8c1bc23591d65431782ef",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

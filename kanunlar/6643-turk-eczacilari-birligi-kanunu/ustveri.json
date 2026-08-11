@@ -1,0 +1,18 @@
+{
+  "law_number": "6643",
+  "title": "TÜRK ECZACILARI BİRLİĞİ KANUNU",
+  "slug": "6643-turk-eczacilari-birligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6643.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6643",
+  "source_type": "KANUN",
+  "content_sha256": "93e8d4e5060799ee27ec4f878b7559423ee6ff33c63f9f35c406416a429ca69d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

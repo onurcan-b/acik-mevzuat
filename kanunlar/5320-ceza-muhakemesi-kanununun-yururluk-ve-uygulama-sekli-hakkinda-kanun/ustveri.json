@@ -1,0 +1,18 @@
+{
+  "law_number": "5320",
+  "title": "CEZA MUHAKEMESİ KANUNUNUN YÜRÜRLÜK VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+  "slug": "5320-ceza-muhakemesi-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5320.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5320",
+  "source_type": "KANUN",
+  "content_sha256": "d607ab385d2e8489edd06d3a2f34967afdde4e5bb235e2dc62bc9e5a8e678c74",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

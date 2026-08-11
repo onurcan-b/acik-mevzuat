@@ -1,0 +1,18 @@
+{
+  "law_number": "2942",
+  "title": "Kamulaştırma Kanunu",
+  "slug": "2942-kamulastirma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2942.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2942",
+  "source_type": "KANUN",
+  "content_sha256": "82f9a7a77d09d2f1103599459cd5adbf8693fc8290c10887c05503be3e5e2797",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

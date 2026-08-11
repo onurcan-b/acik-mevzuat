@@ -1,0 +1,18 @@
+{
+  "law_number": "5431",
+  "title": "SİVİL HAVACILIK GENEL MÜDÜRLÜĞÜ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "5431-sivil-havacilik-genel-mudurlugu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5431.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5431",
+  "source_type": "KANUN",
+  "content_sha256": "dcf167093c28137b5c64fc8d42e4f51a49d00f0faf8efddac7da866f9ab4b71e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

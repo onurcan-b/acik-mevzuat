@@ -1,0 +1,18 @@
+{
+  "law_number": "155",
+  "title": "HARİTA VE PLANLARA AİT İŞARETLERİN KORUNMASI HAKKINDA KANUN",
+  "slug": "155-harita-ve-planlara-ait-isaretlerin-korunmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.155.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.155",
+  "source_type": "KANUN",
+  "content_sha256": "e03a964ffa74baeb001199a1a4acb437ea9776259068f9be048db39dbe8e5b3c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

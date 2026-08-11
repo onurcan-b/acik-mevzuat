@@ -1,0 +1,18 @@
+{
+  "law_number": "3399",
+  "title": "KONYA İLİ MERKEZİNDE KARATAY, SELÇUKLU VE MERAM ADIYLA ÜÇ İLÇE KURULMASI HAKKINDA KANUN",
+  "slug": "3399-konya-ili-merkezinde-karatay-selcuklu-ve-meram-adiyla-uc-ilce-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3399.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3399",
+  "source_type": "KANUN",
+  "content_sha256": "0713f465f6b07107416749fe396e3c6ee4ef6e9e194e3c3d2357baaf5639a1ce",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5042",
+  "title": "YENİ BİTKİ ÇEŞİTLERİNE AİT ISLAHÇI HAKLARININ KORUNMASINA İLİŞKİN KANUN",
+  "slug": "5042-yeni-bitki-cesitlerine-ait-islahci-haklarinin-korunmasina-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5042.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5042",
+  "source_type": "KANUN",
+  "content_sha256": "907acc23527d5e98b669e804a732453da01c5f08c89375f0f4cb40d6fa55574b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

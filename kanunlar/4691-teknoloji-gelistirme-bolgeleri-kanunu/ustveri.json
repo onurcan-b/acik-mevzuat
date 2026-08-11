@@ -1,0 +1,18 @@
+{
+  "law_number": "4691",
+  "title": "TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU",
+  "slug": "4691-teknoloji-gelistirme-bolgeleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4691.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4691",
+  "source_type": "KANUN",
+  "content_sha256": "6b2804e99c56c22d9f58a7daf2bf6ae55ea017b57e1f7f34b26c90cb87aa287a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

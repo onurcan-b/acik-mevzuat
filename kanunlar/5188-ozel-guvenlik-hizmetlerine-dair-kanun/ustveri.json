@@ -1,0 +1,18 @@
+{
+  "law_number": "5188",
+  "title": "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUN",
+  "slug": "5188-ozel-guvenlik-hizmetlerine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5188.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5188",
+  "source_type": "KANUN",
+  "content_sha256": "009cfe3322c4799add3fed92c2fea0bedc55508b5cb6e7cca317a64ec9b142db",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

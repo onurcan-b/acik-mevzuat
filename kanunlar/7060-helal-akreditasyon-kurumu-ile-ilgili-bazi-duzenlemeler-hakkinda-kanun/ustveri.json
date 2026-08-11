@@ -1,0 +1,18 @@
+{
+  "law_number": "7060",
+  "title": "HELAL AKREDİTASYON KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "7060-helal-akreditasyon-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7060.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7060",
+  "source_type": "KANUN",
+  "content_sha256": "5de0d8b771c9fac0874933f65ce165613b11057abbec6b28f8ce6f0194dcf15b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

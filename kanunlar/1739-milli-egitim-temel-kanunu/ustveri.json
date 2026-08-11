@@ -1,0 +1,18 @@
+{
+  "law_number": "1739",
+  "title": "MİLLİ EĞİTİM TEMEL KANUNU",
+  "slug": "1739-milli-egitim-temel-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1739",
+  "source_type": "KANUN",
+  "content_sha256": "74322aa86b4e0bcb7dd4abd786647cc6493df9b889de2db422ed163e0a5c904b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4915",
+  "title": "Kara Avcılığı Kanunu",
+  "slug": "4915-kara-avciligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4915.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4915",
+  "source_type": "KANUN",
+  "content_sha256": "274212028ac1a2aeb463c57b78bffa1fe7fdb438af99403ee941c4a1c53af372",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

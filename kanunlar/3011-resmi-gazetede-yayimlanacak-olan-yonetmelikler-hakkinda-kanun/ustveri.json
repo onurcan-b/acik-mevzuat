@@ -1,0 +1,18 @@
+{
+  "law_number": "3011",
+  "title": "RESMİ GAZETE´DE YAYIMLANACAK OLAN YÖNETMELİKLER HAKKINDA KANUN",
+  "slug": "3011-resmi-gazetede-yayimlanacak-olan-yonetmelikler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3011.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3011",
+  "source_type": "KANUN",
+  "content_sha256": "d556669213f8b8b2ab86a503ad546b7b50b73e1ecd11af519e0cbbdf1f70bf24",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}
