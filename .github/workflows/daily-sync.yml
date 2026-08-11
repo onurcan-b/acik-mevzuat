@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: mevzuat-daily-sync
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   sync:
