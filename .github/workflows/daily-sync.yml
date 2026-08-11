@@ -1,6 +1,12 @@
 name: Günlük mevzuat senkronizasyonu
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "betikler/senkronize.py"
+      - "requirements.txt"
+      - ".github/workflows/daily-sync.yml"
   schedule:
     # Türkiye saatiyle yaklaşık 06:17 (yaz saati döneminde).
     - cron: "17 3 * * *"
