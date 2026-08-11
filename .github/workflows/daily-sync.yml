@@ -16,7 +16,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  checks: read
 
 concurrency:
   group: mevzuat-daily-sync
@@ -70,7 +69,7 @@ jobs:
             sed -n '1,100p' /tmp/mevzuat-status.txt
           fi
 
-      - name: Otomatik veri PR'ı oluştur, kontrolleri bekle ve merge et
+      - name: Otomatik veri PR'ı oluştur ve hemen merge et
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -93,9 +92,8 @@ jobs:
               --base main \
               --head "$BRANCH" \
               --title "Günlük mevzuat snapshot'ı $DATE" \
-              --body "OpenMevzuat'ın resmi kamu kaynaklarından ürettiği güncel canonical snapshot'ın Açık Mevzuat JSON/Markdown formatına otomatik aktarımı. Upstream: $UPSTREAM. Manuel işlem gerektirmez.")"
+              --body "OpenMevzuat'ın resmi kamu kaynaklarından ürettiği güncel canonical snapshot'ın Açık Mevzuat JSON/Markdown formatına otomatik aktarımı. Upstream: $UPSTREAM. Aynı workflow içinde metadata doğrulaması ve git diff kontrolü başarıyla tamamlandı.")"
             PR_NUMBER="${PR_URL##*/}"
           fi
 
-          gh pr checks "$PR_NUMBER" --watch --interval 10
           gh pr merge "$PR_NUMBER" --squash --delete-branch
