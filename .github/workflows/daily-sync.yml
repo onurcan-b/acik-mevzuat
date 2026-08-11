@@ -8,12 +8,12 @@ on:
       - "requirements.txt"
       - ".github/workflows/daily-sync.yml"
   schedule:
-    # Türkiye saatiyle yaklaşık 06:17 (yaz saati döneminde).
     - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: mevzuat-daily-sync
@@ -48,16 +48,44 @@ jobs:
       - name: Diff kontrolü
         run: git diff --check
 
-      - name: Değişiklik varsa commit et
+      - name: Değişiklik yoksa çık
+        id: changes
         shell: bash
         run: |
-          if git diff --quiet && git diff --cached --quiet; then
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Resmî kaynakta değişiklik yok."
-            exit 0
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Otomatik veri PR'ı oluştur ve merge et
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          BRANCH="automation/mevzuat-sync"
+          DATE="$(date -u +%F)"
 
           git config user.name "acik-mevzuat-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add kanunlar indeks.json
-          git commit -m "chore(data): günlük mevzuat senkronizasyonu $(date -u +%F)"
-          git push
+          git checkout -B "$BRANCH"
+          git add kanunlar
+          if [ -e indeks.json ]; then
+            git add indeks.json
+          fi
+          git commit -m "chore(data): günlük mevzuat senkronizasyonu $DATE"
+          git push --force origin "$BRANCH"
+
+          PR_NUMBER="$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')"
+          if [ -z "$PR_NUMBER" ]; then
+            PR_URL="$(gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "Günlük mevzuat senkronizasyonu $DATE" \
+              --body "Adalet Bakanlığı resmî mevzuat kaynağından otomatik üretilen günlük veri güncellemesi.")"
+            PR_NUMBER="${PR_URL##*/}"
+          fi
+
+          gh pr merge "$PR_NUMBER" --squash --delete-branch
