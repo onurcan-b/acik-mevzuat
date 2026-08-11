@@ -1,0 +1,18 @@
+{
+  "law_number": "2813",
+  "title": "BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMUNUN KURULUŞUNA İLİŞKİN KANUN",
+  "slug": "2813-bilgi-teknolojileri-ve-iletisim-kurumunun-kurulusuna-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2813.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2813",
+  "source_type": "KANUN",
+  "content_sha256": "8d7787a2396d90b4074f5a0892ea415756e5521b4d28c21522dcdf13cb3c11ac",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

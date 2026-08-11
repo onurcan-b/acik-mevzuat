@@ -1,0 +1,18 @@
+{
+  "law_number": "5570",
+  "title": "KAMU SERMAYELİ BANKALAR TARAFINDAN YÜRÜTÜLEN FAİZ DESTEKLİ KREDİ VE KAR PAYI DESTEKLİ FON KULLANDIRILMASINA DAİR KANUN",
+  "slug": "5570-kamu-sermayeli-bankalar-tarafindan-yurutulen-faiz-destekli-kredi-ve-kar-payi-destekli-fon-kullandirilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5570.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5570",
+  "source_type": "KANUN",
+  "content_sha256": "3cd01177e06f4b60be7b5c2e9a26613ea5c38481be3ba803158563c688bb3da6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

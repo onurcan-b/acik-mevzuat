@@ -1,0 +1,18 @@
+{
+  "law_number": "6284",
+  "title": "AİLENİN KORUNMASI VE KADINA KARŞI ŞİDDETİN ÖNLENMESİNE DAİR KANUN",
+  "slug": "6284-ailenin-korunmasi-ve-kadina-karsi-siddetin-onlenmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6284.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6284",
+  "source_type": "KANUN",
+  "content_sha256": "497a0410de35f4f1c4f2d36d6e044a5b8760e4974ff3568de1e8460f3ab54ee2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

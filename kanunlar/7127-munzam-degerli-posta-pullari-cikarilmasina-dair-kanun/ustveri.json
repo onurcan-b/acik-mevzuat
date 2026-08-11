@@ -1,0 +1,18 @@
+{
+  "law_number": "7127",
+  "title": "MUNZAM DEĞERLİ POSTA PULLARI ÇIKARILMASINA DAİR KANUN",
+  "slug": "7127-munzam-degerli-posta-pullari-cikarilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7127.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.7127",
+  "source_type": "KANUN",
+  "content_sha256": "cde52f44454a5a697bf0cafe6ab9df0a5a2ca8712b6093c4b2e1dcafc8997c89",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

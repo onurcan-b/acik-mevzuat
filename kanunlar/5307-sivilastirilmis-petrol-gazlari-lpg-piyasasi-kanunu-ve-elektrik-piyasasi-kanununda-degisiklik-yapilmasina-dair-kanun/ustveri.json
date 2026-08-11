@@ -1,0 +1,18 @@
+{
+  "law_number": "5307",
+  "title": "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) PİYASASI KANUNU VE ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "5307-sivilastirilmis-petrol-gazlari-lpg-piyasasi-kanunu-ve-elektrik-piyasasi-kanununda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5307.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5307",
+  "source_type": "KANUN",
+  "content_sha256": "7252d3594e5ba46f51ebf43f63586b4f62c16829d05879ac8f717a172c525ba8",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

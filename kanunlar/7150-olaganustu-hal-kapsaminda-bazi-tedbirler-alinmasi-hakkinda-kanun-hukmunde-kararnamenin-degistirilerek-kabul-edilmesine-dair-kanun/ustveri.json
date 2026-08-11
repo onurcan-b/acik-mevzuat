@@ -1,0 +1,18 @@
+{
+  "law_number": "7150",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+  "slug": "7150-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7150.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7150",
+  "source_type": "KANUN",
+  "content_sha256": "623398cd095a14c373cb7030c40c4cbfe2fe7ada831e703f23633ebac7353888",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

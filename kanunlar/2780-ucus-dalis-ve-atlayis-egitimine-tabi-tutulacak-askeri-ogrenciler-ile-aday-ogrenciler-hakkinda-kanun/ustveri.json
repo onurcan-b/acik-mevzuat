@@ -1,0 +1,18 @@
+{
+  "law_number": "2780",
+  "title": "UÇUŞ, DALIŞ VE ATLAYIŞ EĞİTİMİNE TABİ TUTULACAK ASKERİ ÖĞRENCİLER İLE ADAY ÖĞRENCİLER HAKKINDA KANUN",
+  "slug": "2780-ucus-dalis-ve-atlayis-egitimine-tabi-tutulacak-askeri-ogrenciler-ile-aday-ogrenciler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2780.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2780",
+  "source_type": "KANUN",
+  "content_sha256": "fb0fc3e7197d43d91ba5e13f863dcc7e72f1dec76b214706f9ba2b8d7b33cae7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

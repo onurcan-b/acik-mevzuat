@@ -1,0 +1,18 @@
+{
+  "law_number": "168",
+  "title": "YABANCI MEMLEKETLERDE TÜRK ASILLI VE YABANCI UYRUKLU ÖĞRETMENLERE SOSYAL YARDIM YAPILMASI HAKKINDA KANUN",
+  "slug": "168-yabanci-memleketlerde-turk-asilli-ve-yabanci-uyruklu-ogretmenlere-sosyal-yardim-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.168.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.168",
+  "source_type": "KANUN",
+  "content_sha256": "2d4d15cd38ebc747f8fa41ca02eb74828db2f4d856b8a4be612ab68991b3d3c9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

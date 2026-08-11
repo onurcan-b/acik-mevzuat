@@ -1,0 +1,18 @@
+{
+  "law_number": "1005",
+  "title": "İSTİKLAL MADALYASI VERİLMİŞ BULUNANLARA VATANİ HİZMET TERTİBİNDEN ŞEREF AYLIĞI BAĞLANMASI HAKKINDA KANUN",
+  "slug": "1005-istiklal-madalyasi-verilmis-bulunanlara-vatani-hizmet-tertibinden-seref-ayligi-baglanmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1005.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1005",
+  "source_type": "KANUN",
+  "content_sha256": "d04f93b0948282c41b85227cac709014f615621b591c2e2157ae134fc9d935c1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

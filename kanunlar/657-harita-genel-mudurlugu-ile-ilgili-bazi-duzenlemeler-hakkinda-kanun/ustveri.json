@@ -1,0 +1,18 @@
+{
+  "law_number": "657",
+  "title": "HARİTA GENEL MÜDÜRLÜĞÜ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "657-harita-genel-mudurlugu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.657.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.657",
+  "source_type": "KANUN",
+  "content_sha256": "b235627d0138983185dd6d8955dae4f94f64903c6a4a412c8010c6379561f16b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

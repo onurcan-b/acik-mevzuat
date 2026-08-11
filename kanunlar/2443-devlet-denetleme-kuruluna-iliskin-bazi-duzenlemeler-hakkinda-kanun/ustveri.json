@@ -1,0 +1,18 @@
+{
+  "law_number": "2443",
+  "title": "DEVLET DENETLEME KURULUNA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "2443-devlet-denetleme-kuruluna-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2443.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2443",
+  "source_type": "KANUN",
+  "content_sha256": "55f6aa889ad8d9ef227d3812b8afc0671cec85a5619b399db564dc2410ef860a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

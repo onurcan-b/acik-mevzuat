@@ -1,0 +1,18 @@
+{
+  "law_number": "5174",
+  "title": "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu",
+  "slug": "5174-turkiye-odalar-ve-borsalar-birligi-ile-odalar-ve-borsalar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5174.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5174",
+  "source_type": "KANUN",
+  "content_sha256": "c48dbcd76e8d9fbabb5bc452fbe3c1f987e758d4d1ca1cf0f6f28967fee84bee",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

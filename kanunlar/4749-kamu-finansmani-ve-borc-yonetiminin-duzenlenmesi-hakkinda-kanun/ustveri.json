@@ -1,0 +1,18 @@
+{
+  "law_number": "4749",
+  "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun",
+  "slug": "4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4749.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4749",
+  "source_type": "KANUN",
+  "content_sha256": "3fe17eb472b1ced4c3795e39201415f165329f8388f24248da2df455800ab3cc",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

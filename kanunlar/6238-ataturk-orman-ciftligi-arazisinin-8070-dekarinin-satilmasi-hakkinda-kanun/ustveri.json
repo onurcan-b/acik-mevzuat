@@ -1,0 +1,18 @@
+{
+  "law_number": "6238",
+  "title": "ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNİN 8070 DEKARININ SATILMASI HAKKINDA KANUN",
+  "slug": "6238-ataturk-orman-ciftligi-arazisinin-8070-dekarinin-satilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6238.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6238",
+  "source_type": "KANUN",
+  "content_sha256": "7c7a783848838b9d3a4fcd71f5e8354808ad0589d528c47bcbcde6d997f80a35",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

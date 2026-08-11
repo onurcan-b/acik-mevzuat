@@ -1,0 +1,18 @@
+{
+  "law_number": "5910",
+  "title": "TÜRKİYE İHRACATÇILAR MECLİSİ İLE İHRACATÇI BİRLİKLERİNİN KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "5910-turkiye-ihracatcilar-meclisi-ile-ihracatci-birliklerinin-kurulus-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5910.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5910",
+  "source_type": "KANUN",
+  "content_sha256": "6a7999a2be0452be293594b5626fd7a7e1cb5a031dad6e048cc50ac8bad481a9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

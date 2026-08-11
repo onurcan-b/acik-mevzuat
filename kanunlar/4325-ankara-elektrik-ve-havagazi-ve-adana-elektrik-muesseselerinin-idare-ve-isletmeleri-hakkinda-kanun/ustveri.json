@@ -1,0 +1,18 @@
+{
+  "law_number": "4325",
+  "title": "ANKARA ELEKTRİK VE HAVAGAZI VE ADANA ELEKTRİK MÜESSESELERİNİN İDARE VE İŞLETMELERİ HAKKINDA KANUN",
+  "slug": "4325-ankara-elektrik-ve-havagazi-ve-adana-elektrik-muesseselerinin-idare-ve-isletmeleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4325.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4325",
+  "source_type": "KANUN",
+  "content_sha256": "d179ac8c03c849632fa3b53bb0defd1e0ee8b99bf2dec9ccf1aa233c24289a3e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4283",
+  "title": "Yap-İşlet Modeli ile Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile Enerji Satışının Düzenlenmesi Hakkında Kanun",
+  "slug": "4283-yap-islet-modeli-ile-elektrik-enerjisi-uretim-tesislerinin-kurulmasi-ve-isletilmesi-ile-enerji-satisinin-duzenlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4283.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4283",
+  "source_type": "KANUN",
+  "content_sha256": "6206f3bfe9481673c77e8fbfb15594961a7fd77da94464930bb6c88ef40b509a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

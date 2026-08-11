@@ -1,0 +1,18 @@
+{
+  "law_number": "6183",
+  "title": "AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN",
+  "slug": "6183-amme-alacaklarinin-tahsil-usulu-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6183.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6183",
+  "source_type": "KANUN",
+  "content_sha256": "e584bc5aed6803bdef704aea44244367415446dc7b1fdc4577e0df18a4a0b625",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

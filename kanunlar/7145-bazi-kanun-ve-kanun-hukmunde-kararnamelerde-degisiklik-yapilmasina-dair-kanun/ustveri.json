@@ -1,0 +1,18 @@
+{
+  "law_number": "7145",
+  "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7145-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7145.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7145",
+  "source_type": "KANUN",
+  "content_sha256": "6fc409898634199ed3c2eed471c762913ffc2671cc80c42d84e3e1ac44874d90",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

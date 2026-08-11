@@ -1,0 +1,18 @@
+{
+  "law_number": "5682",
+  "title": "PASAPORT KANUNU",
+  "slug": "5682-pasaport-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5682.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.5682",
+  "source_type": "KANUN",
+  "content_sha256": "d9532c2a2eaf9d7082feb0d2d66cca5968b3322da38cd1ebe7eeae2c0405ada4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7221",
+  "title": "COĞRAFİ BİLGİ SİSTEMLERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "7221-cografi-bilgi-sistemleri-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7221.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7221",
+  "source_type": "KANUN",
+  "content_sha256": "06831191fc35baeb822407fade6a7b373e85e6076e50bcc654f834b28892f3cb",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

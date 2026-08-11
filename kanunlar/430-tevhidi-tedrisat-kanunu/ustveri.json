@@ -1,0 +1,18 @@
+{
+  "law_number": "430",
+  "title": "TEVHİDİ TEDRİSAT KANUNU",
+  "slug": "430-tevhidi-tedrisat-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.430.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.430",
+  "source_type": "KANUN",
+  "content_sha256": "704833763b7a8e1f2284fa9159f4d24f7fdf07d42ec2eb7632810dfe76be94c9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

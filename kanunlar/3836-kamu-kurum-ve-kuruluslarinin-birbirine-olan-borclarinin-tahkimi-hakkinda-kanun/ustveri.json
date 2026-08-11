@@ -1,0 +1,18 @@
+{
+  "law_number": "3836",
+  "title": "KAMU KURUM VE KURULUŞLARININ BİRBİRİNE OLAN BORÇLARININ TAHKİMİ HAKKINDA KANUN",
+  "slug": "3836-kamu-kurum-ve-kuruluslarinin-birbirine-olan-borclarinin-tahkimi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3836.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3836",
+  "source_type": "KANUN",
+  "content_sha256": "a03bebb2fe198de804f163994cfaf427390f30063915d42543687c1d278bec12",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

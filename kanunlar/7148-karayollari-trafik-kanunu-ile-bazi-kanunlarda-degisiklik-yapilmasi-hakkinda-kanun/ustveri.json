@@ -1,0 +1,18 @@
+{
+  "law_number": "7148",
+  "title": "KARAYOLLARI TRAFİK KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "7148-karayollari-trafik-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7148.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7148",
+  "source_type": "KANUN",
+  "content_sha256": "1a13885dc4fcb1770c67e504da54a8319fd57e3241b50a6ff6b08d750ba0794c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

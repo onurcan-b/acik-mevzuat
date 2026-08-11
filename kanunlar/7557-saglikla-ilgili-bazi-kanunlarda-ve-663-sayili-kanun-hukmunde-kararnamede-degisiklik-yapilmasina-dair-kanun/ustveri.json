@@ -1,0 +1,18 @@
+{
+  "law_number": "7557",
+  "title": "SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7557-saglikla-ilgili-bazi-kanunlarda-ve-663-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7557.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7557",
+  "source_type": "KANUN",
+  "content_sha256": "c494bc782b96c2b01b1f21f40347d10cc0d0daa51ca1763bf0bab842a7b6db7b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

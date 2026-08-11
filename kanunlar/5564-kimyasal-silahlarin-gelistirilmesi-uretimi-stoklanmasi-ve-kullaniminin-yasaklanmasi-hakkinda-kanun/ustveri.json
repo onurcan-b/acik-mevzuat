@@ -1,0 +1,18 @@
+{
+  "law_number": "5564",
+  "title": "KİMYASAL SİLAHLARIN GELİŞTİRİLMESİ, ÜRETİMİ, STOKLANMASI VE KULLANIMININ YASAKLANMASI HAKKINDA KANUN",
+  "slug": "5564-kimyasal-silahlarin-gelistirilmesi-uretimi-stoklanmasi-ve-kullaniminin-yasaklanmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5564.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5564",
+  "source_type": "KANUN",
+  "content_sha256": "762735eb8025feda0b6e3b259ed626bb30fefe416130d3d49780ccccff08dcff",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

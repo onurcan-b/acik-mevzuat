@@ -1,0 +1,18 @@
+{
+  "law_number": "7080",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA KAMU PERSONELİNE İLİŞKİN ALINAN TEDBİRLERE DAİR KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+  "slug": "7080-olaganustu-hal-kapsaminda-kamu-personeline-iliskin-alinan-tedbirlere-dair-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7080.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7080",
+  "source_type": "KANUN",
+  "content_sha256": "39dc9a7702940d110d35ac107893fc76c2ad93aa4da9745edf3b360fc17a47d0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

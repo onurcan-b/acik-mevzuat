@@ -1,0 +1,18 @@
+{
+  "law_number": "3298",
+  "title": "UYUŞTURUCU MADDELERLE İLGİLİ KANUN",
+  "slug": "3298-uyusturucu-maddelerle-ilgili-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3298.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3298",
+  "source_type": "KANUN",
+  "content_sha256": "09a8cae3c2debb629ba9ea7dcc2d7807ac1dfe6ccd4f7b295a7ce911d2e638cd",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

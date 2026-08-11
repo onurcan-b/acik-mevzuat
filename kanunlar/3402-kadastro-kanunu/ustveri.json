@@ -1,0 +1,18 @@
+{
+  "law_number": "3402",
+  "title": "KADASTRO KANUNU",
+  "slug": "3402-kadastro-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3402.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3402",
+  "source_type": "KANUN",
+  "content_sha256": "3f6747eca90a75ca916940391c6ecb69c1002a7e38693bb91d32194a8a82a0ad",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

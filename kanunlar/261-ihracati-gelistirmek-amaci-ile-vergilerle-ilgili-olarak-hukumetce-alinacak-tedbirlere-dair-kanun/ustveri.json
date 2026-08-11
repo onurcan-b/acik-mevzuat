@@ -1,0 +1,18 @@
+{
+  "law_number": "261",
+  "title": "İHRACATI GELİŞTİRMEK AMACI İLE VERGİLERLE İLGİLİ OLARAK HÜKÜMETÇE ALINACAK TEDBİRLERE DAİR KANUN",
+  "slug": "261-ihracati-gelistirmek-amaci-ile-vergilerle-ilgili-olarak-hukumetce-alinacak-tedbirlere-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.261.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.261",
+  "source_type": "KANUN",
+  "content_sha256": "a016f77aa234aff376d0cd46b5cd274e408a05d43de8bc8a2b0bccde6c763e3c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

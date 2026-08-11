@@ -1,0 +1,18 @@
+{
+  "law_number": "4959",
+  "title": "TOPLUMA KAZANDIRMA KANUNU",
+  "slug": "4959-topluma-kazandirma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4959.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4959",
+  "source_type": "KANUN",
+  "content_sha256": "71f45421e4afe4ffa513e7d7194826f8b1242e0be036a922b82f654a5e175404",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

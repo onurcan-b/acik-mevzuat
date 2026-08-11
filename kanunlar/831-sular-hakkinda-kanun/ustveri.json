@@ -1,0 +1,18 @@
+{
+  "law_number": "831",
+  "title": "SULAR HAKKINDA KANUN",
+  "slug": "831-sular-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.831.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.831",
+  "source_type": "KANUN",
+  "content_sha256": "8a77dc706577d2997a2cdacc35583b7358cbdda452de856de4e4ea58c58e9ca1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6305",
+  "title": "AFET SİGORTALARI KANUNU",
+  "slug": "6305-afet-sigortalari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6305.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6305",
+  "source_type": "KANUN",
+  "content_sha256": "45250ce93efe84e57f9a01a0a1b24138f10ae9e9ac5bd08ad6fd1b625a14fe03",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5312",
+  "title": "DENİZ ÇEVRESİNİN PETROL VE DİĞER ZARARLI MADDELERLE KİRLENMESİNDE ACİL DURUMLARDA MÜDAHALE VE ZARARLARIN TAZMİNİ ESASLARINA DAİR KANUN",
+  "slug": "5312-deniz-cevresinin-petrol-ve-diger-zararli-maddelerle-kirlenmesinde-acil-durumlarda-mudahale-ve-zararlarin-tazmini-esaslarina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5312.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5312",
+  "source_type": "KANUN",
+  "content_sha256": "962bb3b9b38ea506821dd92ef5a584cd8648f8c2e4148a4343ec281fa7ad51f0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "167",
+  "title": "YERALTI SULARI HAKKINDA KANUN",
+  "slug": "167-yeralti-sulari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.167.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.167",
+  "source_type": "KANUN",
+  "content_sha256": "8346c7ce9562251e21709f9f8dda4d0c8946d12915b260ffc552fc3192758dfc",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

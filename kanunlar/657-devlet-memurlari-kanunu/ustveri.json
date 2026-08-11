@@ -1,0 +1,18 @@
+{
+  "law_number": "657",
+  "title": "DEVLET MEMURLARI KANUNU",
+  "slug": "657-devlet-memurlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.657",
+  "source_type": "KANUN",
+  "content_sha256": "2c410be4bfde4ca1433515811251535c60356db868e3e272b002901147e3db6b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

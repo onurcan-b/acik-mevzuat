@@ -1,0 +1,18 @@
+{
+  "law_number": "4675",
+  "title": "İNFAZ HAKİMLİĞİ KANUNU",
+  "slug": "4675-infaz-hakimligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4675.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4675",
+  "source_type": "KANUN",
+  "content_sha256": "019c55015c2774b9cb599fee55ef0a910d49f93a811bfcee520099f2df58b99b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

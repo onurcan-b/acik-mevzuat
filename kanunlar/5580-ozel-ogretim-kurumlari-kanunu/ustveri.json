@@ -1,0 +1,18 @@
+{
+  "law_number": "5580",
+  "title": "ÖZEL ÖĞRETİM KURUMLARI KANUNU",
+  "slug": "5580-ozel-ogretim-kurumlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5580.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5580",
+  "source_type": "KANUN",
+  "content_sha256": "f488975c42cc78fc59caf6289a91ef62db8eef44919aaf03c85a168df7d4e356",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

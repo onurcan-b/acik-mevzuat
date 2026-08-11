@@ -1,0 +1,18 @@
+{
+  "law_number": "2802",
+  "title": "HAKİMLER VE SAVCILAR KANUNU",
+  "slug": "2802-hakimler-ve-savcilar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2802.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2802",
+  "source_type": "KANUN",
+  "content_sha256": "904eeb03bd25f996cc588322fd5b0fcc5b7b78b2dca1baaad4c91238508ee5ac",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

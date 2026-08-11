@@ -1,0 +1,18 @@
+{
+  "law_number": "1318",
+  "title": "FİNANSMAN KANUNU",
+  "slug": "1318-finansman-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1318.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1318",
+  "source_type": "KANUN",
+  "content_sha256": "b3086ef5093a7d3f478ac8a71f2633f8f24c4b345cfca5f90e57a3eb8307a7d0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5369",
+  "title": "EVRENSEL HİZMET KANUNU",
+  "slug": "5369-evrensel-hizmet-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5369.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5369",
+  "source_type": "KANUN",
+  "content_sha256": "22aacb2d34594792936dc2f7d9c092c41226deeebf08d6d008a82a88af042bde",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

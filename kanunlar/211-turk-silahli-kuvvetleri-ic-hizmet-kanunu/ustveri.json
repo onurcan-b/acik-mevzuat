@@ -1,0 +1,18 @@
+{
+  "law_number": "211",
+  "title": "Türk Silahlı Kuvvetleri İç Hizmet Kanunu",
+  "slug": "211-turk-silahli-kuvvetleri-ic-hizmet-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.211.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.211",
+  "source_type": "KANUN",
+  "content_sha256": "8c09a913a35877d012bea2870f67cc75f362fdf497dc0d607ce19bd4c524275d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

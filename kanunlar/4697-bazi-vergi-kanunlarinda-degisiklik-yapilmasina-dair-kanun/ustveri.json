@@ -1,0 +1,18 @@
+{
+  "law_number": "4697",
+  "title": "BAZI VERGİ KANUNLARINDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "4697-bazi-vergi-kanunlarinda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4697.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4697",
+  "source_type": "KANUN",
+  "content_sha256": "e070344c928c55ef8ae326685c497d0c86bbd41fe259731cbc6aaefbec9779d5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

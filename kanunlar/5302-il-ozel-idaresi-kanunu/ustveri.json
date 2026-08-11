@@ -1,0 +1,18 @@
+{
+  "law_number": "5302",
+  "title": "İL ÖZEL İDARESİ KANUNU",
+  "slug": "5302-il-ozel-idaresi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5302.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5302",
+  "source_type": "KANUN",
+  "content_sha256": "57e62492d69de000e6e5ea9bf7be2c846b053fdf53892490a936168cf25753e5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

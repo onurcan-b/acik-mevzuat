@@ -1,0 +1,18 @@
+{
+  "law_number": "5234",
+  "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "5234-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5234.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5234",
+  "source_type": "KANUN",
+  "content_sha256": "e0b802ff83b881a07b3674ade1301ce1db3ffb9cd34a025444c824244b9f29db",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

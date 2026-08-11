@@ -1,0 +1,18 @@
+{
+  "law_number": "6009",
+  "title": "GELİR VERGİSİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "6009-gelir-vergisi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6009.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6009",
+  "source_type": "KANUN",
+  "content_sha256": "b9ea2e786d4fddaaaddf9bc56a0622bba8902acb1ab1d3219d70e49499a30655",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

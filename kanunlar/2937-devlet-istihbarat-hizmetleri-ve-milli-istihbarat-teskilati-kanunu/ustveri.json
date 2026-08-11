@@ -1,0 +1,18 @@
+{
+  "law_number": "2937",
+  "title": "DEVLET İSTİHBARAT HİZMETLERİ VE MİLLİ İSTİHBARAT TEŞKİLATI KANUNU",
+  "slug": "2937-devlet-istihbarat-hizmetleri-ve-milli-istihbarat-teskilati-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2937.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2937",
+  "source_type": "KANUN",
+  "content_sha256": "588790b6b70c5228d8d84b94fbfa445a6aaa109b4fa5b54bdefbc4ea5545462d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1453",
+  "title": "ZABİTAN VE ASKERİ MEMURLARIN MAAŞATI HAKKINDA KANUN",
+  "slug": "1453-zabitan-ve-askeri-memurlarin-maasati-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1453.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1453",
+  "source_type": "KANUN",
+  "content_sha256": "7543d04bdd3c9ec4b5200e5cbfe7a5acbe7c51053d6b69e937e81b4241a1cbe8",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1072",
+  "title": "RULET, TİLT, LANGIRT VE BENZERİ OYUN ALET VE MAKİNALARI HAKKINDA KANUN",
+  "slug": "1072-rulet-tilt-langirt-ve-benzeri-oyun-alet-ve-makinalari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1072.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1072",
+  "source_type": "KANUN",
+  "content_sha256": "4caa6c7634f201575031d1260d3cc507d5754e68f1a923a5804eaa7e673ac5b3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

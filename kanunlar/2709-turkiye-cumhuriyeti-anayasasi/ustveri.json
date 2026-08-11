@@ -1,0 +1,18 @@
+{
+  "law_number": "2709",
+  "title": "Türkiye Cumhuriyeti Anayasası",
+  "slug": "2709-turkiye-cumhuriyeti-anayasasi",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2709",
+  "source_type": "ANAYASA",
+  "content_sha256": "d5ddedc1f0245f37d8a22cd9ebce76f471a84bfc9eeca5cc898d11868ff65663",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

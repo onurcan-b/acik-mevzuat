@@ -1,0 +1,18 @@
+{
+  "law_number": "3306",
+  "title": "ADANA İLİNDE SEYHAN VE YÜREĞİR ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+  "slug": "3306-adana-ilinde-seyhan-ve-yuregir-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3306.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3306",
+  "source_type": "KANUN",
+  "content_sha256": "7c37db13f0a25e0a722de907d26c16db2e6bc937198a61d4b3d1cf1df13c4dda",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6083",
+  "title": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ DÖNER SERMAYE İŞLETMESİ KANUNU",
+  "slug": "6083-tapu-ve-kadastro-genel-mudurlugu-doner-sermaye-isletmesi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6083.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6083",
+  "source_type": "KANUN",
+  "content_sha256": "adb92f89792e0a59724fe5a154db9bfcaab47d9b5f4a38d22c470f7048be6f07",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6501",
+  "title": "BİR ÜNİVERSİTE ADI İLE BİR İLÇE ADININ DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "slug": "6501-bir-universite-adi-ile-bir-ilce-adinin-degistirilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6501.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6501",
+  "source_type": "KANUN",
+  "content_sha256": "85c73e80881e815fa7915d30984dda50855f16e091b143c2eccc61fa1d40062f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

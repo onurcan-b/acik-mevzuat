@@ -1,0 +1,18 @@
+{
+  "law_number": "3516",
+  "title": "ÖLÇÜLER VE AYAR KANUNU",
+  "slug": "3516-olculer-ve-ayar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3516.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3516",
+  "source_type": "KANUN",
+  "content_sha256": "5796fbb508dcf5633603c7c8509b70dcb06bc1496ba0fa91b407771f1abbde57",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

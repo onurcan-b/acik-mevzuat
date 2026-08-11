@@ -1,0 +1,18 @@
+{
+  "law_number": "7445",
+  "title": "İCRA VE İFLAS KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7445-icra-ve-iflas-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7445.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7445",
+  "source_type": "KANUN",
+  "content_sha256": "db6baea722ff3d31e63fba794e1b820c2b03794f228c2eaa84d2fb93e384ce14",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

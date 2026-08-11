@@ -1,0 +1,18 @@
+{
+  "law_number": "4752",
+  "title": "ASTSUBAY MESLEK YÜKSEKOKULLARI KANUNU",
+  "slug": "4752-astsubay-meslek-yuksekokullari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4752.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4752",
+  "source_type": "KANUN",
+  "content_sha256": "2601eb2bf85a7a7f1aca03e66710b10b8af36e39bb0675a1c08dc7a38ecaa1f0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

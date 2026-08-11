@@ -1,0 +1,18 @@
+{
+  "law_number": "5809",
+  "title": "ELEKTRONİK HABERLEŞME KANUNU",
+  "slug": "5809-elektronik-haberlesme-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5809.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5809",
+  "source_type": "KANUN",
+  "content_sha256": "ea2aea95e644b68898d696d7beb5f5279c064bb37d97fdf20eeb453d578366c4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

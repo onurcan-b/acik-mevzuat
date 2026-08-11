@@ -1,0 +1,18 @@
+{
+  "law_number": "4157",
+  "title": "POSTA, TELGRAF VE TELEFON İDARESİNİN BİRİKTİRME VE YARDIM SANDIĞI HAKKINDA KANUN",
+  "slug": "4157-posta-telgraf-ve-telefon-idaresinin-biriktirme-ve-yardim-sandigi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4157.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4157",
+  "source_type": "KANUN",
+  "content_sha256": "90c2694ea3eefe9e76a1ac00a06925ab89b0d30d6d73169ee4bbf230bd30eb94",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

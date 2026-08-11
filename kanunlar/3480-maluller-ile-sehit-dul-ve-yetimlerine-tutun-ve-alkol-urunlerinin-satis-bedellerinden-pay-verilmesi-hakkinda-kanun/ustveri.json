@@ -1,0 +1,18 @@
+{
+  "law_number": "3480",
+  "title": "MALÜLLER İLE ŞEHİT DUL VE YETİMLERİNE TÜTÜN VE ALKOL ÜRÜNLERİNİN SATIŞ BEDELLERİNDEN PAY VERİLMESİ HAKKINDA KANUN",
+  "slug": "3480-maluller-ile-sehit-dul-ve-yetimlerine-tutun-ve-alkol-urunlerinin-satis-bedellerinden-pay-verilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3480.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3480",
+  "source_type": "KANUN",
+  "content_sha256": "c133400cdef25f11cfeb6d7f8516694ce769667bc525761406d345ccc76f7f0e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

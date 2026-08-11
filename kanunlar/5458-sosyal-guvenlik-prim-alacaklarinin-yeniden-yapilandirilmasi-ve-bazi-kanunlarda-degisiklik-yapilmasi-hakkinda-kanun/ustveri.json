@@ -1,0 +1,18 @@
+{
+  "law_number": "5458",
+  "title": "SOSYAL GÜVENLİK PRİM ALACAKLARININ YENİDEN YAPILANDIRILMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "5458-sosyal-guvenlik-prim-alacaklarinin-yeniden-yapilandirilmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5458.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5458",
+  "source_type": "KANUN",
+  "content_sha256": "464f5617aa8de53f66b6957c1260f175f41a520dd9d8c32cb8cadc8ffb7ebcca",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

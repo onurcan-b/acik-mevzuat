@@ -1,0 +1,18 @@
+{
+  "law_number": "1151",
+  "title": "BOZCAADA VE İMROZ KAZALARININ MAHALLİ İDARELERİ HAKKINDA KANUN",
+  "slug": "1151-bozcaada-ve-imroz-kazalarinin-mahalli-idareleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1151.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1151",
+  "source_type": "KANUN",
+  "content_sha256": "6ad5958050a945cbf5a4ff23f6a8bbd86acf65a6fb34a431804b25e4f8216eb1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

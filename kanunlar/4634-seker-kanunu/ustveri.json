@@ -1,0 +1,18 @@
+{
+  "law_number": "4634",
+  "title": "Şeker Kanunu",
+  "slug": "4634-seker-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4634.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4634",
+  "source_type": "KANUN",
+  "content_sha256": "4a5cf87b3513070092bb96aa34386c52dcbf210bc3d5e53624a19d249a6fdfd8",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

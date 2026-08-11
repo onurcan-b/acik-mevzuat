@@ -1,0 +1,18 @@
+{
+  "law_number": "6721",
+  "title": "TÜRKİYE MAARİF VAKFI KANUNU",
+  "slug": "6721-turkiye-maarif-vakfi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6721.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6721",
+  "source_type": "KANUN",
+  "content_sha256": "6be2f3be8d2736d397fefd091a1435d453e74a1aca594f1dc0bb39b9c7ea663c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

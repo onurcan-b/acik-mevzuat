@@ -1,0 +1,18 @@
+{
+  "law_number": "5402",
+  "title": "DENETİMLİ SERBESTLİK HİZMETLERİ KANUNU",
+  "slug": "5402-denetimli-serbestlik-hizmetleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5402.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5402",
+  "source_type": "KANUN",
+  "content_sha256": "a5aea33f30bcbe2150bef0b51cd1d7201586cdc1b0559deabc196eb517e2e50c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

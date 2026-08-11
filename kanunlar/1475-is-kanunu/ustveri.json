@@ -1,0 +1,18 @@
+{
+  "law_number": "1475",
+  "title": "İŞ KANUNU",
+  "slug": "1475-is-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1475.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1475",
+  "source_type": "KANUN",
+  "content_sha256": "daf20b41c39b3711d854fdd810d10276673147f3b30705d4d1358e285e53ddb4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4769",
+  "title": "CEZA İNFAZ KURUMLARI TUTUKEVLERİ PERSONELİ EĞİTİM MERKEZLERİ KANUNU",
+  "slug": "4769-ceza-infaz-kurumlari-tutukevleri-personeli-egitim-merkezleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4769.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4769",
+  "source_type": "KANUN",
+  "content_sha256": "3fa41a890687de3dc5e325961a490b0212fb9a1409b7b092692fb0a9fd11c111",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "3806",
+  "title": "ONÜÇ İLÇE VE İKİ İL KURULMASI HAKKINDA KANUN",
+  "slug": "3806-onuc-ilce-ve-iki-il-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3806.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3806",
+  "source_type": "KANUN",
+  "content_sha256": "57b28f0690c86d703290a42bdd0a5cc867e42930062231fafec2a342a53f54e2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

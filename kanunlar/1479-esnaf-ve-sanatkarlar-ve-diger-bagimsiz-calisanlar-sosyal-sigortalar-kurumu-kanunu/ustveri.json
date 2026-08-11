@@ -1,0 +1,18 @@
+{
+  "law_number": "1479",
+  "title": "ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU",
+  "slug": "1479-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1479.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1479",
+  "source_type": "KANUN",
+  "content_sha256": "69e7602cc601cc750be6618a9bbc86ed4828fe83232765939c1255e745b72bc2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

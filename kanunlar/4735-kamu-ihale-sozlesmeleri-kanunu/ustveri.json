@@ -1,0 +1,18 @@
+{
+  "law_number": "4735",
+  "title": "KAMU İHALE SÖZLEŞMELERİ KANUNU",
+  "slug": "4735-kamu-ihale-sozlesmeleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4735.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4735",
+  "source_type": "KANUN",
+  "content_sha256": "784b219d3ea96ff9475fa1457889f48b8d438afabe84c48b987a6f5c1f2f4e99",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

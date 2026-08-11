@@ -1,0 +1,18 @@
+{
+  "law_number": "2820",
+  "title": "SİYASİ PARTİLER KANUNU",
+  "slug": "2820-siyasi-partiler-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2820.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2820",
+  "source_type": "KANUN",
+  "content_sha256": "113eca57bf5f4b38cd23d39fdfc849d3b0dc07a3a722319ad51c20e4b1b2ea19",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

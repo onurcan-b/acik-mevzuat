@@ -1,0 +1,18 @@
+{
+  "law_number": "1481",
+  "title": "ASAYİŞE MÜESSİR BAZI FİİLLERİN ÖNLENMESİ HAKKINDA KANUN",
+  "slug": "1481-asayise-muessir-bazi-fiillerin-onlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1481.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1481",
+  "source_type": "KANUN",
+  "content_sha256": "2183a6f74dd0e9a4eca150150b508ab6b081a531646b761e93fafb75583262ff",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

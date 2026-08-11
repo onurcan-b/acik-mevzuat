@@ -1,0 +1,18 @@
+{
+  "law_number": "298",
+  "title": "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUN",
+  "slug": "298-secimlerin-temel-hukumleri-ve-secmen-kutukleri-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.298.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.298",
+  "source_type": "KANUN",
+  "content_sha256": "3845fa2a5ed6e72ed49eb1c27af03123dfee76504a25a876eac3f48e0d661cdb",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

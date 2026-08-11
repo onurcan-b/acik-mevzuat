@@ -1,0 +1,18 @@
+{
+  "law_number": "5300",
+  "title": "TARIM ÜRÜNLERİ LİSANSLI DEPOCULUK KANUNU",
+  "slug": "5300-tarim-urunleri-lisansli-depoculuk-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5300.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5300",
+  "source_type": "KANUN",
+  "content_sha256": "0d0f8bf849116b3c12e3da2943c760795e7503b75f39622880deeb3c9cae4383",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

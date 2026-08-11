@@ -1,0 +1,18 @@
+{
+  "law_number": "4787",
+  "title": "AİLE MAHKEMELERİNİN KURULUŞ, GÖREV VE YARGILAMA USULLERİNE DAİR KANUN",
+  "slug": "4787-aile-mahkemelerinin-kurulus-gorev-ve-yargilama-usullerine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4787.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4787",
+  "source_type": "KANUN",
+  "content_sha256": "f23d3832fb9996b4d74f23f5d12142438cef359739892b6f60093b10c8f089cb",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

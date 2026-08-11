@@ -1,0 +1,18 @@
+{
+  "law_number": "4458",
+  "title": "GÜMRÜK KANUNU",
+  "slug": "4458-gumruk-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4458.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4458",
+  "source_type": "KANUN",
+  "content_sha256": "fbfbdf48fc2e3194e7b8180e27fc111b1fc2a5a711ebff503abcebcdf886160a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

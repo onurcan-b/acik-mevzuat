@@ -1,0 +1,18 @@
+{
+  "law_number": "6197",
+  "title": "ECZACILAR VE ECZANELER HAKKINDA KANUN",
+  "slug": "6197-eczacilar-ve-eczaneler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6197.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6197",
+  "source_type": "KANUN",
+  "content_sha256": "dac20aa6f3bb4d8fe3fdceeb51447a85df0ac15a06930285de2e19082d1e68e0",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

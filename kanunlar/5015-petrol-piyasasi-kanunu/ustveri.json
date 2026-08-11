@@ -1,0 +1,18 @@
+{
+  "law_number": "5015",
+  "title": "Petrol Piyasası Kanunu",
+  "slug": "5015-petrol-piyasasi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5015.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5015",
+  "source_type": "KANUN",
+  "content_sha256": "45cbbd46200ca234b58a5c59242191e12373ab527c887ae90c862987235dddfb",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7100",
+  "title": "YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "7100-yuksekogretim-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7100.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7100",
+  "source_type": "KANUN",
+  "content_sha256": "1c4fbe9d7dcab9b7c5e582e0344e9e877f842b58eae303e38b61b6ab1eb69567",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

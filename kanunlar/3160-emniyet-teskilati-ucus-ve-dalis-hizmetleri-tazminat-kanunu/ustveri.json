@@ -1,0 +1,18 @@
+{
+  "law_number": "3160",
+  "title": "EMNİYET TEŞKİLATI UÇUŞ VE DALIŞ HİZMETLERİ TAZMİNAT KANUNU",
+  "slug": "3160-emniyet-teskilati-ucus-ve-dalis-hizmetleri-tazminat-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3160.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3160",
+  "source_type": "KANUN",
+  "content_sha256": "f7fd714197bc8078352b6bec7aaa52548e4ede201580e64b650d90b0c1c1d392",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "3620",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİNİN DIŞ İLİŞKİLERİNİN DÜZENLENMESİ HAKKINDA KANUN",
+  "slug": "3620-turkiye-buyuk-millet-meclisinin-dis-iliskilerinin-duzenlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3620.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3620",
+  "source_type": "KANUN",
+  "content_sha256": "8b6a6000c334e44b151d5892ceca24a26fbb33fd8d8969a2d4588ac2f3a9287f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

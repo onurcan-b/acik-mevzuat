@@ -1,0 +1,18 @@
+{
+  "law_number": "5624",
+  "title": "KAN VE KAN ÜRÜNLERİ KANUNU",
+  "slug": "5624-kan-ve-kan-urunleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5624.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5624",
+  "source_type": "KANUN",
+  "content_sha256": "5e83843b59e5cd7c7b4e08199c596d17e06b294519ffd77f5162e9ae1a7e1c6b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

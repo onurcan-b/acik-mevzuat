@@ -1,0 +1,18 @@
+{
+  "law_number": "6023",
+  "title": "TÜRK TABİPLERİ BİRLİĞİ KANUNU",
+  "slug": "6023-turk-tabipleri-birligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6023.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.6023",
+  "source_type": "KANUN",
+  "content_sha256": "511225c10d3d7242bafc888f811547bde59ef0733071f9f24e35dce847cd5f4f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

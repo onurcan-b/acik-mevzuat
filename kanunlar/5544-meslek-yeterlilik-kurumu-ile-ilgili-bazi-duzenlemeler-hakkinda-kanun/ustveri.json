@@ -1,0 +1,18 @@
+{
+  "law_number": "5544",
+  "title": "MESLEKÎ YETERLİLİK KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "5544-meslek-yeterlilik-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5544.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5544",
+  "source_type": "KANUN",
+  "content_sha256": "4f6a63aed38ceb26ca7dfcd9f52fc127337561bcdb751457c8b7f3ed02d1da56",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

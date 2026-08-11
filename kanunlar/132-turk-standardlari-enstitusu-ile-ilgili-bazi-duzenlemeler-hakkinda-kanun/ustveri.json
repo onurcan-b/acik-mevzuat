@@ -1,0 +1,18 @@
+{
+  "law_number": "132",
+  "title": "TÜRK STANDARDLARI ENSTİTÜSÜ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "132-turk-standardlari-enstitusu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.132.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.132",
+  "source_type": "KANUN",
+  "content_sha256": "a01f3022720fa4594d821515f70c6f09bbbbd77ecb52817b0d70d2fe6f78ee28",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

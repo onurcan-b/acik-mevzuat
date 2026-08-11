@@ -1,0 +1,18 @@
+{
+  "law_number": "6172",
+  "title": "SULAMA BİRLİKLERİ KANUNU",
+  "slug": "6172-sulama-birlikleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6172.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6172",
+  "source_type": "KANUN",
+  "content_sha256": "ef6701a37c95d711d1a22d5c69dbef68c845fd4d0fac52bf15c1452366155d61",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

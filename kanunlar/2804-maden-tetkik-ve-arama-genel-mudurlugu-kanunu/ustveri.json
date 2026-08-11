@@ -1,0 +1,18 @@
+{
+  "law_number": "2804",
+  "title": "MADEN TETKİK VE ARAMA GENEL MÜDÜRLÜĞÜ KANUNU",
+  "slug": "2804-maden-tetkik-ve-arama-genel-mudurlugu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2804.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.2804",
+  "source_type": "KANUN",
+  "content_sha256": "8afbe46ba24500a92d9225a71ff1d6587f9e9422247f918a6549488bc8007bad",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

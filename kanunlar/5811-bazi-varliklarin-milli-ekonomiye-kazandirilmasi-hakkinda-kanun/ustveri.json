@@ -1,0 +1,18 @@
+{
+  "law_number": "5811",
+  "title": "BAZI VARLIKLARIN MİLLİ EKONOMİYE KAZANDIRILMASI HAKKINDA KANUN",
+  "slug": "5811-bazi-varliklarin-milli-ekonomiye-kazandirilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5811.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5811",
+  "source_type": "KANUN",
+  "content_sha256": "235eb5c8abc7bfa2ee3618000c40ff6e66edc48cefa1beef633c2a1c418ae095",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

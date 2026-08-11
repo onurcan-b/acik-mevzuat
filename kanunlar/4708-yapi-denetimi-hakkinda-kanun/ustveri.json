@@ -1,0 +1,18 @@
+{
+  "law_number": "4708",
+  "title": "YAPI DENETİMİ HAKKINDA KANUN",
+  "slug": "4708-yapi-denetimi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4708.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4708",
+  "source_type": "KANUN",
+  "content_sha256": "b34a60535bed32f1a98cd49fe6e37c145e81bb05ab31eabd2f860d7e27c73675",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

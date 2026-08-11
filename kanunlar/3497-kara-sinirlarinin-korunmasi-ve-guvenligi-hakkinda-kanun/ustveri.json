@@ -1,0 +1,18 @@
+{
+  "law_number": "3497",
+  "title": "KARA SINIRLARININ KORUNMASI VE GÜVENLİĞİ HAKKINDA KANUN",
+  "slug": "3497-kara-sinirlarinin-korunmasi-ve-guvenligi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3497.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3497",
+  "source_type": "KANUN",
+  "content_sha256": "a60fc117fcd9f46072c5e87e38b421490ab36df0b213b597d9aa91ac8e2ddd27",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

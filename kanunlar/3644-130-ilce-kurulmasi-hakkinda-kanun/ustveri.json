@@ -1,0 +1,18 @@
+{
+  "law_number": "3644",
+  "title": "130 İLÇE KURULMASI HAKKINDA KANUN",
+  "slug": "3644-130-ilce-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3644.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3644",
+  "source_type": "KANUN",
+  "content_sha256": "c38b0f387d78bcf836f02f40c999c1f8cbacd584d226602218aa87942dfca076",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

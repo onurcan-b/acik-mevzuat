@@ -1,0 +1,18 @@
+{
+  "law_number": "5488",
+  "title": "TARIM KANUNU",
+  "slug": "5488-tarim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5488.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5488",
+  "source_type": "KANUN",
+  "content_sha256": "f8ce4eb4553607f19f25b88d3bc060647a1bf769f64ceed5c0a6f0824e8c0a8b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

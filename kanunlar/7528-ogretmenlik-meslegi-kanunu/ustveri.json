@@ -1,0 +1,18 @@
+{
+  "law_number": "7528",
+  "title": "ÖĞRETMENLİK MESLEĞİ KANUNU",
+  "slug": "7528-ogretmenlik-meslegi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7528.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7528",
+  "source_type": "KANUN",
+  "content_sha256": "0c33d573ce2dc35e9fdbb107d521b8087ac4c98fbb852e927f06a4ffd5c37b4a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

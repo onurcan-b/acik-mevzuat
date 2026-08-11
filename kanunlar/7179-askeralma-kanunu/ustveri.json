@@ -1,0 +1,18 @@
+{
+  "law_number": "7179",
+  "title": "ASKERALMA KANUNU",
+  "slug": "7179-askeralma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7179.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7179",
+  "source_type": "KANUN",
+  "content_sha256": "c8b77ec794bc67ecab0ad191d4128c9767183e16cfb4674d15f01281e24e679b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

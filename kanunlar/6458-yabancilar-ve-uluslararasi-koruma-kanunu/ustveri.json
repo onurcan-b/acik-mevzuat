@@ -1,0 +1,18 @@
+{
+  "law_number": "6458",
+  "title": "YABANCILAR VE ULUSLARARASI KORUMA KANUNU",
+  "slug": "6458-yabancilar-ve-uluslararasi-koruma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6458.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6458",
+  "source_type": "KANUN",
+  "content_sha256": "6155feb2ac29cc9d1faae567271ca567bc4249267bfbe48fa53fe3f7b43c9eb9",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "5734",
+  "title": "GAZİANTEP'E İSTİKLAL MADALYASI VERİLMESİ HAKKINDA KANUN",
+  "slug": "5734-gaziantepe-istiklal-madalyasi-verilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5734.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5734",
+  "source_type": "KANUN",
+  "content_sha256": "8e30ae7c427ac02deb112c346b622bd2b89c50add9b72f679cdd98e56fb19ad1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

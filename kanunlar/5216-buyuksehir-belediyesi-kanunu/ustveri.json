@@ -1,0 +1,18 @@
+{
+  "law_number": "5216",
+  "title": "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
+  "slug": "5216-buyuksehir-belediyesi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5216.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5216",
+  "source_type": "KANUN",
+  "content_sha256": "d3d91dbde6e92ac4810bc239a3fd1a18509586fb47d7c8fff4b3ae7cb0ec40be",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

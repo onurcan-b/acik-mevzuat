@@ -1,0 +1,18 @@
+{
+  "law_number": "4603",
+  "title": "TÜRKİYE CUMHURİYETİ ZİRAAT BANKASI, TÜRKİYE HALK BANKASI ANONİM ŞİRKETİ VE TÜRKİYE EMLAK BANKASI ANONİM ŞİRKETİ HAKKINDA KANUN",
+  "slug": "4603-turkiye-cumhuriyeti-ziraat-bankasi-turkiye-halk-bankasi-anonim-sirketi-ve-turkiye-emlak-bankasi-anonim-sirketi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4603.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4603",
+  "source_type": "KANUN",
+  "content_sha256": "7bb279980766081d1a20dc46c41c83fadc2b51c6707c4f1a9f0c3006e40c6b65",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

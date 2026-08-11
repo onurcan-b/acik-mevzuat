@@ -1,0 +1,18 @@
+{
+  "law_number": "4904",
+  "title": "TÜRKİYE İŞ KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "4904-turkiye-is-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4904.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4904",
+  "source_type": "KANUN",
+  "content_sha256": "6c781f8101286b681ca987a234cdac9ba3bbd0841b2da02a59ff51e056e0f39e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

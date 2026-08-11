@@ -1,0 +1,18 @@
+{
+  "law_number": "3796",
+  "title": "İSTANBUL KENTİNDE YAPILACAK OLİMPİYAT OYUNLARI KANUNU",
+  "slug": "3796-istanbul-kentinde-yapilacak-olimpiyat-oyunlari-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3796.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3796",
+  "source_type": "KANUN",
+  "content_sha256": "5eadb933193a8503542889c06b6855a6847279bdc33a9b1b4d81ffabe3a7d576",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

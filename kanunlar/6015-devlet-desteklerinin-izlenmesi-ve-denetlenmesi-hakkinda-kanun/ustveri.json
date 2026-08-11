@@ -1,0 +1,18 @@
+{
+  "law_number": "6015",
+  "title": "DEVLET DESTEKLERİNİN İZLENMESİ VE DENETLENMESİ HAKKINDA KANUN",
+  "slug": "6015-devlet-desteklerinin-izlenmesi-ve-denetlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6015.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6015",
+  "source_type": "KANUN",
+  "content_sha256": "b73c7c1fadc6ff18839ffb0652c95c52ca7e5c93ba0c4817eeb8a31d64e108b7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

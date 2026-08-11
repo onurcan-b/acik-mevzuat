@@ -1,0 +1,18 @@
+{
+  "law_number": "2",
+  "title": "RUMELİ DEMİRYOLLARININ UMUR-U NAKLİYESİ HAKKINDA NiZAMNAME",
+  "slug": "2-rumeli-demiryollarinin-umur-u-nakliyesi-hakkinda-nizamname",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.2.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "0.1.2",
+  "source_type": "KANUN",
+  "content_sha256": "329f77e70ce4713dd7fef00ee85d7dac5fa77638fe65ac7d3f7714c14fd0ad0d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

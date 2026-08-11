@@ -1,0 +1,18 @@
+{
+  "law_number": "3238",
+  "title": "SAVUNMA SANAYİİ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "3238-savunma-sanayii-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3238.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3238",
+  "source_type": "KANUN",
+  "content_sha256": "eff5cc6a58ea27de51ca43b1ad1124c060f39e1fa7e82d5eb9cacb463ff6f569",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

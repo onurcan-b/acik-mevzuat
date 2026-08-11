@@ -1,0 +1,18 @@
+{
+  "law_number": "5627",
+  "title": "ENERJİ VERİMLİLİĞİ KANUNU",
+  "slug": "5627-enerji-verimliligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5627.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5627",
+  "source_type": "KANUN",
+  "content_sha256": "7789d86ccff8dea9201cd38e3385097c31036e8b764bb41de674eb2716114585",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

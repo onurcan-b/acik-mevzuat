@@ -1,0 +1,18 @@
+{
+  "law_number": "5225",
+  "title": "KÜLTÜR YATIRIMLARI VE GİRİŞİMLERİNİ TEŞVİK KANUNU",
+  "slug": "5225-kultur-yatirimlari-ve-girisimlerini-tesvik-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5225.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5225",
+  "source_type": "KANUN",
+  "content_sha256": "8f762f9c0c7c29cf6dbfe69616e6eee600d8c0965e9a0818076e2d0c348178ba",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

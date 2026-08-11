@@ -1,0 +1,18 @@
+{
+  "law_number": "6713",
+  "title": "KOLLUK GÖZETİM KOMİSYONU KURULMASI HAKKINDA KANUN",
+  "slug": "6713-kolluk-gozetim-komisyonu-kurulmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6713.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6713",
+  "source_type": "KANUN",
+  "content_sha256": "43e68c1aa833ba357a3f83280afd4009c4b6f6f5e67c8080e68a4772adc45b5f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

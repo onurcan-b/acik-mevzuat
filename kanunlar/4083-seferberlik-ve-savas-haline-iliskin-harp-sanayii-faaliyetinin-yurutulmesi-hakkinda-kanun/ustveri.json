@@ -1,0 +1,18 @@
+{
+  "law_number": "4083",
+  "title": "SEFERBERLİK VE SAVAŞ HALİNE İLİŞKİN HARP SANAYİİ FAALİYETİNİN YÜRÜTÜLMESİ HAKKINDA KANUN",
+  "slug": "4083-seferberlik-ve-savas-haline-iliskin-harp-sanayii-faaliyetinin-yurutulmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4083.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4083",
+  "source_type": "KANUN",
+  "content_sha256": "06b5c1cc6ff178df378fd1d6e638cfedf8cdb2a5b3d8850ed395eb88219808ea",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

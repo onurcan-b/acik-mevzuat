@@ -1,0 +1,18 @@
+{
+  "law_number": "5718",
+  "title": "MİLLETLERARASI ÖZEL HUKUK VE USUL HUKUKU HAKKINDA KANUN",
+  "slug": "5718-milletlerarasi-ozel-hukuk-ve-usul-hukuku-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5718.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5718",
+  "source_type": "KANUN",
+  "content_sha256": "cf1ceaf3c0a54c4d584ca023488f0a98794e9cb2a20e40c83ae2a2b8625eb847",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

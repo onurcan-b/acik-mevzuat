@@ -1,0 +1,18 @@
+{
+  "law_number": "2863",
+  "title": "KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KANUNU",
+  "slug": "2863-kultur-ve-tabiat-varliklarini-koruma-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2863.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2863",
+  "source_type": "KANUN",
+  "content_sha256": "9a062e732475e4a3c593253cef694cfd3a0d9cd98446fbb9a5afb7ad9313a9d2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

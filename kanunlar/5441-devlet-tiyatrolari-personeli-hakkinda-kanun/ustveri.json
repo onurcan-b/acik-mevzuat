@@ -1,0 +1,18 @@
+{
+  "law_number": "5441",
+  "title": "DEVLET TİYATROLARI PERSONELİ HAKKINDA KANUN",
+  "slug": "5441-devlet-tiyatrolari-personeli-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5441.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.5441",
+  "source_type": "KANUN",
+  "content_sha256": "15d7127617fca37f7f8f79206ec52a25f8494d247b6375e96dffb6566ade812c",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

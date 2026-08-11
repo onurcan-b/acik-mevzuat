@@ -1,0 +1,18 @@
+{
+  "law_number": "1380",
+  "title": "SU ÜRÜNLERİ KANUNU",
+  "slug": "1380-su-urunleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1380.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1380",
+  "source_type": "KANUN",
+  "content_sha256": "65576e01c584b09d789e18332867954f20a252ce3b2c8ae7b895bd2a5b7b7919",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

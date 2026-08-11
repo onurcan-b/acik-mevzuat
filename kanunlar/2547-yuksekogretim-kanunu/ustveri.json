@@ -1,0 +1,18 @@
+{
+  "law_number": "2547",
+  "title": "YÜKSEKÖĞRETİM KANUNU",
+  "slug": "2547-yuksekogretim-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2547.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2547",
+  "source_type": "KANUN",
+  "content_sha256": "2bef924e70c2ad744552a6dd89446e090bb28670001df5db87d71ea49b7c5c60",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

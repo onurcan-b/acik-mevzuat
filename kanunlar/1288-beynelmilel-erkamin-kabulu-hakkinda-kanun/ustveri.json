@@ -1,0 +1,18 @@
+{
+  "law_number": "1288",
+  "title": "BEYNELMİLEL ERKAMIN KABULÜ HAKKINDA KANUN",
+  "slug": "1288-beynelmilel-erkamin-kabulu-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1288.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.1288",
+  "source_type": "KANUN",
+  "content_sha256": "7167ea5ec1d9679ce03114f7e7a2554909c2996527dafc221480c31c7d4dbf9f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

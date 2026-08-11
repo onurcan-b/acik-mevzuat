@@ -1,0 +1,18 @@
+{
+  "law_number": "4654",
+  "title": "MEMLEKET İÇİ DÜŞMANA KARŞI SİLAHLI MÜDAFAA MÜKELLEFİYETİ KANUNU",
+  "slug": "4654-memleket-ici-dusmana-karsi-silahli-mudafaa-mukellefiyeti-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4654.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4654",
+  "source_type": "KANUN",
+  "content_sha256": "a29b3d9ff87fa8b0530387823b8f3b952c96a26a57b5f9d7c6754e948e1b793a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

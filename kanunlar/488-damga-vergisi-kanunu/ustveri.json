@@ -1,0 +1,18 @@
+{
+  "law_number": "488",
+  "title": "DAMGA VERGİSİ KANUNU",
+  "slug": "488-damga-vergisi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.488.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.488",
+  "source_type": "KANUN",
+  "content_sha256": "ee106101e80e02ffea958f0a3d5b51de50e34b4d78866831b8a7815e580effb7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

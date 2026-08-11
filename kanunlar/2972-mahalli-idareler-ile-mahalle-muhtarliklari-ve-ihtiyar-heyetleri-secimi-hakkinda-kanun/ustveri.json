@@ -1,0 +1,18 @@
+{
+  "law_number": "2972",
+  "title": "MAHALLİ İDARELER İLE MAHALLE MUHTARLIKLARI VE İHTİYAR HEYETLERİ SEÇİMİ HAKKINDA KANUN",
+  "slug": "2972-mahalli-idareler-ile-mahalle-muhtarliklari-ve-ihtiyar-heyetleri-secimi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2972.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2972",
+  "source_type": "KANUN",
+  "content_sha256": "e63aa14958a0c3689385ad3ff4d3491d683c878d0fe3a60b6c7cf8e8519e0578",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

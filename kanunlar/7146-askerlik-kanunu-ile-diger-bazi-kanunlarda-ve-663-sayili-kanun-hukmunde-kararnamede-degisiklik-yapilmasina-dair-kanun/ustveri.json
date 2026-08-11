@@ -1,0 +1,18 @@
+{
+  "law_number": "7146",
+  "title": "ASKERLİK KANUNU İLE DİĞER BAZI KANUNLARDA VE 663 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "7146-askerlik-kanunu-ile-diger-bazi-kanunlarda-ve-663-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7146.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7146",
+  "source_type": "KANUN",
+  "content_sha256": "137547e830b9d145fd3162f95f6f8d319c0004fb8d25233c15d991fbcfd6c4cc",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "697",
+  "title": "ULAŞTIRMA VE HABERLEŞME HİZMETLERİNİN OLAĞANÜSTÜ HALLERDE VE SAVAŞTA NE SURETLE YÜRÜTÜLECEĞİNE DAİR KANUN",
+  "slug": "697-ulastirma-ve-haberlesme-hizmetlerinin-olaganustu-hallerde-ve-savasta-ne-suretle-yurutulecegine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.697.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.697",
+  "source_type": "KANUN",
+  "content_sha256": "9eb040b0fc1f9580cca7c6018b9738699aa9bc73e426548602d9f38947284b84",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

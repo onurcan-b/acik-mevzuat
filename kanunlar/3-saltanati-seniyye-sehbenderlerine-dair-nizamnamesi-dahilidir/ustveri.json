@@ -1,0 +1,20 @@
+{
+  "law_number": "3",
+  "title": "SALTANATI SENİYYE ŞEHBENDERLERİNE DAİR NİZAMNAMESİ DAHİLİDİR",
+  "slug": "3-saltanati-seniyye-sehbenderlerine-dair-nizamnamesi-dahilidir",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.3.pdf",
+  "language": "tr",
+  "tags": [
+    "upstream-unparsed"
+  ],
+  "source_mevzuat_id": "0.1.3",
+  "source_type": "KANUN",
+  "content_sha256": "f4e0c2c066be73fd538b584314814ade3890ffa54e0fa69e7f7c2484eadac5c5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

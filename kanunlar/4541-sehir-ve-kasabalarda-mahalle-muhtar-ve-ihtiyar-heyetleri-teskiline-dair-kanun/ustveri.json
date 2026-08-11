@@ -1,0 +1,18 @@
+{
+  "law_number": "4541",
+  "title": "ŞEHİR VE KASABALARDA MAHALLE MUHTAR VE İHTİYAR HEYETLERİ TEŞKİLİNE DAİR KANUN",
+  "slug": "4541-sehir-ve-kasabalarda-mahalle-muhtar-ve-ihtiyar-heyetleri-teskiline-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4541.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4541",
+  "source_type": "KANUN",
+  "content_sha256": "7c5fedb45d29228791d07380668cba799148d594fbb487640ec1bfcf974ccaaf",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

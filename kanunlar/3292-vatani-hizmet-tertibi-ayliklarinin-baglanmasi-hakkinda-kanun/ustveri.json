@@ -1,0 +1,18 @@
+{
+  "law_number": "3292",
+  "title": "VATANİ HİZMET TERTİBİ AYLIKLARININ BAĞLANMASI HAKKINDA KANUN",
+  "slug": "3292-vatani-hizmet-tertibi-ayliklarinin-baglanmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3292.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3292",
+  "source_type": "KANUN",
+  "content_sha256": "9183d24cbc7c4cd052fb38b67749f10c1972bd0ddee7a22fc2825318e893bfd5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "2108",
+  "title": "MUHTAR ÖDENEK VE SOSYAL GÜVENLİK YASASI",
+  "slug": "2108-muhtar-odenek-ve-sosyal-guvenlik-yasasi",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2108.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2108",
+  "source_type": "KANUN",
+  "content_sha256": "a70ff9c2d290fd5be9ddf699c0080dd6f53d1e0ac65fa6e1406d808337191ac6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "2531",
+  "title": "KAMU GÖREVLERİNDEN AYRILANLARIN YAPAMAYACAKLARI İŞLER HAKKINDA KANUN",
+  "slug": "2531-kamu-gorevlerinden-ayrilanlarin-yapamayacaklari-isler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2531.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2531",
+  "source_type": "KANUN",
+  "content_sha256": "19f99f34bbc57005cc75738950a01dd2f28a5780abf83a924987255db0f18e9d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

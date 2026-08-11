@@ -1,0 +1,18 @@
+{
+  "law_number": "4483",
+  "title": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİNİN YARGILANMASI HAKKINDA KANUN",
+  "slug": "4483-memurlar-ve-diger-kamu-gorevlilerinin-yargilanmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4483.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4483",
+  "source_type": "KANUN",
+  "content_sha256": "cabd36e687bf5dd018fc361b59a070e00b080c3885fe0e10e8895e90d9137217",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

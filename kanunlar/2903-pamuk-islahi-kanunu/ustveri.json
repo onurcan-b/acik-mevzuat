@@ -1,0 +1,18 @@
+{
+  "law_number": "2903",
+  "title": "PAMUK ISLAHI KANUNU",
+  "slug": "2903-pamuk-islahi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2903.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.2903",
+  "source_type": "KANUN",
+  "content_sha256": "d2245115c2bb122fbb54aa84e1bbd5770a5e462990c7c0565a0dc536089fb478",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

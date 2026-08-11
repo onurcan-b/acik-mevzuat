@@ -1,0 +1,18 @@
+{
+  "law_number": "6475",
+  "title": "POSTA HİZMETLERİ KANUNU",
+  "slug": "6475-posta-hizmetleri-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6475.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6475",
+  "source_type": "KANUN",
+  "content_sha256": "074d23f82836e62f22c0d631b4920b5b7e09693f3cdc46792d7ae133674c8214",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

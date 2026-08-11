@@ -1,0 +1,18 @@
+{
+  "law_number": "1325",
+  "title": "ASKERİ OKULLAR, ASKERİ ÖĞRENCİLER, ASKERİ FABRİKALAR VE BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "1325-askeri-okullar-askeri-ogrenciler-askeri-fabrikalar-ve-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1325.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1325",
+  "source_type": "KANUN",
+  "content_sha256": "c336560507f5357dbd6a372de3174b7ebbb6e1bad9537a515fe71a066c6978fc",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

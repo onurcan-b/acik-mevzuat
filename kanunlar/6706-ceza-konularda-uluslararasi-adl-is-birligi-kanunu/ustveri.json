@@ -1,0 +1,18 @@
+{
+  "law_number": "6706",
+  "title": "CEZAÎ KONULARDA ULUSLARARASI ADLÎ İŞ BİRLİĞİ KANUNU",
+  "slug": "6706-ceza-konularda-uluslararasi-adl-is-birligi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6706.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6706",
+  "source_type": "KANUN",
+  "content_sha256": "3dd6ec816f8ca38df93e2bbfd301beee39fbb9c0b908bcf51c8e03e98955148d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

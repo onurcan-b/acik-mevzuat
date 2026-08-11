@@ -1,0 +1,18 @@
+{
+  "law_number": "2247",
+  "title": "UYUŞMAZLIK MAHKEMESİNİN KURULUŞ VE İŞLEYİŞİ HAKKINDA KANUN",
+  "slug": "2247-uyusmazlik-mahkemesinin-kurulus-ve-isleyisi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2247.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2247",
+  "source_type": "KANUN",
+  "content_sha256": "029ddd8c3c7fd75816b2e2bc89f25b018cb9510c88dcfe3286d2f7ea8b8616a4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "7103",
+  "title": "VERGİ KANUNLARI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "7103-vergi-kanunlari-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7103.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7103",
+  "source_type": "KANUN",
+  "content_sha256": "df851a084873d0762709225319f0dc0a91fac3085fbc2b2329a279d63a315c9b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

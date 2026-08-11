@@ -1,0 +1,18 @@
+{
+  "law_number": "854",
+  "title": "DENİZ İŞ KANUNU",
+  "slug": "854-deniz-is-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.854.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.854",
+  "source_type": "KANUN",
+  "content_sha256": "8464853ed34cfb82e8822a958578fa7524611e2f4d3c01f48af06fcff2cff6c1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

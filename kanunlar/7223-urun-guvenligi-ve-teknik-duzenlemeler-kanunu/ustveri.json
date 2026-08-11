@@ -1,0 +1,18 @@
+{
+  "law_number": "7223",
+  "title": "ÜRÜN GÜVENLİĞİ VE TEKNİK DÜZENLEMELER KANUNU",
+  "slug": "7223-urun-guvenligi-ve-teknik-duzenlemeler-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7223.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7223",
+  "source_type": "KANUN",
+  "content_sha256": "4df7d2edd39c5c36877f754e867ccefd3b22da3b20b6f808b942aef7aad0bee2",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

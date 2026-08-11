@@ -1,0 +1,18 @@
+{
+  "law_number": "6107",
+  "title": "İLLER BANKASI ANONİM ŞİRKETİ HAKKINDA KANUN",
+  "slug": "6107-iller-bankasi-anonim-sirketi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6107.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6107",
+  "source_type": "KANUN",
+  "content_sha256": "7900063eae88f2bb8cfca14285f7b7f736ba8addcf29c8dad245d45580c3e624",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

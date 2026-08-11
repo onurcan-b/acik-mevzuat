@@ -1,0 +1,18 @@
+{
+  "law_number": "6271",
+  "title": "CUMHURBAŞKANI SEÇİMİ KANUNU",
+  "slug": "6271-cumhurbaskani-secimi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6271.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6271",
+  "source_type": "KANUN",
+  "content_sha256": "fa3043e1bff49bd18142faea7c699f2b50c91d837c602ce8c794e689d0638b00",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

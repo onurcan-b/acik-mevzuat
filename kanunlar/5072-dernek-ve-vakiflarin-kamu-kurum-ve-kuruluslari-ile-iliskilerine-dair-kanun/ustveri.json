@@ -1,0 +1,18 @@
+{
+  "law_number": "5072",
+  "title": "DERNEK VE VAKIFLARIN KAMU KURUM VE KURULUŞLARI İLE İLİŞKİLERİNE DAİR KANUN",
+  "slug": "5072-dernek-ve-vakiflarin-kamu-kurum-ve-kuruluslari-ile-iliskilerine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5072.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5072",
+  "source_type": "KANUN",
+  "content_sha256": "89207f2e21e1fd5bf76e285e3eff729c4d1c7c05ac620212c08aacaf5e8afad8",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

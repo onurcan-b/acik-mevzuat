@@ -1,0 +1,18 @@
+{
+  "law_number": "4109",
+  "title": "ASKER AİLELERİNDEN MUHTAÇ OLANLARA YARDIM HAKKINDA KANUN",
+  "slug": "4109-asker-ailelerinden-muhtac-olanlara-yardim-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4109.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4109",
+  "source_type": "KANUN",
+  "content_sha256": "c27d8a21be973c6c6955a1d4b0c0ff60c29b7d9cb741db464db9f2aecd534677",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

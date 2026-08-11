@@ -1,0 +1,18 @@
+{
+  "law_number": "5368",
+  "title": "VEREM SAVAŞI HAKKINDA KANUN",
+  "slug": "5368-verem-savasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5368.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.5368",
+  "source_type": "KANUN",
+  "content_sha256": "6d366b5afb89515d09f85d7d1b21313223568e3983b20db12b6c2fd79825b237",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

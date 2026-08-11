@@ -1,0 +1,18 @@
+{
+  "law_number": "221",
+  "title": "AMME HÜKMÜ ŞAHISLARI VEYA MÜESSESELERİ TARAFINDAN FİİLEN AMME HİZMETLERİNE TAHSİS EDİLMİŞ GAYRİMENKULLER HAKKINDA KANUN",
+  "slug": "221-amme-hukmu-sahislari-veya-muesseseleri-tarafindan-fiilen-amme-hizmetlerine-tahsis-edilmis-gayrimenkuller-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.221.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.4.221",
+  "source_type": "KANUN",
+  "content_sha256": "39beef0386a056054f6b5059c636ccac13537697b7619ac95f97b6ea22c946c5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

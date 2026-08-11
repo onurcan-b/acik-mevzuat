@@ -1,0 +1,18 @@
+{
+  "law_number": "5607",
+  "title": "KAÇAKÇILIKLA MÜCADELE KANUNU",
+  "slug": "5607-kacakcilikla-mucadele-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5607.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5607",
+  "source_type": "KANUN",
+  "content_sha256": "ff88445f082c59d4fc4688613156ecf9e622eca596ffb1cbbbfe9ee5833a8d9f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

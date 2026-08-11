@@ -1,0 +1,18 @@
+{
+  "law_number": "2797",
+  "title": "YARGITAY KANUNU",
+  "slug": "2797-yargitay-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2797.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2797",
+  "source_type": "KANUN",
+  "content_sha256": "22c601704fba58e830092640f55288bc91632c74f04713409a929c7da8f5715d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

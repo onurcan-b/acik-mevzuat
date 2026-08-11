@@ -1,0 +1,18 @@
+{
+  "law_number": "6306",
+  "title": "AFET RİSKİ ALTINDAKİ ALANLARIN DÖNÜŞTÜRÜLMESİ HAKKINDA KANUN",
+  "slug": "6306-afet-riski-altindaki-alanlarin-donusturulmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6306.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6306",
+  "source_type": "KANUN",
+  "content_sha256": "6f78c7a7dfeeeae62d0ce79fd09dba180cc63fc4647865e7a5e849dadc5f2508",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

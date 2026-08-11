@@ -1,0 +1,18 @@
+{
+  "law_number": "697",
+  "title": "GÜNÜN YİRMİDÖRT SAATE TAKSİMİNE DAİR KANUN",
+  "slug": "697-gunun-yirmidort-saate-taksimine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.697.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.697",
+  "source_type": "KANUN",
+  "content_sha256": "043c74d3b30443beae5c882d0ed73280e490b0bd9a91bfd5b2c0439365a0c93e",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

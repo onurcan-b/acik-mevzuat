@@ -1,0 +1,18 @@
+{
+  "law_number": "5736",
+  "title": "BAZI KAMU ALACAKLARININ UZLAŞMA USULÜ İLE TAHSİLİ HAKKINDA KANUN",
+  "slug": "5736-bazi-kamu-alacaklarinin-uzlasma-usulu-ile-tahsili-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5736.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5736",
+  "source_type": "KANUN",
+  "content_sha256": "51dc0cbc70bf9ee2f929a38ef8cb6eddfd8ba7f93a0fdec4d8a4b9948c3e121f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

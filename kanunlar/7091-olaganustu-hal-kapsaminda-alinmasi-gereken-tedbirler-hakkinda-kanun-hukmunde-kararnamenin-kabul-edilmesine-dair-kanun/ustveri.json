@@ -1,0 +1,18 @@
+{
+  "law_number": "7091",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ALINMASI GEREKEN TEDBİRLER HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+  "slug": "7091-olaganustu-hal-kapsaminda-alinmasi-gereken-tedbirler-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7091.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.7091",
+  "source_type": "KANUN",
+  "content_sha256": "0a8a56e48a03048ce744a5f2b09107dc3fd0c2e4032c36936e5895b447dbf60b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

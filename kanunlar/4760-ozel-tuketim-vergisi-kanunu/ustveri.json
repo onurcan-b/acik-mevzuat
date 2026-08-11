@@ -1,0 +1,18 @@
+{
+  "law_number": "4760",
+  "title": "ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "slug": "4760-ozel-tuketim-vergisi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4760.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4760",
+  "source_type": "KANUN",
+  "content_sha256": "178773abf6533a368fb3ede229b85f5197c479fa98eaf16c1c2105707b858cd6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

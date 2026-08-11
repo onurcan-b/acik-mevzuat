@@ -1,0 +1,18 @@
+{
+  "law_number": "3488",
+  "title": "UYGULANMA İMKANI KALMAMIŞ OLAN KANUNLARIN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN",
+  "slug": "3488-uygulanma-imkani-kalmamis-olan-kanunlarin-yururlukten-kaldirilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3488.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3488",
+  "source_type": "KANUN",
+  "content_sha256": "013e015f033886ea555f61714fcde940b6b95986709bfe228c860f5366a11984",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

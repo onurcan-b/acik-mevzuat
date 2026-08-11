@@ -1,0 +1,18 @@
+{
+  "law_number": "4274",
+  "title": "KÖY OKULLARI VE ENSTİTÜLERİ TEŞKİLAT KANUNU",
+  "slug": "4274-koy-okullari-ve-enstituleri-teskilat-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4274.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4274",
+  "source_type": "KANUN",
+  "content_sha256": "3ee7839b8ba03a5fc25785b2eddd85b48a2ad365dbd788b4f43d13fc0c39288b",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

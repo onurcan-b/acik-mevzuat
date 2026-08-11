@@ -1,0 +1,18 @@
+{
+  "law_number": "3577",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİ HAKKINDA KANUN",
+  "slug": "3577-ithalatta-haksiz-rekabetin-onlenmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3577.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3577",
+  "source_type": "KANUN",
+  "content_sha256": "eaf884b4768efbfbe5f8b4dbfab57d1dddf011ead6751f64413a6615088a83e1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

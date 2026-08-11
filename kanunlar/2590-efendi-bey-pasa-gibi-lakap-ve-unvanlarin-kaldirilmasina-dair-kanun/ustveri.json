@@ -1,0 +1,18 @@
+{
+  "law_number": "2590",
+  "title": "EFENDİ, BEY, PAŞA GİBİ LAKAP VE ÜNVANLARIN KALDIRILMASINA DAİR KANUN",
+  "slug": "2590-efendi-bey-pasa-gibi-lakap-ve-unvanlarin-kaldirilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2590.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.2590",
+  "source_type": "KANUN",
+  "content_sha256": "eb54886b860a4362dafbe09fcf00517642383df20b0a5424a507c858af78a7f5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

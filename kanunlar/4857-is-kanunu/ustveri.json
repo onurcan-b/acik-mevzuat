@@ -1,6 +1,6 @@
 {
   "law_number": "4857",
-  "title": "İş Kanunu",
+  "title": "İŞ KANUNU",
   "slug": "4857-is-kanunu",
   "accepted_date": "2003-05-22",
   "effective_status": "in_force",
@@ -8,7 +8,15 @@
     "date": "2003-06-10",
     "number": "25134"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4857.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf",
   "language": "tr",
-  "tags": ["is_hukuku", "isci", "isveren"]
+  "tags": [
+    "is_hukuku",
+    "isci",
+    "isveren"
+  ],
+  "source_mevzuat_id": "1.5.4857",
+  "source_type": "KANUN",
+  "content_sha256": "0b31f91ec87a8ce204b72c42940b7a2b698f2f4d15bf5d7b6060bd9fc58aa6e4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "4081",
+  "title": "ÇİFTÇİ MALLARININ KORUNMASI HAKKINDA KANUN",
+  "slug": "4081-ciftci-mallarinin-korunmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4081.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.4081",
+  "source_type": "KANUN",
+  "content_sha256": "e9c0c1f9aee02492dc627d8748dba05603c439c866baf286989bf65972a01eb3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

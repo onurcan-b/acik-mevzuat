@@ -1,0 +1,18 @@
+{
+  "law_number": "3283",
+  "title": "BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK MUAFİYETLERİNİN KALDIRILMASI HAKKINDA KANUN",
+  "slug": "3283-bazi-kanunlarla-taninmis-olan-gumruk-muafiyetlerinin-kaldirilmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3283.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3283",
+  "source_type": "KANUN",
+  "content_sha256": "5d037b8279ad308ed80ce28543b7cf50708ad60b1ec777adefc6d143abca2c79",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

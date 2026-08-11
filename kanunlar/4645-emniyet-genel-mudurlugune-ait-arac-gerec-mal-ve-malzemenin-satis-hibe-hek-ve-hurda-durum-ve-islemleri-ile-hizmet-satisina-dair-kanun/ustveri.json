@@ -1,0 +1,18 @@
+{
+  "law_number": "4645",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜNE AİT ARAÇ, GEREÇ, MAL VE MALZEMENİN SATIŞ, HİBE, HEK VE HURDA DURUM VE İŞLEMLERİ İLE HİZMET SATIŞINA DAİR KANUN",
+  "slug": "4645-emniyet-genel-mudurlugune-ait-arac-gerec-mal-ve-malzemenin-satis-hibe-hek-ve-hurda-durum-ve-islemleri-ile-hizmet-satisina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4645.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4645",
+  "source_type": "KANUN",
+  "content_sha256": "b8ffbf36fd17ccb9a5f882fc484002e2cd80324520d69eeb03741bd3d9c0ed48",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

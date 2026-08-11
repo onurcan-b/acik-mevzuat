@@ -1,0 +1,18 @@
+{
+  "law_number": "3071",
+  "title": "DİLEKÇE HAKKININ KULLANILMASINA DAİR KANUN",
+  "slug": "3071-dilekce-hakkinin-kullanilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3071.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3071",
+  "source_type": "KANUN",
+  "content_sha256": "75e9832403cb63bcacfeeee739b664773b843b0a0fceb1dd03a387a98a20f68a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

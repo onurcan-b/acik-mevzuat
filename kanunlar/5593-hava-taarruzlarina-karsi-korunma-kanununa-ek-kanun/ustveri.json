@@ -1,0 +1,18 @@
+{
+  "law_number": "5593",
+  "title": "HAVA TAARRUZLARINA KARŞI KORUNMA KANUNUNA EK KANUN",
+  "slug": "5593-hava-taarruzlarina-karsi-korunma-kanununa-ek-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5593.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.5593",
+  "source_type": "KANUN",
+  "content_sha256": "7e3b72949779c7ba13d4a46cadbe5b49606636726eb5a43e32406b6650c76124",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

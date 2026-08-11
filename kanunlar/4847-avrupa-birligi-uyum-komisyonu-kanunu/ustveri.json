@@ -1,0 +1,18 @@
+{
+  "law_number": "4847",
+  "title": "AVRUPA BİRLİĞİ UYUM KOMİSYONU KANUNU",
+  "slug": "4847-avrupa-birligi-uyum-komisyonu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4847.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4847",
+  "source_type": "KANUN",
+  "content_sha256": "1337f325028e4ac8d004709e801ad9871f9d6f82bea9b523dc8f4f5fcd0a62d5",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4046",
+  "title": "ÖZELLEŞTİRME UYGULAMALARI HAKKINDA KANUN",
+  "slug": "4046-ozellestirme-uygulamalari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4046.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.4046",
+  "source_type": "KANUN",
+  "content_sha256": "f38c74071508d35111e10a96ba7f5834ad6f89a63a30c56f2098d02de08447b6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "6362",
+  "title": "SERMAYE PİYASASI KANUNU",
+  "slug": "6362-sermaye-piyasasi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6362.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6362",
+  "source_type": "KANUN",
+  "content_sha256": "b9d7b34f486c781a9d4e3df330649ae90d8b4a3b04446107d513e8a42e493ee6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

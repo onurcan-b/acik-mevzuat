@@ -1,0 +1,18 @@
+{
+  "law_number": "5449",
+  "title": "KALKINMA AJANSLARININ HİZMETLERİNE İLİŞKİN KANUN",
+  "slug": "5449-kalkinma-ajanslarinin-hizmetlerine-iliskin-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5449.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5449",
+  "source_type": "KANUN",
+  "content_sha256": "c13693f15e644daa8434e91642b1f1bd8478b0bfae55913d9bfd4b6def3a6069",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

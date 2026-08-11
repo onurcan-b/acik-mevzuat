@@ -1,0 +1,18 @@
+{
+  "law_number": "2634",
+  "title": "TURİZMİ TEŞVİK KANUNU",
+  "slug": "2634-turizmi-tesvik-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2634.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2634",
+  "source_type": "KANUN",
+  "content_sha256": "06a9547798d24e86146175e8de4eb33694f058e54de109846a5db3d1bf80dd5a",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

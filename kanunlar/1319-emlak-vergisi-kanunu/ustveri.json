@@ -1,0 +1,18 @@
+{
+  "law_number": "1319",
+  "title": "EMLAK VERGİSİ KANUNU",
+  "slug": "1319-emlak-vergisi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1319.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.1319",
+  "source_type": "KANUN",
+  "content_sha256": "8e14c7ec0f3dbd445773d6fbe2b7dde27870179beac070f6f10738d2222ae422",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

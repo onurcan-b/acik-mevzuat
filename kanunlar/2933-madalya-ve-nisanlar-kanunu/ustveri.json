@@ -1,0 +1,18 @@
+{
+  "law_number": "2933",
+  "title": "MADALYA VE NİŞANLAR KANUNU",
+  "slug": "2933-madalya-ve-nisanlar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2933.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2933",
+  "source_type": "KANUN",
+  "content_sha256": "7bad3231a9c438118542b8ab11a8fdb82a5c78e2352d4657667c9c04c8a4d571",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

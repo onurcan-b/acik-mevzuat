@@ -1,0 +1,18 @@
+{
+  "law_number": "5147",
+  "title": "ENTEGRE DEVRE TOPOĞRAFYALARININ KORUNMASI HAKKINDA KANUN",
+  "slug": "5147-entegre-devre-topografyalarinin-korunmasi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5147.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5147",
+  "source_type": "KANUN",
+  "content_sha256": "1234b3a994be2347f3a5da01fa73f75155349b6a87d3dc3713992b407272df0d",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

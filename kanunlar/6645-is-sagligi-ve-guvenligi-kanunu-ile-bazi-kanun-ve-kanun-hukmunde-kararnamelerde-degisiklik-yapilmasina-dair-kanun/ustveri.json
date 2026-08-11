@@ -1,0 +1,18 @@
+{
+  "law_number": "6645",
+  "title": "İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA  DAİR KANUN",
+  "slug": "6645-is-sagligi-ve-guvenligi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6645.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6645",
+  "source_type": "KANUN",
+  "content_sha256": "fb0baf50d2e2f2e50065dd09300a98c6c41e0d7a3c1afa53d65e03e50b09b0b3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

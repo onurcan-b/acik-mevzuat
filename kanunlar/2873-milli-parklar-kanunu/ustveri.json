@@ -1,0 +1,18 @@
+{
+  "law_number": "2873",
+  "title": "MİLLİ PARKLAR KANUNU",
+  "slug": "2873-milli-parklar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2873.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.2873",
+  "source_type": "KANUN",
+  "content_sha256": "fc851b2a65b861ce8579e6b8e30add1f869069f2187147e250d7945846580cb4",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

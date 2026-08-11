@@ -1,0 +1,18 @@
+{
+  "law_number": "5289",
+  "title": "MEMUR VE DİĞER KAMU GÖREVLİLERİNE BİR DERECE VERİLMESİ HAKKINDA KANUN",
+  "slug": "5289-memur-ve-diger-kamu-gorevlilerine-bir-derece-verilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5289.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5289",
+  "source_type": "KANUN",
+  "content_sha256": "a9f5ba7791d227c817ab799fe4a8eba4f4f30f3a60fba60da76b533f03ca8bb1",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

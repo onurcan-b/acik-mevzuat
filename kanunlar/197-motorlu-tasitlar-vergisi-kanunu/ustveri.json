@@ -1,0 +1,18 @@
+{
+  "law_number": "197",
+  "title": "MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "slug": "197-motorlu-tasitlar-vergisi-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.197.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.197",
+  "source_type": "KANUN",
+  "content_sha256": "22afb59e33ca5a284b225821d8a8edb44e32c40784124d9dbc96faa4568dc9c6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

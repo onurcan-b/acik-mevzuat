@@ -1,0 +1,18 @@
+{
+  "law_number": "210",
+  "title": "DEĞERLİ KAĞITLAR KANUNU",
+  "slug": "210-degerli-kagitlar-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.210.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.210",
+  "source_type": "KANUN",
+  "content_sha256": "332c8cd03f8c2470c6bdec185dba8469fc8283521f8daf3858926a28470da5a6",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

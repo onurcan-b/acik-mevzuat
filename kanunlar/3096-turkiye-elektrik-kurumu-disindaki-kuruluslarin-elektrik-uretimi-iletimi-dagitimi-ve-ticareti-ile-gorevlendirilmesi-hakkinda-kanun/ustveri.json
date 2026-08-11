@@ -1,0 +1,18 @@
+{
+  "law_number": "3096",
+  "title": "TÜRKİYE ELEKTRİK KURUMU DIŞINDAKİ KURULUŞLARIN ELEKTRİK ÜRETİMİ, İLETİMİ, DAĞITIMI VE TİCARETİ İLE GÖREVLENDİRİLMESİ HAKKINDA KANUN",
+  "slug": "3096-turkiye-elektrik-kurumu-disindaki-kuruluslarin-elektrik-uretimi-iletimi-dagitimi-ve-ticareti-ile-gorevlendirilmesi-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3096.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3096",
+  "source_type": "KANUN",
+  "content_sha256": "9282f6e936e1930bd000d2e3e9df281a4b78a3f21cf1f3788b107deba3e8f4c3",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

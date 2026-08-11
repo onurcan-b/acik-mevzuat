@@ -1,0 +1,18 @@
+{
+  "law_number": "6087",
+  "title": "HAKİMLER VE SAVCILAR KURULU KANUNU",
+  "slug": "6087-hakimler-ve-savcilar-kurulu-kanunu",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6087.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.6087",
+  "source_type": "KANUN",
+  "content_sha256": "a69c701b75d83f766bcea6ab699b0ddd3e5abac413193bc1d56e468e4cd798be",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

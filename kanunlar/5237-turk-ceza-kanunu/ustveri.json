@@ -8,7 +8,15 @@
     "date": "2004-10-12",
     "number": "25611"
   },
-  "source_url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5237.pdf",
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf",
   "language": "tr",
-  "tags": ["ceza_hukuku", "genel_hukumler", "suclar_ve_cezalar"]
+  "tags": [
+    "ceza_hukuku",
+    "genel_hukumler",
+    "suclar_ve_cezalar"
+  ],
+  "source_mevzuat_id": "1.5.5237",
+  "source_type": "KANUN",
+  "content_sha256": "3b1f7d318be37956e3bd4eb2cf9830b8c7a178e91a9ba5c6908cc56b0e3c4a3f",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
 }

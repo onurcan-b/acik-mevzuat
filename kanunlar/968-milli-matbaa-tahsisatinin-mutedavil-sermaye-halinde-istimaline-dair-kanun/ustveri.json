@@ -1,0 +1,18 @@
+{
+  "law_number": "968",
+  "title": "MİLLİ MATBAA TAHSİSATININ MÜTEDAVİL SERMAYE HALİNDE İSTİMALİNE DAİR KANUN",
+  "slug": "968-milli-matbaa-tahsisatinin-mutedavil-sermaye-halinde-istimaline-dair-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.968.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.3.968",
+  "source_type": "KANUN",
+  "content_sha256": "3213c1dbfc01efb518cbf6312a7d34e60a0289843039c80b2bb2b1b7b814c6d7",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

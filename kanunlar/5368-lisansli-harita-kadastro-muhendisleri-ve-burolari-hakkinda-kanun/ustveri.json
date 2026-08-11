@@ -1,0 +1,18 @@
+{
+  "law_number": "5368",
+  "title": "LİSANSLI HARİTA KADASTRO MÜHENDİSLERİ VE BÜROLARI HAKKINDA KANUN",
+  "slug": "5368-lisansli-harita-kadastro-muhendisleri-ve-burolari-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5368.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.5368",
+  "source_type": "KANUN",
+  "content_sha256": "6d49ab04cec5e7229bc724059b08f899aff2b1a99c52d80a1ca27b59b5196538",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}

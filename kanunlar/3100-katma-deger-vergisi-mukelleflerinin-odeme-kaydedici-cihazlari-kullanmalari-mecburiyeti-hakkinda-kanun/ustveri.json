@@ -1,0 +1,18 @@
+{
+  "law_number": "3100",
+  "title": "KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "slug": "3100-katma-deger-vergisi-mukelleflerinin-odeme-kaydedici-cihazlari-kullanmalari-mecburiyeti-hakkinda-kanun",
+  "accepted_date": null,
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": null
+  },
+  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3100.pdf",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "1.5.3100",
+  "source_type": "KANUN",
+  "content_sha256": "5e47fd7f21963c81fa89f2b8931632d19c1d79c808c1a841c3871fdf4287dfed",
+  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+}
