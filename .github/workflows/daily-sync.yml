@@ -4,16 +4,19 @@ on:
   push:
     branches: [main]
     paths:
-      - "betikler/senkronize.py"
+      - "betikler/upstream_senkronize.py"
+      - "betikler/dogrula.py"
       - "requirements.txt"
       - ".github/workflows/daily-sync.yml"
   schedule:
-    - cron: "17 3 * * *"
+    # OpenMevzuat'ın günlük resmi-kaynak senkronizasyonundan sonra çalışır.
+    - cron: "30 7 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
+  checks: read
 
 concurrency:
   group: mevzuat-daily-sync
@@ -22,7 +25,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 45
 
     steps:
       - name: Repoyu al
@@ -39,8 +42,14 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
-      - name: Tüm yürürlükteki ve mülga kanunları senkronize et
-        run: python betikler/senkronize.py --types KANUN,MULGA --workers 1 --delay 0.65 --max-errors 0
+      - name: Güncel OpenMevzuat snapshot'ını al
+        run: |
+          rm -rf /tmp/openmevzuat
+          git clone --depth 1 https://github.com/openmevzuat/openmevzuat.git /tmp/openmevzuat
+          git -C /tmp/openmevzuat log -1 --oneline
+
+      - name: Tüm güncel kanunları ve Anayasa'yı senkronize et
+        run: python betikler/upstream_senkronize.py /tmp/openmevzuat --min-documents 900
 
       - name: Metadata doğrulaması
         run: python betikler/dogrula.py
@@ -48,18 +57,19 @@ jobs:
       - name: Diff kontrolü
         run: git diff --check
 
-      - name: Değişiklik yoksa çık
+      - name: Değişiklik kontrolü
         id: changes
         shell: bash
         run: |
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain -- kanunlar indeks.json .openmevzuat-upstream.json)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Resmî kaynakta değişiklik yok."
+            echo "Upstream snapshot ile repo zaten aynı."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
+            git status --short -- kanunlar indeks.json .openmevzuat-upstream.json | head -100
           fi
 
-      - name: Otomatik veri PR'ı oluştur ve merge et
+      - name: Otomatik veri PR'ı oluştur, kontrolleri bekle ve merge et
         if: steps.changes.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -67,12 +77,13 @@ jobs:
         run: |
           BRANCH="automation/mevzuat-sync"
           DATE="$(date -u +%F)"
+          UPSTREAM="$(git -C /tmp/openmevzuat rev-parse --short=12 HEAD)"
 
           git config user.name "acik-mevzuat-bot"
           git config user.email "actions@users.noreply.github.com"
           git checkout -B "$BRANCH"
-          git add kanunlar indeks.json
-          git commit -m "chore(data): günlük mevzuat senkronizasyonu $DATE"
+          git add -A kanunlar indeks.json .openmevzuat-upstream.json
+          git commit -m "chore(data): mevzuat snapshot $DATE ($UPSTREAM)"
           git push --force origin "$BRANCH"
 
           PR_NUMBER="$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')"
@@ -80,9 +91,12 @@ jobs:
             PR_URL="$(gh pr create \
               --base main \
               --head "$BRANCH" \
-              --title "Günlük mevzuat senkronizasyonu $DATE" \
-              --body "Adalet Bakanlığı resmî mevzuat kaynağından otomatik üretilen veri güncellemesi. Manuel işlem gerektirmez.")"
+              --title "Günlük mevzuat snapshot'ı $DATE" \
+              --body "OpenMevzuat'ın resmi kamu kaynaklarından ürettiği güncel canonical snapshot'ın Açık Mevzuat JSON/Markdown formatına otomatik aktarımı. Upstream: $UPSTREAM. Manuel işlem gerektirmez.")"
             PR_NUMBER="${PR_URL##*/}"
           fi
 
+          # Branch protection varsa doğrulama workflow'unu bekle; kullanıcıdan
+          # günlük review/merge istenmez.
+          gh pr checks "$PR_NUMBER" --watch --interval 10
           gh pr merge "$PR_NUMBER" --squash --delete-branch
