@@ -1,0 +1,63 @@
+name: Günlük mevzuat senkronizasyonu
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "betikler/senkronize.py"
+      - "requirements.txt"
+      - ".github/workflows/daily-sync.yml"
+  schedule:
+    # Türkiye saatiyle yaklaşık 06:17 (yaz saati döneminde).
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mevzuat-daily-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bağımlılıkları kur
+        run: pip install -r requirements.txt
+
+      - name: Yürürlükteki ve mülga kanunları senkronize et
+        run: python betikler/senkronize.py --types KANUN,MULGA --workers 4 --max-errors 3
+
+      - name: Metadata doğrulaması
+        run: python betikler/dogrula.py
+
+      - name: Diff kontrolü
+        run: git diff --check
+
+      - name: Değişiklik varsa commit et
+        shell: bash
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "Resmî kaynakta değişiklik yok."
+            exit 0
+          fi
+
+          git config user.name "acik-mevzuat-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add kanunlar indeks.json
+          git commit -m "chore(data): günlük mevzuat senkronizasyonu $(date -u +%F)"
+          git push

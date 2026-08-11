@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.org/schemas/law.schema.json",
+  "$id": "https://github.com/onurcan-b/acik-mevzuat/blob/main/semalar/kanun.schema.json",
   "title": "TurkishLawDocument",
   "type": "object",
   "required": [
@@ -15,19 +15,18 @@
   ],
   "properties": {
     "law_number": {
-      "type": "string",
-      "pattern": "^[0-9]+$"
+      "type": "string"
     },
     "title": {
       "type": "string",
-      "minLength": 3
+      "minLength": 1
     },
     "slug": {
       "type": "string",
       "pattern": "^[a-z0-9-]+$"
     },
     "accepted_date": {
-      "type": "string",
+      "type": ["string", "null"],
       "format": "date"
     },
     "effective_status": {
@@ -39,11 +38,11 @@
       "required": ["date", "number"],
       "properties": {
         "date": {
-          "type": "string",
+          "type": ["string", "null"],
           "format": "date"
         },
         "number": {
-          "type": "string"
+          "type": ["string", "null"]
         }
       },
       "additionalProperties": false
@@ -61,6 +60,21 @@
       "items": {
         "type": "string"
       }
+    },
+    "source_mevzuat_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "content_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "retrieval_api": {
+      "type": "string",
+      "format": "uri"
     }
   },
   "additionalProperties": false

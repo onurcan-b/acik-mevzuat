@@ -1,4 +1,4 @@
-name: Validate law metadata
+name: Validate law data
 
 on:
   push:
@@ -9,10 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+          cache: pip
+
       - name: Install dependencies
-        run: pip install jsonschema
-      - name: Run validation
+        run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Validate metadata
         run: python betikler/dogrula.py

@@ -1,83 +1,145 @@
 # Açık Mevzuat
 
-Türkiye mevzuatını makine tarafından okunabilir, sürümlenebilir ve doğrulanabilir
-JSON/Markdown formatında tutmayı amaçlayan açık veri deposu.
+Türkiye'deki **kanunları resmî kaynaktan otomatik alan, makine tarafından okunabilir biçimde saklayan ve değişiklikleri Git geçmişiyle izleyen** açık veri deposu.
 
-İlham:
-- Bundestag Gesetze: https://github.com/bundestag/gesetze
-- USA Constitution repo örneği: https://github.com/JesseKPhillips/USA-Constitution
+Veri kaynağı Adalet Bakanlığı'nın mevzuat servisidir. Depo resmî bir hukuk yayını değildir; doğrulama gereken durumlarda her zaman resmî kaynağa başvurulmalıdır.
 
-## Hedefler
+## Nasıl çalışıyor?
 
-- Kanun metinlerini tek tip bir dizin yapısıyla saklamak
-- Her kanun için zengin metadata sağlamak
-- Değişiklik geçmişini git üzerinden takip etmek
-- Arama, karşılaştırma ve analiz için uygun JSON/Markdown kaynakları sunmak
+Her gün GitHub Actions otomatik olarak:
 
-## Önerilen klasör yapısı
+1. Adalet Bakanlığı mevzuat API'sinden yürürlükteki (`KANUN`) ve mülga (`MULGA`) kanunların tamamını listeler.
+2. Her kanunun güncel tam metnini indirir.
+3. Metni kararlı bir metin/Markdown biçimine normalize eder.
+4. SHA-256 özeti hesaplar.
+5. Yalnızca resmî kaynaktaki içerik veya metadata gerçekten değişmişse dosyayı değiştirir.
+6. Değişiklik varsa otomatik Git commit'i oluşturup `main` branch'ine gönderir.
+
+Böylece bir kanunun geçmiş sürümleri ayrıca kopyalanmaz; **Git history zaten sürüm arşividir**.
+
+## Veri yapısı
 
 ```text
 kanunlar/
-  4721-turk-medeni-kanunu/
+  5237-turk-ceza-kanunu/
     ustveri.json
     metin.md
-    gecmis/
-      2024-01-01.md
+indeks.json
 ```
 
-## Format yaklaşımı
+`ustveri.json` örneği:
 
-Her kanun klasöründe:
+```json
+{
+  "law_number": "5237",
+  "title": "Türk Ceza Kanunu",
+  "slug": "5237-turk-ceza-kanunu",
+  "accepted_date": "2004-09-26",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2004-10-12",
+    "number": "25611"
+  },
+  "source_url": "https://...",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "...",
+  "source_type": "KANUN",
+  "content_sha256": "...",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat"
+}
+```
 
-1. `ustveri.json`
-   - kanun numarası
-   - resmi adı
-   - kabul tarihi
-   - yürürlük durumu
-   - resmi gazete bilgisi
-   - kaynak URL
-2. `metin.md`
-   - Madde madde düzenlenmiş metin
-3. `gecmis/*.md`
-   - Sürüm notları ve değişiklik açıklamaları
+`indeks.json`, depodaki otomatik senkronize edilen bütün dokümanların makine tarafından kolayca tüketilebilen listesidir.
 
-## İlk adım planı
+## Günlük otomasyon
 
-1. Veri modeli üzerinde uzlaşma (`semalar/kanun.schema.json`)
-2. İlk örnek kanunları ekleme
-3. Doğrulama script'i (`betikler/dogrula.py`)
-4. Otomatik CI doğrulama
+Workflow:
+
+```text
+.github/workflows/daily-sync.yml
+```
+
+Zamanlanmış çalışma her gün otomatik tetiklenir. Ayrıca GitHub arayüzünden `workflow_dispatch` ile manuel olarak da başlatılabilir.
+
+Workflow doğrudan `main` branch'ine veri commit'i atabilmek için yalnızca:
+
+```yaml
+permissions:
+  contents: write
+```
+
+yetkisini kullanır. Ek API anahtarı veya secret gerekmez.
+
+## Yerelde çalıştırma
+
+```bash
+python -m pip install -r requirements.txt
+python betikler/senkronize.py
+python betikler/dogrula.py
+```
+
+Varsayılan senkronizasyon:
+
+```bash
+python betikler/senkronize.py --types KANUN,MULGA
+```
+
+Diğer mevzuat türleri de aynı altyapıyla desteklenir:
+
+```bash
+python betikler/senkronize.py --types KANUN,KHK,CB_KARARNAME,TUZUK
+```
+
+Desteklenen türler:
+
+- `KANUN`
+- `MULGA`
+- `KHK`
+- `CB_KARARNAME`
+- `TUZUK`
+- `YONETMELIK`
+- `CB_YONETMELIK`
+- `CB_KARAR`
+- `CB_GENELGE`
+- `KKY`
+- `UY`
+- `TEBLIGLER`
+
+## Değişiklik geçmişini görmek
+
+Örneğin Türk Ceza Kanunu için:
+
+```bash
+git log -- kanunlar/5237-turk-ceza-kanunu/
+git diff <eski-commit> <yeni-commit> -- kanunlar/5237-turk-ceza-kanunu/metin.md
+```
+
+Bu sayede "bu kanunun metni ne zaman değişti?" sorusu doğrudan Git üzerinden incelenebilir.
+
+## Doğrulama
+
+Her push ve pull request'te:
+
+- metadata JSON Schema doğrulaması,
+- senkronizasyon yardımcı fonksiyonlarının unit testleri
+
+otomatik çalışır.
+
+```bash
+python -m unittest discover -s tests -v
+python betikler/dogrula.py
+```
 
 ## Katkı
 
-Katkılar pull request ile yapılır. Yeni kanun veya metin değişikliği eklerken
-resmi kaynak URL'si ve kaynağı kontrol ettiğiniz tarih belirtilmelidir.
+Kod, parser ve veri modeli katkıları pull request ile yapılabilir. Otomatik üretilen kanun metinlerinin elle düzenlenmesi önerilmez; bir veri sorunu varsa senkronizasyon/parsing katmanı düzeltilmelidir.
 
 Ayrıntılar için `CONTRIBUTING.md` dosyasına bakın.
 
 ## Lisans
 
-Bu depo, özgün proje kodu ile resmi kanun metinlerini ayrı değerlendirir.
+Bu depo, özgün proje kodu ile resmî kanun metinlerini ayrı değerlendirir.
 
-- `betikler/`, `semalar/` ve `.github/` altındaki özgün kod, şema ve otomasyon
-  dosyaları MIT lisansı altındadır. Bkz. `LICENSE-CODE`.
-- `kanunlar/` altındaki kanun metinleri resmi kamu kaynaklarından alınır. Bu
-  depo resmi kanun metinleri üzerinde telif hakkı iddia etmez. Bkz. `LICENSE`
-  ve `NOTICE.md`.
-
-
-## Tam metinleri güncelleme
-
-Resmi kaynaklardan tam metinleri çekmek için:
-
-```bash
-python betikler/kanun_metinlerini_indir.py
-```
-
-Bu komut her kanun klasöründeki `source_url` alanını kullanarak PDF indirir ve `metin.md` dosyasını günceller.
-
-PDF metni çıkarmak için sistemde `pdftotext` varsa kullanılır. Yoksa Python fallback'i için:
-
-```bash
-python -m pip install -r requirements.txt
-```
+- `betikler/`, `semalar/` ve `.github/` altındaki özgün kod, şema ve otomasyon dosyaları MIT lisansı altındadır. Bkz. `LICENSE-CODE`.
+- `kanunlar/` altındaki resmî metinler için depo telif hakkı iddia etmez. Bkz. `LICENSE` ve `NOTICE.md`.
