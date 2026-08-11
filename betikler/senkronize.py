@@ -1,13 +1,9 @@
 #!/usr/bin/env python3
-"""Adalet Bakanligi mevzuat API'sinden kanunlari senkronize eder.
+"""Adalet Bakanlığı mevzuat API'sinden kanunları Git deposuna senkronize eder.
 
-Varsayilan olarak yürürlükteki ve mülga kanunlari indirir. Her çalışmada
-resmi kaynaktaki tam metin yeniden hash'lenir; yalnızca gerçekten değişen
-dosyalar Git diff'ine girer.
-
-Kullanım:
-    python betikler/senkronize.py
-    python betikler/senkronize.py --types KANUN,MULGA --workers 4
+Varsayılan olarak yürürlükteki (KANUN) ve mülga (MULGA) kanunların tamamını
+tarar. Kaynak metin normalize edilip SHA-256 ile izlenir; içerik değişmediyse
+dosya değişmez ve Git geçmişinde gereksiz commit oluşmaz.
 """
 from __future__ import annotations
 
@@ -17,12 +13,13 @@ import hashlib
 import html
 import io
 import json
+import random
 import re
 import sys
 import time
 import unicodedata
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
@@ -43,7 +40,7 @@ HEADERS = {
     "AdaletApplicationName": APP_NAME,
     "Origin": "https://mevzuat.adalet.gov.tr",
     "Referer": PUBLIC_SITE,
-    "User-Agent": "acik-mevzuat/2.0 (+https://github.com/onurcan-b/acik-mevzuat)",
+    "User-Agent": "acik-mevzuat/2.1 (+https://github.com/onurcan-b/acik-mevzuat)",
 }
 SUPPORTED_TYPES = (
     "KANUN",
@@ -60,6 +57,11 @@ SUPPORTED_TYPES = (
     "TEBLIGLER",
 )
 
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+LAST_REQUEST_AT = 0.0
+REQUEST_DELAY_SECONDS = 0.65
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -69,22 +71,59 @@ class ApiError(RuntimeError):
     pass
 
 
+def _retry_after_seconds(response: requests.Response) -> float | None:
+    raw = response.headers.get("Retry-After")
+    if not raw:
+        return None
+    try:
+        return max(0.0, float(raw))
+    except ValueError:
+        try:
+            retry_at = parsedate_to_datetime(raw)
+            now = datetime.now(retry_at.tzinfo)
+            return max(0.0, (retry_at - now).total_seconds())
+        except Exception:
+            return None
+
+
+def _pace_requests() -> None:
+    global LAST_REQUEST_AT
+    elapsed = time.monotonic() - LAST_REQUEST_AT
+    if elapsed < REQUEST_DELAY_SECONDS:
+        time.sleep(REQUEST_DELAY_SECONDS - elapsed)
+
+
 def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[str, Any]:
+    global LAST_REQUEST_AT
     payload: dict[str, Any] = {"data": data, "applicationName": APP_NAME}
     if paging:
         payload["paging"] = True
 
     last_error: Exception | None = None
-    for attempt in range(5):
+    for attempt in range(10):
         try:
-            response = requests.post(
+            _pace_requests()
+            response = SESSION.post(
                 f"{BASE_URL}{endpoint}",
-                headers=HEADERS,
                 json=payload,
-                timeout=60,
+                timeout=90,
             )
-            if response.status_code == 429 or response.status_code >= 500:
+            LAST_REQUEST_AT = time.monotonic()
+
+            if response.status_code == 429:
+                retry_after = _retry_after_seconds(response)
+                delay = retry_after if retry_after is not None else min(5 * (2**attempt), 90)
+                delay += random.uniform(0.5, 2.0)
+                print(
+                    f"API hız sınırı (429); {delay:.1f} sn sonra tekrar deneniyor.",
+                    file=sys.stderr,
+                )
+                time.sleep(delay)
+                continue
+
+            if response.status_code >= 500:
                 raise ApiError(f"HTTP {response.status_code}")
+
             response.raise_for_status()
             body = response.json()
             metadata = body.get("metadata") or {}
@@ -93,11 +132,12 @@ def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[
             return body
         except (requests.RequestException, ValueError, ApiError) as exc:
             last_error = exc
-            if attempt == 4:
+            if attempt == 9:
                 break
-            time.sleep(min(2 ** attempt, 12))
+            delay = min(2 ** (attempt + 1), 60) + random.uniform(0.2, 1.5)
+            time.sleep(delay)
 
-    raise ApiError(f"{endpoint} başarısız: {last_error}")
+    raise ApiError(f"{endpoint} başarısız: {last_error or 'çok fazla 429 yanıtı'}")
 
 
 def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
@@ -125,10 +165,9 @@ def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
 
         for item in items:
             mevzuat_id = str(item.get("mevzuatId") or "").strip()
-            if not mevzuat_id:
-                continue
-            item["_source_type"] = mevzuat_type
-            documents[mevzuat_id] = item
+            if mevzuat_id:
+                item["_source_type"] = mevzuat_type
+                documents[mevzuat_id] = item
 
         if len(documents) >= total:
             break
@@ -179,19 +218,22 @@ def get_document_text(mevzuat_id: str) -> tuple[str, str]:
     mime_type = str(data.get("mimeType") or "text/html")
     if not raw:
         raise ApiError(f"{mevzuat_id}: boş doküman")
-
     decoded = _decode_document(str(raw), mime_type)
     return normalize_document(decoded, mime_type), mime_type
 
 
 def normalize_document(content: str, mime_type: str = "text/html") -> str:
-    if "html" in mime_type.lower() or re.search(r"<(?:html|body|p|div|table|br)\b", content, re.I):
+    if "html" in mime_type.lower() or re.search(
+        r"<(?:html|body|p|div|table|br)\b", content, re.I
+    ):
         soup = BeautifulSoup(content, "html.parser")
         for node in soup(["script", "style", "noscript"]):
             node.decompose()
         for br in soup.find_all("br"):
             br.replace_with("\n")
-        for tag in soup.find_all(["p", "div", "li", "tr", "h1", "h2", "h3", "h4", "h5", "h6"]):
+        for tag in soup.find_all(
+            ["p", "div", "li", "tr", "h1", "h2", "h3", "h4", "h5", "h6"]
+        ):
             tag.insert_before("\n")
             tag.insert_after("\n")
         content = soup.get_text("\n")
@@ -208,31 +250,32 @@ def normalize_document(content: str, mime_type: str = "text/html") -> str:
             continue
         lines.append(line)
         previous_blank = False
-
     return "\n".join(lines).strip() + "\n"
 
 
 def slugify(value: str) -> str:
     translation = str.maketrans(
         {
-            "ç": "c",
-            "Ç": "c",
-            "ğ": "g",
-            "Ğ": "g",
-            "ı": "i",
-            "İ": "i",
-            "ö": "o",
-            "Ö": "o",
-            "ş": "s",
-            "Ş": "s",
-            "ü": "u",
-            "Ü": "u",
+            "ç": "c", "Ç": "c", "ğ": "g", "Ğ": "g", "ı": "i", "İ": "i",
+            "ö": "o", "Ö": "o", "ş": "s", "Ş": "s", "ü": "u", "Ü": "u",
         }
     )
     value = value.translate(translation)
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
-    value = re.sub(r"[^a-zA-Z0-9]+", "-", value).strip("-").lower()
-    return value or "isimsiz"
+    return re.sub(r"[^a-zA-Z0-9]+", "-", value).strip("-").lower() or "isimsiz"
+
+
+def directory_slug(prefix: str, title: str, mevzuat_id: str, max_length: int = 150) -> str:
+    prefix_slug = slugify(prefix)
+    title_slug = slugify(title)
+    base = f"{prefix_slug}-{title_slug}"
+    if len(base) <= max_length:
+        return base
+
+    suffix = f"-{mevzuat_id[:8]}"
+    available = max(24, max_length - len(prefix_slug) - len(suffix) - 2)
+    shortened = title_slug[:available].rstrip("-")
+    return f"{prefix_slug}-{shortened}{suffix}"
 
 
 def normalize_date(value: Any) -> str | None:
@@ -250,11 +293,10 @@ def normalize_date(value: Any) -> str | None:
 
 
 def extract_accepted_date(text: str) -> str | None:
-    patterns = (
+    for pattern in (
         r"Kabul\s+Tarihi\s*[:：]?\s*(\d{1,2})[./](\d{1,2})[./](\d{4})",
         r"Kabul\s+tarihi\s*[:：]?\s*(\d{1,2})[./](\d{1,2})[./](\d{4})",
-    )
-    for pattern in patterns:
+    ):
         match = re.search(pattern, text)
         if match:
             day, month, year = map(int, match.groups())
@@ -296,7 +338,6 @@ def load_existing() -> tuple[dict[str, Path], dict[str, Path], dict[Path, dict[s
             by_id[source_id] = directory
         if law_number:
             by_number.setdefault(law_number, directory)
-
     return by_id, by_number, metadata_by_dir
 
 
@@ -315,14 +356,15 @@ def assign_targets(
         directory = by_id.get(mevzuat_id) or (by_number.get(law_number) if law_number else None)
         if directory is None:
             prefix = law_number or mevzuat_id[:8]
-            directory = LAWS_DIR / f"{slugify(prefix)}-{slugify(title)}"
+            directory = LAWS_DIR / directory_slug(prefix, title, mevzuat_id)
 
         if directory in used:
-            directory = LAWS_DIR / f"{directory.name}-{mevzuat_id[:8]}"
+            unique_id = mevzuat_id + hashlib.sha1(title.encode("utf-8")).hexdigest()[:8]
+            directory = LAWS_DIR / directory_slug(
+                law_number or mevzuat_id[:8], title, unique_id
+            )
         used.add(directory)
-
         tasks.append((item, directory, metadata_by_dir.get(directory, {})))
-
     return tasks
 
 
@@ -335,13 +377,11 @@ def build_metadata(
     law_number = str(item.get("mevzuatNo") or "").strip()
     title = str(item.get("mevzuatAdi") or "İsimsiz mevzuat").strip()
     source_type = str(item.get("_source_type") or "KANUN")
-    accepted_date = extract_accepted_date(text) or previous.get("accepted_date")
-
     return {
         "law_number": law_number,
         "title": title,
         "slug": directory.name,
-        "accepted_date": accepted_date,
+        "accepted_date": extract_accepted_date(text) or previous.get("accepted_date"),
         "effective_status": "repealed" if source_type == "MULGA" else "in_force",
         "official_gazette": {
             "date": normalize_date(item.get("resmiGazeteTarihi")),
@@ -363,19 +403,20 @@ def build_metadata(
 
 def render_markdown(metadata: dict[str, Any], text: str) -> str:
     gazette = metadata["official_gazette"]
-    lines = [
-        f"# {metadata['title']} (No. {metadata['law_number'] or '—'})",
-        "",
-        f"> Kaynak: {metadata['source_url']}",
-        f"> Resmî Gazete: {gazette.get('date') or 'bilinmiyor'} / {gazette.get('number') or 'bilinmiyor'}",
-        f"> Kaynak kimliği: {metadata['source_mevzuat_id']}",
-        "",
-        "---",
-        "",
-        text.rstrip(),
-        "",
-    ]
-    return "\n".join(lines)
+    return "\n".join(
+        [
+            f"# {metadata['title']} (No. {metadata['law_number'] or '—'})",
+            "",
+            f"> Kaynak: {metadata['source_url']}",
+            f"> Resmî Gazete: {gazette.get('date') or 'bilinmiyor'} / {gazette.get('number') or 'bilinmiyor'}",
+            f"> Kaynak kimliği: {metadata['source_mevzuat_id']}",
+            "",
+            "---",
+            "",
+            text.rstrip(),
+            "",
+        ]
+    )
 
 
 def write_text_if_changed(path: Path, text: str) -> bool:
@@ -387,15 +428,6 @@ def write_text_if_changed(path: Path, text: str) -> bool:
     return True
 
 
-def sync_one(
-    task: tuple[dict[str, Any], Path, dict[str, Any]],
-) -> tuple[dict[str, Any], Path, dict[str, Any], str]:
-    item, directory, previous = task
-    text, _mime_type = get_document_text(str(item["mevzuatId"]))
-    metadata = build_metadata(item, directory, previous, text)
-    return item, directory, metadata, text
-
-
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -403,14 +435,24 @@ def main() -> int:
         default="KANUN,MULGA",
         help="Virgülle ayrılmış mevzuat türleri. Varsayılan: KANUN,MULGA",
     )
-    parser.add_argument("--workers", type=int, default=4)
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=0.65,
+        help="API çağrıları arasındaki asgari saniye. Varsayılan: 0.65",
+    )
     parser.add_argument(
         "--max-errors",
         type=int,
-        default=10,
-        help="Bu sayıdan fazla doküman hatasında çalışmayı başarısız say.",
+        default=0,
+        help="İzin verilen doküman hata sayısı. Varsayılan: 0",
     )
+    # Eski workflow/CLI çağrıları kırılmasın; istekler artık bilinçli olarak seri.
+    parser.add_argument("--workers", type=int, default=1)
     args = parser.parse_args()
+
+    global REQUEST_DELAY_SECONDS
+    REQUEST_DELAY_SECONDS = max(0.2, args.delay)
 
     types = [part.strip().upper() for part in args.types.split(",") if part.strip()]
     unknown = sorted(set(types) - set(SUPPORTED_TYPES))
@@ -418,66 +460,59 @@ def main() -> int:
         parser.error(f"Desteklenmeyen türler: {', '.join(unknown)}")
 
     LAWS_DIR.mkdir(parents=True, exist_ok=True)
-
     documents = list_documents(types)
     if not documents:
-        raise SystemExit("Resmî API hiç doküman döndürmedi; güvenlik için repo değiştirilmedi.")
+        raise SystemExit("Resmî API hiç doküman döndürmedi; repo değiştirilmedi.")
 
     print(f"Toplam {len(documents)} doküman bulundu.")
     tasks = assign_targets(documents)
-
     changed_files = 0
     errors: list[str] = []
     index_entries: list[dict[str, Any]] = []
 
-    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
-        future_map = {executor.submit(sync_one, task): task for task in tasks}
-        completed = 0
+    for completed, (item, directory, previous) in enumerate(tasks, start=1):
+        try:
+            text, _mime_type = get_document_text(str(item["mevzuatId"]))
+            metadata = build_metadata(item, directory, previous, text)
+        except Exception as exc:
+            error = f"{item.get('mevzuatId')} {item.get('mevzuatAdi')}: {exc}"
+            errors.append(error)
+            print(f"HATA [{completed}/{len(tasks)}] {error}", file=sys.stderr)
+            continue
 
-        for future in as_completed(future_map):
-            item, directory, _previous = future_map[future]
-            completed += 1
-            try:
-                _item, directory, metadata, text = future.result()
-            except Exception as exc:
-                errors.append(f"{item.get('mevzuatId')} {item.get('mevzuatAdi')}: {exc}")
-                print(f"HATA [{completed}/{len(tasks)}] {errors[-1]}", file=sys.stderr)
-                continue
+        metadata_text = json.dumps(metadata, ensure_ascii=False, indent=2) + "\n"
+        markdown_text = render_markdown(metadata, text)
+        if write_text_if_changed(directory / "ustveri.json", metadata_text):
+            changed_files += 1
+        if write_text_if_changed(directory / "metin.md", markdown_text):
+            changed_files += 1
 
-            metadata_text = json.dumps(metadata, ensure_ascii=False, indent=2) + "\n"
-            markdown_text = render_markdown(metadata, text)
-            if write_text_if_changed(directory / "ustveri.json", metadata_text):
-                changed_files += 1
-            if write_text_if_changed(directory / "metin.md", markdown_text):
-                changed_files += 1
-
-            index_entries.append(
-                {
-                    "law_number": metadata["law_number"],
-                    "title": metadata["title"],
-                    "type": metadata["source_type"],
-                    "path": directory.relative_to(ROOT).as_posix(),
-                    "source_mevzuat_id": metadata["source_mevzuat_id"],
-                    "content_sha256": metadata["content_sha256"],
-                }
-            )
-            print(f"OK [{completed}/{len(tasks)}] {directory.name}")
+        index_entries.append(
+            {
+                "law_number": metadata["law_number"],
+                "title": metadata["title"],
+                "type": metadata["source_type"],
+                "path": directory.relative_to(ROOT).as_posix(),
+                "source_mevzuat_id": metadata["source_mevzuat_id"],
+                "content_sha256": metadata["content_sha256"],
+            }
+        )
+        print(f"OK [{completed}/{len(tasks)}] {directory.name}", flush=True)
 
     index_entries.sort(key=lambda x: (x["type"], x["law_number"], x["title"]))
     if not errors:
         index_text = json.dumps(
-            {
-                "source": BASE_URL,
-                "types": types,
-                "documents": index_entries,
-            },
+            {"source": BASE_URL, "types": types, "documents": index_entries},
             ensure_ascii=False,
             indent=2,
         ) + "\n"
         if write_text_if_changed(INDEX_PATH, index_text):
             changed_files += 1
     else:
-        print("Bazı dokümanlar alınamadığı için indeks.json bu çalışmada değiştirilmedi.", file=sys.stderr)
+        print(
+            "Bazı dokümanlar alınamadığı için indeks.json değiştirilmedi.",
+            file=sys.stderr,
+        )
 
     print(f"Değişen dosya sayısı: {changed_files}")
     if errors:
@@ -491,7 +526,6 @@ def main() -> int:
             file=sys.stderr,
         )
         return 1
-
     return 0
 
 
