@@ -66,7 +66,7 @@ def source_id_from_url(url: str) -> str:
     return match.group(1) if match else "openmevzuat-canonical"
 
 
-def read_canonical_document(directory: Path) -> tuple[str, str, str]:
+def read_canonical_document(directory: Path) -> tuple[str, str, str, bool]:
     readme_path = directory / "README.md"
     if not readme_path.exists():
         raise RuntimeError(f"README.md yok: {directory}")
@@ -96,11 +96,22 @@ def read_canonical_document(directory: Path) -> tuple[str, str, str]:
                 seen.add(p)
 
     if not linked_paths:
-        raise RuntimeError(f"Madde dosyası bulunamadı: {directory}")
+        # Bazı çok eski/Osmanlı dönemi kayıtlarında upstream canonical kayıt
+        # mevcut olsa da parser hiç madde çıkaramamış olabilir. Bu tekil kayıtlar
+        # yüzünden tüm 900+ belge senkronizasyonunu durdurma. Metadata + resmi
+        # kaynak bağlantısını koruyan açık bir stub üret; sonraki upstream
+        # sürümünde maddeler parse edilirse Git diff otomatik olarak gerçek
+        # metne dönüşecektir.
+        body = (
+            "_OpenMevzuat canonical snapshot bu belge için henüz madde metni "
+            "ayıklayamamıştır. Resmî kaynak bağlantısını yukarıdaki metadata'dan "
+            "doğrulayın._\n"
+        )
+        return law_number, title, body, False
 
     chunks = [p.read_text(encoding="utf-8", errors="replace").strip() for p in linked_paths]
     body = "\n\n".join(chunk for chunk in chunks if chunk).strip() + "\n"
-    return law_number, title, body
+    return law_number, title, body, True
 
 
 def render_markdown(title: str, law_number: str, source_url: str, body: str, upstream_sha: str) -> str:
@@ -170,6 +181,7 @@ def main() -> int:
     desired_dirs: set[str] = set()
     index_entries: list[dict[str, Any]] = []
     changed = 0
+    unparsed = 0
 
     for canonical_dir, metadata_path, source_type in documents:
         slug = canonical_dir.name
@@ -177,10 +189,18 @@ def main() -> int:
         target = LAWS_DIR / slug
         previous = load_existing_metadata(target)
 
-        law_number, title, body = read_canonical_document(canonical_dir)
+        law_number, title, body, parsed = read_canonical_document(canonical_dir)
+        if not parsed:
+            unparsed += 1
         source_url = read_source_url(metadata_path)
         markdown = render_markdown(title, law_number, source_url, body, upstream_sha)
         body_hash = sha256(body)
+
+        tags = list(previous.get("tags") or [])
+        if not parsed and "upstream-unparsed" not in tags:
+            tags.append("upstream-unparsed")
+        if parsed and "upstream-unparsed" in tags:
+            tags.remove("upstream-unparsed")
 
         metadata = {
             "law_number": law_number,
@@ -192,7 +212,7 @@ def main() -> int:
             or {"date": None, "number": None},
             "source_url": source_url,
             "language": "tr",
-            "tags": previous.get("tags") or [],
+            "tags": tags,
             "source_mevzuat_id": source_id_from_url(source_url),
             "source_type": source_type,
             "content_sha256": body_hash,
@@ -213,11 +233,10 @@ def main() -> int:
                 "path": target.relative_to(ROOT).as_posix(),
                 "source_mevzuat_id": metadata["source_mevzuat_id"],
                 "content_sha256": body_hash,
+                "parsed": parsed,
             }
         )
 
-    # Canonical snapshot'ta artık bulunmayan yerel klasörleri kaldır. Böylece
-    # katalogdan çıkan/repeal edilen kayıtlar da Git diff'inde görünür.
     for local_dir in sorted(p for p in LAWS_DIR.iterdir() if p.is_dir()):
         if local_dir.name not in desired_dirs:
             shutil.rmtree(local_dir)
@@ -229,6 +248,7 @@ def main() -> int:
             "source": "https://github.com/openmevzuat/openmevzuat",
             "upstream_commit": upstream_sha,
             "documents_total": len(index_entries),
+            "unparsed_documents": unparsed,
             "documents": index_entries,
         },
         ensure_ascii=False,
@@ -242,6 +262,7 @@ def main() -> int:
             "repository": "openmevzuat/openmevzuat",
             "commit": upstream_sha,
             "documents_total": len(index_entries),
+            "unparsed_documents": unparsed,
         },
         ensure_ascii=False,
         indent=2,
@@ -251,6 +272,7 @@ def main() -> int:
 
     print(f"Upstream commit: {upstream_sha}")
     print(f"Belge sayısı: {len(index_entries)}")
+    print(f"Madde metni parse edilemeyen belge: {unparsed}")
     print(f"Değişen dosya/klasör sayısı: {changed}")
     return 0
 
