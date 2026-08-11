@@ -13,6 +13,12 @@ class SyncHelpersTest(unittest.TestCase):
     def test_slugify_turkish(self):
         self.assertEqual(sync.slugify("Türk Ceza Kanunu"), "turk-ceza-kanunu")
 
+    def test_directory_slug_is_filesystem_safe(self):
+        title = "Çok uzun kanun adı " * 40
+        slug = sync.directory_slug("3571", title, "104000")
+        self.assertLessEqual(len(slug), 150)
+        self.assertTrue(slug.startswith("3571-"))
+
     def test_normalize_date(self):
         self.assertEqual(sync.normalize_date("12/10/2004"), "2004-10-12")
         self.assertEqual(sync.normalize_date("2004-10-12T00:00:00Z"), "2004-10-12")
