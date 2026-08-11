@@ -100,7 +100,7 @@ def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[
     raise ApiError(f"{endpoint} başarısız: {last_error}")
 
 
-def _list_type(mevzuat_type: str, page_size: int = 100) -> list[dict[str, Any]]:
+def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
     documents: dict[str, dict[str, Any]] = {}
     page = 1
 
