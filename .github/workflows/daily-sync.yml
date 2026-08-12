@@ -1,6 +1,10 @@
 name: Günlük mevzuat senkronizasyonu
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/daily-sync.yml"
   schedule:
     - cron: "30 7 * * *"
   workflow_dispatch:
@@ -23,6 +27,23 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Merge edilmiş çalışma branch'lerini temizle
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh pr list --state merged --limit 200 --json headRefName --jq '.[].headRefName' \
+            | sort -u \
+            | while IFS= read -r branch; do
+                case "$branch" in
+                  agent/*|automation/*)
+                    echo "Siliniyor: $branch"
+                    gh api --method DELETE "repos/${GITHUB_REPOSITORY}/git/refs/heads/${branch}" >/dev/null 2>&1 || true
+                    ;;
+                esac
+              done
 
       - name: Python kur
         uses: actions/setup-python@v5
