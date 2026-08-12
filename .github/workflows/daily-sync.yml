@@ -69,6 +69,7 @@ jobs:
             sed -n '1,100p' /tmp/mevzuat-status.txt
           fi
 
+      # Bu adım için repository Actions ayarlarında PR oluşturma izni açık olmalıdır.
       - name: Otomatik veri PR'ı oluştur ve hemen merge et
         if: steps.changes.outputs.changed == 'true'
         env:
