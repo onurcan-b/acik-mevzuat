@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
-"""Türkiye kanunlarını doğrudan Adalet Bakanlığı UYAP Mevzuat kaynaklarından senkronize eder.
+"""Adalet Bakanlığı UYAP/Bedesten servislerinden mevzuat senkronizasyonu.
 
-Başka bir veri reposu kullanılmaz. Katalog Bedesten/UYAP'ın resmî arama
-servisinden alınır; her belgenin metni önce mevzuat.adalet.gov.tr üzerindeki
-resmî belge sayfasından, bu başarısızsa katalogdaki resmî URL'den/PDF'den
-alınır. Tam metni geçici olarak alınamayan katalog kayıtları açık bir stub ile
-temsil edilir ve sonraki günlük çalışmada yeniden denenir.
+Kaynaklar yalnızca resmî Adalet Bakanlığı servisleridir:
+- katalog: https://bedesten.adalet.gov.tr/mevzuat/searchDocuments
+- içerik:  https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent
+
+Günlük mod tüm corpus'u yeniden indirmez. Katalog farklarını, eksik kayıtların
+küçük bir bölümünü ve aktif kanunların dönen bir doğrulama kovasını yeniler.
+İlk tam backfill için shard modu GitHub Actions matrix ile kullanılır.
 """
 from __future__ import annotations
 
 import argparse
+import base64
 import hashlib
 import html
 import io
@@ -20,11 +23,9 @@ import shutil
 import sys
 import time
 import unicodedata
-from datetime import datetime
-from email.utils import parsedate_to_datetime
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -33,41 +34,27 @@ from pypdf import PdfReader
 ROOT = Path(__file__).resolve().parents[1]
 LAWS_DIR = ROOT / "kanunlar"
 INDEX_PATH = ROOT / "indeks.json"
+STATE_PATH = ROOT / ".mevzuat-catalog.json"
+
 BASE_URL = "https://bedesten.adalet.gov.tr/mevzuat"
 PUBLIC_SITE = "https://mevzuat.adalet.gov.tr"
 APP_NAME = "UyapMevzuat"
-SUPPORTED_TYPES = (
-    "KANUN",
-    "MULGA",
-    "KHK",
-    "CB_KARARNAME",
-    "TUZUK",
-    "YONETMELIK",
-    "CB_YONETMELIK",
-    "CB_KARAR",
-    "CB_GENELGE",
-    "KKY",
-    "UY",
-    "TEBLIGLER",
-)
-USER_AGENT = "acik-mevzuat/3.3 (+https://github.com/onurcan-b/acik-mevzuat)"
-POST_HEADERS = {
+SUPPORTED_TYPES = {
+    "KANUN", "MULGA", "KHK", "CB_KARARNAME", "TUZUK", "YONETMELIK",
+    "CB_YONETMELIK", "CB_KARAR", "CB_GENELGE", "KKY", "UY", "TEBLIGLER",
+}
+USER_AGENT = "acik-mevzuat/4.0 (+https://github.com/onurcan-b/acik-mevzuat)"
+HEADERS = {
     "Content-Type": "application/json; charset=utf-8",
     "AdaletApplicationName": APP_NAME,
     "Origin": PUBLIC_SITE,
     "Referer": f"{PUBLIC_SITE}/",
     "User-Agent": USER_AGENT,
-    "Connection": "close",
 }
-GET_HEADERS = {
-    "Accept": "text/html,application/xhtml+xml,application/pdf",
-    "Referer": f"{PUBLIC_SITE}/",
-    "User-Agent": USER_AGENT,
-    "Connection": "close",
-}
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
 LAST_REQUEST_AT = 0.0
-REQUEST_DELAY_SECONDS = 0.30
-DOCUMENT_FETCH_ATTEMPTS = 2
+REQUEST_DELAY_SECONDS = 0.35
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -78,52 +65,46 @@ class ApiError(RuntimeError):
     pass
 
 
-def _retry_after_seconds(response: requests.Response) -> float | None:
-    raw = response.headers.get("Retry-After")
-    if not raw:
-        return None
-    try:
-        return max(0.0, float(raw))
-    except ValueError:
-        try:
-            retry_at = parsedate_to_datetime(raw)
-            return max(0.0, (retry_at - datetime.now(retry_at.tzinfo)).total_seconds())
-        except Exception:
-            return None
-
-
-def _pace_requests() -> None:
+def _pace() -> None:
     global LAST_REQUEST_AT
     elapsed = time.monotonic() - LAST_REQUEST_AT
     if elapsed < REQUEST_DELAY_SECONDS:
         time.sleep(REQUEST_DELAY_SECONDS - elapsed)
 
 
-def _retry_sleep(attempt: int, response: requests.Response | None = None) -> None:
-    retry_after = _retry_after_seconds(response) if response is not None else None
-    delay = retry_after if retry_after is not None else min(2 ** (attempt + 1), 60)
-    time.sleep(delay + random.uniform(0.2, 1.0))
-
-
-def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[str, Any]:
+def _post(
+    endpoint: str,
+    data: dict[str, Any],
+    *,
+    paging: bool = False,
+    attempts: int = 5,
+    timeout: tuple[int, int] = (10, 45),
+) -> dict[str, Any]:
     global LAST_REQUEST_AT
     payload: dict[str, Any] = {"data": data, "applicationName": APP_NAME}
     if paging:
         payload["paging"] = True
+
     last_error: Exception | None = None
-    for attempt in range(8):
+    for attempt in range(attempts):
         try:
-            _pace_requests()
-            response = requests.post(
+            _pace()
+            response = SESSION.post(
                 f"{BASE_URL}{endpoint}",
-                headers=POST_HEADERS,
                 json=payload,
-                timeout=(20, 90),
+                timeout=timeout,
             )
             LAST_REQUEST_AT = time.monotonic()
+
             if response.status_code == 429:
-                _retry_sleep(attempt, response)
+                retry_after = response.headers.get("Retry-After")
+                try:
+                    delay = float(retry_after) if retry_after else 2 ** (attempt + 1)
+                except ValueError:
+                    delay = 2 ** (attempt + 1)
+                time.sleep(min(delay, 30) + random.uniform(0.2, 0.8))
                 continue
+
             if response.status_code >= 500:
                 raise ApiError(f"HTTP {response.status_code}")
             response.raise_for_status()
@@ -134,46 +115,10 @@ def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[
             return body
         except (requests.RequestException, ValueError, ApiError) as exc:
             last_error = exc
-            if attempt == 7:
+            if attempt + 1 >= attempts:
                 break
-            _retry_sleep(attempt)
+            time.sleep(min(2 ** (attempt + 1), 15) + random.uniform(0.2, 0.8))
     raise ApiError(f"{endpoint} başarısız: {last_error}")
-
-
-def _get(url: str, label: str) -> requests.Response:
-    """Tek bir belge için kısa, sınırlı retry uygular.
-
-    Katalog isteği corpus bütünlüğü için agresif retry yapar; fakat tekil belge
-    isteği başarısızsa kaydı stub olarak saklayabildiğimiz için dakikalarca aynı
-    URL'yi beklemek yerine sonraki günlük çalışmaya bırakırız.
-    """
-    global LAST_REQUEST_AT
-    last_error: Exception | None = None
-    for attempt in range(DOCUMENT_FETCH_ATTEMPTS):
-        try:
-            _pace_requests()
-            response = requests.get(url, headers=GET_HEADERS, timeout=(10, 30))
-            LAST_REQUEST_AT = time.monotonic()
-            if response.status_code == 429:
-                last_error = ApiError("HTTP 429")
-                if attempt + 1 < DOCUMENT_FETCH_ATTEMPTS:
-                    retry_after = _retry_after_seconds(response)
-                    time.sleep(min(retry_after if retry_after is not None else 2.0, 5.0))
-                    continue
-                break
-            if response.status_code >= 500:
-                raise ApiError(f"HTTP {response.status_code}")
-            response.raise_for_status()
-            if len(response.content) < 100:
-                raise ApiError("beklenenden kısa yanıt")
-            return response
-        except (requests.RequestException, ApiError) as exc:
-            last_error = exc
-            if attempt + 1 >= DOCUMENT_FETCH_ATTEMPTS:
-                break
-            print(f"Resmî kaynak hatası ({label}): {exc}; bir kez daha deneniyor.", file=sys.stderr)
-            time.sleep(1.0 + random.uniform(0.1, 0.5))
-    raise ApiError(f"{url} başarısız: {last_error}")
 
 
 def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
@@ -191,6 +136,8 @@ def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
                 "mevzuatTurList": [mevzuat_type],
             },
             paging=True,
+            attempts=8,
+            timeout=(10, 60),
         )
         data = body.get("data") or {}
         items = data.get("mevzuatList") or []
@@ -200,12 +147,14 @@ def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
         for item in items:
             mevzuat_id = str(item.get("mevzuatId") or "").strip()
             if mevzuat_id:
-                item["_source_type"] = mevzuat_type
-                docs[mevzuat_id] = item
+                clean = dict(item)
+                clean["_source_type"] = mevzuat_type
+                docs[mevzuat_id] = clean
         print(f"Katalog {mevzuat_type}: {len(docs)}/{total or '?'}", flush=True)
         if total and len(docs) >= total:
             break
         page += 1
+
     if total and len(docs) != total:
         raise ApiError(f"{mevzuat_type} katalog eksik: {len(docs)}/{total}")
     return list(docs.values())
@@ -227,10 +176,70 @@ def list_documents(types: list[str]) -> list[dict[str, Any]]:
     )
 
 
+def catalog_projection(item: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "mevzuatId": str(item.get("mevzuatId") or ""),
+        "mevzuatNo": str(item.get("mevzuatNo") or ""),
+        "mevzuatAdi": str(item.get("mevzuatAdi") or ""),
+        "resmiGazeteTarihi": item.get("resmiGazeteTarihi"),
+        "resmiGazeteSayisi": item.get("resmiGazeteSayisi"),
+        "url": item.get("url"),
+        "source_type": str(item.get("_source_type") or ""),
+    }
+
+
+def catalog_state(documents: list[dict[str, Any]]) -> dict[str, Any]:
+    projected = [catalog_projection(d) for d in documents]
+    return {
+        "source": PUBLIC_SITE,
+        "catalog_api": f"{BASE_URL}/searchDocuments",
+        "types": sorted({str(d.get("_source_type") or "") for d in documents}),
+        "documents_total": len(projected),
+        "documents": projected,
+    }
+
+
+def fingerprint(item: dict[str, Any]) -> str:
+    blob = json.dumps(item, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(blob.encode("utf-8")).hexdigest()
+
+
+def save_json(path: Path, data: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def load_json(path: Path, default: Any) -> Any:
+    if not path.exists():
+        return default
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return default
+
+
+def _decode_document(raw: str, mime_type: str) -> str:
+    try:
+        blob = base64.b64decode(raw, validate=False)
+    except Exception:
+        blob = raw.encode("utf-8", errors="replace")
+
+    if "pdf" in mime_type.lower() or blob.startswith(b"%PDF"):
+        reader = PdfReader(io.BytesIO(blob))
+        return "\n\n".join((page.extract_text() or "").strip() for page in reader.pages)
+
+    for encoding in ("utf-8", "windows-1254", "latin-1"):
+        try:
+            return blob.decode(encoding)
+        except UnicodeDecodeError:
+            pass
+    return blob.decode("utf-8", errors="replace")
+
+
 def normalize_document(content: str, mime_type: str = "text/html") -> str:
     if "html" in mime_type.lower() or re.search(r"<(?:html|body|p|div|table|br)\b", content, re.I):
         soup = BeautifulSoup(content, "html.parser")
-        for node in soup(["script", "style", "noscript", "svg", "nav", "header", "footer", "button", "input"]):
+        for node in soup(["script", "style", "noscript", "svg", "nav", "header", "footer"]):
             node.decompose()
         for br in soup.find_all("br"):
             br.replace_with("\n")
@@ -238,6 +247,7 @@ def normalize_document(content: str, mime_type: str = "text/html") -> str:
             tag.insert_before("\n")
             tag.insert_after("\n")
         content = soup.get_text("\n")
+
     content = html.unescape(content).replace("\r\n", "\n").replace("\r", "\n")
     lines: list[str] = []
     blank = False
@@ -253,117 +263,45 @@ def normalize_document(content: str, mime_type: str = "text/html") -> str:
     return "\n".join(lines).strip() + "\n"
 
 
-def extract_public_document(page_html: str, law_number: str, title: str) -> str:
-    text = normalize_document(page_html, "text/html")
-    starts: list[int] = []
-    for pattern in (r"Kanun\s+Numarası\s*[:：]", r"Kanun\s+No\.?\s*[:：]", re.escape(title)):
-        match = re.search(pattern, text, re.I)
-        if match:
-            starts.append(match.start())
-    if starts:
-        text = text[min(starts):]
-    if law_number and law_number not in text[:10000]:
-        raise ApiError(f"kanun numarası sayfada doğrulanamadı: {law_number}")
-    if len(text) < 120:
-        raise ApiError("belge metni beklenenden kısa")
-    return text.strip() + "\n"
-
-
-def _catalog_url(item: dict[str, Any]) -> str | None:
-    raw = str(item.get("url") or "").strip()
+def get_document_text(mevzuat_id: str, attempts: int = 3) -> tuple[str, str]:
+    body = _post(
+        "/getDocumentContent",
+        {"documentType": "MEVZUAT", "id": mevzuat_id},
+        attempts=attempts,
+        timeout=(10, 45),
+    )
+    data = body.get("data") or {}
+    raw = data.get("content") or ""
+    mime_type = str(data.get("mimeType") or "text/html")
     if not raw:
-        return None
-    return raw if raw.startswith(("http://", "https://")) else urljoin(f"{PUBLIC_SITE}/", raw)
-
-
-def _pdf_text(blob: bytes) -> str:
-    reader = PdfReader(io.BytesIO(blob))
-    text = "\n\n".join((page.extract_text() or "").strip() for page in reader.pages)
+        raise ApiError(f"{mevzuat_id}: boş doküman")
+    text = normalize_document(_decode_document(str(raw), mime_type), mime_type)
     if len(text.strip()) < 80:
-        raise ApiError("PDF metni çıkarılamadı")
-    return normalize_document(text, "text/plain")
-
-
-def get_document_text(item: dict[str, Any]) -> tuple[str, str]:
-    mevzuat_id = str(item["mevzuatId"])
-    law_number = str(item.get("mevzuatNo") or "").strip()
-    title = str(item.get("mevzuatAdi") or "İsimsiz mevzuat").strip()
-    failures: list[str] = []
-
-    # Birincil kaynak: Adalet Bakanlığı'nın belge sayfası. Önce bunu denemek
-    # PDF indirme/parsing maliyetini büyük ölçüde azaltır.
-    page_url = f"{PUBLIC_SITE}/mevzuat/{mevzuat_id}"
-    try:
-        response = _get(page_url, f"{mevzuat_id} HTML")
-        return extract_public_document(response.text, law_number, title), page_url
-    except Exception as exc:
-        failures.append(f"HTML: {exc}")
-
-    # Fallback de yine resmî kaynaktır: katalogdaki URL / PDF.
-    catalog_url = _catalog_url(item)
-    if catalog_url:
-        try:
-            response = _get(catalog_url, f"{mevzuat_id} katalog URL")
-            ctype = response.headers.get("Content-Type", "").lower()
-            if "pdf" in ctype or response.content.startswith(b"%PDF"):
-                return _pdf_text(response.content), catalog_url
-            text = normalize_document(response.text, ctype or "text/html")
-            if len(text) >= 120:
-                return text, catalog_url
-            raise ApiError("katalog URL içeriği kısa")
-        except Exception as exc:
-            failures.append(f"katalog URL: {exc}")
-
-    raise ApiError("; ".join(failures))
+        raise ApiError(f"{mevzuat_id}: metin beklenenden kısa")
+    return text, mime_type
 
 
 def slugify(value: str) -> str:
-    value = value.translate(
-        str.maketrans(
-            {
-                "ç": "c", "Ç": "c", "ğ": "g", "Ğ": "g", "ı": "i", "İ": "i",
-                "ö": "o", "Ö": "o", "ş": "s", "Ş": "s", "ü": "u", "Ü": "u",
-            }
-        )
-    )
+    value = value.translate(str.maketrans({
+        "ç": "c", "Ç": "c", "ğ": "g", "Ğ": "g", "ı": "i", "İ": "i",
+        "ö": "o", "Ö": "o", "ş": "s", "Ş": "s", "ü": "u", "Ü": "u",
+    }))
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     return re.sub(r"[^a-zA-Z0-9]+", "-", value).strip("-").lower() or "isimsiz"
 
 
-def directory_slug(prefix: str, title: str, mevzuat_id: str, max_length: int = 150) -> str:
-    prefix_slug, title_slug = slugify(prefix), slugify(title)
-    base = f"{prefix_slug}-{title_slug}"
-    if len(base) <= max_length:
-        return base
-    suffix = f"-{slugify(mevzuat_id)[:16]}"
-    available = max(24, max_length - len(prefix_slug) - len(suffix) - 2)
-    return f"{prefix_slug}-{title_slug[:available].rstrip('-')}{suffix}"
-
-
-def unique_target(item: dict[str, Any], used: set[Path]) -> Path:
-    mevzuat_id = str(item["mevzuatId"])
-    law_number = str(item.get("mevzuatNo") or "").strip()
+def directory_name(item: dict[str, Any]) -> str:
+    mevzuat_id = str(item.get("mevzuatId") or "")
+    number = str(item.get("mevzuatNo") or "").strip()
     title = str(item.get("mevzuatAdi") or "İsimsiz mevzuat").strip()
-    base_name = directory_slug(law_number or mevzuat_id[:8], title, mevzuat_id)
-    target = LAWS_DIR / base_name
-    if target not in used:
-        return target
-    source_type = slugify(str(item.get("_source_type") or "mevzuat"))
-    suffix = f"-{source_type}-{slugify(mevzuat_id)[:16]}"
-    head = base_name[: max(16, 150 - len(suffix))].rstrip("-")
-    return LAWS_DIR / f"{head}{suffix}"
-
-
-def assign_targets(documents: list[dict[str, Any]]) -> list[tuple[dict[str, Any], Path]]:
-    used: set[Path] = set()
-    tasks: list[tuple[dict[str, Any], Path]] = []
-    for item in documents:
-        target = unique_target(item, used)
-        if target in used:
-            raise RuntimeError(f"Benzersiz hedef üretilemedi: {item.get('mevzuatId')}")
-        used.add(target)
-        tasks.append((item, target))
-    return tasks
+    prefix = slugify(number or mevzuat_id[:8])
+    title_slug = slugify(title)
+    base = f"{prefix}-{title_slug}"
+    if len(base) <= 145:
+        return base
+    suffix = f"-{slugify(mevzuat_id)[:12]}"
+    available = max(20, 145 - len(prefix) - len(suffix) - 1)
+    return f"{prefix}-{title_slug[:available].rstrip('-')}{suffix}"
 
 
 def normalize_date(value: Any) -> str | None:
@@ -374,197 +312,303 @@ def normalize_date(value: Any) -> str | None:
         try:
             return datetime.strptime(text, fmt).date().isoformat()
         except ValueError:
-            pass
+            continue
     return None
 
 
 def extract_accepted_date(text: str) -> str | None:
-    match = re.search(r"Kabul\s+[Tt]arihi\s*[:：]?\s*(\d{1,2})[./](\d{1,2})[./](\d{4})", text)
+    match = re.search(
+        r"Kabul\s+[Tt]arihi\s*[:：]?\s*(\d{1,2})[./](\d{1,2})[./](\d{4})",
+        text,
+    )
     if not match:
         return None
     day, month, year = map(int, match.groups())
     try:
-        return datetime(year, month, day).date().isoformat()
+        return date(year, month, day).isoformat()
     except ValueError:
         return None
 
 
-def content_hash(text: str) -> str:
-    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+def source_url(item: dict[str, Any]) -> str:
+    mevzuat_id = str(item.get("mevzuatId") or "")
+    return f"{PUBLIC_SITE}/mevzuat/{mevzuat_id}"
 
 
-def build_stub(item: dict[str, Any], reason: str) -> tuple[str, str]:
-    mevzuat_id = str(item["mevzuatId"])
-    official_url = f"{PUBLIC_SITE}/mevzuat/{mevzuat_id}"
-    text = (
-        "_Bu mevzuat kaydı Adalet Bakanlığı UYAP Mevzuat resmî kataloğunda yer alıyor, "
-        "ancak bu senkronizasyon çalışmasında tam metin resmî kaynaktan alınamadı. "
-        "Sonraki günlük çalışmada otomatik olarak yeniden denenecektir._\n\n"
-        f"Resmî kayıt: {official_url}\n"
-        f"Geçici hata: {reason}\n"
-    )
-    return text, official_url
-
-
-def build_metadata(
-    item: dict[str, Any],
-    directory: Path,
-    text: str,
-    source_url: str,
-    *,
-    fetched: bool,
-) -> dict[str, Any]:
-    source_type = str(item.get("_source_type") or "KANUN")
+def build_metadata(item: dict[str, Any], slug: str, text: str, fetched: bool) -> dict[str, Any]:
+    source_type = str(item.get("_source_type") or item.get("source_type") or "KANUN")
     return {
         "law_number": str(item.get("mevzuatNo") or "").strip(),
         "title": str(item.get("mevzuatAdi") or "İsimsiz mevzuat").strip(),
-        "slug": directory.name,
+        "slug": slug,
         "accepted_date": extract_accepted_date(text) if fetched else None,
         "effective_status": "repealed" if source_type == "MULGA" else "in_force",
         "official_gazette": {
             "date": normalize_date(item.get("resmiGazeteTarihi")),
-            "number": (
-                str(item.get("resmiGazeteSayisi")).strip()
-                if item.get("resmiGazeteSayisi") not in (None, "")
-                else None
-            ),
+            "number": str(item.get("resmiGazeteSayisi")).strip()
+            if item.get("resmiGazeteSayisi") not in (None, "") else None,
         },
-        "source_url": source_url,
+        "source_url": source_url(item),
         "language": "tr",
         "tags": [] if fetched else ["official-fetch-unavailable"],
-        "source_mevzuat_id": str(item["mevzuatId"]),
+        "source_mevzuat_id": str(item.get("mevzuatId") or ""),
         "source_type": source_type,
-        "content_sha256": content_hash(text),
-        "retrieval_api": f"{BASE_URL}/searchDocuments",
+        "content_sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
+        "retrieval_api": f"{BASE_URL}/getDocumentContent",
     }
 
 
-def render_markdown(metadata: dict[str, Any], text: str) -> str:
-    gazette = metadata["official_gazette"]
-    return "\n".join(
-        [
-            f"# {metadata['title']} (No. {metadata['law_number'] or '—'})",
-            "",
-            f"> Resmî kaynak: {metadata['source_url']}",
-            f"> Resmî Gazete: {gazette.get('date') or 'bilinmiyor'} / {gazette.get('number') or 'bilinmiyor'}",
-            f"> UYAP Mevzuat kimliği: {metadata['source_mevzuat_id']}",
-            "",
-            "---",
-            "",
-            text.rstrip(),
-            "",
-        ]
+def render_markdown(meta: dict[str, Any], text: str) -> str:
+    gazette = meta["official_gazette"]
+    return "\n".join([
+        f"# {meta['title']} (No. {meta['law_number'] or '—'})",
+        "",
+        f"> Resmî kaynak: {meta['source_url']}",
+        f"> Resmî Gazete: {gazette.get('date') or 'bilinmiyor'} / {gazette.get('number') or 'bilinmiyor'}",
+        f"> UYAP Mevzuat kimliği: {meta['source_mevzuat_id']}",
+        "",
+        "---",
+        "",
+        text.rstrip(),
+        "",
+    ])
+
+
+def stub_text(item: dict[str, Any], reason: str) -> str:
+    return (
+        "_Bu kayıt Adalet Bakanlığı UYAP Mevzuat resmî kataloğunda yer alıyor, "
+        "ancak bu çalışmada tam metin resmî içerik API'sinden alınamadı. "
+        "Otomatik senkronizasyon sonraki çalışmalarda yeniden deneyecektir._\n\n"
+        f"Resmî kayıt: {source_url(item)}\n"
+        f"Geçici hata: {reason}\n"
     )
 
 
-def write_text_if_changed(path: Path, text: str) -> bool:
-    current = path.read_text(encoding="utf-8") if path.exists() else None
-    if current == text:
-        return False
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(text, encoding="utf-8")
-    return True
+def existing_by_id(root: Path = LAWS_DIR) -> dict[str, Path]:
+    result: dict[str, Path] = {}
+    if not root.exists():
+        return result
+    for meta_path in root.glob("*/ustveri.json"):
+        data = load_json(meta_path, {})
+        source_id = str(data.get("source_mevzuat_id") or "").strip()
+        if source_id:
+            result[source_id] = meta_path.parent
+    return result
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--types", default="KANUN,MULGA")
-    parser.add_argument("--delay", type=float, default=0.30)
-    parser.add_argument("--max-errors", type=int, default=0, help="Geriye dönük uyumluluk; fetch hataları stub olarak saklanır.")
-    parser.add_argument("--min-documents", type=int, default=1000)
-    parser.add_argument("--workers", type=int, default=1)
-    args = parser.parse_args()
+def write_document(item: dict[str, Any], out_laws: Path, *, preserve_good_on_error: bool) -> tuple[str, bool]:
+    source_id = str(item["mevzuatId"])
+    slug = directory_name(item)
+    target = out_laws / slug
 
-    global REQUEST_DELAY_SECONDS
-    REQUEST_DELAY_SECONDS = max(0.15, args.delay)
-    types = [x.strip().upper() for x in args.types.split(",") if x.strip()]
-    unknown = sorted(set(types) - set(SUPPORTED_TYPES))
+    try:
+        text, _ = get_document_text(source_id)
+        fetched = True
+    except Exception as exc:
+        if preserve_good_on_error:
+            current = existing_by_id(out_laws).get(source_id)
+            if current:
+                previous = load_json(current / "ustveri.json", {})
+                if str(previous.get("retrieval_api") or "").startswith(BASE_URL) and "official-fetch-unavailable" not in (previous.get("tags") or []):
+                    print(f"KEEP [{source_id}] geçici API hatası: {exc}", file=sys.stderr, flush=True)
+                    return current.name, False
+        fetched = False
+        text = stub_text(item, str(exc))
+        print(f"::warning title=Resmî tam metin alınamadı::{source_id}: {exc}", flush=True)
+
+    target.mkdir(parents=True, exist_ok=True)
+    meta = build_metadata(item, slug, text, fetched)
+    save_json(target / "ustveri.json", meta)
+    (target / "metin.md").write_text(render_markdown(meta, text), encoding="utf-8")
+    print(f"{'OK' if fetched else 'STUB'} {source_id} {slug}", flush=True)
+    return slug, fetched
+
+
+def rebuild_index(root: Path = LAWS_DIR) -> dict[str, Any]:
+    entries: list[dict[str, Any]] = []
+    failures = 0
+    for meta_path in sorted(root.glob("*/ustveri.json")):
+        meta = load_json(meta_path, {})
+        if not meta:
+            continue
+        tags = meta.get("tags") or []
+        if "official-fetch-unavailable" in tags:
+            failures += 1
+        entries.append({
+            "law_number": meta.get("law_number", ""),
+            "title": meta.get("title", ""),
+            "type": meta.get("source_type", ""),
+            "path": meta_path.parent.relative_to(ROOT).as_posix() if root == LAWS_DIR else f"kanunlar/{meta_path.parent.name}",
+            "source_mevzuat_id": meta.get("source_mevzuat_id", ""),
+            "content_sha256": meta.get("content_sha256", ""),
+            "fetch_status": "stub" if "official-fetch-unavailable" in tags else "ok",
+        })
+    entries.sort(key=lambda x: (x["type"], x["law_number"], x["title"], x["source_mevzuat_id"]))
+    return {
+        "source": PUBLIC_SITE,
+        "catalog_api": f"{BASE_URL}/searchDocuments",
+        "content_api": f"{BASE_URL}/getDocumentContent",
+        "documents_total": len(entries),
+        "fetch_failures": failures,
+        "documents": entries,
+    }
+
+
+def types_arg(raw: str) -> list[str]:
+    types = [x.strip().upper() for x in raw.split(",") if x.strip()]
+    unknown = sorted(set(types) - SUPPORTED_TYPES)
     if unknown:
-        parser.error(f"Desteklenmeyen türler: {', '.join(unknown)}")
+        raise SystemExit(f"Desteklenmeyen türler: {', '.join(unknown)}")
+    return types
 
-    LAWS_DIR.mkdir(parents=True, exist_ok=True)
-    documents = list_documents(types)
-    if len(documents) < args.min_documents:
+
+def mode_catalog(args: argparse.Namespace) -> int:
+    docs = list_documents(types_arg(args.types))
+    if len(docs) < args.min_documents:
+        raise SystemExit(f"Güvenlik kontrolü: katalog {len(docs)} belge döndürdü; en az {args.min_documents} bekleniyor.")
+    out = Path(args.catalog_out)
+    save_json(out, {"documents": docs, "state": catalog_state(docs)})
+    print(f"Katalog yazıldı: {len(docs)} belge -> {out}")
+    return 0
+
+
+def mode_shard(args: argparse.Namespace) -> int:
+    payload = load_json(Path(args.catalog_file), {})
+    docs = payload.get("documents") or []
+    if len(docs) < args.min_documents:
+        raise SystemExit(f"Katalog eksik: {len(docs)}")
+    shard_docs = [d for i, d in enumerate(docs) if i % args.shard_count == args.shard_index]
+    out_root = Path(args.output_root)
+    out_laws = out_root / "kanunlar"
+    if out_root.exists():
+        shutil.rmtree(out_root)
+    out_laws.mkdir(parents=True, exist_ok=True)
+
+    ok = 0
+    stub = 0
+    for i, item in enumerate(shard_docs, 1):
+        _, fetched = write_document(item, out_laws, preserve_good_on_error=False)
+        ok += int(fetched)
+        stub += int(not fetched)
+        print(f"Shard {args.shard_index}: {i}/{len(shard_docs)}", flush=True)
+
+    save_json(out_root / f"manifest-{args.shard_index:02d}.json", {
+        "shard_index": args.shard_index,
+        "shard_count": args.shard_count,
+        "documents": len(shard_docs),
+        "ok": ok,
+        "stub": stub,
+    })
+    print(f"Shard tamamlandı: {len(shard_docs)} belge; OK={ok}, STUB={stub}")
+    return 0
+
+
+def mode_reindex(args: argparse.Namespace) -> int:
+    catalog = load_json(Path(args.catalog_file), {})
+    state = catalog.get("state")
+    if not state:
+        docs = catalog.get("documents") or []
+        state = catalog_state(docs)
+    save_json(STATE_PATH, state)
+    save_json(INDEX_PATH, rebuild_index(LAWS_DIR))
+    print(f"İndeks: {load_json(INDEX_PATH, {}).get('documents_total', 0)} belge")
+    return 0
+
+
+def mode_daily(args: argparse.Namespace) -> int:
+    docs = list_documents(types_arg(args.types))
+    if len(docs) < args.min_documents:
         raise SystemExit(
-            f"Güvenlik kontrolü: resmî katalog {len(documents)} belge döndürdü; "
+            f"Güvenlik kontrolü: resmî katalog {len(docs)} belge döndürdü; "
             f"en az {args.min_documents} bekleniyordu. Repo değiştirilmedi."
         )
 
-    tasks = assign_targets(documents)
-    desired_dirs: set[Path] = set()
-    entries: list[dict[str, Any]] = []
-    fetch_failures: list[str] = []
-    changed = 0
-
-    for i, (item, directory) in enumerate(tasks, 1):
-        desired_dirs.add(directory)
-        fetched = True
-        try:
-            text, fetched_url = get_document_text(item)
-        except Exception as exc:
-            fetched = False
-            reason = str(exc)
-            text, fetched_url = build_stub(item, reason)
-            failure = f"{item.get('mevzuatId')} {item.get('mevzuatAdi')}: {reason}"
-            fetch_failures.append(failure)
-            print(f"::warning title=Resmî tam metin alınamadı::{failure}", flush=True)
-
-        metadata = build_metadata(item, directory, text, fetched_url, fetched=fetched)
-        if write_text_if_changed(
-            directory / "ustveri.json",
-            json.dumps(metadata, ensure_ascii=False, indent=2) + "\n",
-        ):
-            changed += 1
-        if write_text_if_changed(directory / "metin.md", render_markdown(metadata, text)):
-            changed += 1
-        entries.append(
-            {
-                "law_number": metadata["law_number"],
-                "title": metadata["title"],
-                "type": metadata["source_type"],
-                "path": directory.relative_to(ROOT).as_posix(),
-                "source_mevzuat_id": metadata["source_mevzuat_id"],
-                "content_sha256": metadata["content_sha256"],
-                "fetch_status": "ok" if fetched else "stub",
-            }
-        )
-        print(
-            f"{'OK' if fetched else 'STUB'} [{i}/{len(tasks)}] {directory.name}",
-            flush=True,
-        )
-
-    entries.sort(
-        key=lambda x: (x["type"], x["law_number"], x["title"], x["source_mevzuat_id"])
-    )
-    index = {
-        "source": PUBLIC_SITE,
-        "catalog_api": f"{BASE_URL}/searchDocuments",
-        "types": types,
-        "documents_total": len(entries),
-        "fetch_failures": len(fetch_failures),
-        "documents": entries,
+    current_state = catalog_state(docs)
+    previous_state = load_json(STATE_PATH, {})
+    previous_map = {
+        str(d.get("mevzuatId") or ""): d
+        for d in (previous_state.get("documents") or [])
+        if d.get("mevzuatId")
     }
-    if write_text_if_changed(
-        INDEX_PATH,
-        json.dumps(index, ensure_ascii=False, indent=2) + "\n",
-    ):
-        changed += 1
+    current_map = {str(d["mevzuatId"]): d for d in docs}
+    current_projected = {sid: catalog_projection(d) for sid, d in current_map.items()}
 
-    # Katalogdaki her kayıt yukarıda OK veya açık bir STUB olarak üretildiği için,
-    # artık önceki corpus'tan kalan ve resmî katalogda olmayan dizinleri güvenle sil.
-    for directory in sorted(p for p in LAWS_DIR.iterdir() if p.is_dir()):
-        if directory not in desired_dirs:
+    changed: set[str] = set()
+    if previous_map:
+        for sid, projected in current_projected.items():
+            old = previous_map.get(sid)
+            if old is None or fingerprint(projected) != fingerprint(old):
+                changed.add(sid)
+
+    existing = existing_by_id()
+    missing = [sid for sid in current_map if sid not in existing]
+    backfill = set(sorted(missing)[: args.max_backfill])
+
+    day_bucket = date.today().toordinal() % args.rotation_buckets
+    rotation = {
+        sid for sid, item in current_map.items()
+        if str(item.get("_source_type") or "") == "KANUN"
+        and int(hashlib.sha256(sid.encode()).hexdigest()[:8], 16) % args.rotation_buckets == day_bucket
+    }
+
+    selected = changed | backfill | rotation
+    print(
+        f"Günlük seçim: katalog-değişen={len(changed)}, "
+        f"eksik-backfill={len(backfill)}/{len(missing)}, rotasyon={len(rotation)}, "
+        f"toplam={len(selected)}",
+        flush=True,
+    )
+
+    LAWS_DIR.mkdir(parents=True, exist_ok=True)
+    for i, sid in enumerate(sorted(selected), 1):
+        write_document(current_map[sid], LAWS_DIR, preserve_good_on_error=True)
+        print(f"Günlük içerik: {i}/{len(selected)}", flush=True)
+
+    removed_ids = set(previous_map) - set(current_map)
+    by_id = existing_by_id()
+    for sid in sorted(removed_ids):
+        directory = by_id.get(sid)
+        if directory and directory.exists():
             shutil.rmtree(directory)
-            changed += 1
-            print(f"SİLİNDİ: {directory.name}", flush=True)
+            print(f"Katalogdan kaldırıldı: {sid} ({directory.name})")
 
-    print(f"Resmî katalog belge sayısı: {len(entries)}")
-    print(f"Tam metni bu çalışmada alınamayan kayıt: {len(fetch_failures)}")
-    if fetch_failures:
-        for failure in fetch_failures[:30]:
-            print(f"- {failure}", file=sys.stderr)
-    print(f"Değişen dosya/dizin sayısı: {changed}")
+    save_json(STATE_PATH, current_state)
+    save_json(INDEX_PATH, rebuild_index(LAWS_DIR))
     return 0
+
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser()
+    p.add_argument("--mode", choices=("daily", "catalog", "shard", "reindex"), default="daily")
+    p.add_argument("--types", default="KANUN,MULGA")
+    p.add_argument("--delay", type=float, default=0.35)
+    p.add_argument("--min-documents", type=int, default=1000)
+    p.add_argument("--catalog-out", default="/tmp/mevzuat-catalog.json")
+    p.add_argument("--catalog-file", default="/tmp/mevzuat-catalog.json")
+    p.add_argument("--output-root", default="/tmp/mevzuat-shard")
+    p.add_argument("--shard-index", type=int, default=0)
+    p.add_argument("--shard-count", type=int, default=32)
+    p.add_argument("--rotation-buckets", type=int, default=28)
+    p.add_argument("--max-backfill", type=int, default=20)
+    return p
+
+
+def main() -> int:
+    args = build_parser().parse_args()
+    global REQUEST_DELAY_SECONDS
+    REQUEST_DELAY_SECONDS = max(0.15, args.delay)
+    if args.shard_count <= 0 or not (0 <= args.shard_index < args.shard_count):
+        raise SystemExit("Geçersiz shard index/count")
+    if args.rotation_buckets <= 0:
+        raise SystemExit("rotation-buckets pozitif olmalı")
+
+    if args.mode == "catalog":
+        return mode_catalog(args)
+    if args.mode == "shard":
+        return mode_shard(args)
+    if args.mode == "reindex":
+        return mode_reindex(args)
+    return mode_daily(args)
 
 
 if __name__ == "__main__":

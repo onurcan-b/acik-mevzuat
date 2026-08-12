@@ -13,10 +13,14 @@ class SyncHelpersTest(unittest.TestCase):
     def test_slugify_turkish(self):
         self.assertEqual(sync.slugify("Türk Ceza Kanunu"), "turk-ceza-kanunu")
 
-    def test_directory_slug_is_filesystem_safe(self):
-        title = "Çok uzun kanun adı " * 40
-        slug = sync.directory_slug("3571", title, "104000")
-        self.assertLessEqual(len(slug), 150)
+    def test_directory_name_is_filesystem_safe(self):
+        item = {
+            "mevzuatId": "104000",
+            "mevzuatNo": "3571",
+            "mevzuatAdi": "Çok uzun kanun adı " * 40,
+        }
+        slug = sync.directory_name(item)
+        self.assertLessEqual(len(slug), 145)
         self.assertTrue(slug.startswith("3571-"))
 
     def test_normalize_date(self):
@@ -34,6 +38,21 @@ class SyncHelpersTest(unittest.TestCase):
         self.assertIn("Madde 1", text)
         self.assertIn("Birinci fıkra.", text)
         self.assertNotIn("<p>", text)
+
+    def test_catalog_projection_is_stable_and_small(self):
+        projected = sync.catalog_projection({
+            "mevzuatId": 103228,
+            "mevzuatNo": "5237",
+            "mevzuatAdi": "Türk Ceza Kanunu",
+            "resmiGazeteTarihi": "12/10/2004",
+            "resmiGazeteSayisi": "25611",
+            "url": "/foo",
+            "_source_type": "KANUN",
+            "irrelevantRuntimeField": "ignored",
+        })
+        self.assertEqual(projected["mevzuatId"], "103228")
+        self.assertEqual(projected["source_type"], "KANUN")
+        self.assertNotIn("irrelevantRuntimeField", projected)
 
 
 if __name__ == "__main__":
