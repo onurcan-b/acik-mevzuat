@@ -2,8 +2,8 @@
 """Türkiye kanunlarını doğrudan Adalet Bakanlığı UYAP Mevzuat kaynaklarından senkronize eder.
 
 Başka bir veri reposu kullanılmaz. Katalog Bedesten/UYAP'ın resmî arama
-servisinden alınır; her belgenin metni katalogdaki resmî URL'den (çoğunlukla
-PDF), bu başarısızsa mevzuat.adalet.gov.tr üzerindeki resmî belge sayfasından
+servisinden alınır; her belgenin metni önce mevzuat.adalet.gov.tr üzerindeki
+resmî belge sayfasından, bu başarısızsa katalogdaki resmî URL'den/PDF'den
 alınır. Tam metni geçici olarak alınamayan katalog kayıtları açık bir stub ile
 temsil edilir ve sonraki günlük çalışmada yeniden denenir.
 """
@@ -50,7 +50,7 @@ SUPPORTED_TYPES = (
     "UY",
     "TEBLIGLER",
 )
-USER_AGENT = "acik-mevzuat/3.2 (+https://github.com/onurcan-b/acik-mevzuat)"
+USER_AGENT = "acik-mevzuat/3.3 (+https://github.com/onurcan-b/acik-mevzuat)"
 POST_HEADERS = {
     "Content-Type": "application/json; charset=utf-8",
     "AdaletApplicationName": APP_NAME,
@@ -67,6 +67,7 @@ GET_HEADERS = {
 }
 LAST_REQUEST_AT = 0.0
 REQUEST_DELAY_SECONDS = 0.30
+DOCUMENT_FETCH_ATTEMPTS = 2
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -140,16 +141,26 @@ def _post(endpoint: str, data: dict[str, Any], *, paging: bool = False) -> dict[
 
 
 def _get(url: str, label: str) -> requests.Response:
+    """Tek bir belge için kısa, sınırlı retry uygular.
+
+    Katalog isteği corpus bütünlüğü için agresif retry yapar; fakat tekil belge
+    isteği başarısızsa kaydı stub olarak saklayabildiğimiz için dakikalarca aynı
+    URL'yi beklemek yerine sonraki günlük çalışmaya bırakırız.
+    """
     global LAST_REQUEST_AT
     last_error: Exception | None = None
-    for attempt in range(8):
+    for attempt in range(DOCUMENT_FETCH_ATTEMPTS):
         try:
             _pace_requests()
-            response = requests.get(url, headers=GET_HEADERS, timeout=(20, 120))
+            response = requests.get(url, headers=GET_HEADERS, timeout=(10, 30))
             LAST_REQUEST_AT = time.monotonic()
             if response.status_code == 429:
-                _retry_sleep(attempt, response)
-                continue
+                last_error = ApiError("HTTP 429")
+                if attempt + 1 < DOCUMENT_FETCH_ATTEMPTS:
+                    retry_after = _retry_after_seconds(response)
+                    time.sleep(min(retry_after if retry_after is not None else 2.0, 5.0))
+                    continue
+                break
             if response.status_code >= 500:
                 raise ApiError(f"HTTP {response.status_code}")
             response.raise_for_status()
@@ -158,10 +169,10 @@ def _get(url: str, label: str) -> requests.Response:
             return response
         except (requests.RequestException, ApiError) as exc:
             last_error = exc
-            if attempt == 7:
+            if attempt + 1 >= DOCUMENT_FETCH_ATTEMPTS:
                 break
-            print(f"Resmî kaynak hatası ({label}): {exc}; tekrar deneniyor.", file=sys.stderr)
-            _retry_sleep(attempt)
+            print(f"Resmî kaynak hatası ({label}): {exc}; bir kez daha deneniyor.", file=sys.stderr)
+            time.sleep(1.0 + random.uniform(0.1, 0.5))
     raise ApiError(f"{url} başarısız: {last_error}")
 
 
@@ -278,6 +289,17 @@ def get_document_text(item: dict[str, Any]) -> tuple[str, str]:
     law_number = str(item.get("mevzuatNo") or "").strip()
     title = str(item.get("mevzuatAdi") or "İsimsiz mevzuat").strip()
     failures: list[str] = []
+
+    # Birincil kaynak: Adalet Bakanlığı'nın belge sayfası. Önce bunu denemek
+    # PDF indirme/parsing maliyetini büyük ölçüde azaltır.
+    page_url = f"{PUBLIC_SITE}/mevzuat/{mevzuat_id}"
+    try:
+        response = _get(page_url, f"{mevzuat_id} HTML")
+        return extract_public_document(response.text, law_number, title), page_url
+    except Exception as exc:
+        failures.append(f"HTML: {exc}")
+
+    # Fallback de yine resmî kaynaktır: katalogdaki URL / PDF.
     catalog_url = _catalog_url(item)
     if catalog_url:
         try:
@@ -291,12 +313,7 @@ def get_document_text(item: dict[str, Any]) -> tuple[str, str]:
             raise ApiError("katalog URL içeriği kısa")
         except Exception as exc:
             failures.append(f"katalog URL: {exc}")
-    page_url = f"{PUBLIC_SITE}/mevzuat/{mevzuat_id}"
-    try:
-        response = _get(page_url, f"{mevzuat_id} HTML")
-        return extract_public_document(response.text, law_number, title), page_url
-    except Exception as exc:
-        failures.append(f"HTML: {exc}")
+
     raise ApiError("; ".join(failures))
 
 
