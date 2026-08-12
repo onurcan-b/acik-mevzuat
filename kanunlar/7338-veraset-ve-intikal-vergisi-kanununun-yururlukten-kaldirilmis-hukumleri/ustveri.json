@@ -1,0 +1,18 @@
+{
+  "law_number": "7338",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1959-06-08",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1959-06-15",
+    "number": "10231"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335246",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335246",
+  "source_type": "MULGA",
+  "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

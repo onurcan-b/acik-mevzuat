@@ -1,0 +1,18 @@
+{
+  "law_number": "2499",
+  "title": "SERMAYE PİYASASI KANUNU",
+  "slug": "2499-sermaye-piyasasi-kanunu",
+  "accepted_date": "1981-07-28",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1981-07-30",
+    "number": "17416"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335531",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335531",
+  "source_type": "MULGA",
+  "content_sha256": "3905498fb0fc21f9156cc2010059e1722d50cbfbee6a973adb8ccb1707e564af",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,55 +1,112 @@
 # KARASULARI KANUNU (No. 2674)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2674.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/104910
+> Resmî Gazete: 1982-05-29 / 17708
+> UYAP Mevzuat kimliği: 104910
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 5 Cilt : 21 Sayfa : 338
+KARASULARI
+KANUNU
 
-Türk karasuları Türkiye ülkesine dahildir.
-Türk karasularının genişliği altı deniz milidir.
-Cumhurbaşkanı, belirli denizler için, o denizlerle ilgili bütün özellikleri ve durumları
-gözönünde bulundurmak ve hakkaniyet ilkesine uygun olmak şartıyla, altı deniz milinin üstünde
-karasuları genişliği tespit etmeye yetkilidir.1
+Kanun
+Numarası : 2674
 
-# MADDE 2
+Kabul
+Tarihi : 20/5/1982
 
-Türkiye ile kıyıları bitişik veya karşılıklı olan Devletler arasında karasuları
-anlaşma ile sınırlandırılır. Bu anlaşma bölgenin bütün ilgili özellikleri ve durumları gözönünde
-bulundurularak, hakkaniyet ilkesine göre yapılır.
+Yayımlandığı
+Resmî Gazete : Tarih : 29/5/1982 Sayı : 17708
 
-# MADDE 3
+Yayımlandığı
+Düstur : Tertip : 5 Cilt : 21 Sayfa :
+338
 
-Karasularının genişliği, Cumhurbaşkanınca tespit edilecek esas hatlardan
-itibaren ölçülür.2
+Madde
+1 –
+Türk
+karasuları Türkiye ülkesine dahildir.
 
-# MADDE 4
+Türk
+karasularının genişliği altı deniz milidir.
 
-Esas hatların kara tarafında kalan sular ve körfez suları, Türk iç sularıdır.
-Daimi liman tesisleri kıyının bir parçası sayılır ve bu tesislerden en açıkta olanlarının kara
-tarafında kalan sular ve dış limanlar iç sulara dahildir.
+Cumhurbaşkanı, belirli denizler için, o denizlerle ilgili
+bütün özellikleri ve durumları gözönünde bulundurmak ve hakkaniyet ilkesine
+uygun olmak şartıyla, altı deniz milinin üstünde karasuları genişliği tespit etmeye
+yetkilidir.
+[1]
 
-# MADDE 5
+Madde 2 –
+Türkiye
+ile kıyıları bitişik veya karşılıklı olan Devletler arasında karasuları anlaşma
+ile sınırlandırılır. Bu anlaşma bölgenin bütün ilgili özellikleri ve durumları
+gözönünde bulundurularak, hakkaniyet ilkesine göre yapılır.
 
-İç suların dış sınırını belirleyen ve karasularının genişliğini ölçmekte esas
-olan hatlar, bu amaçla hazırlanan büyük ölçekli deniz haritalarında gösterilir.
+Madde
+3 –
+Karasularının
+genişliği, Cumhurbaşkanınca tespit edilecek esas hatlardan itibaren ölçülür.
+[2]
 
-# MADDE 6
+Madde
+4 –
+Esas
+hatların kara tarafında kalan sular ve körfez suları, Türk iç sularıdır. Daimi
+liman tesisleri kıyının bir parçası sayılır ve bu tesislerden en açıkta
+olanlarının kara tarafında kalan sular ve dış limanlar iç sulara dahildir.
 
-15/5/1964 tarih ve 476 sayılı Kanunla, diğer kanunların bu Kanuna aykırı
-hükümleri yürürlükten kaldırılmıştır.
+Madde
+5 –
+İç
+suların dış sınırını belirleyen ve karasularının genişliğini ölçmekte esas olan
+hatlar, bu amaçla hazırlanan büyük ölçekli deniz haritalarında gösterilir.
 
-# MADDE 7
+Madde
+6 –
+15/5/1964
+tarih ve 476 sayılı Kanunla, diğer kanunların bu Kanuna aykırı hükümleri
+yürürlükten kaldırılmıştır.
 
-Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde
+7 –
+Bu
+Kanun yayımı tarihinde yürürlüğe girer.
 
-# MADDE 8
+Madde
+8 –
+Bu
+Kanunu Bakanlar Kurulu yürütür.
 
-Bu Kanunu Bakanlar Kurulu yürütür.
+2674 SAYILI KANUNA EK VE DEĞİŞİKLİK
+GETİREN MEVZUATIN VEYA
 
-1 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-2 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar
-Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE
+GİRİŞ
+
+TARİHLERİNİ GÖSTERİR TABLO
+
+Değiştiren Kanunun/ KHK’nin veya
+İptal Eden Anayasa Mahkemesi Kararının Numarası
+
+2674 Sayılı Kanunun Değişen veya
+İptal Edilen Maddeleri
+
+Yürürlüğe Giriş Tarihi
+
+KHK/698
+
+1, 3
+
+24/6/2018 tarihinde
+birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri
+sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte
+
+[1]
+2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde
+Kararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
+“Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+[2]
+2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde
+Kararnamenin 36 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
+“Cumhurbaşkanınca” şeklinde değiştirilmiştir.

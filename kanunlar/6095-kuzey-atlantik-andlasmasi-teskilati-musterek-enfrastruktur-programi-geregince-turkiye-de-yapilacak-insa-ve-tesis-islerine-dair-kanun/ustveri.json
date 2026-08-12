@@ -1,0 +1,18 @@
+{
+  "law_number": "6095",
+  "title": "KUZEY ATLANTİK ANDLAŞMASI TEŞKİLATI MÜŞTEREK ENFRASTRÜKTÜR PROGRAMI GEREĞİNCE TÜRKİYE´DE YAPILACAK İNŞA VE TESİS İŞLERİNE DAİR KANUN",
+  "slug": "6095-kuzey-atlantik-andlasmasi-teskilati-musterek-enfrastruktur-programi-geregince-turkiye-de-yapilacak-insa-ve-tesis-islerine-dair-kanun",
+  "accepted_date": "1953-07-02",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1953-07-09",
+    "number": "8453"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105172",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105172",
+  "source_type": "KANUN",
+  "content_sha256": "846c6c219997bda0c13c7566ecfbacbc85bb42a463f3d739fd0ee8edfb5a1b63",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

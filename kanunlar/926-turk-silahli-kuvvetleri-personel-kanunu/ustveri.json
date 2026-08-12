@@ -1,0 +1,18 @@
+{
+  "law_number": "926",
+  "title": "TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU",
+  "slug": "926-turk-silahli-kuvvetleri-personel-kanunu",
+  "accepted_date": "1967-07-27",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": "12670"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102954",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "102954",
+  "source_type": "KANUN",
+  "content_sha256": "d04af1e2d95c00cbbe0644937962596118efd6193dcfd8fdcf92340a8406910b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "5086",
   "title": "YABANCILARA İKİNCİ EL TAŞIT SATIŞI HAKKINDA KANUN",
   "slug": "5086-yabancilara-ikinci-el-tasit-satisi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-02-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-02-14",
+    "number": "25373"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5086.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103752",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5086",
+  "source_mevzuat_id": "103752",
   "source_type": "KANUN",
-  "content_sha256": "3b179ab9bd804ad07cc4e39a9ff1d47606da4d15ca4d166023f8cb245d9a89ce",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a2ffcfa0a1ed552f231e36ef1c2d9616c7f425a14d010089b320dd175fda72f6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

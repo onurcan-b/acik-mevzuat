@@ -1,0 +1,18 @@
+{
+  "law_number": "497",
+  "title": "TÜRKİYE BİLİMLER AKADEMİSİNİN KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "497-turkiye-bilimler-akademisinin-kurulmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1993-09-02",
+    "number": "21686"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336480",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336480",
+  "source_type": "MULGA",
+  "content_sha256": "e0f7baaf124b65c1253e58eb114638f26e2ad973e052d0bfd33166c2c6104e76",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

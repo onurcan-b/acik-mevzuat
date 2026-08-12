@@ -1,0 +1,18 @@
+{
+  "law_number": "4576",
+  "title": "DEVLET MEMURLARI KANUNU, HARCIRAH KANUNU, BAZI SAĞLIK PERSONELİNİN DEVLET HİZMETİ YÜKÜMLÜLÜĞÜNE DAİR KANUN, TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ KURULUŞU VE GÖREVLERİ HAKKINDA KANUN, KADASTRO KANUNU İLE GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "4576-devlet-memurlari-kanunu-harcirah-kanunu-bazi-saglik-personelinin-devlet-hizmeti-yukumlulugune-dair-kanun-tapu-ve-kadastro-genel-mudur-103518",
+  "accepted_date": "2000-06-07",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2000-06-13",
+    "number": "24078"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103518",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103518",
+  "source_type": "KANUN",
+  "content_sha256": "12d6ab2b83c6cf886ffcd7a7b7d7aac13ae74a603a6f0598353fecb6ecd93cc5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

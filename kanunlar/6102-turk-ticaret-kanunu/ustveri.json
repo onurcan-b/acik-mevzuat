@@ -1,18 +1,18 @@
 {
   "law_number": "6102",
-  "title": "Türk Ticaret Kanunu",
+  "title": "TÜRK TİCARET KANUNU",
   "slug": "6102-turk-ticaret-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2011-01-13",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "27846"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103039",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6102",
+  "source_mevzuat_id": "103039",
   "source_type": "KANUN",
-  "content_sha256": "27125c918bc0d9084d9f20af1bd0f4bd80088a0f5aff225e070207ecb23c17a4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "84997c47d6df9310aaa17632847373d0ec8e434794241a083979665da85bea4a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

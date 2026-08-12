@@ -2,17 +2,17 @@
   "law_number": "2893",
   "title": "TÜRK BAYRAĞI KANUNU",
   "slug": "2893-turk-bayragi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-09-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-09-24",
+    "number": "18171"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2893.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104859",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2893",
+  "source_mevzuat_id": "104859",
   "source_type": "KANUN",
-  "content_sha256": "b6f6160536bed036e50ce2153208946214416c26c71629694bc339e55bac28a9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1983a0c28ac1dfb7e4b3205abbd6bd7d365942c34a3b3483a678704d5786cf79",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4698",
   "title": "KONUT MÜSTEŞARLIĞININ KURULMASI VE ARSA OFİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "4698-konut-mustesarliginin-kurulmasi-ve-arsa-ofisi-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-06-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-07-07",
+    "number": "24455"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4698.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103578",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4698",
+  "source_mevzuat_id": "103578",
   "source_type": "KANUN",
-  "content_sha256": "77d3163270cb09bdfa322b6e8750f24bed6520e8c45962087f1e73d02862cabc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e43385c6b00879f26ed6bfa51c44972b81a18e6d2dbe8bfd5705dbc4635705c6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

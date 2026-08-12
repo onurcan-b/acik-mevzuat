@@ -2,17 +2,17 @@
   "law_number": "6493",
   "title": "ÖDEME VE MENKUL KIYMET MUTABAKAT SİSTEMLERİ, ÖDEME HİZMETLERİ VE ELEKTRONİK PARA KURULUŞLARI HAKKINDA KANUN",
   "slug": "6493-odeme-ve-menkul-kiymet-mutabakat-sistemleri-odeme-hizmetleri-ve-elektronik-para-kuruluslari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2013-06-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2013-06-27",
+    "number": "28690"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6493.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104230",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6493",
+  "source_mevzuat_id": "104230",
   "source_type": "KANUN",
-  "content_sha256": "d10e9da8bc99501f557e4fce717c12eed85abb4d8faafa6038fc72a7c325f4a6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a8834423a8838e361acccaee440f8c3f2cb44c0d0acf6fc3ee8c6b60440567c6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

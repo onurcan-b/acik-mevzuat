@@ -1,0 +1,18 @@
+{
+  "law_number": "2622",
+  "title": "24/11/1934 TARİH VE 2587 SAYILI KANUNLA KEMAL ÖZ ADLI TÜRKİYE CUMHUR REİSİNE VERİLEN ATATÜRK ADININ VEYA BUNUN BAŞINA VE SONUNA SÖZ KONARAK YAPILAN ADLARIN HİÇ BİR KİMSE TARAFINDAN ALINAMIYACAĞINI BUYURAN KANUN",
+  "slug": "2622-24-11-1934-tarih-ve-2587-sayili-kanunla-kemal-oz-adli-turkiye-cumhur-reisine-verilen-ataturk-adinin-veya-bunun-basina-ve-sonuna-soz-k-105312",
+  "accepted_date": "1934-12-17",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1934-12-24",
+    "number": "2888"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105312",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105312",
+  "source_type": "KANUN",
+  "content_sha256": "a47e29096ca4d4abc5a35fc46c71c9bb80b7422fb04b05ccfc33a7329ed1ffaa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

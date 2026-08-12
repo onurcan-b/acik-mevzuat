@@ -2,17 +2,17 @@
   "law_number": "7430",
   "title": "ANTALYA DİPLOMASİ FORUMU VAKFI KANUNU",
   "slug": "7430-antalya-diplomasi-forumu-vakfi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2023-01-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-01-10",
+    "number": "32069"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7430.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102995",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7430",
+  "source_mevzuat_id": "102995",
   "source_type": "KANUN",
-  "content_sha256": "b3f92307506d08de76f2af155d6be0c2fb0f885dd447fd7b518cfbb16785c3de",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f1eb6f12f4784df1fe9e75c7d9174db64c5285a40c8a2564592e1fb46f046aed",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

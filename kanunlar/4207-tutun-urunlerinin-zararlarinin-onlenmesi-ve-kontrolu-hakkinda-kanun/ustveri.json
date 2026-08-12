@@ -2,17 +2,17 @@
   "law_number": "4207",
   "title": "TÜTÜN ÜRÜNLERİNİN ZARARLARININ ÖNLENMESİ VE KONTROLÜ HAKKINDA KANUN",
   "slug": "4207-tutun-urunlerinin-zararlarinin-onlenmesi-ve-kontrolu-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1996-11-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1996-11-26",
+    "number": "22829"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4207.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103366",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4207",
+  "source_mevzuat_id": "103366",
   "source_type": "KANUN",
-  "content_sha256": "db761eaee7a2e401148de396b2931146fec6a7197672a5ea24eeb9225ddc3690",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f8be614003a2ff4a0dd92edab9eb2c2acf9580c73e70e544c81b735865fb58ca",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

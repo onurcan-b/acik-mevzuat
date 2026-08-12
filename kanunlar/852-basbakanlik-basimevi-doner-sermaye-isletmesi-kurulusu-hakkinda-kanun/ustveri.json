@@ -1,0 +1,18 @@
+{
+  "law_number": "852",
+  "title": "BAŞBAKANLIK BASIMEVİ DÖNER SERMAYE İŞLETMESİ KURULUŞU HAKKINDA KANUN",
+  "slug": "852-basbakanlik-basimevi-doner-sermaye-isletmesi-kurulusu-hakkinda-kanun",
+  "accepted_date": "1967-04-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1967-04-19",
+    "number": "12577"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335551",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335551",
+  "source_type": "MULGA",
+  "content_sha256": "ebdc80a62e36ac0899802c53433ecdbb7c4970a575a3d49686bf3ab56fc58742",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

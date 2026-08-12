@@ -2,17 +2,17 @@
   "law_number": "6023",
   "title": "TÜRK TABİPLERİ BİRLİĞİ KANUNU",
   "slug": "6023-turk-tabipleri-birligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1953-01-23",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "8323"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6023.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104517",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6023",
+  "source_mevzuat_id": "104517",
   "source_type": "KANUN",
-  "content_sha256": "511225c10d3d7242bafc888f811547bde59ef0733071f9f24e35dce847cd5f4f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a99525e6329d91217881512232f5cba69102991f5b17c492f26d4b2d7a29ed29",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

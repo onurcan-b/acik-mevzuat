@@ -2,17 +2,17 @@
   "law_number": "7126",
   "title": "SİVİL SAVUNMA KANUNU",
   "slug": "7126-sivil-savunma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1958-06-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1958-06-13",
+    "number": "9931"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7126.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105097",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7126",
+  "source_mevzuat_id": "105097",
   "source_type": "KANUN",
-  "content_sha256": "440261e323150748096b5cca6cee6dd2d1beb90a3a1d157f593a247ca90b06fd",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "804734b3ea69b2647980b1248165eaf3f9644c51893b81fa2c07f1f1b03aca2f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

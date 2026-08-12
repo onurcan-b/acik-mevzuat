@@ -2,17 +2,17 @@
   "law_number": "4457",
   "title": "TÜRK AKREDİTASYON KURUMUNA İLİŞKİN ÇEŞİTLİ HÜKÜMLER HAKKINDA KANUN",
   "slug": "4457-turk-akreditasyon-kurumuna-iliskin-cesitli-hukumler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1999-10-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1999-11-04",
+    "number": "23866"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4457.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103446",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4457",
+  "source_mevzuat_id": "103446",
   "source_type": "KANUN",
-  "content_sha256": "7723106f7960be963a5cad8a6f32c24a63c323e415c83440e9cdf3f8c7f68924",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3925421e8bf685b5ba1f3a2a4cde7f10f2c3f8f34b4149c916756b6ccb49d41a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

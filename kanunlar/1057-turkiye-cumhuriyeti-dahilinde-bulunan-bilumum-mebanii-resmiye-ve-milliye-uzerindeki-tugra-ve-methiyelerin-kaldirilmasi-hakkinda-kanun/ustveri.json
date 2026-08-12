@@ -2,17 +2,17 @@
   "law_number": "1057",
   "title": "TÜRKİYE CUMHURİYETİ DAHİLİNDE BULUNAN BİLUMUM MEBANİİ RESMİYE VE MİLLİYE ÜZERİNDEKİ TUĞRA VE METHİYELERİN KALDIRILMASI HAKKINDA KANUN",
   "slug": "1057-turkiye-cumhuriyeti-dahilinde-bulunan-bilumum-mebanii-resmiye-ve-milliye-uzerindeki-tugra-ve-methiyelerin-kaldirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1927-05-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1927-06-15",
+    "number": "608"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1057.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105390",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1057",
+  "source_mevzuat_id": "105390",
   "source_type": "KANUN",
-  "content_sha256": "d0c48157909f6f2dffa21c4827f148ac7cdae2488e4103867b622db3f7e05e0c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "770f044178fef231931495248441a382abeea5502755322b5d488d53f6792cd6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

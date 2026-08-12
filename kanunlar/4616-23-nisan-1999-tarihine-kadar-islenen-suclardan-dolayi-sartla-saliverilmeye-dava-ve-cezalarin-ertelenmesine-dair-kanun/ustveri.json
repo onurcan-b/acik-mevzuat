@@ -2,17 +2,17 @@
   "law_number": "4616",
   "title": "23 NİSAN 1999 TARİHİNE KADAR İŞLENEN SUÇLARDAN DOLAYI ŞARTLA SALIVERİLMEYE, DAVA VE CEZALARIN ERTELENMESİNE DAİR KANUN",
   "slug": "4616-23-nisan-1999-tarihine-kadar-islenen-suclardan-dolayi-sartla-saliverilmeye-dava-ve-cezalarin-ertelenmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-12-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-12-22",
+    "number": "24268"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4616.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103521",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4616",
+  "source_mevzuat_id": "103521",
   "source_type": "KANUN",
-  "content_sha256": "3876dc6a4dcadb7f608972c7b694b4d707a527747eb95ffc6f3cd0d858b8ac77",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "aa090d696f5f13fb10d1b817f780456ae2087f72bdd991398e6403499b28d579",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

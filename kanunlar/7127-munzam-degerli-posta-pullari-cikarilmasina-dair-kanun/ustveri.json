@@ -2,17 +2,17 @@
   "law_number": "7127",
   "title": "MUNZAM DEĞERLİ POSTA PULLARI ÇIKARILMASINA DAİR KANUN",
   "slug": "7127-munzam-degerli-posta-pullari-cikarilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1958-06-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1958-06-13",
+    "number": "9931"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7127.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105101",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7127",
+  "source_mevzuat_id": "105101",
   "source_type": "KANUN",
-  "content_sha256": "cde52f44454a5a697bf0cafe6ab9df0a5a2ca8712b6093c4b2e1dcafc8997c89",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a45a42feb695f3970cfdad226b6b96daca37f0e29a3a82a5c5064411a5985299",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

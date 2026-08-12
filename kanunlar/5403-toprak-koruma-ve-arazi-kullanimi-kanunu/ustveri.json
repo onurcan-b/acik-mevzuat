@@ -1,18 +1,18 @@
 {
   "law_number": "5403",
-  "title": "Toprak Koruma ve Arazi Kullanımı Kanunu",
+  "title": "TOPRAK KORUMA VE ARAZİ KULLANIMI KANUNU",
   "slug": "5403-toprak-koruma-ve-arazi-kullanimi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-07-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25880"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5403.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103283",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5403",
+  "source_mevzuat_id": "103283",
   "source_type": "KANUN",
-  "content_sha256": "417d7464ce922fe43d06d117c202719b68182da3ed715bfb7b28d24bb24afde1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c6aab96d95da76e9925ae36d5703c0baaf4f5c77f8bfff7e5699c6805d3f2bf3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

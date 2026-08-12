@@ -1,18 +1,18 @@
 {
   "law_number": "6502",
-  "title": "Tüketicinin Korunması Hakkında Kanun",
+  "title": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
   "slug": "6502-tuketicinin-korunmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2013-11-07",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "28835"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6502.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103101",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6502",
+  "source_mevzuat_id": "103101",
   "source_type": "KANUN",
-  "content_sha256": "ee1c9b78da0663e8b26200e92500c3d4f372aca6b254a898ffa4dff09ca25e24",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "efab68007291df9c64a4858c49e45c0e02d983fa75859e3f6e496cbbdbf27edd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "221",
   "title": "AMME HÜKMÜ ŞAHISLARI VEYA MÜESSESELERİ TARAFINDAN FİİLEN AMME HİZMETLERİNE TAHSİS EDİLMİŞ GAYRİMENKULLER HAKKINDA KANUN",
   "slug": "221-amme-hukmu-sahislari-veya-muesseseleri-tarafindan-fiilen-amme-hizmetlerine-tahsis-edilmis-gayrimenkuller-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1961-01-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-12",
+    "number": "10705"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.221.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103326",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.221",
+  "source_mevzuat_id": "103326",
   "source_type": "KANUN",
-  "content_sha256": "39beef0386a056054f6b5059c636ccac13537697b7619ac95f97b6ea22c946c5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "553e6c1007d99246b7f6ebee4912403df4ba3b5bb1e5b876e3d280c73c3e39c3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

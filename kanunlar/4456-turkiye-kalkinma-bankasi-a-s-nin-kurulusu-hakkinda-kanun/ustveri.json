@@ -1,0 +1,18 @@
+{
+  "law_number": "4456",
+  "title": "TÜRKİYE KALKINMA BANKASI A.Ş.NİN KURULUŞU HAKKINDA KANUN",
+  "slug": "4456-turkiye-kalkinma-bankasi-a-s-nin-kurulusu-hakkinda-kanun",
+  "accepted_date": "1999-10-14",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1999-10-17",
+    "number": "23849"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335264",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335264",
+  "source_type": "MULGA",
+  "content_sha256": "4c41761949950e0f5fabbd9cebeb294ca97740be95ebb49bdb5e248dca1f5e2d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

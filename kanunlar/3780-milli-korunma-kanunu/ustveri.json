@@ -5,14 +5,14 @@
   "accepted_date": null,
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1940-01-26",
+    "number": "4417"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3780.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105260",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3780",
+  "source_mevzuat_id": "105260",
   "source_type": "KANUN",
-  "content_sha256": "08956e107238c777fa2a0eec7460ba75678c79443a6d2d28456ad90866bc7c20",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "83670e281893e931ee0b8d626f4ef855541d01ba049e7aa9cb8d61809ce11251",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7330",
   "title": "MAKİNE VE KİMYA ENDÜSTRİSİ ANONİM ŞİRKETİ HAKKINDA KANUN",
   "slug": "7330-makine-ve-kimya-endustrisi-anonim-sirketi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2021-06-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2021-07-03",
+    "number": "31530"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7330.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104128",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7330",
+  "source_mevzuat_id": "104128",
   "source_type": "KANUN",
-  "content_sha256": "4172b6404410b4be4d817fcb8146cd72640ed26a286072a5a3080728640f460e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3ad6b3f85535c0e9421ed3a117bd46f57bf24fecf6f8f5c205e6545854f07286",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

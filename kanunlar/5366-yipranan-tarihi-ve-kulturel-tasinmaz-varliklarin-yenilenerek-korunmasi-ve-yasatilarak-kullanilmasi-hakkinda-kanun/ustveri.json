@@ -2,17 +2,17 @@
   "law_number": "5366",
   "title": "YIPRANAN TARİHİ VE KÜLTÜREL TAŞINMAZ VARLIKLARIN YENİLENEREK KORUNMASI VE YAŞATILARAK KULLANILMASI HAKKINDA KANUN",
   "slug": "5366-yipranan-tarihi-ve-kulturel-tasinmaz-varliklarin-yenilenerek-korunmasi-ve-yasatilarak-kullanilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-06-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-07-05",
+    "number": "25866"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5366.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103882",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5366",
+  "source_mevzuat_id": "103882",
   "source_type": "KANUN",
-  "content_sha256": "2367cfe163c794c47ab7e8117f5c39bb88d9ed51f88d7fa14a63dc6f85de8b01",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "df9b25a9dcb9fed98302a863e66538a65a76e06d3adae5654cb9adfbe50a772c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

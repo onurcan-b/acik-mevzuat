@@ -2,17 +2,17 @@
   "law_number": "2863",
   "title": "KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KANUNU",
   "slug": "2863-kultur-ve-tabiat-varliklarini-koruma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-07-21",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18113"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2863.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103643",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2863",
+  "source_mevzuat_id": "103643",
   "source_type": "KANUN",
-  "content_sha256": "9a062e732475e4a3c593253cef694cfd3a0d9cd98446fbb9a5afb7ad9313a9d2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2f07b8b579a4e8390c5ce5377de436b5773f874ea5b67cb4c8e9b4d75829e3ae",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6253",
   "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞI İDARİ TEŞKİLATI KANUNU",
   "slug": "6253-turkiye-buyuk-millet-meclisi-baskanligi-idari-teskilati-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2011-12-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-12-18",
+    "number": "28146"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6253.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103463",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6253",
+  "source_mevzuat_id": "103463",
   "source_type": "KANUN",
-  "content_sha256": "d7afbd52f6a43de5dcf9add5d8d07330128c4784eaedb20534df5dbcdbc26da8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7439e85363579450143d9bfed71e40dd7b13d860ccc5b27de4c74ae0b70851a1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "2690",
   "title": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU İLE İLGİLİ BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN",
   "slug": "2690-turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-ile-ilgili-bazi-duzenlemeler-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1982-07-09",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17753"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2690.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104054",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2690",
+  "source_mevzuat_id": "104054",
   "source_type": "KANUN",
-  "content_sha256": "4229c9396df6392371c23c06e54f2171b237c9be7deff9063061cd727872e9b3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c410d743078cc01c56afa9c9c6a38ab2efeb91c19c958ded1ecfc646ff391028",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

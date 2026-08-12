@@ -1,0 +1,18 @@
+{
+  "law_number": "5235",
+  "title": "ADLÎ YARGI İLK DERECE MAHKEMELERİ İLE BÖLGE ADLİYE MAHKEMELERİNİN KURULUŞ, GÖREV VE YETKİLERİ HAKKINDA KANUN",
+  "slug": "5235-adli-yargi-ilk-derece-mahkemeleri-ile-bolge-adliye-mahkemelerinin-kurulus-gorev-ve-yetkileri-hakkinda-kanun",
+  "accepted_date": "2004-09-26",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": "25606"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103719",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103719",
+  "source_type": "KANUN",
+  "content_sha256": "f518fef40c3a5102ba61798834a0af90be25b431568d00239f5c7fb4dedec202",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

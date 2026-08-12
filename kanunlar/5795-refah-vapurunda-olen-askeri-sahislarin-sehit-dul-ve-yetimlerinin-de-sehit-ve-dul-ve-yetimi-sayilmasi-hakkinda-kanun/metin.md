@@ -1,21 +1,45 @@
 # REFAH VAPURUNDA ÖLEN ASKERİ ŞAHISLARIN ŞEHİT, DUL VE YETİMLERİNİN DE ŞEHİT VE DUL VE YETİMİ SAYILMASI HAKKINDA KANUN (No. 5795)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5795.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105176
+> Resmî Gazete: 1951-07-03 / 7850
+> UYAP Mevzuat kimliği: 105176
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 32 Sayfa: 1750
+2389
 
-23/6/1941 tarihinde batan Refah vapurunda ölen askeri şahıslar şehit, dul
-ve yetimleri de şehit dul ve yetimi sayılırlar ve haklarında bu tarihten itibaren şehit dul ve
+REFAH
+VAPURUNDA ÖLEN ASKERİ ŞAHISLARIN ŞEHİT,
+
+DUL VE
+YETİMLERİNİN DE ŞEHİT DUL VE YETİMİ SAYILMASI HAKKINDA KANUN
+
+Kanun
+Numarası : 5795
+
+Kabul
+Tarihi : 27/6/1951
+
+Yayımlandığı
+Resmî Gazete : Tarih: 3/7/1951 Sayı: 7850
+
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 32 Sayfa:
+1750
+
+Madde
+1 –
+23/6/1941
+tarihinde batan Refah vapurunda ölen askeri şahıslar şehit, dul ve yetimleri de
+şehit dul ve yetimi sayılırlar ve haklarında bu tarihten itibaren şehit dul ve
 yetimi hükümleri uygulanır.
 
-# MADDE 2
+Madde
+2 –
+Bu
+kanun yayımı tarihinde yürürlüğe girer.
 
-Bu kanun yayımı tarihinde yürürlüğe girer.
-
-# MADDE 3
-
-Bu kanunu Bakanlar Kurulu yürütür.
+Madde
+3 –
+Bu
+kanunu Bakanlar Kurulu yürütür.

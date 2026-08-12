@@ -1,0 +1,18 @@
+{
+  "law_number": "193",
+  "title": "GELİR VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "193-gelir-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1960-12-31",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "10700"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335568",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335568",
+  "source_type": "MULGA",
+  "content_sha256": "f77796956dfd1fd3527cbb2891e2b60ddd2e1bf802876bc6b5f12ab390586158",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

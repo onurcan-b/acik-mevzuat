@@ -2,17 +2,17 @@
   "law_number": "5393",
   "title": "BELEDİYE KANUNU",
   "slug": "5393-belediye-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-07-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25874"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5393.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102940",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5393",
+  "source_mevzuat_id": "102940",
   "source_type": "KANUN",
-  "content_sha256": "de78a46554390aeb9dca08931bf3dc22f9c8bd19bffa8941f18ff5054961518e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "660eca5c19e489cb15a625614285664352bddedb74c8c6ade1d692768b7e2cd0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

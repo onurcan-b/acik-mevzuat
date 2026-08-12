@@ -2,17 +2,17 @@
   "law_number": "244",
   "title": "BAZI ANDLAŞMALARIN YAPILMASI İÇİN CUMHURBAŞKANINA YETKİ VERİLMESİ HAKKINDA KANUN",
   "slug": "244-bazi-andlasmalarin-yapilmasi-icin-cumhurbaskanina-yetki-verilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1963-05-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1963-06-11",
+    "number": "11425"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.244.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105041",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.244",
+  "source_mevzuat_id": "105041",
   "source_type": "KANUN",
-  "content_sha256": "10e15a489340f9d2d1ace3e5aa53e195cfb4192765eae8b707ce7ffc3c818139",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "36812d8160cb39f7b174ae9a70f6c94c9a376029e6c083a1602de9b63d4a79de",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

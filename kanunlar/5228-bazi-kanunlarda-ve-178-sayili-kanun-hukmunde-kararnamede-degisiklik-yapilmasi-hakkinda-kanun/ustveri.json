@@ -2,17 +2,17 @@
   "law_number": "5228",
   "title": "BAZI KANUNLARDA VE 178 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5228-bazi-kanunlarda-ve-178-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-07-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-31",
+    "number": "25539"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5228.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103778",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5228",
+  "source_mevzuat_id": "103778",
   "source_type": "KANUN",
-  "content_sha256": "f20ccdd47b863043086ffdbd65a43efd2457a1cdb4294237ab3e6693e8200e51",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dde7fec017ab1feed39eb02af66dea61951484909aa05c8ad5170701d4424b97",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

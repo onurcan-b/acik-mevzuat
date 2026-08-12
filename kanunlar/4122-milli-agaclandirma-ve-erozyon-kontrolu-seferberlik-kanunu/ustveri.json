@@ -2,17 +2,17 @@
   "law_number": "4122",
   "title": "MİLLİ AĞAÇLANDIRMA VE EROZYON KONTROLÜ SEFERBERLİK KANUNU",
   "slug": "4122-milli-agaclandirma-ve-erozyon-kontrolu-seferberlik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1995-07-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1995-07-26",
+    "number": "22355"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4122.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103357",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4122",
+  "source_mevzuat_id": "103357",
   "source_type": "KANUN",
-  "content_sha256": "d567547777f621bdef38886e28f1224fa7d8c82de0f1ea7dfeda00626cb5fdd8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f12f14947cdd527b11a80bb4fa4bf0c2a641840c662e2bec1b69baffe0cbaca2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

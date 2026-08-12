@@ -2,17 +2,17 @@
   "law_number": "6749",
   "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ALINAN TEDBİRLERE İLİŞKİN KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
   "slug": "6749-olaganustu-hal-kapsaminda-alinan-tedbirlere-iliskin-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-10-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-10-29",
+    "number": "29872"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6749.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102979",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6749",
+  "source_mevzuat_id": "102979",
   "source_type": "KANUN",
-  "content_sha256": "8ce3d9b5737a10e8aa178270514a63c9915a60e8ecff93a49a8a3f90577da5d2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f9fa92477cc17f5b5c7f5ab404558a261256ade30a2b85cf65499f1a79f85120",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

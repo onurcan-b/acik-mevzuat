@@ -1,0 +1,18 @@
+{
+  "law_number": "6023",
+  "title": "TÜRK TABİPLERİ BİRLİĞİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6023-turk-tabipleri-birligi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1953-01-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "8323"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335253",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335253",
+  "source_type": "MULGA",
+  "content_sha256": "b2d935ecdd86d610cf48cca186928a24e2371eae22624c3992a05a1512f86ac7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

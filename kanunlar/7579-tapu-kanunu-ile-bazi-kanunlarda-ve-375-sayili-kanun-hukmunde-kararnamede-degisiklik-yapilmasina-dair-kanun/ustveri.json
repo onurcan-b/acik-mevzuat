@@ -2,17 +2,17 @@
   "law_number": "7579",
   "title": "TAPU KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7579-tapu-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2026-05-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2026-05-22",
+    "number": "33261"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7579.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/352551",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7579",
+  "source_mevzuat_id": "352551",
   "source_type": "KANUN",
-  "content_sha256": "732e02eb18a1a331ebe1b2c78f2b3493843e32afe5e3944b1c60e367a0622af8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "84d899dd354e76366e5ac248028782b4457004c27fe8f46cb6141f59b268cb34",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

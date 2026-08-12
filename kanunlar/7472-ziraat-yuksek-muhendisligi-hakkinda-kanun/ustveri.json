@@ -2,17 +2,17 @@
   "law_number": "7472",
   "title": "ZİRAAT YÜKSEK MÜHENDİSLİĞİ HAKKINDA KANUN",
   "slug": "7472-ziraat-yuksek-muhendisligi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-05-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-05-13",
+    "number": "10504"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7472.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105085",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7472",
+  "source_mevzuat_id": "105085",
   "source_type": "KANUN",
-  "content_sha256": "9929cb1380bc90a00f32c0fcadcef96dfd8f42858ee88fc44281b0a291aa2360",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c6d9a0d23a2a79714fbc30e5bbc8192b0d697083778241b052dc0b3463ba6092",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

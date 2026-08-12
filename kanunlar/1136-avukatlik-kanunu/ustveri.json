@@ -2,17 +2,17 @@
   "law_number": "1136",
   "title": "AVUKATLIK KANUNU",
   "slug": "1136-avukatlik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1969-03-19",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "13168"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1136.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103689",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1136",
+  "source_mevzuat_id": "103689",
   "source_type": "KANUN",
-  "content_sha256": "973c8892df481e707855f126343c43b87f4333ca14cc835642dc9529778bbcb5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7fa06f9e04e6cb678006b4a7c6de25d9e7bc42d27d2a1c23f80bcac9ac1585bc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

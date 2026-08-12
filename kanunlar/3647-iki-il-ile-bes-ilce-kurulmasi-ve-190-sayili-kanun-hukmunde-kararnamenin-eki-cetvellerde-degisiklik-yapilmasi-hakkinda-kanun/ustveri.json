@@ -2,17 +2,17 @@
   "law_number": "3647",
   "title": "İKİ İL İLE BEŞ İLÇE KURULMASI VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "3647-iki-il-ile-bes-ilce-kurulmasi-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1990-05-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1990-05-18",
+    "number": "20522 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3647.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104691",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3647",
+  "source_mevzuat_id": "104691",
   "source_type": "KANUN",
-  "content_sha256": "8ffc0bc56bafaebad14b92e89ce417d634e1068a37f963dca8f819c3e3421eff",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ab6844df3dd7b25bebe73c814f5604449168032dfff6515427912b02467fee9c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

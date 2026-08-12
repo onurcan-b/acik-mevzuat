@@ -2,17 +2,17 @@
   "law_number": "4793",
   "title": "ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
   "slug": "4793-cesitli-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-01-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-02-04",
+    "number": "25014"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4793.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103624",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4793",
+  "source_mevzuat_id": "103624",
   "source_type": "KANUN",
-  "content_sha256": "ffc6a870a38de75a8a7cf32537da3f51da512b7760b282f66ab91d0e02b9d0d3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4e09676d2efae75c262041953a2598b7d8331dee996eed5e90f89f1737937937",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

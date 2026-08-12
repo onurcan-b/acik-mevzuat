@@ -1,50 +1,75 @@
 # UMURU BELEDİYEYE MÜTEALLİK AHKAMI CEZAİYE HAKKINDA KANUN (No. 486)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.486.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105423
+> Resmî Gazete: 1924-05-17 / 70
+> UYAP Mevzuat kimliği: 105423
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 5 Sayfa: 427
+263(umuru)
 
-24 Teşrinievvel 1298 tarihli Ebniye Kanununun memnuiyeti mutazammın
-ahkamı hilafına vuku bulan inşaat ve tamirat ile umuma mahsus mahallerde ve yangın
-yerlerinde bila ruhsat yapılan barakalar ve her nevi inşaat belediyece derhal hedmolunur.
-Hedmiyattan husule gelen enkaz satılarak masarifi hedmiye istifa olunur. Hedim masrafı kafi
-gelmediği takdirde üst tarafı rüsumu belediye gibi tahsil olunur.
+UMURU
+BELEDİYEYE MÜTEALLİK AHKAMI CEZAİYE
 
-# MADDE 2
+HAKKINDA
+KANUN
 
-Umumi ana lağımlariyle su yollarını hasbezzarure açtıranlar belediyece
-tayin edilen müddet zarfında hali sabıkına ircaa mecburdurlar. Müddeti mezküre zarfında
-yapılmadığı takdirde belediyece bilkeşif yaptırılır. Belediyece sarf olunan para alındıktan
-başka masarifi vakıanın yüzde onu da ayrıca cezaen istifa olunur.
+Kanun
+Numarası : 486
 
-# MADDE 3
+Kabul
+Tarihi : 16/4/1924
 
-Umumi ana lağımlariyle suyollarını kasten tahrip edenlerden masarifi
-tamiriye tahsil ve bunun bir misli de cezaen başkaca istifa olunur.
+Yayımlandığı
+Resmî Gazete : Tarih: 17/5/1924 Sayı: 70
 
-# MADDE 4
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 5 Sayfa:
+427
 
-Belediyece sıhhat ve selameti umumiye için mahzuru görülen hususi
-mecra ve lağım, kuyu ve çukurların nihayet bir hafta zarfında izalei mahzuru sahibine tebliğ
-olunur. Tebligatı vakıa alakadaran tarafından nazarı itibara alınmadığı takdirde belediyece
-keşfi mucibince yaptırılarak mahzur izale ve sarfiyat tahsil olunduktan başka masarifi
-vakıanın yüzde onu da cezaen istifa olunur. Cezanın miktarı elli lirayı tecavüz etmez. Fakrı
-halleri belediye meclisince sabit olanlardan dört taksitte bir sene müddetle rüsumu belediye
-gibi tahsil olunur.
+Madde
+1 –
+24 Teşrinievvel 1298 tarihli Ebniye
+Kanununun memnuiyeti mutazammın ahkamı hilafına vuku bulan inşaat ve tamirat
+ile umuma mahsus mahallerde ve yangın yerlerinde bila ruhsat yapılan barakalar
+ve her nevi inşaat belediyece derhal hedmolunur. Hedmiyattan husule gelen enkaz
+satılarak masarifi hedmiye istifa olunur. Hedim masrafı kafi gelmediği takdirde
+üst tarafı rüsumu belediye gibi tahsil olunur.
 
-# MADDE 5
+Madde
+2 –
+Umumi ana lağımlariyle su yollarını
+hasbezzarure açtıranlar belediyece tayin edilen müddet zarfında hali sabıkına
+ircaa mecburdurlar. Müddeti mezküre zarfında yapılmadığı takdirde belediyece
+bilkeşif yaptırılır. Belediyece sarf olunan para alındıktan başka masarifi vakıanın
+yüzde onu da ayrıca cezaen istifa olunur.
 
-8 – (Mülga: 15/5/1930 - 1608/11 md.)
+Madde
+3 –
+Umumi ana lağımlariyle suyollarını kasten
+tahrip edenlerden masarifi tamiriye tahsil ve bunun bir misli de cezaen başkaca
+istifa olunur.
 
-# MADDE 9
+Madde
+4 –
+Belediyece sıhhat ve selameti umumiye
+için mahzuru görülen hususi mecra ve lağım, kuyu ve çukurların nihayet bir
+hafta zarfında izalei mahzuru sahibine tebliğ olunur. Tebligatı vakıa
+alakadaran tarafından nazarı itibara alınmadığı takdirde belediyece keşfi
+mucibince yaptırılarak mahzur izale ve sarfiyat tahsil olunduktan başka
+masarifi vakıanın yüzde onu da cezaen istifa olunur. Cezanın miktarı elli
+lirayı tecavüz etmez. Fakrı halleri belediye meclisince sabit olanlardan dört
+taksitte bir sene müddetle rüsumu belediye gibi tahsil olunur.
 
-İşbu kanun tarihi neşrinden itibaren mer'i olup, Ankara ve istanbul
-şehremanetlerine de şamildir.
+Madde
+5 – 8 – (Mülga: 15/5/1930 - 1608/11 md.)
 
-# MADDE 10
+Madde
+9 –
+İşbu kanun tarihi neşrinden itibaren mer'i
+olup, Ankara ve istanbul şehremanetlerine de şamildir.
 
-İşbu kanunun tatbikına Dahiliye ve Adliye Vekilleri memurdur.
+Madde
+10 –
+İşbu kanunun tatbikına Dahiliye ve Adliye
+Vekilleri memurdur.

@@ -1,0 +1,18 @@
+{
+  "law_number": "3634",
+  "title": "MİLLİ MÜDAFAA MÜKELLEFİYETİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "3634-milli-mudafaa-mukellefiyeti-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1939-06-07",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "4234"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335274",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335274",
+  "source_type": "MULGA",
+  "content_sha256": "2afbb5baa15e77ef345eb080d97e62e0e1b8c5ed3d26139722f2f8d1ea8a1daf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

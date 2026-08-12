@@ -2,17 +2,17 @@
   "law_number": "224",
   "title": "SAĞLIK HİZMETLERİNİN SOSYALLEŞTİRİLMESİ HAKKINDA KANUN",
   "slug": "224-saglik-hizmetlerinin-sosyallestirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1961-01-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-12",
+    "number": "10705"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.224.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105046",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.224",
+  "source_mevzuat_id": "105046",
   "source_type": "KANUN",
-  "content_sha256": "42dfa24010b309e88300ad83ffe286a7135286c976404fbd47f9a746c99c04b3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "81fdccbc00f6344554e63e37024a98586624122deeacf350485e85bb46b4e850",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

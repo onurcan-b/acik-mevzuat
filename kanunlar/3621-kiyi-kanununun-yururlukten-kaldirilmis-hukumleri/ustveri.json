@@ -1,0 +1,18 @@
+{
+  "law_number": "3621",
+  "title": "KIYI KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "3621-kiyi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1990-04-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1990-04-17",
+    "number": "20495"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335275",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335275",
+  "source_type": "MULGA",
+  "content_sha256": "52255dd5be22fd2610eadd6adc46ca45ecd9945760af300d9f09c465d05da8d5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

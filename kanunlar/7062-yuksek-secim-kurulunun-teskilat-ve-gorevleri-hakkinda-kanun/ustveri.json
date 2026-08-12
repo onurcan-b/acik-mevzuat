@@ -2,17 +2,17 @@
   "law_number": "7062",
   "title": "YÜKSEK SEÇİM KURULUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
   "slug": "7062-yuksek-secim-kurulunun-teskilat-ve-gorevleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2017-11-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2017-12-12",
+    "number": "30268"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7062.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104434",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7062",
+  "source_mevzuat_id": "104434",
   "source_type": "KANUN",
-  "content_sha256": "1acc8e96a2d17b5de91b4aa47bb93ed157ad20b67f509ddb09861e34aacfb7b0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "735400bd7dff008ba02827d0645c5993de7da021e080a8ff96d7ca59ca862524",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

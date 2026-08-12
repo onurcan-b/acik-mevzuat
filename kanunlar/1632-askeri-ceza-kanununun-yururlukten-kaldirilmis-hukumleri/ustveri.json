@@ -1,0 +1,18 @@
+{
+  "law_number": "1632",
+  "title": "ASKERİ CEZA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1632-askeri-ceza-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1930-05-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "1520"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335540",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335540",
+  "source_type": "MULGA",
+  "content_sha256": "f8d4bc4c53c469ed7c565e88bee69768050804679d8244bcf740c27b604fd647",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "6113",
   "title": "BAZI KAMU KURUM VE KURULUŞLARININ BİR KISIM BORÇ VE ALACAKLARININ DÜZENLENMESİNE DAİR KANUN",
   "slug": "6113-bazi-kamu-kurum-ve-kuruluslarinin-bir-kisim-borc-ve-alacaklarinin-duzenlenmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-02-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-03-03",
+    "number": "27863"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6113.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104198",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6113",
+  "source_mevzuat_id": "104198",
   "source_type": "KANUN",
-  "content_sha256": "186b4022b34d52fa6f1ece2a051210ca993af692c64a34937b1d091cad1a7f7c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "39745a487cbb658147400fd66e7fbb2814f5f44c5812305873a214984d8cefe7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

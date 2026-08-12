@@ -2,17 +2,17 @@
   "law_number": "1606",
   "title": "BAZI DERNEK VE KURUMLARIN BAZI VERGİLERDEN, BÜTÜN HARÇ VE RESİMLERDEN MUAF TUTULMASINA İLİŞKİN KANUN",
   "slug": "1606-bazi-dernek-ve-kurumlarin-bazi-vergilerden-butun-harc-ve-resimlerden-muaf-tutulmasina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "1972-07-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1972-07-20",
+    "number": "14251"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1606.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104974",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1606",
+  "source_mevzuat_id": "104974",
   "source_type": "KANUN",
-  "content_sha256": "924c9bb049c3c7ab5d757173917f33f31691df6cf74d56add50c889537a7af49",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "213116a2109618561964ce1af356a569c03ceb9408bc3200677fbd4be0ebf849",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

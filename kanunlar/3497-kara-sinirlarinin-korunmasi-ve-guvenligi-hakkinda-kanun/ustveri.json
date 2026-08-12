@@ -2,17 +2,17 @@
   "law_number": "3497",
   "title": "KARA SINIRLARININ KORUNMASI VE GÜVENLİĞİ HAKKINDA KANUN",
   "slug": "3497-kara-sinirlarinin-korunmasi-ve-guvenligi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1988-11-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1988-11-22",
+    "number": "19997"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3497.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104712",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3497",
+  "source_mevzuat_id": "104712",
   "source_type": "KANUN",
-  "content_sha256": "a60fc117fcd9f46072c5e87e38b421490ab36df0b213b597d9aa91ac8e2ddd27",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9c7d3977c9638f5c241792dc7fad292734b10baa7e8d71182afd11e6007d1246",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4301",
   "title": "CEZA İNFAZ KURUMLARI İLE TUTUKEVLERİ İŞYURTLARI KURUMUNA İLİŞKİN BAZI MALİ HÜKÜMLERİN DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "4301-ceza-infaz-kurumlari-ile-tutukevleri-isyurtlari-kurumuna-iliskin-bazi-mali-hukumlerin-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1997-08-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1997-08-09",
+    "number": "23075"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4301.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103397",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4301",
+  "source_mevzuat_id": "103397",
   "source_type": "KANUN",
-  "content_sha256": "8cb2dd583b8d036ce9a5042361ecda1e205cdde9e3eddb1a493cbb798b8e2149",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "381c1f39bbbd8cc4f34acc005fe4e685ef07d2755566798551c62eacbc092a0c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

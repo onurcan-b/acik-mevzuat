@@ -1,0 +1,18 @@
+{
+  "law_number": "4784",
+  "title": "SOSYAL SİGORTALAR KANUNU, TARIM İŞÇİLERİ SOSYAL SİGORTALAR KANUNU, ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU İLE TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNUNA GÖRE GELİR VEYA AYLIK ALMAKTA OLANLARA SOSYAL DESTEK ÖDEMESİ YAPILMASI HAKKINDA KANUN",
+  "slug": "4784-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-103600",
+  "accepted_date": "2003-01-08",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2003-01-15",
+    "number": "24994 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103600",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103600",
+  "source_type": "KANUN",
+  "content_sha256": "6a558fdfe819d525050606e2ab27218a564de6f282d6b1347804d9688711efbe",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

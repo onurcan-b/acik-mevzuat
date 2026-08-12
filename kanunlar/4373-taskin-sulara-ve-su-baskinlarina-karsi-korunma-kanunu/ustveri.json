@@ -2,17 +2,17 @@
   "law_number": "4373",
   "title": "TAŞKIN SULARA VE SU BASKINLARINA KARŞI KORUNMA KANUNU",
   "slug": "4373-taskin-sulara-ve-su-baskinlarina-karsi-korunma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1943-01-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1943-01-21",
+    "number": "5310"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4373.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104519",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.4373",
+  "source_mevzuat_id": "104519",
   "source_type": "KANUN",
-  "content_sha256": "3ebe7fb64b74a07136d434f0ada0102ea70496ff2a697d79be336114bbae071e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8872a7f30ce194aaff01832ca1e118f57e76407bb2b349ff3a0b1f268366631b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

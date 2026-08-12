@@ -2,17 +2,17 @@
   "law_number": "1173",
   "title": "MİLLETLERARASI MÜNASEBETLERİN YÜRÜTÜLMESİ VE KOORDİNASYONU HAKKINDA KANUN",
   "slug": "1173-milletlerarasi-munasebetlerin-yurutulmesi-ve-koordinasyonu-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1969-05-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1969-05-17",
+    "number": "13201"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1173.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105011",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1173",
+  "source_mevzuat_id": "105011",
   "source_type": "KANUN",
-  "content_sha256": "72a6c0021d0f3ba0427c368cb0dcd6d5cfa84767a41392949f02a5208604363c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cd074911043935cd953860e61d94649754a04da93b1e9f08d724d3e4692d5de3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

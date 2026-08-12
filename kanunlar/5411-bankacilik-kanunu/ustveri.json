@@ -2,17 +2,17 @@
   "law_number": "5411",
   "title": "BANKACILIK KANUNU",
   "slug": "5411-bankacilik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-10-19",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-11-01",
+    "number": "25983 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5411.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103191",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5411",
+  "source_mevzuat_id": "103191",
   "source_type": "KANUN",
-  "content_sha256": "4f6b9d29b83c36dc4163f827f06b151eff15ae83d5a3dc3eb450d501a2644ec8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e8c26650fdff5f359cdf18c7934f5e3f3345f7454221032dd29583e4cfd7f9fa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

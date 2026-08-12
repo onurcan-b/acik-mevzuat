@@ -2,17 +2,17 @@
   "law_number": "4684",
   "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "4684-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-06-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-07-03",
+    "number": "24451"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4684.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103559",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4684",
+  "source_mevzuat_id": "103559",
   "source_type": "KANUN",
-  "content_sha256": "6c9435c5ef72d6fe4283c6fd199723002146bb87d4d4335aa3a169fe5902bf75",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "18c157553f1e6ceb0101598520406cf5542bfe5e4998c4d855b3c48199ff9295",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

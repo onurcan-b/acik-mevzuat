@@ -2,17 +2,17 @@
   "law_number": "7452",
   "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YERLEŞME VE YAPILAŞMAYA İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİNİN KABUL EDİLMESİNE DAİR KANUN",
   "slug": "7452-olaganustu-hal-kapsaminda-yerlesme-ve-yapilasmaya-iliskin-cumhurbaskanligi-kararnamesinin-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-04-05",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "32159"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7452.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/120211",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7452",
+  "source_mevzuat_id": "120211",
   "source_type": "KANUN",
-  "content_sha256": "110a3e159b9caca349ba408e84accb83b301b4c53abd10a52110cbcb8f21d8c2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8426968b719931812330b8872717bc28a8705045663749d45f243040899c9717",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

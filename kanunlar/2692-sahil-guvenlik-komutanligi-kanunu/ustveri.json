@@ -2,17 +2,17 @@
   "law_number": "2692",
   "title": "SAHİL GÜVENLİK KOMUTANLIĞI KANUNU",
   "slug": "2692-sahil-guvenlik-komutanligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1982-07-09",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17753"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2692.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102985",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2692",
+  "source_mevzuat_id": "102985",
   "source_type": "KANUN",
-  "content_sha256": "d5ae40fe1590bb0f8ee9d1f245769a50c52aef1f7b17fd881620ee5674b40c31",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "aafd8cc91c9f451ea2f79accd61c5ea179f2fefe0880e17a905a0d00be90add5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

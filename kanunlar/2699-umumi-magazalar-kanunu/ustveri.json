@@ -2,17 +2,17 @@
   "law_number": "2699",
   "title": "UMUMİ MAĞAZALAR KANUNU",
   "slug": "2699-umumi-magazalar-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1982-08-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1982-08-13",
+    "number": "17781"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2699.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104907",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2699",
+  "source_mevzuat_id": "104907",
   "source_type": "KANUN",
-  "content_sha256": "3c33716b065000e5a4b2b24fc5f6bc6c5772d92fd46cb3dc10708a2051da8c45",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "efc703da53f90463c112364599fa39d1bc42d1a3ad31eb793c242c68558d88d4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

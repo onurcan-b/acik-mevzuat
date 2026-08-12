@@ -1,18 +1,18 @@
 {
   "law_number": "4749",
-  "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun",
+  "title": "KAMU FİNANSMANI VE BORÇ YÖNETİMİNİN DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2002-03-28",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24721"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4749.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102932",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4749",
+  "source_mevzuat_id": "102932",
   "source_type": "KANUN",
-  "content_sha256": "3fe17eb472b1ced4c3795e39201415f165329f8388f24248da2df455800ab3cc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3766b3f848e4d8a0b71b3c77d9a131b1ca52446fc62800fa5eafa3aff67e6f65",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

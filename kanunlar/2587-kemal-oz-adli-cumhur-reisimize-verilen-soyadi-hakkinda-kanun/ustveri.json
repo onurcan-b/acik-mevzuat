@@ -2,17 +2,17 @@
   "law_number": "2587",
   "title": "KEMAL ÖZ ADLI CÜMHUR REİSİMİZE VERİLEN SOYADI HAKKINDA KANUN",
   "slug": "2587-kemal-oz-adli-cumhur-reisimize-verilen-soyadi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1934-11-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1934-11-27",
+    "number": "2865"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2587.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105321",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2587",
+  "source_mevzuat_id": "105321",
   "source_type": "KANUN",
-  "content_sha256": "280899da0aefb1379930874b8e040af3add38f5b3d6e53e4d35a2b1552d21adb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "327ea701498dab4cb83af948091dcde915bcad170da99e44dc3138e35426ef39",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

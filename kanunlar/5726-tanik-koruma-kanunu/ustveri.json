@@ -2,17 +2,17 @@
   "law_number": "5726",
   "title": "TANIK KORUMA KANUNU",
   "slug": "5726-tanik-koruma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2007-12-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-01-05",
+    "number": "26747"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5726.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104041",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5726",
+  "source_mevzuat_id": "104041",
   "source_type": "KANUN",
-  "content_sha256": "b6f0e7923be1b2d95e04c06ed76a34db894e14c5f71bf23ca064282973ee2757",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ffba36261c81deea1890397b7b458aa49a35659cebcceb5ed8c74573355c80aa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

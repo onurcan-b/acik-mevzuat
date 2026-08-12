@@ -2,17 +2,17 @@
   "law_number": "6525",
   "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "6525-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2014-02-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2014-02-27",
+    "number": "28926"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6525.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104370",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6525",
+  "source_mevzuat_id": "104370",
   "source_type": "KANUN",
-  "content_sha256": "af221a96020d5b6e44abf2bedf97408f1d2b6430149ae33666518d7c34ec1f82",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "75eb37678942d14905b0f19674d1dcc13168e3f042701f4d26a664805bceb8d5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,18 +1,18 @@
 {
   "law_number": "3039",
-  "title": "Çeltik Ekimi Kanunu",
+  "title": "ÇELTİK EKİMİ KANUNU",
   "slug": "3039-celtik-ekimi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1936-06-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1936-06-23",
+    "number": "3337"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3039.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105303",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3039",
+  "source_mevzuat_id": "105303",
   "source_type": "KANUN",
-  "content_sha256": "f54abc72aef491595b8e29b8a8483400240f900be3d9e23a659e8d9ad9eabb2f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0264d285a01e150ff96f9b3cc3e15e6a0380451e80c58247d95f73e1353ad51f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

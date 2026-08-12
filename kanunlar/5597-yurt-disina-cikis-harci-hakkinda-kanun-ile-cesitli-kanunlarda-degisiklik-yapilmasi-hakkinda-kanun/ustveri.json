@@ -2,17 +2,17 @@
   "law_number": "5597",
   "title": "YURT DIŞINA ÇIKIŞ HARCI HAKKINDA KANUN İLE ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5597-yurt-disina-cikis-harci-hakkinda-kanun-ile-cesitli-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-03-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-03-23",
+    "number": "26471"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5597.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103968",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5597",
+  "source_mevzuat_id": "103968",
   "source_type": "KANUN",
-  "content_sha256": "714cb626086fc4c11289b5ec07584031ddf4d6895b5d187d7b73a44ffe297be1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "91523447d7c84fa5a794eff33a08a95fa07563094e6015078357b617f4140bb6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "1076",
+  "title": "YEDEK SUBAY VE YEDEK ASKERİ MEMURLAR KANUNU",
+  "slug": "1076-yedek-subay-ve-yedek-askeri-memurlar-kanunu",
+  "accepted_date": "1927-06-16",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1927-07-09",
+    "number": "628"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335550",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335550",
+  "source_type": "MULGA",
+  "content_sha256": "f198d904c1bdd18860ad2c364e7b23a987378c6c08aec5a5dc82ccf29fbb6dbc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

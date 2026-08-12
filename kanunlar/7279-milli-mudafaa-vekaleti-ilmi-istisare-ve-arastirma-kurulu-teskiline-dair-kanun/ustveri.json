@@ -2,17 +2,17 @@
   "law_number": "7279",
   "title": "MİLLİ MÜDAFAA VEKALETİ İLMİ İSTİŞARE VE ARAŞTIRMA KURULU TEŞKİLİNE DAİR KANUN",
   "slug": "7279-milli-mudafaa-vekaleti-ilmi-istisare-ve-arastirma-kurulu-teskiline-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1959-05-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1959-05-26",
+    "number": "10214"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7279.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105095",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7279",
+  "source_mevzuat_id": "105095",
   "source_type": "KANUN",
-  "content_sha256": "c61c2b36de8ac74cac5312435bc70fd9082701180452e389ad34de9de6ddb745",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5fd2bbad1d07586afac5780988cd331f34196608c3a1757efbb90bafcdac2069",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

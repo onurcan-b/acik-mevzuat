@@ -2,17 +2,17 @@
   "law_number": "5324",
   "title": "KOZMETİK KANUNU",
   "slug": "5324-kozmetik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-03-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-03-30",
+    "number": "25771"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5324.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103857",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5324",
+  "source_mevzuat_id": "103857",
   "source_type": "KANUN",
-  "content_sha256": "6bd489a8d06401913614743a310540e766f88db08be4df9274363f7b31eeb357",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b6b40b5e4207288bc2da651c83b9a54316d698e2b76e5906153ba51c8353f650",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

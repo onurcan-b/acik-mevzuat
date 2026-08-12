@@ -2,17 +2,17 @@
   "law_number": "3095",
   "title": "KANUNİ FAİZ VE TEMERRÜT FAİZİNE İLİŞKİN KANUN",
   "slug": "3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-12-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18610"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3095.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104794",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3095",
+  "source_mevzuat_id": "104794",
   "source_type": "KANUN",
-  "content_sha256": "e5c5330f570a96e4947e9fa97f8abc7ded97b7f635476ba633b0452712f48a4d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "52b4fefcaa15aa53b4601520ffa59aa2d5161dcbd62e6717a6b2f56daf02376b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

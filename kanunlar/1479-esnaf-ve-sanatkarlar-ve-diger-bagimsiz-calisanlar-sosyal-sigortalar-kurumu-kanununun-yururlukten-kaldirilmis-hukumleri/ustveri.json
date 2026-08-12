@@ -1,0 +1,18 @@
+{
+  "law_number": "1479",
+  "title": "ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1479-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1971-09-02",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13956"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335317",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335317",
+  "source_type": "MULGA",
+  "content_sha256": "51443a6153e49e1a30ac5b20817fccc90eacdc7ec612d314ae5fe2aa7af93b4c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

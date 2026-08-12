@@ -1,0 +1,18 @@
+{
+  "law_number": "1380",
+  "title": "SU ÜRÜNLERİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1380-su-urunleri-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1971-03-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1971-04-04",
+    "number": "13799"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335322",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335322",
+  "source_type": "MULGA",
+  "content_sha256": "95ecbb5ed4836e64f8922fc0df812b19c01a7f644689f323626dd91d2c0a2f58",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

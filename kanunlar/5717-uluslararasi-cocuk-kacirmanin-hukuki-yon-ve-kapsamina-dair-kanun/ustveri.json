@@ -2,17 +2,17 @@
   "law_number": "5717",
   "title": "ULUSLARARASI ÇOCUK KAÇIRMANIN HUKUKİ YÖN VE KAPSAMINA DAİR KANUN",
   "slug": "5717-uluslararasi-cocuk-kacirmanin-hukuki-yon-ve-kapsamina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-11-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-12-04",
+    "number": "26720"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5717.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104037",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5717",
+  "source_mevzuat_id": "104037",
   "source_type": "KANUN",
-  "content_sha256": "ac1a8469e2411ee8129e83f0861ad40242af5c585482a3a89096cb0b7b35ebab",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e09311902ec8cf7bd82111cdf147dc9d7df4df1d06534130a9d6ebb94024abfd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7261",
   "title": "TÜRKİYE ÇEVRE AJANSININ KURULMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7261-turkiye-cevre-ajansinin-kurulmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2020-12-24",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "31350"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7261.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103659",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7261",
+  "source_mevzuat_id": "103659",
   "source_type": "KANUN",
-  "content_sha256": "78248dd2007104fe41b51311877885420f2dc45ef2278d87300669404086de5a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5ff3e78141925d1006ef2dbf80668938f326273071242d9132e5a39eedda949f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

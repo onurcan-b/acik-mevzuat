@@ -1,22 +1,18 @@
 {
   "law_number": "4721",
-  "title": "Türk Medeni Kanunu",
+  "title": "TÜRK MEDENİ KANUNU",
   "slug": "4721-turk-medeni-kanunu",
   "accepted_date": "2001-11-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2001-12-08",
+    "date": null,
     "number": "24607"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103249",
   "language": "tr",
-  "tags": [
-    "medeni_hukuk",
-    "kisiler_hukuku",
-    "aile_hukuku"
-  ],
-  "source_mevzuat_id": "1.5.4721",
+  "tags": [],
+  "source_mevzuat_id": "103249",
   "source_type": "KANUN",
-  "content_sha256": "73b184987be8eb707da76d3c8b0e28830364dc61a1091b16e84c2595fa4b61f1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "76a28f99d3a4284908735929001785acffb43abf3c2585ebb907e21baccab497",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6358",
   "title": "EXPO 2016 ANTALYA KANUNU",
   "slug": "6358-expo-2016-antalya-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-10-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-11-10",
+    "number": "28463"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6358.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104331",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6358",
+  "source_mevzuat_id": "104331",
   "source_type": "KANUN",
-  "content_sha256": "a033c8402be4734bf71d777145dd0d4e8dae9af1d0662636283c83a3af305d81",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "33262e9ab4cb4e05067ee51e3e35451d943ebf6b6f9cc5825bd77885462c79bf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

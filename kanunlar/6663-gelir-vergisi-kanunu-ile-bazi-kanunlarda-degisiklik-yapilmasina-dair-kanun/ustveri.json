@@ -2,17 +2,17 @@
   "law_number": "6663",
   "title": "GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6663-gelir-vergisi-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-01-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-02-10",
+    "number": "29620"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6663.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104389",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6663",
+  "source_mevzuat_id": "104389",
   "source_type": "KANUN",
-  "content_sha256": "3033c69f6e67eaec5e77a8e2e4e6bee27709c09ea01f6162295212a6c93880e4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f8d3587f78556f890094ad0f26ff35cc79b1fb8e651604aa344e096e25291de0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

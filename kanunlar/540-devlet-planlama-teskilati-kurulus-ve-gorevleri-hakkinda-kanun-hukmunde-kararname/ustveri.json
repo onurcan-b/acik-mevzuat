@@ -1,0 +1,18 @@
+{
+  "law_number": "540",
+  "title": "DEVLET PLANLAMA TEŞKİLATI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "540-devlet-planlama-teskilati-kurulus-ve-gorevleri-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1994-06-24",
+    "number": "21970 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336486",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336486",
+  "source_type": "MULGA",
+  "content_sha256": "3439a112f003a9414a49793751838f934b911ea29775bc1aa29c04230dca7ee6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "554",
+  "title": "ENDÜSTRİYEL TASARIMLARIN KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "554-endustriyel-tasarimlarin-korunmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1995-06-08",
+    "number": "22326"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336492",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336492",
+  "source_type": "MULGA",
+  "content_sha256": "abe6759ef3a7c22cb7e965578e48fb5cc2c78e766e7bd3ee59570d2c5cbf55f1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

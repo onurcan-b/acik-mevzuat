@@ -2,17 +2,17 @@
   "law_number": "2960",
   "title": "BOĞAZİÇİ KANUNU",
   "slug": "2960-bogazici-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-11-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-11-22",
+    "number": "18229"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2960.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104551",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2960",
+  "source_mevzuat_id": "104551",
   "source_type": "KANUN",
-  "content_sha256": "50e287c253fc393ef49d2008769eae8e6eb1846b18fdf1d92ccc1ca40a315a99",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "13ec5a62c08a0941c25fc8c57cee8de2abaa8162956b88f771f1062f4f1f34cf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

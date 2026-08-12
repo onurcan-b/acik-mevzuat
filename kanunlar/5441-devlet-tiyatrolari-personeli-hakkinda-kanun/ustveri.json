@@ -5,14 +5,14 @@
   "accepted_date": null,
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1949-06-16",
+    "number": "7234"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5441.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105186",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5441",
+  "source_mevzuat_id": "105186",
   "source_type": "KANUN",
-  "content_sha256": "15d7127617fca37f7f8f79206ec52a25f8494d247b6375e96dffb6566ade812c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2797b2999aba21dc93253442f5ebebd26ad5b9fdbae3febad2d59a281944042b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

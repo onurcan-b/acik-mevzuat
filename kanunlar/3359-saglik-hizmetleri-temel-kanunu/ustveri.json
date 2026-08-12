@@ -2,17 +2,17 @@
   "law_number": "3359",
   "title": "SAĞLIK HİZMETLERİ TEMEL KANUNU",
   "slug": "3359-saglik-hizmetleri-temel-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1987-05-07",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "19461"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3359.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103566",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3359",
+  "source_mevzuat_id": "103566",
   "source_type": "KANUN",
-  "content_sha256": "f9e715d0e10ce79c79c8cc5b4cafe557ce908cdae848975f39036537f4fcd3fc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "089fe63cf228b520d407e3c5417b9bb388d855e58cbb70f6d1aaf39bb938c8a2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

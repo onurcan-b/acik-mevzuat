@@ -2,17 +2,17 @@
   "law_number": "2524",
   "title": "ANITKABİR HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN",
   "slug": "2524-anitkabir-hizmetlerinin-yurutulmesine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-09-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-09-15",
+    "number": "17459"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2524.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104928",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2524",
+  "source_mevzuat_id": "104928",
   "source_type": "KANUN",
-  "content_sha256": "28a2c9d3c74cffe1096d6456352d42e993130f6431e316bc063ad15da9acd8f9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7abf57fd119baf4672b9dde0466702439d6adff27ec5630a66072668a034b1dd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

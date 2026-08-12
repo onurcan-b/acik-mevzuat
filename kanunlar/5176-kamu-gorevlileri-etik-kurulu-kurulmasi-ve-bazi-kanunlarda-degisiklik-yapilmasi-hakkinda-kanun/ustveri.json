@@ -2,17 +2,17 @@
   "law_number": "5176",
   "title": "KAMU GÖREVLİLERİ ETİK KURULU KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5176-kamu-gorevlileri-etik-kurulu-kurulmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-05-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-06-08",
+    "number": "25486"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5176.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103763",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5176",
+  "source_mevzuat_id": "103763",
   "source_type": "KANUN",
-  "content_sha256": "1543b39c6aec81b60f713ccc0821e9d761cc63fdad0bd61189f4f47a8f5788b6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "44d0f1c551a10e3780be7fafa6b63f3b4d4ed8db14b53338309d54361cd9f698",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

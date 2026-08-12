@@ -2,17 +2,17 @@
   "law_number": "3202",
   "title": "KÖYE YÖNELİK HİZMETLER HAKKINDA KANUN",
   "slug": "3202-koye-yonelik-hizmetler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1985-05-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-05-22",
+    "number": "18761"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3202.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104786",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3202",
+  "source_mevzuat_id": "104786",
   "source_type": "KANUN",
-  "content_sha256": "d7010f739071112fcd4cd377d520fff9ab2e3da416cde3b5279efc38d8aaebfd",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6435be3c9b66d8f98851a28515ad60ef048931dbd02cd289f0e6aca055d305ce",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,52 +1,68 @@
 # AMME HÜKMÜ ŞAHISLARI VEYA MÜESSESELERİ TARAFINDAN FİİLEN AMME HİZMETLERİNE TAHSİS EDİLMİŞ GAYRİMENKULLER HAKKINDA KANUN (No. 221)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.4.221.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103326
+> Resmî Gazete: 1961-01-12 / 10705
+> UYAP Mevzuat kimliği: 103326
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 1459
+3577
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+AMME HÜKMİ
+ŞAHISLARI VEYA MÜESSESELERİ
 
-# MADDE 2
+TARAFINDAN
+FİİLEN AMME HİZMETLERİNE TAHSİS
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+EDİLMİŞ
+GAYRİMENKULLER HAKKINDA KANUN
 
-# MADDE 3
+Kanun
+Numarası : 221
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Kabul
+Tarihi : 5/1/1961
 
-# MADDE 4
+Yayımlandığı
+Resmî Gazete : Tarih: 12/1/1961 Sayı: 10075
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Yayımlandığı
+Düstur : Tertip: 4 Cilt: 1 Sayfa:
+1459
 
-# MADDE 5
+Madde 1 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Madde 2 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-# MADDE 6
+Madde 3 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Madde 4 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-# MADDE 7
+Madde 5 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Madde 6 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-# MADDE 8
+Madde 7 –
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+(İptal madde: Anayasa Mahkemesi’nin
+21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-# MADDE 9
+Madde 8 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)
 
-(İptal madde: Anayasa Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19,
-K.: 2022/46 sayılı Kararı ile.)
+Madde 9 –
+(İptal madde: Anayasa
+Mahkemesi’nin 21/4/2022 tarihli ve E.: 2021/19, K.: 2022/46 sayılı Kararı ile.)

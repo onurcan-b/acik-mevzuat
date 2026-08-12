@@ -2,17 +2,17 @@
   "law_number": "1515",
   "title": "TAPU KAYITLARINDAN HUKUKİ KIYMETLERİNİ KAYBETMİŞ OLANLARIN TASFİYESİNE DAİR KANUN",
   "slug": "1515-tapu-kayitlarindan-hukuki-kiymetlerini-kaybetmis-olanlarin-tasfiyesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1929-06-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1929-06-09",
+    "number": "1211"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1515.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105369",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1515",
+  "source_mevzuat_id": "105369",
   "source_type": "KANUN",
-  "content_sha256": "17f90e2bd953db78129d6e819a9f48d4a4d22032892c19cd2f9bccc0a264bcbf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "20fa696e0f4909233f2742d4888c2d67ae2d62518ab71d14825c521d4557c1d9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

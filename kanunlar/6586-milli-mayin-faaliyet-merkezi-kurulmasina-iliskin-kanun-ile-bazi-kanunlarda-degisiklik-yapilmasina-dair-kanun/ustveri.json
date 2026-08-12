@@ -1,0 +1,18 @@
+{
+  "law_number": "6586",
+  "title": "MİLLÎ MAYIN FAALİYET MERKEZİ KURULMASINA İLİŞKİN KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "slug": "6586-milli-mayin-faaliyet-merkezi-kurulmasina-iliskin-kanun-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+  "accepted_date": "2015-01-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2015-02-03",
+    "number": "29256"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335476",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335476",
+  "source_type": "MULGA",
+  "content_sha256": "127091db0553e2bcfc1bc7c1f5c91b7ef8a0ba09c66252a8ad0ccb32e4350291",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

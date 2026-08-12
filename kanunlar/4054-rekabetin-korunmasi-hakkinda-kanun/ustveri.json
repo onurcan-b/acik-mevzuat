@@ -2,17 +2,17 @@
   "law_number": "4054",
   "title": "REKABETİN KORUNMASI HAKKINDA KANUN",
   "slug": "4054-rekabetin-korunmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-12-07",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "22140"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4054.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103055",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4054",
+  "source_mevzuat_id": "103055",
   "source_type": "KANUN",
-  "content_sha256": "93a889f72c544e127dafdb073ba1156e48a8c17f5667597ed976c2a5007e581b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ce94bba3e486db845e44f0596009fb2641f1e95f76292f76a0aef332b29e23a9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

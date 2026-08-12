@@ -1,0 +1,18 @@
+{
+  "law_number": "3681",
+  "title": "YAHŞİHAN´DA MEYDANA GELEN PATLAMALARDA ZARAR GÖRENLERİN ZARARLARININ ÖDENMESİ HAKKINDA KANUN",
+  "slug": "3681-yahsihan-da-meydana-gelen-patlamalarda-zarar-gorenlerin-zararlarinin-odenmesi-hakkinda-kanun",
+  "accepted_date": "1990-11-22",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1990-11-29",
+    "number": "20710"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104684",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "104684",
+  "source_type": "KANUN",
+  "content_sha256": "c1a89f75149db12f3e0d64631295aa2afefee354c5d1a03b95c5a29f7b5548f1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

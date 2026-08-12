@@ -2,17 +2,17 @@
   "law_number": "3572",
   "title": "İŞYERİ AÇMA VE ÇALIŞMA RUHSATLARINA DAİR KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜNE DAİR KANUN",
   "slug": "3572-isyeri-acma-ve-calisma-ruhsatlarina-dair-kanun-hukmunde-kararnamenin-degistirilerek-kabulune-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1989-06-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1989-06-17",
+    "number": "20198"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3572.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104698",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3572",
+  "source_mevzuat_id": "104698",
   "source_type": "KANUN",
-  "content_sha256": "a746ec7f3815069a55d20a5e298a044d848bf82358c4b5b0733c5e205349c24e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "36380be339375803d8bc1a58fab0f5301e4867a31a8b2d2b8880d8088068fab2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

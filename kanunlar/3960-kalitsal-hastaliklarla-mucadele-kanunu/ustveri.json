@@ -2,17 +2,17 @@
   "law_number": "3960",
   "title": "KALITSAL HASTALIKLARLA MÜCADELE KANUNU",
   "slug": "3960-kalitsal-hastaliklarla-mucadele-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1993-12-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1993-12-30",
+    "number": "21804"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3960.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104633",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3960",
+  "source_mevzuat_id": "104633",
   "source_type": "KANUN",
-  "content_sha256": "2950c291dfdd3201eff5d7056333e476f9377ff915c0f7fd211b5e3769a8391c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "04a0bdc3b8e30372311e2a9bf990c6de81526cefbb8debc367e3b346be9309f5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

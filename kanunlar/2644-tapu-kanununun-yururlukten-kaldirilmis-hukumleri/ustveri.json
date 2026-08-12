@@ -1,0 +1,18 @@
+{
+  "law_number": "2644",
+  "title": "TAPU KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2644-tapu-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1934-12-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "2892"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335299",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335299",
+  "source_type": "MULGA",
+  "content_sha256": "b7375a8f789eadfd7a920a0b211f3cafe7c40d6914698587f6336cb3f322f843",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

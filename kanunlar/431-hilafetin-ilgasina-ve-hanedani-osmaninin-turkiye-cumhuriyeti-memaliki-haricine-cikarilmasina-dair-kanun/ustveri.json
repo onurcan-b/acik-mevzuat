@@ -2,17 +2,17 @@
   "law_number": "431",
   "title": "HİLAFETİN İLGASINA VE HANEDANI OSMANİNİN TÜRKİYE CUMHURİYETİ MEMALİKİ HARİCİNE ÇIKARILMASINA DAİR KANUN",
   "slug": "431-hilafetin-ilgasina-ve-hanedani-osmaninin-turkiye-cumhuriyeti-memaliki-haricine-cikarilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1924-03-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1924-03-06",
+    "number": "63"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.431.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105426",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.431",
+  "source_mevzuat_id": "105426",
   "source_type": "KANUN",
-  "content_sha256": "3a55876ac704769a50ab9dd8fd93d2537a819892f072c36a227b443f7030dea9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e5a363d86279cd664c1f48fa8b4a563c06d7ee4d3891d70891692f375295442c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

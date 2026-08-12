@@ -1,0 +1,18 @@
+{
+  "law_number": "832",
+  "title": "SAYIŞTAY KANUNU",
+  "slug": "832-sayistay-kanunu",
+  "accepted_date": "1967-02-21",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1967-02-27",
+    "number": "12538"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335552",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335552",
+  "source_type": "MULGA",
+  "content_sha256": "1dcad1b19ad9cfbb4655f162ea5da4de1ffae8fd567b68e5f1406d008c3b6379",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

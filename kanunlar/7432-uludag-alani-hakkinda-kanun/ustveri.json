@@ -2,17 +2,17 @@
   "law_number": "7432",
   "title": "ULUDAĞ ALANI HAKKINDA KANUN",
   "slug": "7432-uludag-alani-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-01-18",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "32085"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7432.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102934",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7432",
+  "source_mevzuat_id": "102934",
   "source_type": "KANUN",
-  "content_sha256": "d12fa49c902237d9e60d7e03f0f15e81c6b4aa1e0371b7611608e59eae507a5a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4a22cf336c67b877e8b27c67dda3a5ae200a0695047f3e0359b612d6e9ae6ce4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

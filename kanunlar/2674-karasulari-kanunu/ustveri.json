@@ -2,17 +2,17 @@
   "law_number": "2674",
   "title": "KARASULARI KANUNU",
   "slug": "2674-karasulari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1982-05-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1982-05-29",
+    "number": "17708"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2674.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104910",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2674",
+  "source_mevzuat_id": "104910",
   "source_type": "KANUN",
-  "content_sha256": "f849b56998b12d1a2dce271eb713cf11907f37d432edeb8b8390884e55b53c77",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c0b536c1437ca2e1e1a18094b87511101b90908b31188eea960d0a8a40717ec3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4490",
   "title": "TÜRK ULUSLARARASI GEMİ SİCİLİ KANUNU İLE 491 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "4490-turk-uluslararasi-gemi-sicili-kanunu-ile-491-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1999-12-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1999-12-21",
+    "number": "23913"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4490.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103460",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4490",
+  "source_mevzuat_id": "103460",
   "source_type": "KANUN",
-  "content_sha256": "ff6f5214a7e62f599535ae5f6e7605bc28a20f3b453b20045c2cf04776e47bac",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1c02587bd25567f24973b94b6282ac179071f7141a371aef16c07d032677a123",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3234",
   "title": "ORMAN GENEL MÜDÜRLÜĞÜNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "3234-orman-genel-mudurlugune-iliskin-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1985-10-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-11-08",
+    "number": "18922"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3234.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104777",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3234",
+  "source_mevzuat_id": "104777",
   "source_type": "KANUN",
-  "content_sha256": "54686abb24acd662acb79da600069645ea0262753d89ccd75178360ce36ebeca",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "baa277dbb9bc30b5e8ef9da77dbd83092aadf0b8f01db2e69d1de9b6df4ffdc9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

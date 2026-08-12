@@ -2,17 +2,17 @@
   "law_number": "4628",
   "title": "ENERJİ PİYASASI DÜZENLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
   "slug": "4628-enerji-piyasasi-duzenleme-kurumunun-teskilat-ve-gorevleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-02-20",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24335 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4628.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103504",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4628",
+  "source_mevzuat_id": "103504",
   "source_type": "KANUN",
-  "content_sha256": "cb9c2683e20a25d82edc0a7ec4b63bbac86d7d2cd36cded97782f9227f6d5f84",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "14f46aa8369666a0aef08192936f13a017a2bf3d5c1d71136a331ce75608e515",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

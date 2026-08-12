@@ -1,0 +1,18 @@
+{
+  "law_number": "492",
+  "title": "HARÇLAR KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "492-harclar-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1964-07-02",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "11756"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335563",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335563",
+  "source_type": "MULGA",
+  "content_sha256": "bac697cbbdbc2fe383a125014270c67210b97af7051989d4ffc6035862662365",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

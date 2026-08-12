@@ -2,17 +2,17 @@
   "law_number": "3578",
   "title": "4 İL VE 5 İLÇE KURULMASI HAKKINDA KANUN",
   "slug": "3578-4-il-ve-5-ilce-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1989-06-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1989-06-21",
+    "number": "20202"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3578.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104696",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3578",
+  "source_mevzuat_id": "104696",
   "source_type": "KANUN",
-  "content_sha256": "1c8fc64d906cdce98d53a421e6827475c5b00d84c30741c60ab4dea181210f95",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8be21d0c180f6a765b921ad9c87069f58fb0cfebdbfbe01631f35208903a5138",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3289",
   "title": "GENÇLİK VE SPOR HİZMETLERİ KANUNU",
   "slug": "3289-genclik-ve-spor-hizmetleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1986-05-21",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "19120"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3289.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102936",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3289",
+  "source_mevzuat_id": "102936",
   "source_type": "KANUN",
-  "content_sha256": "a0f6bf6edfc111f97086f2e4e10fbd088bce5f19b5e5c89779b7c9d98c5e8df9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3bb121c1f6e658009168db3c29e81b108555af2a7def716e4e4e9a1bdc5fad81",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

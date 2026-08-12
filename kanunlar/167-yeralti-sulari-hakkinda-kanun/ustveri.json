@@ -2,17 +2,17 @@
   "law_number": "167",
   "title": "YERALTI SULARI HAKKINDA KANUN",
   "slug": "167-yeralti-sulari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-12-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-12-23",
+    "number": "10688"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.167.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105059",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.167",
+  "source_mevzuat_id": "105059",
   "source_type": "KANUN",
-  "content_sha256": "8346c7ce9562251e21709f9f8dda4d0c8946d12915b260ffc552fc3192758dfc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ea60ce1842ebbb9c27e9023a71cd9d0e77d62493d8506a77c0a7598fc234fd23",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

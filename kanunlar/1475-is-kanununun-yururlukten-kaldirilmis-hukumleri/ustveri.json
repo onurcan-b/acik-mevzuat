@@ -1,0 +1,18 @@
+{
+  "law_number": "1475",
+  "title": "İŞ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1475-is-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1971-08-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13943"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335319",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335319",
+  "source_type": "MULGA",
+  "content_sha256": "7c9c27c91f6cb17867c7b5ca77de65cb112eff2799bf4cc963402f339198c683",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "6758",
   "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
   "slug": "6758-olaganustu-hal-kapsaminda-bazi-duzenlemeler-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-11-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-11-24",
+    "number": "29898"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6758.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103738",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6758",
+  "source_mevzuat_id": "103738",
   "source_type": "KANUN",
-  "content_sha256": "35e22c664674cc77214121313b487eea5a98ece854b91507124323c0feb48960",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cc8d2678622b1771f3485373b3f516c98f773b36f232b88bd7f23ee1dfa001a8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

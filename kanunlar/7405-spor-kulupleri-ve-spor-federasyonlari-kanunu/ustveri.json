@@ -2,17 +2,17 @@
   "law_number": "7405",
   "title": "SPOR KULÜPLERİ VE SPOR FEDERASYONLARI KANUNU",
   "slug": "7405-spor-kulupleri-ve-spor-federasyonlari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2022-04-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2022-04-26",
+    "number": "31821"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7405.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103795",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7405",
+  "source_mevzuat_id": "103795",
   "source_type": "KANUN",
-  "content_sha256": "418bc56f084c670ea937adb92c6b01a2f7c026e0708a678ff8410df9f57327e3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6e548b918958f3f8f699fb633aba457b11ba00f6b77fa3aebdc7a092637a412d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

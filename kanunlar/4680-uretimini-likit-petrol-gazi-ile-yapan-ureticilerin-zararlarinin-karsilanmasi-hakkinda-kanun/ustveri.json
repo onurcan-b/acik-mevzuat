@@ -2,17 +2,17 @@
   "law_number": "4680",
   "title": "ÜRETİMİNİ LİKİT PETROL GAZI İLE YAPAN ÜRETİCİLERİN ZARARLARININ KARŞILANMASI HAKKINDA KANUN",
   "slug": "4680-uretimini-likit-petrol-gazi-ile-yapan-ureticilerin-zararlarinin-karsilanmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-06-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-06-26",
+    "number": "24444"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4680.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103543",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4680",
+  "source_mevzuat_id": "103543",
   "source_type": "KANUN",
-  "content_sha256": "c2dac968495d0ed670bc6ccc5270e239803e4034ef60365253b6541a34f7e595",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "489f8d96d04ba2cbad3a3581324da313380e4ed687a63fbbd3ee67bd76f6373f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

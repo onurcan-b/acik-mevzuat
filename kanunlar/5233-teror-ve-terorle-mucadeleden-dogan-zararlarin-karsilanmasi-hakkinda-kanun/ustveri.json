@@ -2,17 +2,17 @@
   "law_number": "5233",
   "title": "TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN ZARARLARIN KARŞILANMASI HAKKINDA KANUN",
   "slug": "5233-teror-ve-terorle-mucadeleden-dogan-zararlarin-karsilanmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-07-17",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25535"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5233.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103787",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5233",
+  "source_mevzuat_id": "103787",
   "source_type": "KANUN",
-  "content_sha256": "22d4d3989bca0e6e1eade6d062b140e0f1317fe68bd48403a5700e836ca92288",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0c588a91e79ad64727c99fc5f00e88ebc37cc2c6047f4cf895118b057f12de54",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

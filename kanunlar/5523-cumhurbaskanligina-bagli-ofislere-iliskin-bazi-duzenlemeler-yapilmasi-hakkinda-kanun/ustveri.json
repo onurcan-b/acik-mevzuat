@@ -2,17 +2,17 @@
   "law_number": "5523",
   "title": "CUMHURBAŞKANLIĞINA BAĞLI OFİSLERE İLİŞKİN BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN",
   "slug": "5523-cumhurbaskanligina-bagli-ofislere-iliskin-bazi-duzenlemeler-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-06-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-07-04",
+    "number": "26218"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5523.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103932",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5523",
+  "source_mevzuat_id": "103932",
   "source_type": "KANUN",
-  "content_sha256": "c73ee27022f24b8c6693456e2acbd2d6d449362d506bff9c0a5ff76431f9e00e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ad3cd0b0bb7d9456068d9c69cc479516fa461377980ccbc80d239aecc5e85493",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

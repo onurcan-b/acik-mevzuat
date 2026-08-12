@@ -2,17 +2,17 @@
   "law_number": "66",
   "title": "İSTİKLAL MADALYASI KANUNU",
   "slug": "66-istiklal-madalyasi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1920-11-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1921-04-04",
+    "number": "9"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.66.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105439",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.66",
+  "source_mevzuat_id": "105439",
   "source_type": "KANUN",
-  "content_sha256": "c55cd32bf0b5a0e20d5fc90768cf8e4d030b1acae25cac598963119677416334",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9fe031537927ff3f8f8977dbe3b58b3759b4d7c78ea7ecfc5b6f5107ac4a5ee2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

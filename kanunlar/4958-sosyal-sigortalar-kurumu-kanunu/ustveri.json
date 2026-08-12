@@ -2,17 +2,17 @@
   "law_number": "4958",
   "title": "SOSYAL SİGORTALAR KURUMU KANUNU",
   "slug": "4958-sosyal-sigortalar-kurumu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-07-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-08-06",
+    "number": "25191"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4958.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103697",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4958",
+  "source_mevzuat_id": "103697",
   "source_type": "KANUN",
-  "content_sha256": "9da792419d69d5c81b92441e2c0d4b92b68ec6b42b031e730106034b32cb81a1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1cd30f73edb3c59d12b84efae21b854aee7ee7d7f936d67027d8e26216ee9d8a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

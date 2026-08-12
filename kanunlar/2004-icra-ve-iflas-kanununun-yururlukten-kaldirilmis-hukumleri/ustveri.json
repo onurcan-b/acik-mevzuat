@@ -1,0 +1,18 @@
+{
+  "law_number": "2004",
+  "title": "İCRA VE İFLAS KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2004-icra-ve-iflas-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1932-04-09",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "2128"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335307",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335307",
+  "source_type": "MULGA",
+  "content_sha256": "0b255e97db9335b1b4944821da435a606f011d0c4efcf58a75b08bff6ef81960",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

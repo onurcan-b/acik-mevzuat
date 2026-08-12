@@ -1,0 +1,18 @@
+{
+  "law_number": "6643",
+  "title": "TÜRK ECZACILARI BİRLİĞİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6643-turk-eczacilari-birligi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1956-01-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "9223"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335474",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335474",
+  "source_type": "MULGA",
+  "content_sha256": "5472636c3687568f22d72e81fb16e006af445895ab8e3c93e6818e2442e1d197",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

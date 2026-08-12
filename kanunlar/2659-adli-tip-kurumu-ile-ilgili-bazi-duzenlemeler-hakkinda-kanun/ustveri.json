@@ -2,17 +2,17 @@
   "law_number": "2659",
   "title": "ADLİ TIP KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "2659-adli-tip-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1982-04-14",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17670"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2659.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103411",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2659",
+  "source_mevzuat_id": "103411",
   "source_type": "KANUN",
-  "content_sha256": "a5d87d3db38dc934ed50688b5f8f4ffe0917d3fd47216f44fae3a243e4730864",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fcf760c67563cc05543b8d21303948027dcc6fb248053448d74b3ccdb84e3f98",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

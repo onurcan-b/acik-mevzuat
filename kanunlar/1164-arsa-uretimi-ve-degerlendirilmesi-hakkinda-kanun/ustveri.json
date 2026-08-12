@@ -2,17 +2,17 @@
   "law_number": "1164",
   "title": "ARSA ÜRETİMİ VE DEĞERLENDİRİLMESİ HAKKINDA KANUN",
   "slug": "1164-arsa-uretimi-ve-degerlendirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1969-04-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1969-05-10",
+    "number": "13195"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1164.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104586",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1164",
+  "source_mevzuat_id": "104586",
   "source_type": "KANUN",
-  "content_sha256": "141ff9dc6e70136713ce45e841388eefae45ce545e2a3ac269076c85e6dfed1d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9bed5841ae4b975829518cd2f0a541f0f10db6248c8910c2dc349456633db100",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

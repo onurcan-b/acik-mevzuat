@@ -2,17 +2,17 @@
   "law_number": "351",
   "title": "YÜKSEK ÖĞRENİM KREDİ VE YURT  HİZMETLERİ KANUNU",
   "slug": "351-yuksek-ogrenim-kredi-ve-yurt-hizmetleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1961-08-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-08-22",
+    "number": "10887"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.351.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103169",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.351",
+  "source_mevzuat_id": "103169",
   "source_type": "KANUN",
-  "content_sha256": "20bf9835e8b38280e295873e1955cb97f72c0de6001d2324878ac0898909c452",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4936d013b9ff7b7e797ad26de44e682ed1bbb182a8b7be2a5bda90c68bd13fc7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

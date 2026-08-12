@@ -2,17 +2,17 @@
   "law_number": "7262",
   "title": "KİTLE İMHA SİLAHLARININ YAYILMASININ FİNANSMANININ ÖNLENMESİNE İLİŞKİN KANUN",
   "slug": "7262-kitle-imha-silahlarinin-yayilmasinin-finansmaninin-onlenmesine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2020-12-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2020-12-31",
+    "number": "31351 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7262.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104123",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7262",
+  "source_mevzuat_id": "104123",
   "source_type": "KANUN",
-  "content_sha256": "d3b5cf7ea4bc839472db25c5b6b3ec91f8f7f06b9c1c8072c9e4aa86342eafe5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2da23cdb04ef0d0f7715d43af1671a23100a1460ffa44ea9995aa11d84b5ba0b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

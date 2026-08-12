@@ -2,17 +2,17 @@
   "law_number": "2859",
   "title": "TAPULAMA VE KADASTRO PAFTALARININ YENİLENMESİ HAKKINDA KANUN",
   "slug": "2859-tapulama-ve-kadastro-paftalarinin-yenilenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-06-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-06-25",
+    "number": "18088"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2859.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104871",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2859",
+  "source_mevzuat_id": "104871",
   "source_type": "KANUN",
-  "content_sha256": "2f803fa906954d839b1754dd2636d4bd41fd1c671f97dc698a4ed663d2b2c4bf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1688bc3a7952f6eb771d33bdc36f1c3443ebfed03c64bdd0e678d45ef1a0fac9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

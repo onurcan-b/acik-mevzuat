@@ -2,17 +2,17 @@
   "law_number": "3069",
   "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ ÜYELİĞİ İLE BAĞDAŞMAYAN İŞLER HAKKINDA KANUN",
   "slug": "3069-turkiye-buyuk-millet-meclisi-uyeligi-ile-bagdasmayan-isler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-10-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-11-06",
+    "number": "18567"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3069.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104813",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3069",
+  "source_mevzuat_id": "104813",
   "source_type": "KANUN",
-  "content_sha256": "0dd236cf903515c3c6781584a317bd131b23a6ce7664a23f98d7132102b0ac0d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "03defb0c8d4495bcf3b7c2ee5930c2312f498dae0aff356c88305e4ad99e1a9b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3146",
   "title": "ÇALIŞMA VE SOSYAL GÜVENLİK ALANINDA BAZI MALİ HÜKÜMLER HAKKINDA KANUN",
   "slug": "3146-calisma-ve-sosyal-guvenlik-alaninda-bazi-mali-hukumler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1985-01-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-01-18",
+    "number": "18639"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3146.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104791",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3146",
+  "source_mevzuat_id": "104791",
   "source_type": "KANUN",
-  "content_sha256": "b5915aef1dc39ee8d8c6efcbaf6088bac13c285376d7676885124cb002547939",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c09863cec70b1c9eec48626f93c242ba5d3ee09453c9e7a07db667c1603b9248",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

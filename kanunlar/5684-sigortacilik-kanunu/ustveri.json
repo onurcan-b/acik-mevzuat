@@ -2,17 +2,17 @@
   "law_number": "5684",
   "title": "SİGORTACILIK KANUNU",
   "slug": "5684-sigortacilik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2007-06-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "26552"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5684.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103953",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5684",
+  "source_mevzuat_id": "103953",
   "source_type": "KANUN",
-  "content_sha256": "4bfc158f4d30b412a468e27a6eaa59e235ba44c1a0aa29bb9523b97f747fc0c0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f7075f3c4426703478e281ce5133d3927d187a86c0eb0bc7a9d183f6ed41f86f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

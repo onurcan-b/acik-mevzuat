@@ -2,17 +2,17 @@
   "law_number": "6328",
   "title": "KAMU DENETÇİLİĞİ KURUMU KANUNU",
   "slug": "6328-kamu-denetciligi-kurumu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-06-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-29",
+    "number": "28338"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6328.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104326",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6328",
+  "source_mevzuat_id": "104326",
   "source_type": "KANUN",
-  "content_sha256": "5559147907e80e2041c22fcdd3b0c9a565d6aad7478d2dfdc50ac3b4d2f5c12b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e3d003d9b6189b11ab9df180b245b66da125b0bf09b194529a60f51a32bd9d12",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6415",
   "title": "TERÖRİZMİN FİNANSMANININ ÖNLENMESİ HAKKINDA KANUN",
   "slug": "6415-terorizmin-finansmaninin-onlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2013-02-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2013-02-16",
+    "number": "28561"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6415.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104356",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6415",
+  "source_mevzuat_id": "104356",
   "source_type": "KANUN",
-  "content_sha256": "50169c8f085e2953875535c3a71876787d5d0601ad0437a7599cc1edef34ad0d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "89cb3e38f28c382d1d3e730087ea49f04e90b497a6d574917a3d538aeb67bd4f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

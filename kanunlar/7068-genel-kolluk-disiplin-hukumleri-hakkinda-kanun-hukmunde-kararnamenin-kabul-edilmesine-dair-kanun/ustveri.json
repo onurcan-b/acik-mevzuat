@@ -2,17 +2,17 @@
   "law_number": "7068",
   "title": "GENEL KOLLUK DİSİPLİN HÜKÜMLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
   "slug": "7068-genel-kolluk-disiplin-hukumleri-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2018-01-31",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "30354 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7068.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103907",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7068",
+  "source_mevzuat_id": "103907",
   "source_type": "KANUN",
-  "content_sha256": "d819bdc45d2d248db24e26c05daf7ae2ec5c973f3840c72a4feb15a52a58b5f3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6618f2eda65d749c79d24129cb3dd31b3b4b5b676ab429ceebd2aa52e3e75bf2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

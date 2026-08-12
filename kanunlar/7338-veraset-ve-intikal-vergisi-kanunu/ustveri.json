@@ -2,17 +2,17 @@
   "law_number": "7338",
   "title": "VERASET VE İNTİKAL VERGİSİ KANUNU",
   "slug": "7338-veraset-ve-intikal-vergisi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1959-06-08",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "10231"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7338.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103036",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7338",
+  "source_mevzuat_id": "103036",
   "source_type": "KANUN",
-  "content_sha256": "62a4ea7491759335e07eb0983ef78fa6453c4ed3f7f3fabcb04d5daa16c0c7e9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b69bf3fbc481f197191c49c49ccebe4e3f1b73501acb436230247db0731a010a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

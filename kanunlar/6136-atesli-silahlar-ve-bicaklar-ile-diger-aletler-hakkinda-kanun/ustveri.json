@@ -2,17 +2,17 @@
   "law_number": "6136",
   "title": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA KANUN",
   "slug": "6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1953-07-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "8458"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6136.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103126",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6136",
+  "source_mevzuat_id": "103126",
   "source_type": "KANUN",
-  "content_sha256": "da5cfa2b38ae769744ae16d7eb44967fbecaee020a0a5be5ef038f3abf29ce16",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "db5a3e81f8ef35eb20b38ec073ce902edd94d251f18e6e6d03db9ce4f4e84020",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

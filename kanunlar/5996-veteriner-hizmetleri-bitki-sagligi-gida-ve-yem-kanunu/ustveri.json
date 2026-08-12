@@ -1,18 +1,18 @@
 {
   "law_number": "5996",
-  "title": "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+  "title": "VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU",
   "slug": "5996-veteriner-hizmetleri-bitki-sagligi-gida-ve-yem-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2010-06-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2010-06-13",
+    "number": "27610"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5996.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103186",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5996",
+  "source_mevzuat_id": "103186",
   "source_type": "KANUN",
-  "content_sha256": "f8c166435bd7f607498f503480d4f224fa401c143cf453eeefd6dbe6d79d6f70",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "47b6b429b97961e395807650ea7adabffe13de2d490395dde6965456a7373d51",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

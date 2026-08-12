@@ -2,17 +2,17 @@
   "law_number": "5252",
   "title": "TÜRK CEZA KANUNUNUN YÜRÜRLÜK VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
   "slug": "5252-turk-ceza-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-11-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-11-13",
+    "number": "25642"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5252.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103811",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5252",
+  "source_mevzuat_id": "103811",
   "source_type": "KANUN",
-  "content_sha256": "99ac890f098eaa0f0a0e3cd2ba886679cd5e4a5b7b986cc25266e3f14261c448",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a544df60a7b8cbb158b1111eaace0a7b88dcf0bb13ca901a09e369170302cc2f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "6762",
+  "title": "TÜRK TİCARET KANUNUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "6762-turk-ticaret-kanununun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "1956-06-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1956-07-09",
+    "number": "9353"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335473",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335473",
+  "source_type": "MULGA",
+  "content_sha256": "63f4472005b0475d7965f70272dc1d9d928bbf1e2327adc700cd4c94642af9c1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "3713",
   "title": "TERÖRLE MÜCADELE KANUNU",
   "slug": "3713-terorle-mucadele-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1991-04-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1991-04-12",
+    "number": "20843 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3713.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102981",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3713",
+  "source_mevzuat_id": "102981",
   "source_type": "KANUN",
-  "content_sha256": "61d706f4a61774cc97f9be61cbb5c3bd9f911dd4af947f65a0c5b51a2194585e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1060353b39e9c529648e9aded764ae24bebe64536a50abb17ebe3e2f0772945a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

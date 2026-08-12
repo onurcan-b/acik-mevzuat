@@ -1,0 +1,18 @@
+{
+  "law_number": "4912",
+  "title": "ESKİ YUGOSLAVYA`DA İŞLENEN BAZI SUÇLARIN KOVUŞTURULMASI HAKKINDA KANUN",
+  "slug": "4912-eski-yugoslavya-da-islenen-bazi-suclarin-kovusturulmasi-hakkinda-kanun",
+  "accepted_date": "2003-06-26",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2003-07-01",
+    "number": "25155"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103655",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103655",
+  "source_type": "KANUN",
+  "content_sha256": "3cb44fd548db2fda678026faf21adb4f949dd4a0a0b33daa892d8ed60468d779",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

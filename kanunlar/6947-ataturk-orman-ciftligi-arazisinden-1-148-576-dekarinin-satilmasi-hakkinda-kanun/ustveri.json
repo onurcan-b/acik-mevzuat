@@ -1,0 +1,18 @@
+{
+  "law_number": "6947",
+  "title": "ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNDEN (1.148.576) DEKARININ SATILMASI HAKKINDA KANUN",
+  "slug": "6947-ataturk-orman-ciftligi-arazisinden-1-148-576-dekarinin-satilmasi-hakkinda-kanun",
+  "accepted_date": "1957-04-17",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1957-04-24",
+    "number": "9593"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105106",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105106",
+  "source_type": "KANUN",
+  "content_sha256": "b6ce30a0fab01b053420e665aae178a947525ebb7174abe50416a9806c8692a5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

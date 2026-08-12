@@ -2,17 +2,17 @@
   "law_number": "2976",
   "title": "DIŞ TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "2976-dis-ticaretin-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-02-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-02-15",
+    "number": "18313"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2976.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104840",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2976",
+  "source_mevzuat_id": "104840",
   "source_type": "KANUN",
-  "content_sha256": "92e4369e39fe4ab6f618cccf0a54607c25a810fc98c8120d16332d212919d319",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b2768220c2057a895e29709a41dde887166d82289f793a5f02fbaab38f107a56",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

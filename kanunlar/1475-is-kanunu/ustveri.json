@@ -2,17 +2,17 @@
   "law_number": "1475",
   "title": "İŞ KANUNU",
   "slug": "1475-is-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1971-08-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1971-09-01",
+    "number": "13943"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1475.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104983",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1475",
+  "source_mevzuat_id": "104983",
   "source_type": "KANUN",
-  "content_sha256": "daf20b41c39b3711d854fdd810d10276673147f3b30705d4d1358e285e53ddb4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2d2908ac52d8c6d741a9a61b45af64245885187f1f505d6a62ce1dbd7847b6fe",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

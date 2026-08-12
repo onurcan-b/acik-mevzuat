@@ -1,23 +1,47 @@
 # BEYNELMİLEL ERKAMIN KABULÜ HAKKINDA KANUN (No. 1288)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1288.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105373
+> Resmî Gazete: 1928-05-28 / 900
+> UYAP Mevzuat kimliği: 105373
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 9 Sayfa: 610
+911
 
-Devlet, vilayet, şehremaneti ve belediyeler gibi resmi devair ve
-müessesatın bilümum muamelatı tahririye ve hesabiyesinde beynelmilel rakamların
-kullanılması mecburidir.
-İşbu mecburiyetin efrat ve eşhası hususiye arasındaki muamelatta dahi tatbikını en
-kolay mahallerden başlamak suretiyle 1931 Haziranına kadar temine Hükümet mezundur.
+BEYNELMİLEL
+ERKAMIN KABULÜ HAKKINDA KANUN
 
-# MADDE 2
+Kanun
+Numarası : 1288
 
-Bu kanun 1 Haziran 1929 tarihinden muteberdir.
+Kabul
+Tarihi : 20/5/1928
 
-# MADDE 3
+Yayımlandığı
+Resmî Gazete : Tarih: 28/5/1928 Sayı: 900
 
-Bu kanunun hükmünü icraya İcra Vekilleri Heyeti memurdur.
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 9 Sayfa:
+610
+
+Madde
+1 –
+Devlet,
+vilayet, şehremaneti ve belediyeler gibi resmi devair ve müessesatın bilümum
+muamelatı tahririye ve hesabiyesinde beynelmilel rakamların kullanılması
+mecburidir.
+
+İşbu
+mecburiyetin efrat ve eşhası hususiye arasındaki muamelatta dahi tatbikını en
+kolay mahallerden başlamak suretiyle 1931 Haziranına kadar temine Hükümet
+mezundur.
+
+Madde
+2 –
+Bu
+kanun 1 Haziran 1929 tarihinden muteberdir.
+
+Madde
+3 –
+Bu
+kanunun hükmünü icraya İcra Vekilleri Heyeti memurdur.

@@ -2,17 +2,17 @@
   "law_number": "4737",
   "title": "ENDÜSTRİ BÖLGELERİ KANUNU (ENDÜSTRİ BÖLGELERİ KANUNU VE ORGANİZE SANAYİ BÖLGELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN)",
   "slug": "4737-endustri-bolgeleri-kanunu-endustri-bolgeleri-kanunu-ve-organize-sanayi-bolgeleri-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2002-01-09",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24645"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4737.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103220",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4737",
+  "source_mevzuat_id": "103220",
   "source_type": "KANUN",
-  "content_sha256": "2c32bae38d061e176462929cb7f7cad37d906496233eec28e515a26d51b2d19d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b84879f622b6849ddcfc3cca3cd1ba211458d27cb6bd1e321eda5c0806f9b7ab",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,32 +1,65 @@
 # TÜRKİYE BÜYÜK MİLLET MECLİSİ REİSİ MÜŞİR GAZİ MUSTAFA KEMAL PAŞA HAZRETLERİNE BAŞKUMANDANLIK TEVCİHİ HAKKINDA KANUN (No. 245)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.245.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105434
+> Resmî Gazete: 1922-07-20 / bilinmiyor
+> UYAP Mevzuat kimliği: 105434
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 3 Sayfa: 62
+210-2
 
-Millet ve memleketin mukadderatına bilfiil vazıülyed yegane kuvveti aliye
-olan va azasından her birinin Kanunu esasi ve Teşkilatı Esasiye Kanuniyle hukuk ve
-masuniyeti teşriiyesi tabiatiyle mahfuz ve şahsiyeti maneviyesi Başkumandanlığı haiz
-bulunan Türkiye Büyük Millet Meclisi Başkumandanlık vazifei fiiliyesine muvakkaten kendi
-reisi Müşür Gazi Mustafa Kemal Paşa Hazretlerini memur etmiştir.
+TÜRKİYE
+BÜYÜK MİLLET MECLİSİ REİSİ
 
-# MADDE 2
+MÜŞİR GAZİ
+MUSTAFA KEMAL PAŞA
 
-Meclis lüzum gördüğü takdirde bu sıfat ve salahiyeti refeder.
+HAZRETLERİNE
+BAŞKUMANDANLIK
 
-# MADDE 3
+TEVCİHİ
+HAKKINDA KANUN
 
-Başkumandanlık müddetinin üç mah temdidine dair olan 8 Ramazan 1340
-ve 6 Mayıs 1338 tarihli kanun ahkamı mülgadır.
+Kanun
+Numarası : 245
 
-# MADDE 4
+Kabul
+Tarihi : 20/7/1338
 
-İşbu kanun tarihi neşrinden muteberdir.
+Yayımlandığı
+Resmî Gazete : Tarih: — Sayı: —
 
-# MADDE 5
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 3 Sayfa:
+62
 
-İşbu kanun Türkiye Büyük millet Meclisi tarafından icra olunur.
+Madde
+1 –
+Millet
+ve memleketin mukadderatına bilfiil vazıülyed yegane kuvveti aliye olan va
+azasından her birinin Kanunu esasi ve Teşkilatı Esasiye Kanuniyle hukuk ve
+masuniyeti teşriiyesi tabiatiyle mahfuz ve şahsiyeti maneviyesi Başkumandanlığı
+haiz bulunan Türkiye Büyük Millet Meclisi Başkumandanlık vazifei fiiliyesine
+muvakkaten kendi reisi Müşür Gazi Mustafa Kemal Paşa Hazretlerini memur
+etmiştir.
+
+Madde
+2 –
+Meclis
+lüzum gördüğü takdirde bu sıfat ve salahiyeti refeder.
+
+Madde
+3 –
+Başkumandanlık
+müddetinin üç mah temdidine dair olan 8 Ramazan 1340 ve 6 Mayıs 1338 tarihli
+kanun ahkamı mülgadır.
+
+Madde
+4 –
+İşbu
+kanun tarihi neşrinden muteberdir.
+
+Madde
+5 –
+İşbu
+kanun Türkiye Büyük millet Meclisi tarafından icra olunur.

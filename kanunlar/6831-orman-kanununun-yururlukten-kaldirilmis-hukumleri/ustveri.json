@@ -1,0 +1,18 @@
+{
+  "law_number": "6831",
+  "title": "ORMAN KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6831-orman-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1956-08-31",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "9402"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335470",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335470",
+  "source_type": "MULGA",
+  "content_sha256": "f5b2b6cefc88ea85e29e11b680d44a4e93003e037f27b1e0943c9262992ca79d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "5490",
   "title": "NÜFUS HİZMETLERİ KANUNU",
   "slug": "5490-nufus-hizmetleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2006-04-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-04-29",
+    "number": "26153"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5490.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103829",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5490",
+  "source_mevzuat_id": "103829",
   "source_type": "KANUN",
-  "content_sha256": "a3fb75fa73d06a0084170eb5fc1be41e3bace8a87df37d108efb25be877a11da",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4f17ffea4eefad17da118374c7a396415d97783ca5ace5d736217f2e6cb66589",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

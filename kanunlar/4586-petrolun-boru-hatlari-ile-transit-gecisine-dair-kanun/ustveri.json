@@ -2,17 +2,17 @@
   "law_number": "4586",
   "title": "PETROLÜN BORU HATLARI İLE TRANSİT GEÇİŞİNE DAİR KANUN",
   "slug": "4586-petrolun-boru-hatlari-ile-transit-gecisine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-06-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-06-29",
+    "number": "24094"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4586.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103524",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4586",
+  "source_mevzuat_id": "103524",
   "source_type": "KANUN",
-  "content_sha256": "62f44b167afcc253d5f7081920aa4820ec41f827bfd8c87b630d6429bf049550",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1f2e60b81013543de351d35b93d6b3cb1c49c3e9f30b4a3101a2601f5af77bf7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

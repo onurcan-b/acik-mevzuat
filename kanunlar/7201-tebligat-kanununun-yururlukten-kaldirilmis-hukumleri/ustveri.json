@@ -1,0 +1,18 @@
+{
+  "law_number": "7201",
+  "title": "TEBLİGAT KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "7201-tebligat-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1959-02-11",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1959-02-19",
+    "number": "10139"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335468",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335468",
+  "source_type": "MULGA",
+  "content_sha256": "c206b5e775ee866bc2f492b2737a72c853caede174ac3935b8ee31e375cadf19",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

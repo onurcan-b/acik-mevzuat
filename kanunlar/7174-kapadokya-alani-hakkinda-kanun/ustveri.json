@@ -2,17 +2,17 @@
   "law_number": "7174",
   "title": "KAPADOKYA ALANI HAKKINDA KANUN",
   "slug": "7174-kapadokya-alani-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2019-05-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2019-06-01",
+    "number": "30791"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7174.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104443",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7174",
+  "source_mevzuat_id": "104443",
   "source_type": "KANUN",
-  "content_sha256": "80189cc9dfdf437e411af83ba0cc7b26f983e92f502b7935c531cf456de9148c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "902cd293eef881b0637064fe0a1c50269672cda9bfc0197a86463adf7391860c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

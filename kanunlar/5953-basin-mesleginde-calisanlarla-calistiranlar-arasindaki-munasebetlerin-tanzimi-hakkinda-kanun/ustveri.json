@@ -2,17 +2,17 @@
   "law_number": "5953",
   "title": "BASIN MESLEĞİNDE ÇALIŞANLARLA ÇALIŞTIRANLAR ARASINDAKİ MÜNASEBETLERİN TANZİMİ HAKKINDA KANUN",
   "slug": "5953-basin-mesleginde-calisanlarla-calistiranlar-arasindaki-munasebetlerin-tanzimi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1952-06-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1952-06-20",
+    "number": "8140"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5953.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103231",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5953",
+  "source_mevzuat_id": "103231",
   "source_type": "KANUN",
-  "content_sha256": "6c34e420928c2209f531f790314c6d4286f5c92453a82a1dba6f517c562795ef",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dd83fc4948c9e001c5d3d0a9ff4052b4b84e085c497f53020e3eda984beb6718",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

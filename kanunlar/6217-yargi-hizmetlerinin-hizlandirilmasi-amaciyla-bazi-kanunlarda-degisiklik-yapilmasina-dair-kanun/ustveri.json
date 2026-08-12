@@ -2,17 +2,17 @@
   "law_number": "6217",
   "title": "YARGI HİZMETLERİNİN HIZLANDIRILMASI AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6217-yargi-hizmetlerinin-hizlandirilmasi-amaciyla-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-03-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-04-14",
+    "number": "27905"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6217.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104213",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6217",
+  "source_mevzuat_id": "104213",
   "source_type": "KANUN",
-  "content_sha256": "a51548b6cc695dcbe579ab6560e91eac4cdc5824fc1e84d2746c149b0cb1e159",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8400ba5b194d208682efab5fc36f80ecf7a00a44ff6a141303a8e0ec8f90e62e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

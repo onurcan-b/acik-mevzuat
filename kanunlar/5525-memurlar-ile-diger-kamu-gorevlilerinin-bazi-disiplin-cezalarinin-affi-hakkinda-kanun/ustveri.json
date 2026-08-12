@@ -2,17 +2,17 @@
   "law_number": "5525",
   "title": "MEMURLAR İLE DİĞER KAMU GÖREVLİLERİNİN BAZI DİSİPLİN CEZALARININ AFFI HAKKINDA KANUN",
   "slug": "5525-memurlar-ile-diger-kamu-gorevlilerinin-bazi-disiplin-cezalarinin-affi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-06-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-07-04",
+    "number": "26218"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5525.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103937",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5525",
+  "source_mevzuat_id": "103937",
   "source_type": "KANUN",
-  "content_sha256": "a024e41552f3e9554e8ef76a0d4ea08f259d93c6274edf7ab6dce6864b307754",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2fd03a10f195c21c8b998b847154f4aa782b3e1ffbbb549f5f50d51f64efba06",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

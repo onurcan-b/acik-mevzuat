@@ -1,0 +1,18 @@
+{
+  "law_number": "4954",
+  "title": "TÜRKİYE ADALET AKADEMİSİ KANUNU",
+  "slug": "4954-turkiye-adalet-akademisi-kanunu",
+  "accepted_date": "2003-07-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2003-07-31",
+    "number": "25185"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335490",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335490",
+  "source_type": "MULGA",
+  "content_sha256": "17d32ec9d26b1221ce1a256632cc5733d10d8383173894e3005b4abcddbf58b6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

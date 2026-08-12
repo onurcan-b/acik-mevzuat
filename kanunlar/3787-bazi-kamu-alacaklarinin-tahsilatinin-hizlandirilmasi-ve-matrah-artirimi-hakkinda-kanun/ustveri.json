@@ -2,17 +2,17 @@
   "law_number": "3787",
   "title": "BAZI KAMU ALACAKLARININ TAHSİLATININ HIZLANDIRILMASI VE MATRAH ARTIRIMI HAKKINDA KANUN",
   "slug": "3787-bazi-kamu-alacaklarinin-tahsilatinin-hizlandirilmasi-ve-matrah-artirimi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1992-03-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1992-04-03",
+    "number": "21191"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3787.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104673",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3787",
+  "source_mevzuat_id": "104673",
   "source_type": "KANUN",
-  "content_sha256": "6843204f2cbaae7fd2a4ebae00d4f5b98250dbd82eb8b1c365187a8a1012ce33",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e4742a4358459600c12c2d7bc835e5ab06d65748663228051cd1105a090a26f0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

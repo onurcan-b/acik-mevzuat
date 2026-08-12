@@ -2,17 +2,17 @@
   "law_number": "3213",
   "title": "MADEN KANUNU",
   "slug": "3213-maden-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1985-06-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18785"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3213.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104504",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3213",
+  "source_mevzuat_id": "104504",
   "source_type": "KANUN",
-  "content_sha256": "b9c57ba7201460d062efc0bf481774f90be5ce3b7ef053932c5477588654c769",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7564fe70faa94223788bad412a5393279d62ba5dafbf065115323bb0c725b708",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

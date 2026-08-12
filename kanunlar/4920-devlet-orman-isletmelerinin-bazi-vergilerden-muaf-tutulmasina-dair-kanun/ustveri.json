@@ -2,17 +2,17 @@
   "law_number": "4920",
   "title": "DEVLET ORMAN İŞLETMELERİNİN BAZI VERGİLERDEN MUAF TUTULMASINA DAİR KANUN",
   "slug": "4920-devlet-orman-isletmelerinin-bazi-vergilerden-muaf-tutulmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1946-06-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1946-06-13",
+    "number": "6332"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4920.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105202",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.4920",
+  "source_mevzuat_id": "105202",
   "source_type": "KANUN",
-  "content_sha256": "e9a9ab4ca7be4322c6386bbd0747fc696f0b125e0ccce3d9af0107d2c116c626",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2595694f5b25ac20054abd478b6cb464f383a9be437e0fdedc3a2b13f4c837e0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

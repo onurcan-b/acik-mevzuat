@@ -2,17 +2,17 @@
   "law_number": "4471",
   "title": "ORDU MOTÖRLÜ SİLAH VE VASITALARINDA KULLANILACAK ÜCRETLİ SİVİL MAKİNİST VE ŞOFÖRLERE ER MELBUSATI VE TEÇHİZATI VERİLMESİNE DAİR KANUN",
   "slug": "4471-ordu-motorlu-silah-ve-vasitalarinda-kullanilacak-ucretli-sivil-makinist-ve-soforlere-er-melbusati-ve-techizati-verilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1943-07-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1943-07-21",
+    "number": "5461"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4471.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105218",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.4471",
+  "source_mevzuat_id": "105218",
   "source_type": "KANUN",
-  "content_sha256": "a2dcd0ddcdba18aec05247115cf021f36abb4c34b4a403cc9f3acbe5fa29a10d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2cbb74b365dc817cf1e699df39b0f0cf99a867214522a87fc290bb37fca5502a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

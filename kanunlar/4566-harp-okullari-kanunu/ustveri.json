@@ -2,17 +2,17 @@
   "law_number": "4566",
   "title": "HARP OKULLARI KANUNU",
   "slug": "4566-harp-okullari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2000-05-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-05-17",
+    "number": "24052"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4566.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103485",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4566",
+  "source_mevzuat_id": "103485",
   "source_type": "KANUN",
-  "content_sha256": "c08b4a1832889e1e848d0d218b32d1583dab9a7fb2836ad1898153b699cef715",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4efd1295b69e956b7bb3889ea72aa1997a16042c3d5ceab746dcea447b1e801a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

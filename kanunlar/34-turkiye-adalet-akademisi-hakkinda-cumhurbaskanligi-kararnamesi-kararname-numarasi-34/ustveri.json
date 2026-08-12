@@ -1,0 +1,18 @@
+{
+  "law_number": "34",
+  "title": "TÜRKİYE ADALET AKADEMİSİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 34)",
+  "slug": "34-turkiye-adalet-akademisi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-34",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2019-05-02",
+    "number": "30762"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/340696",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "340696",
+  "source_type": "MULGA",
+  "content_sha256": "95ddd5abb6c7b1b5e4bbf574d8947479fda0755fa35338a8d18a87a3c8c099da",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "2866",
   "title": "ÖĞRENCİLERLE İLGİLİ BAZI BASILI EVRAKIN MİLLİ EĞİTİM BAKANLIĞINCA HAZIRLANMASI, BASTIRILMASI VE SATILMASI HAKKINDA KANUN",
   "slug": "2866-ogrencilerle-ilgili-bazi-basili-evrakin-milli-egitim-bakanliginca-hazirlanmasi-bastirilmasi-ve-satilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-07-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-07-27",
+    "number": "18117"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2866.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104869",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2866",
+  "source_mevzuat_id": "104869",
   "source_type": "KANUN",
-  "content_sha256": "41540d27a92e2ef65983a7d0a94610398db28e4aee44366df9cbad547d456eaf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3f50a148fbb91091f56e54a1a741d73eb5f2a3b3b6c783aef432272e219474c3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

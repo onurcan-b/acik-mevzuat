@@ -2,17 +2,17 @@
   "law_number": "5200",
   "title": "TARIMSAL ÜRETİCİ BİRLİKLERİ KANUNU",
   "slug": "5200-tarimsal-uretici-birlikleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-06-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-06",
+    "number": "25514"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5200.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103767",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5200",
+  "source_mevzuat_id": "103767",
   "source_type": "KANUN",
-  "content_sha256": "6993be4e877a689468d7d0e79aafdda5d4c854ffce3e503909305c5172f21c23",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5eaaa6dd2dedeff1c8f2e7bd03e6b85b03f198070ddbb560688f376ddfda33dc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

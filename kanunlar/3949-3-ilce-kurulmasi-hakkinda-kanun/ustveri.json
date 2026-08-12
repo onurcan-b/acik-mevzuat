@@ -2,17 +2,17 @@
   "law_number": "3949",
   "title": "3 İLÇE KURULMASI HAKKINDA KANUN",
   "slug": "3949-3-ilce-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1993-12-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1993-12-29",
+    "number": "21803"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3949.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104634",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3949",
+  "source_mevzuat_id": "104634",
   "source_type": "KANUN",
-  "content_sha256": "9144b8b4dc1675a482353fdc524bff1a2e6f9bacda72aa376631cbfe261f1c90",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "905c583f8ec460214a71d2689ef7d35db7a278cc464a5b2f3de993322e4c571a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

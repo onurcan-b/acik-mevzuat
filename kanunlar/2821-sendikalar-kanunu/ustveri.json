@@ -1,0 +1,18 @@
+{
+  "law_number": "2821",
+  "title": "SENDİKALAR KANUNU",
+  "slug": "2821-sendikalar-kanunu",
+  "accepted_date": "1983-05-05",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18040"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335296",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335296",
+  "source_type": "MULGA",
+  "content_sha256": "4e4c9787abc95135680d58b652ad3856a41493726d46936038a6564fe5b4f84d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

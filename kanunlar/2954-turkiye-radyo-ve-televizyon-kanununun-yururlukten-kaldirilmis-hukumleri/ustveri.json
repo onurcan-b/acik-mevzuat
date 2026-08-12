@@ -1,0 +1,18 @@
+{
+  "law_number": "2954",
+  "title": "TÜRKİYE RADYO VE TELEVİZYON KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2954-turkiye-radyo-ve-televizyon-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-11-11",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18221"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335514",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335514",
+  "source_type": "MULGA",
+  "content_sha256": "ccce3d04549060fe45f0afc80a44bc5da1c4de877e74bd2f32426ec459de716a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

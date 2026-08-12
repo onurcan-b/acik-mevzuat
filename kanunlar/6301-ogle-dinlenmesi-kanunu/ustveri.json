@@ -2,17 +2,17 @@
   "law_number": "6301",
   "title": "ÖĞLE DİNLENMESİ KANUNU",
   "slug": "6301-ogle-dinlenmesi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1954-03-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1954-03-08",
+    "number": "8652"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6301.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105143",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6301",
+  "source_mevzuat_id": "105143",
   "source_type": "KANUN",
-  "content_sha256": "dfc821425938f1321c22d19d1455b70ed47a2e5ddb96fd3b5aac668813178fef",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7bf9e40c6144f5d21c5920e464db66e13a60e90f130f93ae1ae9a6fd53d94700",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

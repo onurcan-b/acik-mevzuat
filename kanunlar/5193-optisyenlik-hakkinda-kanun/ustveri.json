@@ -2,17 +2,17 @@
   "law_number": "5193",
   "title": "OPTİSYENLİK HAKKINDA KANUN",
   "slug": "5193-optisyenlik-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-06-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-06-26",
+    "number": "25504"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5193.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103758",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5193",
+  "source_mevzuat_id": "103758",
   "source_type": "KANUN",
-  "content_sha256": "a5857b2b67a840421f52da708477601b6ca309c6d3ed91c2c9cff60a07882b55",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3e6e2e76bd53d510d3df1a8a907a34684b7ac87095c89318898bf3fe0531a26c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3466",
   "title": "UZMAN JANDARMA KANUNU",
   "slug": "3466-uzman-jandarma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1988-05-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1988-06-04",
+    "number": "19832"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3466.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102945",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3466",
+  "source_mevzuat_id": "102945",
   "source_type": "KANUN",
-  "content_sha256": "57224bd5e62ce7603be2c30954121b984d339501640dada7d2c9f6c13180640e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4396dbf17d20fc8117c5e9e5e10063ba9b64f0c33801ede6a5c9d14566be5f41",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

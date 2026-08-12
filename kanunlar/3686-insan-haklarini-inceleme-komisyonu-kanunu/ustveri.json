@@ -2,17 +2,17 @@
   "law_number": "3686",
   "title": "İNSAN HAKLARINI İNCELEME KOMİSYONU KANUNU",
   "slug": "3686-insan-haklarini-inceleme-komisyonu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1990-12-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1990-12-05",
+    "number": "20719"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3686.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104238",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3686",
+  "source_mevzuat_id": "104238",
   "source_type": "KANUN",
-  "content_sha256": "e7fe9b6c5a739ed743c2b90386015a9db6d8e1212e1f2eff80457ec6d7fe3b9f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2deca828fbe2789c0e5a6461d1edabd573c428c40e4a080254d889eb8090a859",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

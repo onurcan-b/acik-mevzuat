@@ -2,17 +2,17 @@
   "law_number": "4734",
   "title": "KAMU İHALE KANUNU",
   "slug": "4734-kamu-ihale-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2002-01-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24648"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4734.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103128",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4734",
+  "source_mevzuat_id": "103128",
   "source_type": "KANUN",
-  "content_sha256": "a5828ba0707cebdec324aebdd10a4f45d59c37af140371fd78294e73b436cb7e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "505b720df623f34085c0c047d13635769375d6756fb8cafd6b8971e6c62dd21f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

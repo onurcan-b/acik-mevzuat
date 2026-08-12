@@ -2,17 +2,17 @@
   "law_number": "3402",
   "title": "KADASTRO KANUNU",
   "slug": "3402-kadastro-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1987-06-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1987-07-09",
+    "number": "19512"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3402.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104560",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3402",
+  "source_mevzuat_id": "104560",
   "source_type": "KANUN",
-  "content_sha256": "3f6747eca90a75ca916940391c6ecb69c1002a7e38693bb91d32194a8a82a0ad",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1ca96fbdec99de2bab8d4e999470083c69eea26ee07af33e46b8ecf52d16c2af",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

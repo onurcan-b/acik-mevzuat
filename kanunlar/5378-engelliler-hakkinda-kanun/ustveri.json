@@ -2,17 +2,17 @@
   "law_number": "5378",
   "title": "ENGELLİLER HAKKINDA KANUN",
   "slug": "5378-engelliler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-07-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-07-07",
+    "number": "25868"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5378.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102963",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5378",
+  "source_mevzuat_id": "102963",
   "source_type": "KANUN",
-  "content_sha256": "884b1a786b75c75d09008236b394f53cf9f05878f3d16e5247121b0fe1e23f6a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "208908297481e36de03d8d2d9d22f31f7c46009eb96130e9cb9e76706b830c2c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

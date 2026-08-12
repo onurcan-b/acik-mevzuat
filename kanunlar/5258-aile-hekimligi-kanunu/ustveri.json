@@ -2,17 +2,17 @@
   "law_number": "5258",
   "title": "AİLE HEKİMLİĞİ KANUNU",
   "slug": "5258-aile-hekimligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-11-24",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25665"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5258.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103245",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5258",
+  "source_mevzuat_id": "103245",
   "source_type": "KANUN",
-  "content_sha256": "5852ec7da07e27090d592bf64d04a92283465571b6dda46ecf310771a3179d40",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "daee82cd5840572a8f32cc0ad845555e13496bbe2310cf2febcc8d0093c595f5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

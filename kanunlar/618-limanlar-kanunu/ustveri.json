@@ -2,17 +2,17 @@
   "law_number": "618",
   "title": "LİMANLAR KANUNU",
   "slug": "618-limanlar-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1341-04-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1925-04-20",
+    "number": "95"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.618.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105421",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.618",
+  "source_mevzuat_id": "105421",
   "source_type": "KANUN",
-  "content_sha256": "42c9e5a309e192e6ed466e9d72dcdf3a6b4bdd0b6912f9d535b797ceaf807018",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "13d896d79f73b3be6c2255318db53eacfa5852019c82f968f60469bfc1321ff7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

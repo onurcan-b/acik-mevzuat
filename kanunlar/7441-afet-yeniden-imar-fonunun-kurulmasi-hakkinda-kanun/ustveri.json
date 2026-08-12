@@ -2,17 +2,17 @@
   "law_number": "7441",
   "title": "AFET YENİDEN İMAR FONUNUN KURULMASI HAKKINDA KANUN",
   "slug": "7441-afet-yeniden-imar-fonunun-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-03-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-03-21",
+    "number": "32139"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7441.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/120064",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7441",
+  "source_mevzuat_id": "120064",
   "source_type": "KANUN",
-  "content_sha256": "a94865fe7520d48869c78e114e778933751e0bfd423b4f55bcd35234ba2781fa",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e7ce4cea7bebe57f01e081413d8961bd1a041735f11087948f8266d0a3563aa2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

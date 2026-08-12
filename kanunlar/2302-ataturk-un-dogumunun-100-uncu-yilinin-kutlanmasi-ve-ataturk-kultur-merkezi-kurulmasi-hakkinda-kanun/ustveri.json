@@ -1,0 +1,18 @@
+{
+  "law_number": "2302",
+  "title": "ATATÜRK´ÜN DOĞUMUNUN 100 ÜNCÜ YILININ KUTLANMASI VE \"ATATÜRK KÜLTÜR MERKEZİ\" KURULMASI HAKKINDA KANUN",
+  "slug": "2302-ataturk-un-dogumunun-100-uncu-yilinin-kutlanmasi-ve-ataturk-kultur-merkezi-kurulmasi-hakkinda-kanun",
+  "accepted_date": "1980-09-23",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1980-09-26",
+    "number": "17117"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104955",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "104955",
+  "source_type": "KANUN",
+  "content_sha256": "609bfefc1c856d4ab00440a11fb563e2b71a1446b3aab63db1a006bf7f9c7066",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

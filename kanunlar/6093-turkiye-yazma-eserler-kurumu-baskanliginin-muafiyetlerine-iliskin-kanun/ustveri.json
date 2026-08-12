@@ -2,17 +2,17 @@
   "law_number": "6093",
   "title": "TÜRKİYE YAZMA ESERLER KURUMU BAŞKANLIĞININ MUAFİYETLERİNE İLİŞKİN KANUN",
   "slug": "6093-turkiye-yazma-eserler-kurumu-baskanliginin-muafiyetlerine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2010-12-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2010-12-30",
+    "number": "27801"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6093.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104191",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6093",
+  "source_mevzuat_id": "104191",
   "source_type": "KANUN",
-  "content_sha256": "7ef87cf12c34a1b900a5d0d939d871d390f630d2eff293564a0036011070ed4b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "45bad71acb3a6fa85085ef0a88d8ac0d67ff7a5a0eff7f5f46dcde6639ef1b6d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

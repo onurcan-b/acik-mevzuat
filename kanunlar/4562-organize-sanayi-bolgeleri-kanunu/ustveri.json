@@ -2,17 +2,17 @@
   "law_number": "4562",
   "title": "ORGANİZE SANAYİ BÖLGELERİ KANUNU",
   "slug": "4562-organize-sanayi-bolgeleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2000-04-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-04-15",
+    "number": "24021"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4562.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103300",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4562",
+  "source_mevzuat_id": "103300",
   "source_type": "KANUN",
-  "content_sha256": "cecd513c40e42669e3bc3646ae005ea619337912a6e2fbd801c946ff572e6353",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0483d88f2015d52de0fa1085a6e3cc3c6b8a199e7fbc5f1d48e5ac7c9fc941b2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

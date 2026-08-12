@@ -2,17 +2,17 @@
   "law_number": "4865",
   "title": "ULUSAL BOR ARAŞTIRMA ENSTİTÜSÜ HAKKINDA MALİ HÜKÜMLER VE MUAFİYETLERE İLİŞKİN KANUN",
   "slug": "4865-ulusal-bor-arastirma-enstitusu-hakkinda-mali-hukumler-ve-muafiyetlere-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-06-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-06-18",
+    "number": "25142"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4865.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103640",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4865",
+  "source_mevzuat_id": "103640",
   "source_type": "KANUN",
-  "content_sha256": "86f515d88ec1da987edfb0772f5693e51e7bebdf8096872bf5a7a7f507ef1b5c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3c418fb4e86e35cc6b17210d104b31a5ad0864d45e7100c2e583e57ca7e1f156",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

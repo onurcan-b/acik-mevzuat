@@ -2,17 +2,17 @@
   "law_number": "6103",
   "title": "TÜRK TİCARET KANUNUNUN YÜRÜRLÜĞÜ VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
   "slug": "6103-turk-ticaret-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-01-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-02-14",
+    "number": "27846"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6103.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104194",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6103",
+  "source_mevzuat_id": "104194",
   "source_type": "KANUN",
-  "content_sha256": "f0ed1e1e229139d14d0bc11ff7cb2a5631e896db3488b8fbfce48bb1536650d5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ad2579b69750acbccb85431fb2b5072acbe2d24c4f33db55617bbc6885d253ee",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

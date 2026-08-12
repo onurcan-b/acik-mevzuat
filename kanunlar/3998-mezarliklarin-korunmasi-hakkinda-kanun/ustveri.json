@@ -2,17 +2,17 @@
   "law_number": "3998",
   "title": "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
   "slug": "3998-mezarliklarin-korunmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-06-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1994-06-13",
+    "number": "21959"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3998.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103240",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3998",
+  "source_mevzuat_id": "103240",
   "source_type": "KANUN",
-  "content_sha256": "bd1a28da009037df8efe8c05d30c206a9f3b3816d9b299d2039fbf58d7e74b9b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c16e6b52eaea4798c39a186dfe5af90769aa800b6769626ed656b33917c20735",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

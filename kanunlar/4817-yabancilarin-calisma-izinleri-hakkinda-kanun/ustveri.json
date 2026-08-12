@@ -1,0 +1,18 @@
+{
+  "law_number": "4817",
+  "title": "YABANCILARIN ÇALIŞMA İZİNLERİ HAKKINDA KANUN",
+  "slug": "4817-yabancilarin-calisma-izinleri-hakkinda-kanun",
+  "accepted_date": "2003-02-27",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2003-03-06",
+    "number": "25040"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335262",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335262",
+  "source_type": "MULGA",
+  "content_sha256": "22d5e0c0d6c0eec0149861b74952dbc4aece73ae1e0a8b17622531870efd1e21",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

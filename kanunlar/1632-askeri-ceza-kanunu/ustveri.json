@@ -2,17 +2,17 @@
   "law_number": "1632",
   "title": "ASKERİ CEZA KANUNU",
   "slug": "1632-askeri-ceza-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1930-05-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1930-06-15",
+    "number": "1520"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1632.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103426",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1632",
+  "source_mevzuat_id": "103426",
   "source_type": "KANUN",
-  "content_sha256": "bda5a1872f477c39e7d7d8097acb4e430917d318878f5e2342e8da2dfea4959b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4c0d95a53d9ff5d36df3b1b89a553602483d8a0cc89d7cd2194d7f57e56c300a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

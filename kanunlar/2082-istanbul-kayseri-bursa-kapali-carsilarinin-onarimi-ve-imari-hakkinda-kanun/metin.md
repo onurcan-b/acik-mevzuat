@@ -1,76 +1,146 @@
 # İSTANBUL, KAYSERİ, BURSA KAPALI ÇARŞILARININ ONARIMI VE İMARI HAKKINDA KANUN (No. 2082)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2082.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/104967
+> Resmî Gazete: 1977-03-24 / 15888
+> UYAP Mevzuat kimliği: 104967
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 5 Cilt : 16 Sayfa : 2423
+İSTANBUL,
+KAYSERİ, BURSA KAPALI ÇARŞILARININ
 
-(Değişik: 24/3/1981 - 2438/1 md.)
-İstanbul, Kayseri ve Bursa'da bulunan tarihi kapalı çarşıların mimari ve inşai karakteri
-gözönünde tutulmak suretiyle onarım ve imarını Bayındırlık Bakanlığı yapar veya yaptırır.
-Bu işlere ilişkin proje ve fenni şartname esasları hakkında Gayrimenkul Eski Eserler
-ve Anıtlar Yüksek Kurulunun görüşü alınır.
+ONARIMI VE İMARI HAKKINDA KANUN
 
-# MADDE 2
+Kanun
+Numarası : 2082
 
-(Değişik: 24/3/1981 - 2438/1 md.)
-İstanbul, Kayseri ve Bursa tarihi kapalı çarşılarının onarımı için Bayındırlık Bakanlığı,
-hazırlanacak keşfe ve Devlet Planlama Teşkilatının öngördüğü ödenek dilimlerine göre
-gelecek yıllara sari ihaleler yapmaya yetkilidir.
-Devlet Planlama Teşkilatınca bu işler için öngörülen ödenek dilimleri Bayındırlık
+Kabul
+Tarihi : 15/3/1977
+
+Yayımlandığı
+Resmî Gazete : Tarih : 24/3/1977 Sayı : 15888
+
+Yayımlandığı
+Düstur : Tertip : 5 Cilt : 16 Sayfa :
+2423
+
+Madde
+1 – (Değişik: 24/3/1981 - 2438/1 md.)
+
+İstanbul,
+Kayseri ve Bursa'da bulunan tarihi kapalı çarşıların mimari ve inşai karakteri
+gözönünde tutulmak suretiyle onarım ve imarını Bayındırlık Bakanlığı yapar veya
+yaptırır.
+
+Bu
+işlere ilişkin proje ve fenni şartname esasları hakkında Gayrimenkul Eski
+Eserler ve Anıtlar Yüksek Kurulunun görüşü alınır.
+
+Madde
+2 – (Değişik: 24/3/1981 - 2438/1 md.)
+
+İstanbul,
+Kayseri ve Bursa tarihi kapalı çarşılarının onarımı için Bayındırlık Bakanlığı,
+hazırlanacak keşfe ve Devlet Planlama Teşkilatının öngördüğü ödenek dilimlerine
+göre gelecek yıllara sari ihaleler yapmaya yetkilidir.
+
+Devlet
+Planlama Teşkilatınca bu işler için öngörülen ödenek dilimleri Bayındırlık
 Bakanlığı bütçesinde yer alır ve harcamalar bu ödenekten karşılanır.
 
-# MADDE 3
-
-Asli şekilleri korunmak suretiyle onarılan ve imar edilen dükkanlar için
-yapılan giderlerden her taşınmaz mala yüzölçümü ile orantılı olarak düşecek miktarlar
+Madde
+3 –
+Asli
+şekilleri korunmak suretiyle onarılan ve imar edilen dükkanlar için yapılan
+giderlerden her taşınmaz mala yüzölçümü ile orantılı olarak düşecek miktarlar
 Bayındırlık Bakanlığınca belirlenir.
 
-# MADDE 4
+Madde
+4 –
+Onarılan
+ve imar olunan taşınmaz mallara harcanan paralar kanuni faizleri ile birlikte,
+bu taşınmaz mal sahiplerinden geçici ve kesin kabuller arasında Bayındırlık
+Bakanlığınca tayin edilecek tarihten itibaren Maliye Bakanlığınca tespit
+edilecek sürede ve gerektiğinde taksitlere bağlanmak suretiyle "Amme
+Alacaklarının Tahsil Usulü Hakkındaki Kanun" hükümlerine göre adı geçen
+Bakanlıkça tahsil olunur.
 
-Onarılan ve imar olunan taşınmaz mallara harcanan paralar kanuni faizleri
-ile birlikte, bu taşınmaz mal sahiplerinden geçici ve kesin kabuller arasında Bayındırlık
-Bakanlığınca tayin edilecek tarihten itibaren Maliye Bakanlığınca tespit edilecek sürede ve
-gerektiğinde taksitlere bağlanmak suretiyle "Amme Alacaklarının Tahsil Usulü Hakkındaki
-Kanun" hükümlerine göre adı geçen Bakanlıkça tahsil olunur.
-Taksitlere bağlanması öngörülen hallerde bu süre iki yılı aşamaz.
+Taksitlere
+bağlanması öngörülen hallerde bu süre iki yılı aşamaz.
 
-# MADDE 5
-
-Bu Kanun hükümlerine göre yapılacak onarım dolayısiyle borçlanmak
-istemeyenler ilanen tebligat üzerine bir ay içinde bu isteklerini yazılı olarak Bayındırlık
+Madde
+5 –
+Bu
+Kanun hükümlerine göre yapılacak onarım dolayısiyle borçlanmak istemeyenler ilanen
+tebligat üzerine bir ay içinde bu isteklerini yazılı olarak Bayındırlık
 Bakanlığına bildirmeye mecburdurlar.
-Bu şekilde müracaatta bulunanların yerlerini kamulaştırmaya Bayındırlık Bakanlığı
+
+Bu
+şekilde müracaatta bulunanların yerlerini kamulaştırmaya Bayındırlık Bakanlığı
 yetkilidir.
 
-# MADDE 6
+Madde
+6 –
+Onarılan
+ve imar olunan taşınmaz mallarda, onarım ve imardan önce kiracı bulunan
+kişilerin kira sözleşmeleri, yürürlükteki yasa hükümleri çerçevesinde
+saptanacak kira bedelinin ödenmesi şartiyle devam eder.
 
-Onarılan ve imar olunan taşınmaz mallarda, onarım ve imardan önce kiracı
-bulunan kişilerin kira sözleşmeleri, yürürlükteki yasa hükümleri çerçevesinde saptanacak kira
-bedelinin ödenmesi şartiyle devam eder.
+Madde
+7 –
 
-# MADDE 7
+Taşınmaz malların malik veya kiracıları, tasdikli iş programı uyarınca Bayındırlık
+Bakanlığı tarafından üç ay evvelden kendilerine tebligat yapılması şartiyle
+onarım için gerekli görülen tarihte taşınmaz malı geçici olarak boşaltmak veya
+onarım çalışmalarına izin vermek zorundadırlar.
 
-Taşınmaz malların malik veya kiracıları, tasdikli iş programı uyarınca
-Bayındırlık Bakanlığı tarafından üç ay evvelden kendilerine tebligat yapılması şartiyle onarım
-için gerekli görülen tarihte taşınmaz malı geçici olarak boşaltmak veya onarım çalışmalarına
-izin vermek zorundadırlar.
-Malik veya kiracısı tarafından Bayındırlık Bakanlığınca belirtilen tarihte boşaltılmayan
-taşınmaz mallar hüküm istihsaline hacet kalmaksızın adı geçen bakanlığın icra dairesinden talebi
-üzerine usulü dairesinde geçici olarak boşaltılır.
-İtiraz ve şikayet boşaltmayı durdurmayacağı gibi yargı organlarına ihtiyati tedbir için
-müracaat edilemez.
-İcra dairelerince yapılan muameleler resim ve harca tabi değildir.
-Taşınmaz malların malikleri veya kiracıları onarım sırasında boşaltma veya işlerinin
-aksaması nedenleri ile hiçbir tazminat ve kardan mahrumiyet isteğinde bulunamazlar.
+Malik veya kiracısı tarafından Bayındırlık Bakanlığınca
+belirtilen tarihte boşaltılmayan taşınmaz mallar hüküm istihsaline hacet
+kalmaksızın adı geçen bakanlığın icra dairesinden talebi üzerine usulü
+dairesinde geçici olarak boşaltılır.
 
-# MADDE 8
+İtiraz
+ve şikayet boşaltmayı durdurmayacağı gibi yargı organlarına ihtiyati tedbir
+için müracaat edilemez.
 
-Bu Kanun yayımı tarihinde yürürlüğe girer.
+İcra
+dairelerince yapılan muameleler resim ve harca tabi değildir.
 
-# MADDE 9
+Taşınmaz
+malların malikleri veya kiracıları onarım sırasında boşaltma veya işlerinin
+aksaması nedenleri ile hiçbir tazminat ve kardan mahrumiyet isteğinde
+bulunamazlar.
 
-Bu Kanunu Bakanlar Kurulu yürütür.
+Madde
+8 –
+Bu
+Kanun yayımı tarihinde yürürlüğe girer.
+
+Madde
+9 –
+Bu
+Kanunu Bakanlar Kurulu yürütür.
+
+2082
+SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
+
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+
+Kanun
+
+No.
+
+Farklı
+Tarihte Yürürlüğe Giren Maddeler
+
+Yürürlüğe
+
+Giriş
+Tarihi
+
+2438
+
+1,
+2
+
+26/3/1981

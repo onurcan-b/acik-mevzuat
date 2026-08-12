@@ -2,17 +2,17 @@
   "law_number": "7478",
   "title": "KÖY İÇME SULARI HAKKINDA KANUN",
   "slug": "7478-koy-icme-sulari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-05-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-05-16",
+    "number": "10506"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7478.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105080",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7478",
+  "source_mevzuat_id": "105080",
   "source_type": "KANUN",
-  "content_sha256": "35fddaeddf86526a74892fb967ad007d7dbaa0373f0622cfa897f346e3ea1fc3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1af60fa27d460439e10137fd4ca9c59d9c9c852c941ec4c6f9fbffeb05f1eea3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

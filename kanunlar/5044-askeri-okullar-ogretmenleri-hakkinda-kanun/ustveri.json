@@ -2,17 +2,17 @@
   "law_number": "5044",
   "title": "ASKERİ OKULLAR ÖĞRETMENLERİ HAKKINDA KANUN",
   "slug": "5044-askeri-okullar-ogretmenleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1947-05-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1947-05-14",
+    "number": "6606"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5044.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105197",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5044",
+  "source_mevzuat_id": "105197",
   "source_type": "KANUN",
-  "content_sha256": "65a5c584cca6ebe4af48b7f9f450a52ee5a3cb0266ae9a12830d8a4aa63f363b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f5ecd4f452b569736840d9c75259523a909508e4adfb13583ea87f800c9fa08f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

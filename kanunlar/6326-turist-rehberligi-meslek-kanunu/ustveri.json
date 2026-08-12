@@ -2,17 +2,17 @@
   "law_number": "6326",
   "title": "TURİST REHBERLİĞİ MESLEK KANUNU",
   "slug": "6326-turist-rehberligi-meslek-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-22",
+    "number": "28331"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6326.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104316",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6326",
+  "source_mevzuat_id": "104316",
   "source_type": "KANUN",
-  "content_sha256": "e053f2fbaf07c1b7f83c682911a73ae379e1d8a586bb4b90cb51ad3930c1105c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2f5e0ae349f5656521686ba8bf6bbf87ffdfebf18ffc736e185d2fff4e2f0de6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

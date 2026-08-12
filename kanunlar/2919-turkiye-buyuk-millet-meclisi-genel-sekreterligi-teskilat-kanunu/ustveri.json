@@ -1,0 +1,18 @@
+{
+  "law_number": "2919",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ GENEL SEKRETERLİĞİ TEŞKİLAT KANUNU",
+  "slug": "2919-turkiye-buyuk-millet-meclisi-genel-sekreterligi-teskilat-kanunu",
+  "accepted_date": "1983-10-13",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-10-18",
+    "number": "18195"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335519",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335519",
+  "source_type": "MULGA",
+  "content_sha256": "481e01ce926b720083adf83f61684a3b0b2544ea344eb39df50ae7274322c3a6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

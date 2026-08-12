@@ -2,17 +2,17 @@
   "law_number": "5671",
   "title": "MERKEZİ FİNANS VE İHALE BİRİMİNİN İSTİHDAM VE BÜTÇE ESASLARI HAKKINDA KANUN",
   "slug": "5671-merkezi-finans-ve-ihale-biriminin-istihdam-ve-butce-esaslari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-05-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-06-07",
+    "number": "26545"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5671.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104001",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5671",
+  "source_mevzuat_id": "104001",
   "source_type": "KANUN",
-  "content_sha256": "a5495bc4e0bdac8b0b73a55455c07152660db405c43e01dde596367f8faabe61",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "af3ea93ae83f056b06481597d364532940e7ff5dfbc6fcad18825f7d1cbe5cae",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

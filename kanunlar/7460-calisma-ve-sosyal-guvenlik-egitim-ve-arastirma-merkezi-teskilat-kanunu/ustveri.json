@@ -1,0 +1,18 @@
+{
+  "law_number": "7460",
+  "title": "ÇALIŞMA  VE SOSYAL GÜVENLİK  EĞİTİM VE ARAŞTIRMA MERKEZİ TEŞKİLAT KANUNU",
+  "slug": "7460-calisma-ve-sosyal-guvenlik-egitim-ve-arastirma-merkezi-teskilat-kanunu",
+  "accepted_date": "1960-02-27",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1960-02-29",
+    "number": "10444"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335466",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335466",
+  "source_type": "MULGA",
+  "content_sha256": "bed69f5e3a66993191595df03a61c357ccc43091043955e37adc324551373a4f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

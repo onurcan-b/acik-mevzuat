@@ -2,17 +2,17 @@
   "law_number": "7420",
   "title": "GELİR VERGİSİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7420-gelir-vergisi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2022-11-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2022-11-09",
+    "number": "32008"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7420.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103175",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7420",
+  "source_mevzuat_id": "103175",
   "source_type": "KANUN",
-  "content_sha256": "820195bd824cdcf6a1106789910d27a25f982409a701b535c565075f3404f45c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1fe9b1cc1687a27ae4fe76dd60da1f51bca37f9cfba3dbcee35b886d008f2193",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

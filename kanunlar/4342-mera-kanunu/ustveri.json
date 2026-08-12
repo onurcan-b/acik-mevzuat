@@ -2,17 +2,17 @@
   "law_number": "4342",
   "title": "MERA KANUNU",
   "slug": "4342-mera-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1998-02-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1998-02-28",
+    "number": "23272"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4342.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103400",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4342",
+  "source_mevzuat_id": "103400",
   "source_type": "KANUN",
-  "content_sha256": "a1e55596bdac142bfd43827049b173ec7b8611078337c5b46047c4c377fcc11d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "89f875d134cd1e354b2d8bb9f99a6cd339c0f2ace4b3aecf239308680e1f7d69",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

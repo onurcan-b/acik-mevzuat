@@ -1,0 +1,18 @@
+{
+  "law_number": "1587",
+  "title": "NÜFUS KANUNU",
+  "slug": "1587-nufus-kanunu",
+  "accepted_date": "1972-05-05",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1972-05-16",
+    "number": "14189"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335543",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335543",
+  "source_type": "MULGA",
+  "content_sha256": "ee5a3917c7bba0b8b0f5e18f8d5a2721b181de6204741ef57fcd0fe1358eda01",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

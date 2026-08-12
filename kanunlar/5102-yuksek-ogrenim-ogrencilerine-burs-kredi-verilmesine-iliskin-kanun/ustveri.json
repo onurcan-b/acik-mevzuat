@@ -2,17 +2,17 @@
   "law_number": "5102",
   "title": "YÜKSEK ÖĞRENİM ÖĞRENCİLERİNE BURS KREDİ VERİLMESİNE İLİŞKİN KANUN",
   "slug": "5102-yuksek-ogrenim-ogrencilerine-burs-kredi-verilmesine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-03-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-03-06",
+    "number": "25394"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5102.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103750",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5102",
+  "source_mevzuat_id": "103750",
   "source_type": "KANUN",
-  "content_sha256": "5fa62f3d4f6382a648c7ce67a0dfcd2878b612d509b2ffa47ef7c2837ac66fec",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2ec1e7d920d402911df544403c33e46298caa826513649be0bfd3af72e4f23eb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

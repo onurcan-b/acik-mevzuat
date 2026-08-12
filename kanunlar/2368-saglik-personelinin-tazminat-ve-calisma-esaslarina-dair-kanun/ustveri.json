@@ -1,0 +1,18 @@
+{
+  "law_number": "2368",
+  "title": "SAĞLIK PERSONELİNİN TAZMİNAT VE ÇALIŞMA ESASLARINA DAİR KANUN",
+  "slug": "2368-saglik-personelinin-tazminat-ve-calisma-esaslarina-dair-kanun",
+  "accepted_date": "1980-12-31",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1980-12-31",
+    "number": "17207"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335305",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335305",
+  "source_type": "MULGA",
+  "content_sha256": "745cc6fc09e436179878841a695e15ff6f51b2d482fe416e94345ea5004d3885",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

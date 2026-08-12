@@ -1,0 +1,18 @@
+{
+  "law_number": "5237",
+  "title": "TÜRK CEZA KANUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "5237-turk-ceza-kanunun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "2004-09-26",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "25611"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335489",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335489",
+  "source_type": "MULGA",
+  "content_sha256": "9e413568ac12b03155f0b411c3a0336b5cbb7f54cf0b72fe486af64bd076dcea",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

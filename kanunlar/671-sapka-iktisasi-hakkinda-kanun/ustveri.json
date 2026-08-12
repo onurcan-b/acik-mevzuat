@@ -2,17 +2,17 @@
   "law_number": "671",
   "title": "ŞAPKA İKTİSASI HAKKINDA KANUN",
   "slug": "671-sapka-iktisasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1925-11-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1925-11-28",
+    "number": "230"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.671.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105415",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.671",
+  "source_mevzuat_id": "105415",
   "source_type": "KANUN",
-  "content_sha256": "e14cb7a404ed43748f393cc776eeb2313ada138292deca412af89e532ba2838a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2e5a6496f6b30653e4d170c0667c0092fa65365dd47fc57cbf162b7a51e5b696",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

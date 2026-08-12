@@ -1,58 +1,103 @@
 # YABANCILARA İKİNCİ EL TAŞIT SATIŞI HAKKINDA KANUN (No. 5086)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5086.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103752
+> Resmî Gazete: 2004-02-14 / 25373
+> UYAP Mevzuat kimliği: 103752
 
 ---
 
-# MADDE 1 — Amaç
+YABANCILARA İKİNCİ EL TAŞIT SATIŞI
 
-Bu Kanunun amacı; ülke ekonomisine canlılık kazandırmak, istihdama
-katkı sağlamak ve ülke ekonomisinin rekabet gücünü artırmak için yabancılara ikinci el taşıt
-satışı ve devri ile ihracatına ilişkin esasları düzenlemektir.
+HAKKINDA
+KANUN
 
-# MADDE 2 — Kapsam
+Kanun
+Numarası : 5086
 
-Bu Kanun; tescilli olan taşıtların, yabancı gerçek ve tüzel kişilere ikinci el
-olarak satışı ve devri ile ihracatına ilişkin esas ve usulleri kapsar.
+Kabul
+Tarihi : 10/2/2004
 
-# MADDE 3 — Taşıtların ikinci el satışı ve devri
+Yayımlandığı
+Resmî Gazete : Tarih :14/2/2004 Sayı : 25373
 
-Tescil edilmiş aracın motorlu taşıtlar vergisi borcu bulunmadığına dair
-belgenin ibrazı üzerine araç sahibinin adına düzenlenmiş tescil belgesi esas alınarak yabancı
-gerçek ve tüzel kişilere yapılan satış ve devirler noterlerce yapılır. Bu satışlar harç ve damga
-vergisinden istisnadır. Noterlerce yapılacak satış ve devirler aynı gün aracın kayıtlı olduğu
+Yayımlandığı Düstur : Tertip : 5 Cilt :
+43
+
+Amaç
+
+Madde 1-
+
+Bu Kanunun amacı; ülke
+ekonomisine canlılık kazandırmak, istihdama katkı sağlamak ve ülke ekonomisinin
+rekabet gücünü artırmak için yabancılara ikinci el taşıt satışı ve devri ile ihracatına
+ilişkin esasları düzenlemektir.
+
+Kapsam
+
+Madde 2-
+
+Bu Kanun; tescilli
+olan taşıtların, yabancı gerçek ve tüzel kişilere ikinci el olarak satışı ve devri
+ile ihracatına ilişkin esas ve usulleri kapsar.
+
+Taşıtların
+ikinci el satışı ve devri
+
+Madde 3-
+
+Tescil edilmiş aracın
+motorlu taşıtlar vergisi borcu bulunmadığına dair belgenin ibrazı üzerine araç sahibinin
+adına düzenlenmiş tescil belgesi esas alınarak yabancı gerçek ve tüzel kişilere
+yapılan satış ve devirler noterlerce yapılır. Bu satışlar harç ve damga vergisinden
+istisnadır. Noterlerce yapılacak satış ve devirler aynı gün aracın kayıtlı olduğu
 trafik tescil müdürlüğüne bildirilir.
-Yabancı gerçek veya tüzel kişilere satış ve devri yapılan Türkiye'de kullanılacak
-taşıtların tescilinde, 13.10.1983 tarihli ve 2918 sayılı Kanunun 91 inci maddesi uyarınca,
-zorunlu malî sorumluluk sigortası yaptırılmış olması şartı aranır. Zorunlu malî sorumluluk
-sigortası poliçesi ibraz edilen taşıtın, tescili yapılarak trafik belgeleri ve tescil plâkası verilir.
-Taşıtın tescil kaydının yapıldığı, tescil tarihini takip eden yedi iş günü içerisinde, taşıtın
-motorlu taşıtlar vergisi yönünden bağlı bulunduğu vergi dairesine bildirilir. Bu şekilde tescili
-yapılan taşıtların yurt içinde satışı ve devri halinde bu Kanun hükümleri uygulanmaz. Yurt
-dışına çıkarılmasında bu Kanunun 4 üncü maddesi hükümleri uygulanır.
 
-# MADDE 4 — İkinci el taşıt ihracı
+Yabancı gerçek
+veya tüzel kişilere satış ve devri yapılan Türkiye'de kullanılacak taşıtların tescilinde,
+13.10.1983 tarihli ve 2918 sayılı Kanunun 91 inci maddesi uyarınca, zorunlu malî
+sorumluluk sigortası yaptırılmış olması şartı aranır. Zorunlu malî sorumluluk sigortası
+poliçesi ibraz edilen taşıtın, tescili yapılarak trafik belgeleri ve tescil plâkası
+verilir. Taşıtın tescil kaydının yapıldığı, tescil tarihini takip eden yedi iş günü
+içerisinde, taşıtın motorlu taşıtlar vergisi yönünden bağlı bulunduğu vergi dairesine
+bildirilir. Bu şekilde tescili yapılan taşıtların yurt içinde satışı ve devri halinde
+bu Kanun hükümleri uygulanmaz. Yurt dışına çıkarılmasında bu Kanunun 4 üncü maddesi
+hükümleri uygulanır.
 
-Yabancılara devir ve satışı yapılan taşıtın malikinin talebi üzerine, taşıtın
-tescil kaydı silinir ve yurt dışına çıkışı için geçici trafik belgesi ve plâkası verilir. Taşıtın tescil
-kaydının silindiği, silinme işlemini takip eden yedi iş günü içerisinde, taşıtın motorlu taşıtlar
-vergisi yönünden bağlı bulunduğu vergi dairesine bildirilir.
-Yabancı gerçek ve tüzel kişilerin, ikinci el olarak satın aldıkları taşıtların ilgili trafik
-tescil müdürlüğünce düzenlenen kaydının kapatıldığına ait belgenin gümrük idaresine ibrazı
+İkinci el
+taşıt ihracı
+
+Madde 4-
+
+Yabancılara devir ve
+satışı yapılan taşıtın malikinin talebi üzerine, taşıtın tescil kaydı silinir ve
+yurt dışına çıkışı için geçici trafik belgesi ve plâkası verilir. Taşıtın tescil
+kaydının silindiği, silinme işlemini takip eden yedi iş günü içerisinde, taşıtın
+motorlu taşıtlar vergisi yönünden bağlı bulunduğu vergi dairesine bildirilir.
+
+Yabancı gerçek
+ve tüzel kişilerin, ikinci el olarak satın aldıkları taşıtların ilgili trafik tescil
+müdürlüğünce düzenlenen kaydının kapatıldığına ait belgenin gümrük idaresine ibrazı
 üzerine, taşıtın yurt dışına çıkarılmasına izin verilir.
 
-# MADDE 5 — Yetki
+Yetki
 
-Bu Kanunun uygulanmasına ilişkin esas ve usuller; İçişleri Bakanlığı,
-Gümrük Müsteşarlığı ve Dış Ticaret Müsteşarlığının görüşleri alınarak Sanayi ve Ticaret
-Bakanlığınca yayımlanacak tebliğle düzenlenir.
+Madde 5-
 
-# MADDE 6 — Yürürlük
+Bu Kanunun uygulanmasına
+ilişkin esas ve usuller; İçişleri Bakanlığı, Gümrük Müsteşarlığı ve Dış Ticaret
+Müsteşarlığının görüşleri alınarak Sanayi ve Ticaret Bakanlığınca yayımlanacak tebliğle
+düzenlenir.
 
-Bu Kanun yayımı tarihinde yürürlüğe girer.
+Yürürlük
 
-# MADDE 7 — Yürütme
+Madde 6-
 
-Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Bu Kanun yayımı tarihinde
+yürürlüğe girer.
+
+Yürütme
+
+Madde 7-
+
+Bu Kanun hükümlerini
+Bakanlar Kurulu yürütür.

@@ -1,0 +1,18 @@
+{
+  "law_number": "2559",
+  "title": "POLİS VAZİFE VE SALAHİYET KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2559-polis-vazife-ve-salahiyet-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1934-07-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "2751"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335530",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335530",
+  "source_type": "MULGA",
+  "content_sha256": "af48b1579324192b03d5eadca5381aa5992dc5218e3d11e619d52c0b0cec0a60",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

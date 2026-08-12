@@ -1,0 +1,18 @@
+{
+  "law_number": "4077",
+  "title": "TÜKETİCİNİN KORUNMASI HAKKINDA KANUN",
+  "slug": "4077-tuketicinin-korunmasi-hakkinda-kanun",
+  "accepted_date": "1995-02-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1995-03-08",
+    "number": "22221"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335269",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335269",
+  "source_type": "MULGA",
+  "content_sha256": "1fc7229553fc52079d450b10bdc8c91e89fd8229fb2c2e80c5c180f26b2ef0d7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

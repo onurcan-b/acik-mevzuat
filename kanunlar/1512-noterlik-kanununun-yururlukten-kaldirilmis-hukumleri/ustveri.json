@@ -1,0 +1,18 @@
+{
+  "law_number": "1512",
+  "title": "NOTERLİK KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1512-noterlik-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1972-01-18",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "14090"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335316",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335316",
+  "source_type": "MULGA",
+  "content_sha256": "1e88cb67080bca39c5a46d8026ec5a4f00df4634e8fce2578139bb5afe062993",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

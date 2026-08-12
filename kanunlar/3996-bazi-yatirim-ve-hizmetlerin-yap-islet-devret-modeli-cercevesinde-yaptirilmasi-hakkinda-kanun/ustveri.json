@@ -2,17 +2,17 @@
   "law_number": "3996",
   "title": "BAZI YATIRIM VE HİZMETLERİN YAP-İŞLET-DEVRET MODELİ ÇERÇEVESİNDE YAPTIRILMASI HAKKINDA KANUN",
   "slug": "3996-bazi-yatirim-ve-hizmetlerin-yap-islet-devret-modeli-cercevesinde-yaptirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-06-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1994-06-13",
+    "number": "21959"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3996.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103237",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3996",
+  "source_mevzuat_id": "103237",
   "source_type": "KANUN",
-  "content_sha256": "7e11935b7ea024654b3f426c597d61a747f45c71bf48090b30ef18c17409f95e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c9c82720b6821de693f5cbd0faa82221c49698b5fe95830377858e80b04db171",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

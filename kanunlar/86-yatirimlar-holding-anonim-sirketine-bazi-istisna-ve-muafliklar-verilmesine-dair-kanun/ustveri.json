@@ -2,17 +2,17 @@
   "law_number": "86",
   "title": "YATIRIMLAR (HOLDİNG) ANONİM ŞİRKETİNE BAZI İSTİSNA VE MUAFLIKLAR VERİLMESİNE DAİR KANUN",
   "slug": "86-yatirimlar-holding-anonim-sirketine-bazi-istisna-ve-muafliklar-verilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-09-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-09-22",
+    "number": "10610"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.86.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105071",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.86",
+  "source_mevzuat_id": "105071",
   "source_type": "KANUN",
-  "content_sha256": "ede3180afabceabfe56b4dc05ba032601f5ac3fa5d4660795241538d4432c0a7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "890b7de86362d6f7c3149d55ac1832402adfbe2216125d517c73592907543169",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

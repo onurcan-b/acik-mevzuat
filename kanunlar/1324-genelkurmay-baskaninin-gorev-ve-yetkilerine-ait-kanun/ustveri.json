@@ -1,0 +1,18 @@
+{
+  "law_number": "1324",
+  "title": "GENELKURMAY BAŞKANININ GÖREV VE YETKİLERİNE AİT KANUN",
+  "slug": "1324-genelkurmay-baskaninin-gorev-ve-yetkilerine-ait-kanun",
+  "accepted_date": "1970-07-31",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13572"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335323",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335323",
+  "source_type": "MULGA",
+  "content_sha256": "dbaa2d26e69c8907fd3fb04486eb1950f63c3c8201a7d24b2f01511aacbe1aae",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

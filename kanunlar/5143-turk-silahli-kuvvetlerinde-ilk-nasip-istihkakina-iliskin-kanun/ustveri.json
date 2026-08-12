@@ -2,17 +2,17 @@
   "law_number": "5143",
   "title": "TÜRK SİLAHLI KUVVETLERİNDE İLK NASIP İSTİHKAKINA İLİŞKİN KANUN",
   "slug": "5143-turk-silahli-kuvvetlerinde-ilk-nasip-istihkakina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-04-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-04-28",
+    "number": "25446"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5143.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103760",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5143",
+  "source_mevzuat_id": "103760",
   "source_type": "KANUN",
-  "content_sha256": "9283bd17f987594a32903a74e3d3332ec926ab722fadcbf45674a6921eb977f2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "14cfc60baf1ee3925e724f16fd3f10e715b804072880e6e9da36c04f93c8330f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

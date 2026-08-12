@@ -1,0 +1,18 @@
+{
+  "law_number": "1738",
+  "title": "SEYİR VE HİDROGRAFİ HİZMETLERİ KANUNU",
+  "slug": "1738-seyir-ve-hidrografi-hizmetleri-kanunu",
+  "accepted_date": "1973-05-30",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1973-06-07",
+    "number": "14557"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335537",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335537",
+  "source_type": "MULGA",
+  "content_sha256": "b9f1e2a67f85b69a272e44b05995dd4ee8e54e12d5d2977924d74dbcf9ea9448",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

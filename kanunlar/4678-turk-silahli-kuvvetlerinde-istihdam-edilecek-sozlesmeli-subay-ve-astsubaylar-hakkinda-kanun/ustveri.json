@@ -2,17 +2,17 @@
   "law_number": "4678",
   "title": "TÜRK SİLAHLI KUVVETLERİNDE İSTİHDAM EDİLECEK SÖZLEŞMELİ SUBAY VE ASTSUBAYLAR HAKKINDA KANUN",
   "slug": "4678-turk-silahli-kuvvetlerinde-istihdam-edilecek-sozlesmeli-subay-ve-astsubaylar-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-06-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-06-21",
+    "number": "24439"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4678.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103539",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4678",
+  "source_mevzuat_id": "103539",
   "source_type": "KANUN",
-  "content_sha256": "dfbac4136ff8c0c5aa47c34ec0954ff6af481662827920aaf854398d6f9d0b89",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cbf0e7bdbefc8bc356be86880566a9ad516f96d5387750c63bac367595d6dffb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

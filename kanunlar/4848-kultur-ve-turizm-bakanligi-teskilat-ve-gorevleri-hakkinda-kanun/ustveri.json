@@ -1,0 +1,18 @@
+{
+  "law_number": "4848",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "4848-kultur-ve-turizm-bakanligi-teskilat-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": "2003-04-16",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2003-04-29",
+    "number": "25093"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335261",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335261",
+  "source_type": "MULGA",
+  "content_sha256": "99338ad3d4040cbea08366f60535d142780d6e05568054d621c3e456b455ffb3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

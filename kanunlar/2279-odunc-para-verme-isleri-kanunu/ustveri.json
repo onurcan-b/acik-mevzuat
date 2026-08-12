@@ -2,17 +2,17 @@
   "law_number": "2279",
   "title": "ÖDÜNÇ PARA VERME İŞLERİ KANUNU",
   "slug": "2279-odunc-para-verme-isleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1933-06-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1933-06-18",
+    "number": "2430"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2279.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105338",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2279",
+  "source_mevzuat_id": "105338",
   "source_type": "KANUN",
-  "content_sha256": "41cdfb88933853a26a2eba0d73e331864c4f0045a3df68383e56a662a00f3488",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e1ee0a075ca6910295d4efaf64295ad401eda66c2873fd0626c3a6e7322efcc9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

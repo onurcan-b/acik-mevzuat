@@ -5,18 +5,14 @@
   "accepted_date": "2003-05-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2003-06-10",
+    "date": null,
     "number": "25134"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103054",
   "language": "tr",
-  "tags": [
-    "is_hukuku",
-    "isci",
-    "isveren"
-  ],
-  "source_mevzuat_id": "1.5.4857",
+  "tags": [],
+  "source_mevzuat_id": "103054",
   "source_type": "KANUN",
-  "content_sha256": "0b31f91ec87a8ce204b72c42940b7a2b698f2f4d15bf5d7b6060bd9fc58aa6e4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "69ce8ab6c106d826133a8ab631f091a21eeb02d3e359ba7002c5e4b43185665b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

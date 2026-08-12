@@ -2,17 +2,17 @@
   "law_number": "3634",
   "title": "MİLLİ MÜDAFAA MÜKELLEFİYETİ KANUNU",
   "slug": "3634-milli-mudafaa-mukellefiyeti-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1939-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1939-06-16",
+    "number": "4234"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3634.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105271",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3634",
+  "source_mevzuat_id": "105271",
   "source_type": "KANUN",
-  "content_sha256": "a11dcd85f85a6f08e5840eaf8d2a5bf4f2e9a4e295867293de13ea8c502f5227",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7e57be352d34af3c4e2786aecfc80bff9cb74712282b0a254091e42cf17d8bbf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

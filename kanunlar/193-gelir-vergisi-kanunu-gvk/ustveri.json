@@ -1,0 +1,18 @@
+{
+  "law_number": "193",
+  "title": "GELİR VERGİSİ KANUNU (GVK)",
+  "slug": "193-gelir-vergisi-kanunu-gvk",
+  "accepted_date": "1960-12-31",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": "10700"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103111",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103111",
+  "source_type": "KANUN",
+  "content_sha256": "743fa14fd28e5744709413706903365ce5f5f052e19ba22eb17853d134e0c37e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1136",
+  "title": "AVUKATLIK KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1136-avukatlik-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13168"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335329",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335329",
+  "source_type": "MULGA",
+  "content_sha256": "67fbcfc308f44c0757a7e92c37e5c64646ec39beb15c8613c9a70ad7241dc8be",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

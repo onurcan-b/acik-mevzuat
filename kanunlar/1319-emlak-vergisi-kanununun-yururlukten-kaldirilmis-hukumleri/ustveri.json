@@ -1,0 +1,18 @@
+{
+  "law_number": "1319",
+  "title": "EMLAK VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1319-emlak-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1970-07-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1970-08-11",
+    "number": "13576"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335326",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335326",
+  "source_type": "MULGA",
+  "content_sha256": "dbe26bd7d2640f7466aea626df31c937f92bcc10fd0cd9b4a0653e12e7a18342",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

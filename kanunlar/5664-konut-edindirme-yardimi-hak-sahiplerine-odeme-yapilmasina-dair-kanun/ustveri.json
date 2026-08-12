@@ -2,17 +2,17 @@
   "law_number": "5664",
   "title": "KONUT EDİNDİRME YARDIMI HAK SAHİPLERİNE ÖDEME YAPILMASINA DAİR KANUN",
   "slug": "5664-konut-edindirme-yardimi-hak-sahiplerine-odeme-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-05-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-05-30",
+    "number": "26537"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5664.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103998",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5664",
+  "source_mevzuat_id": "103998",
   "source_type": "KANUN",
-  "content_sha256": "ba699aec0c0db314d2adcb7b2a184b189c45abf3d3032f19313c3b2575089abe",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2b174e3455a44af2865da5866c78c853415d66be8985770af131699aef83f778",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5346",
   "title": "YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ ÜRETİMİ AMAÇLI KULLANIMINA İLİŞKİN KANUN",
   "slug": "5346-yenilenebilir-enerji-kaynaklarinin-elektrik-enerjisi-uretimi-amacli-kullanimina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-05-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25819"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5346.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103872",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5346",
+  "source_mevzuat_id": "103872",
   "source_type": "KANUN",
-  "content_sha256": "d49506f5b91474c7e24294dc42871bb0f5eca43403aa3dd78220c10ff9cd39a8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fc09d1c16c8c673caf8bd9a59d1288eed6f3276ef3c29897961c533dac2584a1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

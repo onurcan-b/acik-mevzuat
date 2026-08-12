@@ -2,17 +2,17 @@
   "law_number": "6413",
   "title": "TÜRK SİLAHLI KUVVETLERİ DİSİPLİN KANUNU",
   "slug": "6413-turk-silahli-kuvvetleri-disiplin-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2013-01-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2013-02-16",
+    "number": "28561"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6413.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102935",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6413",
+  "source_mevzuat_id": "102935",
   "source_type": "KANUN",
-  "content_sha256": "2777ba9843895bf9ffa5e4f9a255a48218182b6411eee2afb34159929cd779d0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dd2b3fcfcd7e39f18ebcc4fd14f8a6e74676eb7642e204ae7b4086331d120419",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4632",
   "title": "BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU",
   "slug": "4632-bireysel-emeklilik-tasarruf-ve-yatirim-sistemi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-03-28",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24366"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4632.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103323",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4632",
+  "source_mevzuat_id": "103323",
   "source_type": "KANUN",
-  "content_sha256": "49d3062b8bc8d97c9a9db5e2050587442fd5c9fdc54298e189e3191c7a1f8fc4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bec4abc39cb9a4e383821cb72ba19e333ccb4387a4d8ad7aaac7a747a68766ae",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

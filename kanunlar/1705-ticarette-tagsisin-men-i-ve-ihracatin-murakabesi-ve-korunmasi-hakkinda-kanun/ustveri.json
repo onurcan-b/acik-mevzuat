@@ -1,0 +1,18 @@
+{
+  "law_number": "1705",
+  "title": "TİCARETTE TAĞŞİŞİN MEN´İ VE İHRACATIN MURAKABESİ VE KORUNMASI HAKKINDA KANUN",
+  "slug": "1705-ticarette-tagsisin-men-i-ve-ihracatin-murakabesi-ve-korunmasi-hakkinda-kanun",
+  "accepted_date": "1930-06-10",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": "1524"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105361",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105361",
+  "source_type": "KANUN",
+  "content_sha256": "c2f9f1adad69be7c39acae9ced50d02a4c68e32d3bcd0bf1dbd9ae5bf517a1b3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

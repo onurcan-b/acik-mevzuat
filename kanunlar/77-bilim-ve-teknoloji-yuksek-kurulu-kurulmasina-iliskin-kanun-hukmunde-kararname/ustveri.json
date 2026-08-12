@@ -1,0 +1,18 @@
+{
+  "law_number": "77",
+  "title": "BİLİM VE TEKNOLOJİ YÜKSEK KURULU KURULMASINA İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+  "slug": "77-bilim-ve-teknoloji-yuksek-kurulu-kurulmasina-iliskin-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-10-04",
+    "number": "18181"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336479",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336479",
+  "source_type": "MULGA",
+  "content_sha256": "053493d8af4083b0a4a3649a2440de8b4753ff9c08fca6c989545e704418daf5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

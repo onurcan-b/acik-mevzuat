@@ -2,17 +2,17 @@
   "law_number": "3433",
   "title": "ASKERİ HASTABAKICI VE HEMŞİRELER HAKKINDA KANUN",
   "slug": "3433-askeri-hastabakici-ve-hemsireler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1938-06-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1938-06-25",
+    "number": "3943"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3433.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105290",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3433",
+  "source_mevzuat_id": "105290",
   "source_type": "KANUN",
-  "content_sha256": "6cb5ae826b2be4e652da766a1ea712bcb09446685075fdac090f2f785d1fb20c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9bba3933662a1e24e6a89822a79ed1e548f7e6ab38f6aad693b786dd1aeb1d00",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

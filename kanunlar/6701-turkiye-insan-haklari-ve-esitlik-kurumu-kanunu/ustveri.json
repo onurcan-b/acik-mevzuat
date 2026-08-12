@@ -2,17 +2,17 @@
   "law_number": "6701",
   "title": "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU KANUNU",
   "slug": "6701-turkiye-insan-haklari-ve-esitlik-kurumu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2016-04-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-04-20",
+    "number": "29690"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6701.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104397",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6701",
+  "source_mevzuat_id": "104397",
   "source_type": "KANUN",
-  "content_sha256": "0fc2319a9c0c0f4f419e686acb060918b9a6fb494462224f9d3d73a078519a33",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cb58a4ff0071b30d6bc324983c81de91743fd52bca606437eaa667a86155a769",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

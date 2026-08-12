@@ -1,0 +1,18 @@
+{
+  "law_number": "231",
+  "title": "BASIN YAYIN VE ENFORMASYON GENEL MÜDÜRLÜĞÜNÜN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "231-basin-yayin-ve-enformasyon-genel-mudurlugunun-teskilat-ve-gorevleri-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1984-06-18",
+    "number": "18435 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336485",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336485",
+  "source_type": "MULGA",
+  "content_sha256": "6b6912b82a9b79f872e3d0c7230575f389edab2083c712d4184174c2aebe2160",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

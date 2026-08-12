@@ -2,17 +2,17 @@
   "law_number": "4046",
   "title": "ÖZELLEŞTİRME UYGULAMALARI HAKKINDA KANUN",
   "slug": "4046-ozellestirme-uygulamalari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-11-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1994-11-27",
+    "number": "22124"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4046.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103053",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4046",
+  "source_mevzuat_id": "103053",
   "source_type": "KANUN",
-  "content_sha256": "f38c74071508d35111e10a96ba7f5834ad6f89a63a30c56f2098d02de08447b6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3e8e6b5c9087762d46628c7037cd93f5bcd3be5dcdccb5cf2d1136ef5a73b347",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7402",
   "title": "SITMANIN İMHASI HAKKINDA KANUN",
   "slug": "7402-sitmanin-imhasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-01-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-01-11",
+    "number": "10402"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7402.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105089",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7402",
+  "source_mevzuat_id": "105089",
   "source_type": "KANUN",
-  "content_sha256": "abb527ac9d9f4465b950a5a65388a8097f72e3a807d5d2cc6012e370fed900eb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "772ba89969e405ba494a47bb5f6886796626613dd9e603de4d78099e329fba8b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

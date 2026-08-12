@@ -5,14 +5,14 @@
   "accepted_date": null,
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1927-02-07",
+    "number": "559"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.968.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105398",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.968",
+  "source_mevzuat_id": "105398",
   "source_type": "KANUN",
-  "content_sha256": "3213c1dbfc01efb518cbf6312a7d34e60a0289843039c80b2bb2b1b7b814c6d7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e76b3daaf036d76d71fabf744b1f3cfbc12040868f939dd5cc83c7b6d94792e1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

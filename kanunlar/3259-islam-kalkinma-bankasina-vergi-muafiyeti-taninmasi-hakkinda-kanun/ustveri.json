@@ -2,17 +2,17 @@
   "law_number": "3259",
   "title": "İSLAM KALKINMA BANKASINA VERGİ MUAFİYETİ TANINMASI HAKKINDA KANUN",
   "slug": "3259-islam-kalkinma-bankasina-vergi-muafiyeti-taninmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1986-02-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1986-02-23",
+    "number": "19028"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3259.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104772",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3259",
+  "source_mevzuat_id": "104772",
   "source_type": "KANUN",
-  "content_sha256": "f43a93bea48cb9ac57526931c46b4c67cdb67a51a31023872c4d3e01ba1f19b3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "63cc33839a249be7566cdc6a26f13c60714df6a06ffaca0e849d9c72910ac3ef",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

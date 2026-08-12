@@ -2,17 +2,17 @@
   "law_number": "7034",
   "title": "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİNİN KURULUŞU HAKKINDA KANUN",
   "slug": "7034-turk-japon-bilim-ve-teknoloji-universitesinin-kurulusu-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2017-06-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2017-06-24",
+    "number": "30106 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7034.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102923",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7034",
+  "source_mevzuat_id": "102923",
   "source_type": "KANUN",
-  "content_sha256": "45abbac2cc885aa19b0ae40024c1090a4a8ca52788e2ccf0908614b6e276a2a4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c945982fd148d6ec6979b6f64a14f0efa4ede5799005af2dddbeb43904a88287",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

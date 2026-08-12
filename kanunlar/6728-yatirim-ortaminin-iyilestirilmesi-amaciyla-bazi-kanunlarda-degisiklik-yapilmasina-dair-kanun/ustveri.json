@@ -2,17 +2,17 @@
   "law_number": "6728",
   "title": "YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6728-yatirim-ortaminin-iyilestirilmesi-amaciyla-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-07-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-08-09",
+    "number": "29796"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6728.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104420",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6728",
+  "source_mevzuat_id": "104420",
   "source_type": "KANUN",
-  "content_sha256": "67f966d71fdc9a29099f9a69d85705f3c918024be441c787bbbe8f318ae95d06",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "56e0f23528b2f006d83742d06e12cf2791c4a24f7c9c7de10b3b2d817b64c82c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

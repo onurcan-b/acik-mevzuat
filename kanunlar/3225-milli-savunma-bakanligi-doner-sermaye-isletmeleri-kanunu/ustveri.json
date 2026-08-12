@@ -1,0 +1,18 @@
+{
+  "law_number": "3225",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ KANUNU",
+  "slug": "3225-milli-savunma-bakanligi-doner-sermaye-isletmeleri-kanunu",
+  "accepted_date": "1985-06-10",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1985-06-25",
+    "number": "18792"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103420",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103420",
+  "source_type": "KANUN",
+  "content_sha256": "292eef07b898585f4ef35e28f137f3b4c7f9378458d9ce81782bfc64b575006c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

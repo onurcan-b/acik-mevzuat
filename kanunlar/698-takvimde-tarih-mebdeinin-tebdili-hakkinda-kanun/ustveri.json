@@ -2,17 +2,17 @@
   "law_number": "698",
   "title": "TAKVİMDE TARİH MEBDEİNİN TEBDİLİ HAKKINDA KANUN",
   "slug": "698-takvimde-tarih-mebdeinin-tebdili-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1925-12-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1926-01-02",
+    "number": "260"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.698.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105410",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.698",
+  "source_mevzuat_id": "105410",
   "source_type": "KANUN",
-  "content_sha256": "2e59f500cf21c23705171aa15b960c0abb819649922e0297ff1ba53f39bee0ae",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "87c5885001fdeea158a145c0765874213f77becab9481e6968bf6ddabe2ed919",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

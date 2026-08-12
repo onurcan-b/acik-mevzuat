@@ -2,17 +2,17 @@
   "law_number": "3760",
   "title": "BARTIN İLİNİN KURULMASI HAKKINDA KANUN",
   "slug": "3760-bartin-ilinin-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1991-08-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1991-09-07",
+    "number": "20984"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3760.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104676",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3760",
+  "source_mevzuat_id": "104676",
   "source_type": "KANUN",
-  "content_sha256": "b9033df9eccc9a5754b54374e1da314aa1359953b99ccc55f6b29f7587e81be5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ecbd81278287af81ed163b7ba7bae56f8288da7c11d79ef5a4cc34423eaebe38",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

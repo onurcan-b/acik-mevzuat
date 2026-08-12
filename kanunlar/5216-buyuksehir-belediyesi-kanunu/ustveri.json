@@ -2,17 +2,17 @@
   "law_number": "5216",
   "title": "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
   "slug": "5216-buyuksehir-belediyesi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-07-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-23",
+    "number": "25531"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5216.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103156",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5216",
+  "source_mevzuat_id": "103156",
   "source_type": "KANUN",
-  "content_sha256": "d3d91dbde6e92ac4810bc239a3fd1a18509586fb47d7c8fff4b3ae7cb0ec40be",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6b23e981fa070fde7808cb636506bd73379acb9f2eff70dae27c9bc5670d873b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

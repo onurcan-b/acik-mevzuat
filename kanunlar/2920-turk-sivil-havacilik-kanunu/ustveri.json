@@ -2,17 +2,17 @@
   "law_number": "2920",
   "title": "TÜRK SİVİL HAVACILIK KANUNU",
   "slug": "2920-turk-sivil-havacilik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-10-14",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18196"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2920.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103020",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2920",
+  "source_mevzuat_id": "103020",
   "source_type": "KANUN",
-  "content_sha256": "21ab970142b4707b53c1350d4d4f4f310e0fec370e7b4b025c9597d8ed114b19",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dea2dda8027bc4d66305d025e9210127626a611ebe922b982c5ddf1924a951d8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "2992",
+  "title": "ADALET BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜ HAKKINDA KANUN",
+  "slug": "2992-adalet-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabulu-hakkinda-kanun",
+  "accepted_date": "1984-03-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1984-04-07",
+    "number": "18365"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335510",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335510",
+  "source_type": "MULGA",
+  "content_sha256": "058a964f7cc5d984bfc161f9049ed64eb1ee45bd51964607b5678e96594fbd42",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

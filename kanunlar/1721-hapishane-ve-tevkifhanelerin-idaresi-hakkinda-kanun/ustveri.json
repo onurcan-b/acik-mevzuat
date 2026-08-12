@@ -2,17 +2,17 @@
   "law_number": "1721",
   "title": "HAPİSHANE VE TEVKİFHANELERİN İDARESİ HAKKINDA KANUN",
   "slug": "1721-hapishane-ve-tevkifhanelerin-idaresi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1930-06-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1930-06-26",
+    "number": "1530"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1721.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105358",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1721",
+  "source_mevzuat_id": "105358",
   "source_type": "KANUN",
-  "content_sha256": "0920a95619886fb1eb38e1f12a379e7e0f9552e774340dbf8007ef0792d119e8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ec62ac54c4f6e03a1cc6f3e1e560cf39f19d01fd9d682614b3c33a5c1d74293e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

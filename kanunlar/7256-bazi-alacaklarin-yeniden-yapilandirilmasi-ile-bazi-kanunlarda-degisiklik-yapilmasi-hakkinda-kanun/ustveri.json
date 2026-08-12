@@ -2,17 +2,17 @@
   "law_number": "7256",
   "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "7256-bazi-alacaklarin-yeniden-yapilandirilmasi-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2020-11-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2020-11-17",
+    "number": "31307"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7256.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104121",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7256",
+  "source_mevzuat_id": "104121",
   "source_type": "KANUN",
-  "content_sha256": "59be090313945f897e297dc3e1933f5faf0452d368e047f4706d223ef2d060cb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "34db44a70a0f7a3a56295c80592cb024bba21f86f44ac2c2338c5476b9d0db25",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

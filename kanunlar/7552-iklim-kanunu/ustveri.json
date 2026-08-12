@@ -2,17 +2,17 @@
   "law_number": "7552",
   "title": "İKLİM KANUNU",
   "slug": "7552-iklim-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2025-07-02",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "32951"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7552.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/344872",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7552",
+  "source_mevzuat_id": "344872",
   "source_type": "KANUN",
-  "content_sha256": "4727187f61ba3711f814cb8c0f29d67adf1efbd619fc0bb6ce7eaf2ed00913f4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c8a54c01d8165fff8c474bc25b8fdd1cc339fa8dc6a1ac1de5cf41b5bb56104e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

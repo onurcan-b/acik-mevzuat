@@ -2,17 +2,17 @@
   "law_number": "6279",
   "title": "ÇOĞALTILMIŞ FİKİR VE SANAT ESERLERİNİ DERLEME KANUNU",
   "slug": "6279-cogaltilmis-fikir-ve-sanat-eserlerini-derleme-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-02-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-02-29",
+    "number": "28219"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6279.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104227",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6279",
+  "source_mevzuat_id": "104227",
   "source_type": "KANUN",
-  "content_sha256": "8c9523b645510274ef1b95249f1de150f09ecb81e2ae991eae08bb4a7fc84a48",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c3c17b8cd1caff58d0dbf6671df554e7ef992fcb147b63c20af035c5a9b11e98",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

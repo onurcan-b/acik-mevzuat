@@ -1,18 +1,18 @@
 {
   "law_number": "6191",
-  "title": "Sözleşmeli Erbaş ve Er Kanunu",
+  "title": "SÖZLEŞMELİ ERBAŞ VE ER KANUNU",
   "slug": "6191-sozlesmeli-erbas-ve-er-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2011-03-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "27882"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6191.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103348",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6191",
+  "source_mevzuat_id": "103348",
   "source_type": "KANUN",
-  "content_sha256": "14d0c785ef062b55b7d43b1ec3045868161b17449feb7cf6973a16ff5302b2b1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "96855e7bcb70c79405fc72b4c20b4d36a1241704c7e274e7484da13753b48c8f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "2247",
   "title": "UYUŞMAZLIK MAHKEMESİNİN KURULUŞ VE İŞLEYİŞİ HAKKINDA KANUN",
   "slug": "2247-uyusmazlik-mahkemesinin-kurulus-ve-isleyisi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1979-06-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1979-06-22",
+    "number": "16674"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2247.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104959",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2247",
+  "source_mevzuat_id": "104959",
   "source_type": "KANUN",
-  "content_sha256": "029ddd8c3c7fd75816b2e2bc89f25b018cb9510c88dcfe3286d2f7ea8b8616a4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3381c9e105fab61a9895b7131a83204a4b39ed500ce841d7a318a5376ec9a15d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

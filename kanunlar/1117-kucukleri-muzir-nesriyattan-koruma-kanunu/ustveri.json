@@ -2,17 +2,17 @@
   "law_number": "1117",
   "title": "KÜÇÜKLERİ MUZIR NEŞRİYATTAN KORUMA KANUNU",
   "slug": "1117-kucukleri-muzir-nesriyattan-koruma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1927-06-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1927-07-07",
+    "number": "627"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1117.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105382",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1117",
+  "source_mevzuat_id": "105382",
   "source_type": "KANUN",
-  "content_sha256": "1a34233399484b99da171fc08837df541d86545a0b518b9a3d5e6cf439d005c3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "47a82f8c875dcb13fedc4d6396f69ba7b31133cab2005c686957eca115494e49",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

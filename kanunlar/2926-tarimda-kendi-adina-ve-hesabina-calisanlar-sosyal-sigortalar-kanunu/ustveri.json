@@ -1,0 +1,18 @@
+{
+  "law_number": "2926",
+  "title": "TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNU",
+  "slug": "2926-tarimda-kendi-adina-ve-hesabina-calisanlar-sosyal-sigortalar-kanunu",
+  "accepted_date": "1983-10-17",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-10-20",
+    "number": "18197"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335518",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335518",
+  "source_type": "MULGA",
+  "content_sha256": "70f152dd7d7f928017a9fb0086bf188605b6d28edd327ca45865881fb7bab857",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

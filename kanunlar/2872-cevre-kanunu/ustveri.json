@@ -2,17 +2,17 @@
   "law_number": "2872",
   "title": "ÇEVRE KANUNU",
   "slug": "2872-cevre-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-08-09",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18132"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2872.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103047",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2872",
+  "source_mevzuat_id": "103047",
   "source_type": "KANUN",
-  "content_sha256": "135e431f1f0be2f98e98b3ace29aac31d37acdf3551a4feb43a94a4367bd4a32",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "12ee758534666889a22a38bebbd25632984a451c78105a717569c65ff116e427",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

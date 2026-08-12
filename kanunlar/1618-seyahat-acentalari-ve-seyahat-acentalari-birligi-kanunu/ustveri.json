@@ -2,17 +2,17 @@
   "law_number": "1618",
   "title": "SEYAHAT ACENTALARI VE SEYAHAT ACENTALARI BİRLİĞİ KANUNU",
   "slug": "1618-seyahat-acentalari-ve-seyahat-acentalari-birligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1972-09-14",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "14320"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1618.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103833",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1618",
+  "source_mevzuat_id": "103833",
   "source_type": "KANUN",
-  "content_sha256": "42fd0801fddf43ebb1feb9d0a299799be3c7180b84ce720634b34e05bbe64f97",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6ff944249881b46263b1ff3a35f7906355b7e2c8234cfcd14392e64cdfd20296",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

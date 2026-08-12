@@ -2,17 +2,17 @@
   "law_number": "4947",
   "title": "SOSYAL GÜVENLİK KURUMU TEŞKİLATI KANUNU",
   "slug": "4947-sosyal-guvenlik-kurumu-teskilati-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-07-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-07-24",
+    "number": "25178"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4947.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103684",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4947",
+  "source_mevzuat_id": "103684",
   "source_type": "KANUN",
-  "content_sha256": "9bf750ff490c33c8cfba05b501f83c515a2d3d46aaf602ee8aefdef9397f8c2c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1c6f270fb07ab1f92a02afd9ec56e7a095fcc845db3af6261f6ba7dd67058573",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

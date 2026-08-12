@@ -2,17 +2,17 @@
   "law_number": "4969",
   "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "4969-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-07-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-08-12",
+    "number": "25197"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4969.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103694",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4969",
+  "source_mevzuat_id": "103694",
   "source_type": "KANUN",
-  "content_sha256": "69344b45c61910291457ef4a0399085e4da60db45241a6a15abb838b7c11fa59",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e72ea2b5f7a44ce3059d68aa4889ec083361abab0dc0eb0aa9c0dc4e524030cf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

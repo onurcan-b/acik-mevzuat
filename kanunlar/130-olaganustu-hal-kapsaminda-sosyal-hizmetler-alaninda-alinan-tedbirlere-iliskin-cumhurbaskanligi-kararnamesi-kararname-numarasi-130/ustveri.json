@@ -1,0 +1,18 @@
+{
+  "law_number": "130",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA SOSYAL HİZMETLER ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 130)",
+  "slug": "130-olaganustu-hal-kapsaminda-sosyal-hizmetler-alaninda-alinan-tedbirlere-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-130",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-03",
+    "number": "32121"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336504",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336504",
+  "source_type": "MULGA",
+  "content_sha256": "d29a0af1b5d2182c724e644b19d5b75287bb1dc3ee32c0ba9e1eee0a3614ca40",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

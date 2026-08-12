@@ -2,17 +2,17 @@
   "law_number": "5977",
   "title": "BİYOGÜVENLİK KANUNU",
   "slug": "5977-biyoguvenlik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2010-03-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2010-03-26",
+    "number": "27533"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5977.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104098",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5977",
+  "source_mevzuat_id": "104098",
   "source_type": "KANUN",
-  "content_sha256": "734a17bbc553458c0416d3b81168504a3c5b56a0f149731d1ee27a86408c3883",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9fb096ddf6c52c117360924cbe33d58387a3793475f6113cbd9c3d7d086d5058",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

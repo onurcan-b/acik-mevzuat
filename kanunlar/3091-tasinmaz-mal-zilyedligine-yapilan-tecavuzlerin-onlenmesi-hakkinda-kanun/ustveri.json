@@ -2,17 +2,17 @@
   "law_number": "3091",
   "title": "TAŞINMAZ MAL ZİLYEDLİĞİNE YAPILAN TECAVÜZLERİN ÖNLENMESİ HAKKINDA KANUN",
   "slug": "3091-tasinmaz-mal-zilyedligine-yapilan-tecavuzlerin-onlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-12-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-12-15",
+    "number": "18606"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3091.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104801",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3091",
+  "source_mevzuat_id": "104801",
   "source_type": "KANUN",
-  "content_sha256": "20f0a4d8b3d847eb0dca217577464a72fdf471eff9fa4b55064b460bd22f3744",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b4c765c7c339a3a9a13625c6878b135bc08b7f32e8fcdebb5d41c15b51e8a9a9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

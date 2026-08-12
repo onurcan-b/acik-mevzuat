@@ -1,0 +1,18 @@
+{
+  "law_number": "1593",
+  "title": "UMUMİ HIFFSIHHA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1593-umumi-hiffsihha-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1930-04-24",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "1489"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335314",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335314",
+  "source_type": "MULGA",
+  "content_sha256": "51131f07201a7a90a1287af764db3b7e77d87c5c04ac0b0ffb5af3916b27b3ca",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

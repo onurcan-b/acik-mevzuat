@@ -2,17 +2,17 @@
   "law_number": "6384",
   "title": "TAZMİNAT KOMİSYONUNUN GÖREVLERİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA KANUN",
   "slug": "6384-tazminat-komisyonunun-gorevleri-ile-calisma-usul-ve-esaslari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2013-01-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2013-01-19",
+    "number": "28533"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6384.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104349",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6384",
+  "source_mevzuat_id": "104349",
   "source_type": "KANUN",
-  "content_sha256": "d3730bcac624a71983be05139eb13de1f587ac1ac87e7d495973903953a32567",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cd325d025976acf80b97e8da40200c585c1e0864a55b0feb9e42f0fd8834bed4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

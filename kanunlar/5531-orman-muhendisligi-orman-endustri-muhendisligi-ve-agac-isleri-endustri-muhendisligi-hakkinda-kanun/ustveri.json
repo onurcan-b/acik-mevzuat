@@ -2,17 +2,17 @@
   "law_number": "5531",
   "title": "ORMAN MÜHENDİSLİĞİ, ORMAN ENDÜSTRİ MÜHENDİSLİĞİ VE AĞAÇ İŞLERİ ENDÜSTRİ MÜHENDİSLİĞİ HAKKINDA KANUN",
   "slug": "5531-orman-muhendisligi-orman-endustri-muhendisligi-ve-agac-isleri-endustri-muhendisligi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-06-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-07-08",
+    "number": "26222"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5531.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103940",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5531",
+  "source_mevzuat_id": "103940",
   "source_type": "KANUN",
-  "content_sha256": "b369129fa64f22fbc183c43157f3731faf34432177d25654b487864eb1abd41e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e979462318e345ed6e3377d3517c9273653a78cbc52b71136d303cd597e20d4d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

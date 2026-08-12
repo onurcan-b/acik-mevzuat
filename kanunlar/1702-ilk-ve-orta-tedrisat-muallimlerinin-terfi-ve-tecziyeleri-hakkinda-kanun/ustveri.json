@@ -1,0 +1,18 @@
+{
+  "law_number": "1702",
+  "title": "İLK VE ORTA TEDRİSAT MUALLİMLERİNİN TERFİ VE TECZİYELERİ HAKKINDA KANUN",
+  "slug": "1702-ilk-ve-orta-tedrisat-muallimlerinin-terfi-ve-tecziyeleri-hakkinda-kanun",
+  "accepted_date": "1930-06-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1930-06-29",
+    "number": "1532"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335539",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335539",
+  "source_type": "MULGA",
+  "content_sha256": "21134b4c57742bab397611f61d7642c4b1328077780737b775a1e692510c6cb7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

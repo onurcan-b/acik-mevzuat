@@ -1,0 +1,18 @@
+{
+  "law_number": "702",
+  "title": "NÜKLEER DÜZENLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "702-nukleer-duzenleme-kurumunun-teskilat-ve-gorevleri-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2018-07-09",
+    "number": "30473"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336481",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336481",
+  "source_type": "MULGA",
+  "content_sha256": "9e6f6306df06478102de593ae2c1b229d4a9b2dadcb3f7404719f31639119b70",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

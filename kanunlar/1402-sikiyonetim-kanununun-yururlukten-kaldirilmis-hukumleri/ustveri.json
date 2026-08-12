@@ -1,0 +1,18 @@
+{
+  "law_number": "1402",
+  "title": "SIKIYÖNETİM KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1402-sikiyonetim-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1971-05-13",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13837"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335546",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335546",
+  "source_type": "MULGA",
+  "content_sha256": "8311fa072716c708e00f8027df5b4ea1cf4bdca648824e490216a9be381753a4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

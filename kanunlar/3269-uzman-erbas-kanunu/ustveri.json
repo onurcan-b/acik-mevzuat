@@ -1,18 +1,18 @@
 {
   "law_number": "3269",
-  "title": "Uzman Erbaş Kanunu",
+  "title": "UZMAN ERBAŞ KANUNU",
   "slug": "3269-uzman-erbas-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1986-03-18",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "19058"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3269.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102952",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3269",
+  "source_mevzuat_id": "102952",
   "source_type": "KANUN",
-  "content_sha256": "99b41756e2111ef895bff53bc489c0f7b13cc5cbd44b1091107959aafb0e05c0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "76eaae71e22cbc9ba24918f0137949cbaca7f82876eab9713867e7b911b89dea",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

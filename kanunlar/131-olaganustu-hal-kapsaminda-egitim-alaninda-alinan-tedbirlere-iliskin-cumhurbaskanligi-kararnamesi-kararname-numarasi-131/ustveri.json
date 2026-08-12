@@ -1,0 +1,18 @@
+{
+  "law_number": "131",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA EĞİTİM ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 131)",
+  "slug": "131-olaganustu-hal-kapsaminda-egitim-alaninda-alinan-tedbirlere-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-131",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-03",
+    "number": "32121"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336503",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336503",
+  "source_type": "MULGA",
+  "content_sha256": "fe16f9645e12b5335d76c626a91a0d4a4163160d67418d71e676818278382612",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "5224",
   "title": "SİNEMA FİLMLERİNİN DEĞERLENDİRİLMESİ VE SINIFLANDIRILMASI İLE DESTEKLENMESİ HAKKINDA KANUN",
   "slug": "5224-sinema-filmlerinin-degerlendirilmesi-ve-siniflandirilmasi-ile-desteklenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-07-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-21",
+    "number": "25529"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5224.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103772",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5224",
+  "source_mevzuat_id": "103772",
   "source_type": "KANUN",
-  "content_sha256": "d9542e94ecf6135683fbdc94a3010683a824ba492da4a23c40fbfc4b5071b42f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b63db355755c1bd4b2dc578dcaea893ea72b6d053a9c9314944ba9e3434b6bcc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

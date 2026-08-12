@@ -2,17 +2,17 @@
   "law_number": "4948",
   "title": "DEVLET MEZARLIĞI DIŞINDA DEFNEDİLEN BAZI DEVLET BÜYÜKLERİNİN MEZARLARI HAKKINDA KANUN",
   "slug": "4948-devlet-mezarligi-disinda-defnedilen-bazi-devlet-buyuklerinin-mezarlari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-07-17",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-07-22",
+    "number": "25176"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4948.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103686",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4948",
+  "source_mevzuat_id": "103686",
   "source_type": "KANUN",
-  "content_sha256": "b862067eb53dded18db4624b4f85d586040f234f53128a41a1a3c9b10bcbca84",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1fc325d5e916e2643a221da4902f081d3bac7bc6d17ac15e81da5ee36616c946",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

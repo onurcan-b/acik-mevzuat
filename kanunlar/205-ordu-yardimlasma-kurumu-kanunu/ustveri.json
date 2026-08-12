@@ -2,17 +2,17 @@
   "law_number": "205",
   "title": "ORDU YARDIMLAŞMA KURUMU KANUNU",
   "slug": "205-ordu-yardimlasma-kurumu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1961-01-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-09",
+    "number": "10702"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.205.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102957",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.205",
+  "source_mevzuat_id": "102957",
   "source_type": "KANUN",
-  "content_sha256": "c8b9fd6cb67258cb660a75f703a0c2437d3ec4ba2fd8deb6239fefefe1c7d45f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "00afe4ef93c5a78846d842ae69e846592f43f0f5cf14997932d2021d8286d2d1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

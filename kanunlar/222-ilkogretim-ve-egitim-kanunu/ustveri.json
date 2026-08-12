@@ -2,17 +2,17 @@
   "law_number": "222",
   "title": "İLKÖĞRETİM VE EĞİTİM KANUNU",
   "slug": "222-ilkogretim-ve-egitim-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1961-01-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-12",
+    "number": "10705"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.222.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104574",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.222",
+  "source_mevzuat_id": "104574",
   "source_type": "KANUN",
-  "content_sha256": "90ef3b1e15c7a3dd96d42ba30cf04297314887df7bd9ae853abc1c5f0b8f8bf6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "84385d50dc89adb3364f10ae6778a7d481e767d2c5abdc6618aefd09ad778459",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

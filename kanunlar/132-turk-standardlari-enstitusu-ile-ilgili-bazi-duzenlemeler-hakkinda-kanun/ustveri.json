@@ -2,17 +2,17 @@
   "law_number": "132",
   "title": "TÜRK STANDARDLARI ENSTİTÜSÜ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "132-turk-standardlari-enstitusu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-11-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-11-22",
+    "number": "10661"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.132.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104582",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.132",
+  "source_mevzuat_id": "104582",
   "source_type": "KANUN",
-  "content_sha256": "a01f3022720fa4594d821515f70c6f09bbbbd77ecb52817b0d70d2fe6f78ee28",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7a71cee8b381a31b0a67f337d9667a5502efb9b6ef72082bf5ed303f1a43b051",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

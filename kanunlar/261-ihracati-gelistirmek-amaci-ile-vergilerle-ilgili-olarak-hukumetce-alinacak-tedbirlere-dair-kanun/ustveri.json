@@ -2,17 +2,17 @@
   "law_number": "261",
   "title": "İHRACATI GELİŞTİRMEK AMACI İLE VERGİLERLE İLGİLİ OLARAK HÜKÜMETÇE ALINACAK TEDBİRLERE DAİR KANUN",
   "slug": "261-ihracati-gelistirmek-amaci-ile-vergilerle-ilgili-olarak-hukumetce-alinacak-tedbirlere-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1963-06-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1963-07-05",
+    "number": "11446"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.261.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105039",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.261",
+  "source_mevzuat_id": "105039",
   "source_type": "KANUN",
-  "content_sha256": "a016f77aa234aff376d0cd46b5cd274e408a05d43de8bc8a2b0bccde6c763e3c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "385447715c8c63af8a41883e7c5ba5fff67d91eac50b307c108477bf5d2cf312",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

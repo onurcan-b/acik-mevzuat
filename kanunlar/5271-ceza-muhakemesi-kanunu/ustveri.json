@@ -5,18 +5,14 @@
   "accepted_date": "2004-12-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2004-12-17",
+    "date": null,
     "number": "25673"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102946",
   "language": "tr",
-  "tags": [
-    "ceza_usul",
-    "muhakeme",
-    "sorusturma"
-  ],
-  "source_mevzuat_id": "1.5.5271",
+  "tags": [],
+  "source_mevzuat_id": "102946",
   "source_type": "KANUN",
-  "content_sha256": "43e975ee8ddd3998ee789a5de98937e78a909c6a6502f1832ce288013a6ba76c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ae91086bf3c23f0d7ba586adbb5e874dee8993f04668b1d120062e921966dfc4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "1318",
   "title": "FİNANSMAN KANUNU",
   "slug": "1318-finansman-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1970-07-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1970-08-10",
+    "number": "13575"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1318.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104500",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1318",
+  "source_mevzuat_id": "104500",
   "source_type": "KANUN",
-  "content_sha256": "b3086ef5093a7d3f478ac8a71f2633f8f24c4b345cfca5f90e57a3eb8307a7d0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e5713e3965a5a1100aac98bb906b3648ed02338c060aa1e60d2727dc894ceeeb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "2827",
   "title": "NÜFUS PLANLAMASI HAKKINDA KANUN",
   "slug": "2827-nufus-planlamasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-05-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-05-27",
+    "number": "18059"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2827.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104895",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2827",
+  "source_mevzuat_id": "104895",
   "source_type": "KANUN",
-  "content_sha256": "d4dd60eedc01bcc8391c3b1a644e723a0d26db53c812951cf4898aeffff6584b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2494afcbb3d5dac79e740e916dabefefe3ec01bd093050ab2f7117a4a0afe794",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

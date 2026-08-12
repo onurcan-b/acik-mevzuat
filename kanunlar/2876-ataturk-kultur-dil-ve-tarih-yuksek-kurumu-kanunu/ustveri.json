@@ -2,17 +2,17 @@
   "law_number": "2876",
   "title": "ATATÜRK KÜLTÜR, DİL VE TARİH YÜKSEK KURUMU KANUNU",
   "slug": "2876-ataturk-kultur-dil-ve-tarih-yuksek-kurumu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-08-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-08-17",
+    "number": "18138"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2876.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104863",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2876",
+  "source_mevzuat_id": "104863",
   "source_type": "KANUN",
-  "content_sha256": "18d4eb707eca4d5c2fb69addb15f4d22cef45e5225766cbc996eec528e29e9db",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b4bb2d185b098e05f810cca242f9b96eac52e96f9f66663b6734248e4b08554b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

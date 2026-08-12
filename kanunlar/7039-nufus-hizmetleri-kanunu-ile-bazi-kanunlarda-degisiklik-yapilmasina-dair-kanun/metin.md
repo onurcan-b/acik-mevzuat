@@ -1,25 +1,57 @@
 # NÜFUS HİZMETLERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN (No. 7039)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7039.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/104431
+> Resmî Gazete: 2017-11-03 / 30229
+> UYAP Mevzuat kimliği: 104431
 
 ---
 
-# MADDE 35 — ile ilgili olup yerine işlenmiştir.)
+8049
 
-(14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve
-Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+NÜFUS HİZMETLERİ KANUNU
+İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
 
-# MADDE 36
+Numarası :
+7039
 
-(1) İstanbul iline bağlı “Eyüp” ilçesinin adı “Eyüpsultan” olarak
-değiştirilmiştir.
+Kabul Tarihi :
+19/10/2017
 
-# MADDE 37
+Yayımlandığı Resmî Gazete : Tarih :
+3/11/2017 Sayı : 30229
 
-(1) Bu Kanun yayımı tarihinde yürürlüğe girer.
+Yayımlandığı Düstur :
+Tertip : 5 Cilt : 59
 
-# MADDE 38
+MADDE 1 ila 27 -
 
-(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+(25/4/2006 tarihli ve 5490 sayılı
+Nüfus Hizmetleri Kanunu ile ilgili olup yerine işlenmiştir.)
+
+MADDE 28 ila 34 – (
+29/5/2009 tarihli ve 5901 sayılı Türk
+Vatandaşlığı Kanunu
+
+ile
+ilgili olup yerine işlenmiştir.)
+
+MADDE 35- (
+14/2/1985 tarihli ve 3152 sayılı
+İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun
+
+ile ilgili olup yerine
+işlenmiştir.)
+
+MADDE 36-
+(1) İstanbul iline bağlı “Eyüp”
+ilçesinin adı “Eyüpsultan” olarak değiştirilmiştir.
+
+MADDE 37-
+(1)
+
+Bu Kanun yayımı tarihinde
+yürürlüğe girer.
+
+MADDE 38-
+(1) Bu Kanun hükümlerini Bakanlar
+Kurulu yürütür.

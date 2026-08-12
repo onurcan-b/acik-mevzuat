@@ -2,17 +2,17 @@
   "law_number": "2935",
   "title": "OLAĞANÜSTÜ HAL KANUNU",
   "slug": "2935-olaganustu-hal-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-10-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-10-27",
+    "number": "18204"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2935.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102919",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2935",
+  "source_mevzuat_id": "102919",
   "source_type": "KANUN",
-  "content_sha256": "7a3fec55d1560dc4679cf8650ab0a06d86f0523ac536666c9d84c67e3e7644a2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "53111a9bf77001706d31d9fb5eb06aa5d3d7bdca4ac7a4af369ddcceb0c0f0e6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

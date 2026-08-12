@@ -2,17 +2,17 @@
   "law_number": "7194",
   "title": "DİJİTAL HİZMET VERGİSİ İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "7194-dijital-hizmet-vergisi-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2019-12-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2019-12-07",
+    "number": "30971"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7194.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104172",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7194",
+  "source_mevzuat_id": "104172",
   "source_type": "KANUN",
-  "content_sha256": "5c8422f44907edc42d8b4f78c387333a0f39eb6bb07e9a14575aa44e8b60b67e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fea03fd0fed33a9207d782a451b928815d322d65d01f04d67a011d5d4713d80a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

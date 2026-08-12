@@ -1,20 +1,38 @@
 # TOPRAK BAYRAMI KANUNU (No. 4760)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4760.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103288
+> Resmî Gazete: 1945-06-16 / 6033
+> UYAP Mevzuat kimliği: 103288
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 3 Cilt : 26 Sayfa : 1198
+TOPRAK BAYRAMI
+KANUNU
 
-Çiftçiyi Topraklandırma Kanununun kabul edildiği 11 Haziran tarihini
-takip eden pazar günü her yıl Toprak Bayramı olarak kutlanır.
+Kanun
+Numarası : 4760
 
-# MADDE 2
+Kabul
+Tarihi : 15/6/1945
 
-Bu kanun yayımı tarihinde yürürlüğe girer.
+Yayımlandığı
+Resmî Gazete : Tarih : 16/6/1945 Sayı : 6033
 
-# MADDE 3
+Yayımlandığı
+Düstur : Tertip : 3 Cilt : 26 Sayfa : 1198
 
-Bu kanunu Bakanlar Kurulu yürütür.
+Madde
+1 –
+Çiftçiyi
+Topraklandırma Kanununun kabul edildiği 11 Haziran tarihini takip eden pazar
+günü her yıl Toprak Bayramı olarak kutlanır.
+
+Madde
+2 –
+Bu
+kanun yayımı tarihinde yürürlüğe girer.
+
+Madde
+3 –
+Bu
+kanunu Bakanlar Kurulu yürütür.

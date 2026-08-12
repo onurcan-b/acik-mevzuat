@@ -1,0 +1,18 @@
+{
+  "law_number": "121",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA SAĞLIK ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 121)",
+  "slug": "121-olaganustu-hal-kapsaminda-saglik-alaninda-alinan-tedbirlere-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-121",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-02-13",
+    "number": "32103"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336507",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336507",
+  "source_type": "MULGA",
+  "content_sha256": "6c0886b790a49c498252d56e126a778b1562394a91bdefe378b759ddd821e5ff",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

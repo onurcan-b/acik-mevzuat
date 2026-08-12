@@ -2,17 +2,17 @@
   "law_number": "5715",
   "title": "TÜRK SİLAHLI KUVVETLERİ HASTA BESLEME KANUNU",
   "slug": "5715-turk-silahli-kuvvetleri-hasta-besleme-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2007-11-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-12-04",
+    "number": "26720"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5715.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104004",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5715",
+  "source_mevzuat_id": "104004",
   "source_type": "KANUN",
-  "content_sha256": "b18b48162484bb141d873c520521caa421fb47b262cb1a55b8f8bd6660d7d852",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fab7254cf820305e55f5d5c5d8472147712c8938bafa42ed8d5b0238169506c2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

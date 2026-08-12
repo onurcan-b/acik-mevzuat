@@ -2,17 +2,17 @@
   "law_number": "7540",
   "title": "TÜRKİYE ADALET AKADEMİSİ KANUNU",
   "slug": "7540-turkiye-adalet-akademisi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2025-02-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2025-02-27",
+    "number": "32826"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7540.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/340691",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7540",
+  "source_mevzuat_id": "340691",
   "source_type": "KANUN",
-  "content_sha256": "2a3d9156005f3942b90b921400c99d9f5baf9df98dde767319b8ff706cc6bec3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "72e7b8f561b848e1ce371acd839eb016cb08cc63a5f13b359f45dafab4323ab8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

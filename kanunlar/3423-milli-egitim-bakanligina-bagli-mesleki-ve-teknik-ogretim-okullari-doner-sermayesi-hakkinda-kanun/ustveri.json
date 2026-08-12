@@ -2,17 +2,17 @@
   "law_number": "3423",
   "title": "MİLLİ EĞİTİM BAKANLIĞINA BAĞLI MESLEKİ VE TEKNİK ÖĞRETİM OKULLARI DÖNER SERMAYESİ HAKKINDA KANUN",
   "slug": "3423-milli-egitim-bakanligina-bagli-mesleki-ve-teknik-ogretim-okullari-doner-sermayesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1938-06-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1938-06-14",
+    "number": "3933"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3423.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105293",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3423",
+  "source_mevzuat_id": "105293",
   "source_type": "KANUN",
-  "content_sha256": "ab998a18b6fe094c80b996f000ef2e7583e67a63e705e62e360f26f1f14c2345",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ceec2e3f3680a640df00d317ca87120b81c813d98ccf547f888ec5cdad594e3d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

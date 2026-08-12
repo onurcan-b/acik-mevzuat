@@ -2,17 +2,17 @@
   "law_number": "3568",
   "title": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU",
   "slug": "3568-serbest-muhasebeci-mali-musavirlik-ve-yeminli-mali-musavirlik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1989-06-01",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "20194"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3568.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103003",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3568",
+  "source_mevzuat_id": "103003",
   "source_type": "KANUN",
-  "content_sha256": "af59c05d47f8ca81dbfef66d22350218c8ac8ec0d74bade273dc114d531fa45a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "210de3ab885b08b882bb2ba6d7d2732bfdd3a06d0c8d63e182e1e3fec2e71050",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

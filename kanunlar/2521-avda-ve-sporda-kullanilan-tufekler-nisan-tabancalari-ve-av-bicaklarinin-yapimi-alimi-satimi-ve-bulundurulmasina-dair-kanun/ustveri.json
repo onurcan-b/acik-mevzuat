@@ -2,17 +2,17 @@
   "law_number": "2521",
   "title": "AVDA VE SPORDA KULLANILAN TÜFEKLER, NİŞAN TABANCALARI VE AV BIÇAKLARININ YAPIMI, ALIMI, SATIMI VE BULUNDURULMASINA DAİR KANUN",
   "slug": "2521-avda-ve-sporda-kullanilan-tufekler-nisan-tabancalari-ve-av-bicaklarinin-yapimi-alimi-satimi-ve-bulundurulmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-09-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-09-15",
+    "number": "17459"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2521.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104576",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2521",
+  "source_mevzuat_id": "104576",
   "source_type": "KANUN",
-  "content_sha256": "c3cf18ba8732be2bcf76ab9bbae6d921f98399b260545b4a6acc61718ed9bd0f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "25c69a8680f76087c26614dd037b9583b7fd096e5653e5f55fa0cc66a2570410",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

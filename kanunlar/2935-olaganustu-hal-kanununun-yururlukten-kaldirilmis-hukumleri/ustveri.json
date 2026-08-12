@@ -1,0 +1,18 @@
+{
+  "law_number": "2935",
+  "title": "OLAĞANÜSTÜ HAL KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2935-olaganustu-hal-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-10-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-10-27",
+    "number": "18204"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335517",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335517",
+  "source_type": "MULGA",
+  "content_sha256": "0a918c74057c0eed6e2209c1466d7c5be12db2d0328c188f4de211d56a0c3bdd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

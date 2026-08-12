@@ -1,27 +1,47 @@
 # 18 MART GÜNÜNÜN ŞEHİTLER GÜNÜ VE 19 EYLÜL GÜNÜNÜN GAZİLER GÜNÜ İLAN EDİLMESİ HAKKINDA KANUN (No. 4768)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4768.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103598
+> Resmî Gazete: 2002-07-03 / 24804
+> UYAP Mevzuat kimliği: 103598
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : Cilt : 7
+18 MART GÜNÜNÜN
+ŞEHİTLER GÜNÜ VE 19 EYLÜL
 
-18 Mart Şehitler Günü, 19 Eylül Gaziler Günüdür. Anılan günlerde bütün
-kamu kurum ve kuruluşlarının öncülüğünde, halkımızın ve sivil kuruluşların iştiraki ile her yıl
-anma töreni düzenlenir.
+GÜNÜNÜN GAZİLER
+GÜNÜ İLÂN EDİLMESİ
 
-# MADDE 2
+HAKKINDA KANUN
 
-Şehitler ve Gaziler günlerinin anma törenleri ile ilgili yönetmelik, Kanunun
-yayımı tarihinden itibaren dört ay içinde spordan sorumlu Devlet Bakanlığı ile Milli Savunma,
-İçişleri, Dışişleri ve Milli Eğitim bakanlıklarınca müştereken düzenlenir.
+Kanun
+Numarası : 4768
 
-# MADDE 3
+Kabul
+Tarihi : 27/6/2002
 
+Yayımlandığı
+Resmî Gazete : Tarih : 27/6/2002 Sayı : 24804
+
+Yayımlandığı
+Düstur : Tertip : Cilt : 7
+
+Madde
+1–
+18 Mart Şehitler Günü, 19 Eylül Gaziler Günüdür. Anılan günlerde bütün kamu
+kurum ve kuruluşlarının öncülüğünde, halkımızın ve sivil kuruluşların iştiraki ile
+her yıl anma töreni düzenlenir.
+
+Madde 2–
+Şehitler ve Gaziler
+günlerinin anma törenleri ile ilgili yönetmelik, Kanunun yayımı tarihinden itibaren
+dört ay içinde spordan sorumlu Devlet Bakanlığı ile Milli Savunma, İçişleri, Dışişleri
+ve Milli Eğitim bakanlıklarınca müştereken düzenlenir.
+
+Madde
+3–
 Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-# MADDE 4
-
+Madde
+4–
 Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

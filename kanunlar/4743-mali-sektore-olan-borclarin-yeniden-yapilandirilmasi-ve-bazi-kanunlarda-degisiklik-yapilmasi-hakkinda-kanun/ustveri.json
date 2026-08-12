@@ -2,17 +2,17 @@
   "law_number": "4743",
   "title": "MALİ SEKTÖRE OLAN BORÇLARIN YENİDEN YAPILANDIRILMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "4743-mali-sektore-olan-borclarin-yeniden-yapilandirilmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2002-01-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2002-01-31",
+    "number": "24657 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4743.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103597",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4743",
+  "source_mevzuat_id": "103597",
   "source_type": "KANUN",
-  "content_sha256": "b3ac20165370a6460475df19a5db7ba712ed14b257ab56115110958ab7fbce27",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "39d8e096c1d45ab22b2b85e78b72f4b987ba49bb8ebc2ac25b034632568c2d3b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

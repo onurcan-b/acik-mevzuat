@@ -2,17 +2,17 @@
   "law_number": "169",
   "title": "SİLAHLI KUVVETLER YAKACAK, AYDINLATMA, ISITMA VE SOĞUTMA KANUNU",
   "slug": "169-silahli-kuvvetler-yakacak-aydinlatma-isitma-ve-sogutma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1963-01-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1963-02-09",
+    "number": "11330"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.169.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105043",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.169",
+  "source_mevzuat_id": "105043",
   "source_type": "KANUN",
-  "content_sha256": "ee233da9327943dbe500a8cad9ac4b92b7777ea01aa8c1bc23591d65431782ef",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "61701fed6bfbef2392f60de61e8354b0f1180347c00b1afe20d8b361ccfd4243",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6101",
   "title": "TÜRK BORÇLAR KANUNUNUN YÜRÜRLÜĞÜ VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
   "slug": "6101-turk-borclar-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-01-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-02-04",
+    "number": "27836"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6101.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103276",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6101",
+  "source_mevzuat_id": "103276",
   "source_type": "KANUN",
-  "content_sha256": "741253e911aded603bcc95b083752ec62750d61d2a8d0516dc9fec2ef48ad423",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dc2202983f263b2b68e1ebffffc6f69ddd45c2ed60c26bb1adb003bccf936466",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

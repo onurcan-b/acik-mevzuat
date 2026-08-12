@@ -2,17 +2,17 @@
   "law_number": "5199",
   "title": "HAYVANLARI KORUMA KANUNU",
   "slug": "5199-hayvanlari-koruma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-06-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-01",
+    "number": "25509"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5199.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103408",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5199",
+  "source_mevzuat_id": "103408",
   "source_type": "KANUN",
-  "content_sha256": "06b9b1d518c78b9f33933318afa347406b8607a08739e59f03a6bda2b0751040",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b2c48be02766fa904b3445ec98c41d6c8694b3454dc4c5dbdc731a8b8dc080b7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6331",
   "title": "İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU",
   "slug": "6331-is-sagligi-ve-guvenligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-06-20",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "28339"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104308",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6331",
+  "source_mevzuat_id": "104308",
   "source_type": "KANUN",
-  "content_sha256": "941d83b0e21daedd2443002ea31898132c717a6aed90bed835e7377cd4df4269",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d37aa6c78c2cfdf0ccb5950299aa18ee38d5273bd74e2cb1207bb0733cee4e53",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

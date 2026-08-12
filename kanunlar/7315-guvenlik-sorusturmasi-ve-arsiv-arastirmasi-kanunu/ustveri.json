@@ -2,17 +2,17 @@
   "law_number": "7315",
   "title": "GÜVENLİK SORUŞTURMASI VE ARŞİV ARAŞTIRMASI KANUNU",
   "slug": "7315-guvenlik-sorusturmasi-ve-arsiv-arastirmasi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2021-04-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2021-04-17",
+    "number": "31455"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7315.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104125",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7315",
+  "source_mevzuat_id": "104125",
   "source_type": "KANUN",
-  "content_sha256": "c7fe3b4ec591802b5c6bf78424c6ddae671d93158c3ed0112cac904e58b04156",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ff8a872234a0b10c79206560c67d85d7aa4f2bf74788c8467fd7433696e43c58",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

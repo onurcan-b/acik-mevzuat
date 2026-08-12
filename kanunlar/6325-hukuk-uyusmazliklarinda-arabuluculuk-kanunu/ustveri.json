@@ -2,17 +2,17 @@
   "law_number": "6325",
   "title": "HUKUK UYUŞMAZLIKLARINDA ARABULUCULUK KANUNU",
   "slug": "6325-hukuk-uyusmazliklarinda-arabuluculuk-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-22",
+    "number": "28331"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6325.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104320",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6325",
+  "source_mevzuat_id": "104320",
   "source_type": "KANUN",
-  "content_sha256": "c798f81d0b8c908beeaf12641b1aa620490836c11fc7eba1f0c7c45c3ece0193",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d0d80a6f8443c317fe6801e71161c7847e79cb33d2f1ef5328f09300debd65c4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

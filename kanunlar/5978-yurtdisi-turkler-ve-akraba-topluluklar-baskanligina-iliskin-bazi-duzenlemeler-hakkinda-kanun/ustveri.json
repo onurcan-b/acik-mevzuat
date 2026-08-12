@@ -2,17 +2,17 @@
   "law_number": "5978",
   "title": "YURTDIŞI TÜRKLER VE AKRABA TOPLULUKLAR BAŞKANLIĞINA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "5978-yurtdisi-turkler-ve-akraba-topluluklar-baskanligina-iliskin-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2010-03-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2010-04-06",
+    "number": "27544"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5978.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104105",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5978",
+  "source_mevzuat_id": "104105",
   "source_type": "KANUN",
-  "content_sha256": "09eac5ef18511ec25d30f44539398c2531bc636a1d9dcb62b7f8e2ce8edb54fe",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "29b855bb5676e02b37aa7092ac205c59d2d20bab31b92ebdc70f3c3f9bff2c8b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

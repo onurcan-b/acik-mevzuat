@@ -2,17 +2,17 @@
   "law_number": "7075",
   "title": "OLAĞANÜSTÜ HAL İŞLEMLERİ İNCELEME KOMİSYONU KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
   "slug": "7075-olaganustu-hal-islemleri-inceleme-komisyonu-kurulmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2018-02-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2018-03-08",
+    "number": "30354 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7075.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102943",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7075",
+  "source_mevzuat_id": "102943",
   "source_type": "KANUN",
-  "content_sha256": "69c281a352bb8a56908b22a19eb526504cb46946793fa24947dce404f97b29b3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4f055eec9c2880b70e3e46a3f669cbab5c17fc613653a9aed6851dea0f4353cd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7",
   "title": "16 MART 1336 TARİHİNDEN İTİBAREN İSTANBUL HÜKÜMETİNCE AKTEDİLEN BİLCÜMLE MUKAVELAT, UHUDAT VE SAİRENİN KEENLEMYEKÜN ADDİ HAKKINDA KANUN",
   "slug": "7-16-mart-1336-tarihinden-itibaren-istanbul-hukumetince-aktedilen-bilcumle-mukavelat-uhudat-ve-sairenin-keenlemyekun-addi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1920-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1921-02-14",
+    "number": "2"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105442",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7",
+  "source_mevzuat_id": "105442",
   "source_type": "KANUN",
-  "content_sha256": "ed333c3eb982936f48fae8d249bb05b1d0ea9ae9229391f59fc8a841cbb9d6ec",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "08068a78ebc9569b60262cbac9a31b799414f28abdafea7bfb000e0d032df376",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

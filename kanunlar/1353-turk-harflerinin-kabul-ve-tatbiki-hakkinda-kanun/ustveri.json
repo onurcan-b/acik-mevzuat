@@ -2,17 +2,17 @@
   "law_number": "1353",
   "title": "TÜRK HARFLERİNİN KABUL VE TATBİKİ HAKKINDA KANUN",
   "slug": "1353-turk-harflerinin-kabul-ve-tatbiki-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1928-11-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1928-11-03",
+    "number": "1030"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1353.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105371",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1353",
+  "source_mevzuat_id": "105371",
   "source_type": "KANUN",
-  "content_sha256": "f039683bb875064d7d53c784752e7a4ea702ca92f380871dddd12239a0695c42",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0f1205375a341bd3780936f460eab3907267dd27a29ef3916daad7ec060c56d4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

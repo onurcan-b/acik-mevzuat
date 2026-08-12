@@ -2,17 +2,17 @@
   "law_number": "5434",
   "title": "TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU",
   "slug": "5434-turkiye-cumhuriyeti-emekli-sandigi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1949-06-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1949-06-17",
+    "number": "7235"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5434.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102959",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5434",
+  "source_mevzuat_id": "102959",
   "source_type": "KANUN",
-  "content_sha256": "aff54da169b3939df2cfe3d6d4825a4f832a8f099f128ea6e0faf1e2a2fa8b23",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b9b8ccf6b83062a6bde0579393c21da1ff0dc784c91f2804599b8d2a6fc1e2a2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

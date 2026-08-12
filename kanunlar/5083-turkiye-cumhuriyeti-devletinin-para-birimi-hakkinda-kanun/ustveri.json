@@ -2,17 +2,17 @@
   "law_number": "5083",
   "title": "TÜRKİYE CUMHURİYETİ DEVLETİNİN PARA BİRİMİ HAKKINDA KANUN",
   "slug": "5083-turkiye-cumhuriyeti-devletinin-para-birimi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-01-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-01-31",
+    "number": "25363"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5083.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103755",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5083",
+  "source_mevzuat_id": "103755",
   "source_type": "KANUN",
-  "content_sha256": "ecbf30ff243ef828ac1f30cff29cb1c70325fcac3b4383c9500924bee384367e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "da582c3298c8157fdf41fc4ade867af928a26e74aced7b80e955623eedb898ac",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

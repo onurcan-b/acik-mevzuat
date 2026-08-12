@@ -2,17 +2,17 @@
   "law_number": "4645",
   "title": "EMNİYET GENEL MÜDÜRLÜĞÜNE AİT ARAÇ, GEREÇ, MAL VE MALZEMENİN SATIŞ, HİBE, HEK VE HURDA DURUM VE İŞLEMLERİ İLE HİZMET SATIŞINA DAİR KANUN",
   "slug": "4645-emniyet-genel-mudurlugune-ait-arac-gerec-mal-ve-malzemenin-satis-hibe-hek-ve-hurda-durum-ve-islemleri-ile-hizmet-satisina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-04-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-04-24",
+    "number": "24382"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4645.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103535",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4645",
+  "source_mevzuat_id": "103535",
   "source_type": "KANUN",
-  "content_sha256": "b8ffbf36fd17ccb9a5f882fc484002e2cd80324520d69eeb03741bd3d9c0ed48",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e239f4d89e1d92d15dec9936b3438c79efff962d47ff3bc5876faf5275d2a7aa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

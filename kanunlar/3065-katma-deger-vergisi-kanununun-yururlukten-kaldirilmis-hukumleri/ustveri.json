@@ -1,0 +1,18 @@
+{
+  "law_number": "3065",
+  "title": "KATMA DEĞER VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "3065-katma-deger-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1984-10-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18563"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335280",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335280",
+  "source_type": "MULGA",
+  "content_sha256": "2ac4e3e64f9a1fd0126f4068a20f144ee351282d60acd7ae1ee6eee9d67657f3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

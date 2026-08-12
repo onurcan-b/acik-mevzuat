@@ -2,17 +2,17 @@
   "law_number": "6940",
   "title": "RİYASETİCUMHUR SENFONİ ORKESTRASININ KURULUŞU HAKKINDA KANUN",
   "slug": "6940-riyaseticumhur-senfoni-orkestrasinin-kurulusu-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1957-03-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1957-03-29",
+    "number": "9572"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6940.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105110",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6940",
+  "source_mevzuat_id": "105110",
   "source_type": "KANUN",
-  "content_sha256": "9ac70bd20b89b79b0024952f9a426c27963f8b0cb9c1d8fab15e7024472c1b79",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ae02791df1ce0562858c979c6e2e8e51055be3a1498f52b307296ba4f0b0f593",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

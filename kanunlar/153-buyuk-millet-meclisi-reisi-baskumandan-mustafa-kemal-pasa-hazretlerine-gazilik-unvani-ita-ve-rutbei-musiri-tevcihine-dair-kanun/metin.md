@@ -1,20 +1,50 @@
 # BÜYÜK MİLLET MECLİSİ REİSİ BAŞKUMANDAN MUSTAFA KEMAL PAŞA HAZRETLERİNE "GAZİLİK" UNVANI İTA VE RÜTBEİ MÜŞİRİ TEVCİHİNE DAİR KANUN (No. 153)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.153.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105446
+> Resmî Gazete: 1337-09-20 / bilinmiyor
+> UYAP Mevzuat kimliği: 105446
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3, Cilt: 2, Sayfa: 93
+210-1
 
-Türkiye Büyük Millet Meclisi Reisi Başkumandan Mustafa Kemal Paşa
-Hazretlerine Gazilik unvanı ita ve rütbei müşiri tevcih olunmuştur.
+BÜYÜK
+MİLLET MECLİSİ REİSİ BAŞKUMANDAN
 
-# MADDE 2
+MUSTAFA
+KEMAL PAŞA HAZRETLERİNE
 
-İşbu kanun tarihi neşrinden itibaren mer’iyülicradır.
+“GAZİLİK”
+UNVANI İTA VE RÜTBEİ MÜŞİRÎ
 
-# MADDE 3
+TEVCİHİNE
+DAİR KANUN
 
-İşbu kanunun icrasına Büyük Millet Meclisi memurdur.
+Kanun
+Numarası : 153
+
+Kabul
+Tarihi : 19/9/1337
+
+Yayımlandığı
+Resmî Gazete : Tarih: — Sayı: —
+
+Yayımlandığı
+Düstur : Tertip:
+3, Cilt: 2, Sayfa: 93
+
+Madde
+1 –
+Türkiye
+Büyük Millet Meclisi Reisi Başkumandan Mustafa Kemal Paşa Hazretlerine Gazilik
+unvanı ita ve rütbei müşiri tevcih olunmuştur.
+
+Madde
+2 –
+İşbu
+kanun tarihi neşrinden itibaren mer’iyülicradır.
+
+Madde
+3 –
+İşbu
+kanunun icrasına Büyük Millet Meclisi memurdur.

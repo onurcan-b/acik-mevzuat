@@ -2,17 +2,17 @@
   "law_number": "3621",
   "title": "KIYI KANUNU",
   "slug": "3621-kiyi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1990-04-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1990-04-17",
+    "number": "20495"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3621.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102937",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3621",
+  "source_mevzuat_id": "102937",
   "source_type": "KANUN",
-  "content_sha256": "c05131c0483f38e18c65edaea1a2e20314a09aa3903e2d6a84bfe2b10a96f650",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4b13e54e09a0fa8aecbefccd31d0e9b560638cfe4be63858dd5ca5b2d4eeca95",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

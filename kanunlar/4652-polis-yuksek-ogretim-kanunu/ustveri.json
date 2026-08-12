@@ -1,18 +1,18 @@
 {
   "law_number": "4652",
-  "title": "Polis Yüksek Öğretim Kanunu",
+  "title": "POLİS YÜKSEK ÖĞRETİM KANUNU",
   "slug": "4652-polis-yuksek-ogretim-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-04-25",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24397"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4652.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103117",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4652",
+  "source_mevzuat_id": "103117",
   "source_type": "KANUN",
-  "content_sha256": "401fbb5b6331812e77f5c8f63223e524cdd87657731e08fd28b6057170f13c5d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "57e9a902e2f42e0c7328f49785268072749a41113fec81e967e4e766b3df0cc1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

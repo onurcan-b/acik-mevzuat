@@ -2,17 +2,17 @@
   "law_number": "854",
   "title": "DENİZ İŞ KANUNU",
   "slug": "854-deniz-is-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1967-04-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1967-04-29",
+    "number": "12586"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.854.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105027",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.854",
+  "source_mevzuat_id": "105027",
   "source_type": "KANUN",
-  "content_sha256": "8464853ed34cfb82e8822a958578fa7524611e2f4d3c01f48af06fcff2cff6c1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f3e8e07d46441261ce0a1ca929299e05b142ceefda8ccd722161fa4e6d1aceef",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

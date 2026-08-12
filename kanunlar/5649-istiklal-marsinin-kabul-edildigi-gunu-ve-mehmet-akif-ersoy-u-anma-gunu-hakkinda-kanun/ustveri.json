@@ -1,0 +1,18 @@
+{
+  "law_number": "5649",
+  "title": "İSTİKLAL MARŞININ KABUL EDİLDİĞİ GÜNÜ VE MEHMET AKİF ERSOY U ANMA GÜNÜ HAKKINDA KANUN",
+  "slug": "5649-istiklal-marsinin-kabul-edildigi-gunu-ve-mehmet-akif-ersoy-u-anma-gunu-hakkinda-kanun",
+  "accepted_date": "2007-05-04",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2007-05-10",
+    "number": "26518"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103986",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103986",
+  "source_type": "KANUN",
+  "content_sha256": "5f266d04a125decef03c51f7d83ef17c8a2773de921d8863f02caba969347b5a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

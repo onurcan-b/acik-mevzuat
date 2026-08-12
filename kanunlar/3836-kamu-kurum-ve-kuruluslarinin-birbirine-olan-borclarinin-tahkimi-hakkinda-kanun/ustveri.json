@@ -2,17 +2,17 @@
   "law_number": "3836",
   "title": "KAMU KURUM VE KURULUŞLARININ BİRBİRİNE OLAN BORÇLARININ TAHKİMİ HAKKINDA KANUN",
   "slug": "3836-kamu-kurum-ve-kuruluslarinin-birbirine-olan-borclarinin-tahkimi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1992-07-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1992-07-11",
+    "number": "21281"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3836.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104641",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3836",
+  "source_mevzuat_id": "104641",
   "source_type": "KANUN",
-  "content_sha256": "a03bebb2fe198de804f163994cfaf427390f30063915d42543687c1d278bec12",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "784e8bad426c17c50524763c667141b99a29b741b942cc30284fdcff208da23d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

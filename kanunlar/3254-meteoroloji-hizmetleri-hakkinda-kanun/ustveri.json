@@ -2,17 +2,17 @@
   "law_number": "3254",
   "title": "METEOROLOJİ HİZMETLERİ HAKKINDA KANUN",
   "slug": "3254-meteoroloji-hizmetleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1986-01-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1986-01-14",
+    "number": "18988"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3254.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104774",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3254",
+  "source_mevzuat_id": "104774",
   "source_type": "KANUN",
-  "content_sha256": "b8bc3a11a29c81406b4c73a30993d968df072408ce30d9e87fd71f7f3c57aa65",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "627427bebe88af4e53a2b32be71dc9361fb2bda940dab5dac0b6f147d1c486e8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

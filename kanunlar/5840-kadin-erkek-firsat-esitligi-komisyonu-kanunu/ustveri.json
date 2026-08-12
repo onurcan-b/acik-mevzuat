@@ -2,17 +2,17 @@
   "law_number": "5840",
   "title": "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU KANUNU",
   "slug": "5840-kadin-erkek-firsat-esitligi-komisyonu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2009-02-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2009-03-24",
+    "number": "27179"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5840.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104073",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5840",
+  "source_mevzuat_id": "104073",
   "source_type": "KANUN",
-  "content_sha256": "08e1562a3a54b349ef3ed84e8480d7a7d55dd18765116dea2f7d9e6475117e57",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e0ff1f7fc0cfac10dbb822e4ad7c6245521dc98b393112b9987012602536ddab",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7258",
   "title": "FUTBOL VE DİĞER SPOR MÜSABAKALARINDA BAHİS VE ŞANS OYUNLARI DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "7258-futbol-ve-diger-spor-musabakalarinda-bahis-ve-sans-oyunlari-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1959-04-29",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "10201"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7258.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103801",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7258",
+  "source_mevzuat_id": "103801",
   "source_type": "KANUN",
-  "content_sha256": "60bcd7f3436fa27fa57d9ab24f661f74dc53fbc1656158b4f68a1fcf92f57900",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c60d929011e23308756f4f388851cb0b4ed6f81cfe9fd1f60e70a9d2049a2457",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "245",
   "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ REİSİ MÜŞİR GAZİ MUSTAFA KEMAL PAŞA HAZRETLERİNE BAŞKUMANDANLIK TEVCİHİ HAKKINDA KANUN",
   "slug": "245-turkiye-buyuk-millet-meclisi-reisi-musir-gazi-mustafa-kemal-pasa-hazretlerine-baskumandanlik-tevcihi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1338-07-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
+    "date": "1922-07-20",
     "number": null
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.245.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105434",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.245",
+  "source_mevzuat_id": "105434",
   "source_type": "KANUN",
-  "content_sha256": "68fa134260d7b5b4b7e0489a4cd3b72f136dd76c05c7f98876d02960bc56a55f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "117da49e9d9e8c74a8ecc63a00ee3f754588faf5d4c46b20b33f81646e591e1c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

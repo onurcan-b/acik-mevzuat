@@ -2,17 +2,17 @@
   "law_number": "5407",
   "title": "TÜRKİYE CUMHURİYETİ ORDUSU BANDOLARI VE CUMHURBAŞKANLIĞI ARMONİ MÜZİKASI İÇİN YETİŞTİRİLECEK MÜZİKA ÖĞRETMENLERİ HAKKINDA KANUN",
   "slug": "5407-turkiye-cumhuriyeti-ordusu-bandolari-ve-cumhurbaskanligi-armoni-muzikasi-icin-yetistirilecek-muzika-ogretmenleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1949-05-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1949-06-04",
+    "number": "7224"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5407.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105188",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5407",
+  "source_mevzuat_id": "105188",
   "source_type": "KANUN",
-  "content_sha256": "e8b28ab846fde9975f22fc207df6f8dec9bcef25862370d55ef7ec9af5d45991",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b5bddcc4ee1e8fe2ab446f4c980fdbb920d63e708bcddf379c70c35d451b29e4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

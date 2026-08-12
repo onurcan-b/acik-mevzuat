@@ -2,17 +2,17 @@
   "law_number": "6207",
   "title": "AVUKATLAR YARDIMLAŞMA KANUNU",
   "slug": "6207-avukatlar-yardimlasma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1953-12-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1953-12-29",
+    "number": "8595"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6207.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105159",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6207",
+  "source_mevzuat_id": "105159",
   "source_type": "KANUN",
-  "content_sha256": "3c98580c6de0ba2e772e52dc53d4342ba2907c0f8969e4f1d16ff916fb692a3b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "44db905e84d4583702946a5476559ef844e36a682f350591ae0dab2dec1f2b0d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

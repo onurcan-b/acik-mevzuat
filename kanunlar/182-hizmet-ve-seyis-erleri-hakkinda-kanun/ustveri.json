@@ -2,17 +2,17 @@
   "law_number": "182",
   "title": "HİZMET VE SEYİS ERLERİ HAKKINDA KANUN",
   "slug": "182-hizmet-ve-seyis-erleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-12-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-02",
+    "number": "10696"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.182.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105050",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.182",
+  "source_mevzuat_id": "105050",
   "source_type": "KANUN",
-  "content_sha256": "fd989f828a6b244e057bc83b26ad3793e417bcc2db9fd99f09f6c2c90e25b25c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5c0c082f5346f98ce41862fb4a6be58495f61d91739834b181b000f61d14c644",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

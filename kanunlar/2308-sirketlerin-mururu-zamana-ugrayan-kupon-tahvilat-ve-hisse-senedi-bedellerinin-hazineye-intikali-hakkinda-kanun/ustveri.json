@@ -2,17 +2,17 @@
   "law_number": "2308",
   "title": "ŞİRKETLERİN MÜRURU ZAMANA UĞRAYAN KUPON, TAHVİLAT VE HİSSE SENEDİ BEDELLERİNİN HAZİNEYE İNTİKALİ HAKKINDA KANUN",
   "slug": "2308-sirketlerin-mururu-zamana-ugrayan-kupon-tahvilat-ve-hisse-senedi-bedellerinin-hazineye-intikali-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1933-06-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1933-06-26",
+    "number": "2437"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2308.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105335",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2308",
+  "source_mevzuat_id": "105335",
   "source_type": "KANUN",
-  "content_sha256": "769d470d591efa5bef3ff463c7adb01369d6250c673f17c2f7ead874e00df06c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "37b02ade77d8024b2c23ff7a38de2f54a99d1cfeac28f735e79d28e351665175",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

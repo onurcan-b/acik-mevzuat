@@ -1,18 +1,18 @@
 {
   "law_number": "2918",
-  "title": "Karayolları Trafik Kanunu",
+  "title": "KARAYOLLARI TRAFİK KANUNU",
   "slug": "2918-karayollari-trafik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-10-13",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18195"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2918.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102918",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2918",
+  "source_mevzuat_id": "102918",
   "source_type": "KANUN",
-  "content_sha256": "2b780fe98c547cda0b0ab9cf0b7f2ed29e1cbe0c08e9e6bd6389aa82b60c6129",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7d44148de7a392236a0a42072526f38229859b204cd87b81ea531350696d828a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "555",
+  "title": "COĞRAFİ İŞARETLERİN KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "555-cografi-isaretlerin-korunmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1995-06-27",
+    "number": "22326"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336281",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336281",
+  "source_type": "MULGA",
+  "content_sha256": "5dd67790498ac485db210b96b9e15f09fe86d4643a64d8a7f7ecaabf5a73cc4a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

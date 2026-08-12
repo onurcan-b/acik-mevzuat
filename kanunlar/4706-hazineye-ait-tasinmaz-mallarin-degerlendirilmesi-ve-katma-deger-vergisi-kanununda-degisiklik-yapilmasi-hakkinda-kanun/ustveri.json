@@ -2,17 +2,17 @@
   "law_number": "4706",
   "title": "HAZİNEYE AİT TAŞINMAZ MALLARIN DEĞERLENDİRİLMESİ VE KATMA DEĞER VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "4706-hazineye-ait-tasinmaz-mallarin-degerlendirilmesi-ve-katma-deger-vergisi-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-06-29",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24466"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4706.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103296",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4706",
+  "source_mevzuat_id": "103296",
   "source_type": "KANUN",
-  "content_sha256": "d752598cc67f1e8ce81aba129a47d2843318dfa922c0068c41738f8c4bf8b083",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "db7690916c123fd0d31161aff4d95e1cd0023a25e354a368cbc077d796b93304",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

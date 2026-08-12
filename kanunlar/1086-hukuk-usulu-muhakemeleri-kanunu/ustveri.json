@@ -1,0 +1,18 @@
+{
+  "law_number": "1086",
+  "title": "HUKUK USULÜ MUHAKEMELERİ KANUNU",
+  "slug": "1086-hukuk-usulu-muhakemeleri-kanunu",
+  "accepted_date": "1927-06-18",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1927-07-02",
+    "number": "622"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/347820",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "347820",
+  "source_type": "MULGA",
+  "content_sha256": "4ea70977171e583799599bade7d679672d68986667e0677f4bdf4740d38e34a9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1600",
+  "title": "ASKERİ YARGITAY KANUNUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "1600-askeri-yargitay-kanununun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "1972-06-27",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1972-07-08",
+    "number": "14239"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335542",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335542",
+  "source_type": "MULGA",
+  "content_sha256": "71b8ea4b4d93e15a865148541ac1000a9c1d57f34e3a563c210a8084356ed072",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

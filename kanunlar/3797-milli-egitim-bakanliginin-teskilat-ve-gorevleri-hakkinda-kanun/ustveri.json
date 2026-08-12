@@ -1,0 +1,18 @@
+{
+  "law_number": "3797",
+  "title": "MİLLİ EĞİTİM BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "3797-milli-egitim-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": "1992-04-30",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1992-05-12",
+    "number": "21226"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335500",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335500",
+  "source_type": "MULGA",
+  "content_sha256": "0cb599d09c3e12601b97f8e73f6ff17e29f80b7effd8ad1c12d47f3e9fb79b26",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

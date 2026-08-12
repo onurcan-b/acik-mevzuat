@@ -2,17 +2,17 @@
   "law_number": "1593",
   "title": "UMUMİ HIFZISSIHHA KANUNU",
   "slug": "1593-umumi-hifzissihha-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1930-04-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1930-05-06",
+    "number": "1489"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1593.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105367",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1593",
+  "source_mevzuat_id": "105367",
   "source_type": "KANUN",
-  "content_sha256": "3e0b339905ad0feb01a8b7d078e53b402a258527b239e74cf68a678939476229",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2693ac6246cdc139188413b1b88352e1610380d4c0d8078e075da3e3bbcfa51a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5750",
   "title": "EXPO 2015 İZMİR YÖNLENDİRME KURULUNUN TÜZEL KİŞİLİK KAZANMASI, GELİR VE HARCAMALARI İLE DENETİM VE TASFİYESİ HAKKINDA KANUN",
   "slug": "5750-expo-2015-izmir-yonlendirme-kurulunun-tuzel-kisilik-kazanmasi-gelir-ve-harcamalari-ile-denetim-ve-tasfiyesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-03-19",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2008-03-22",
+    "number": "26824 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5750.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104061",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5750",
+  "source_mevzuat_id": "104061",
   "source_type": "KANUN",
-  "content_sha256": "1d931fb1359f1a4c1fa18194dd1eb212d8960bf9ced646ac3023250898336487",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "53e1ed15cb19cd96f5a9a4268dc0de5c582f54ea0c52fda0170ea630beba2e85",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

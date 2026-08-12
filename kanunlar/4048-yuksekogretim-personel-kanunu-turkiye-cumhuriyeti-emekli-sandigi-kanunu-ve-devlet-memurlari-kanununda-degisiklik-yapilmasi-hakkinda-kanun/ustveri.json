@@ -2,17 +2,17 @@
   "law_number": "4048",
   "title": "YÜKSEKÖĞRETİM PERSONEL KANUNU, TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU VE DEVLET MEMURLARI KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "4048-yuksekogretim-personel-kanunu-turkiye-cumhuriyeti-emekli-sandigi-kanunu-ve-devlet-memurlari-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-11-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1994-12-02",
+    "number": "22129"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4048.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103318",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4048",
+  "source_mevzuat_id": "103318",
   "source_type": "KANUN",
-  "content_sha256": "74a13ba86829e0be98bf90a2bdf8218ff11b2042a4195449350c153c9a16bd4e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "73bf88d7293747a0f8f31f4b28dadc0b30f54838452bed6f612b067a14af353c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

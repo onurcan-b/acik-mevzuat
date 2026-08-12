@@ -1,0 +1,18 @@
+{
+  "law_number": "3005",
+  "title": "MEŞHUT SUÇLARIN MUHAKEME USULÜ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "3005-meshut-suclarin-muhakeme-usulu-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1936-06-08",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1936-06-13",
+    "number": "3329"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335282",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335282",
+  "source_type": "MULGA",
+  "content_sha256": "734092fa438eb27a5720ac4c42fef13cd20d837af15acca7ef14ea0c95baaeb6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

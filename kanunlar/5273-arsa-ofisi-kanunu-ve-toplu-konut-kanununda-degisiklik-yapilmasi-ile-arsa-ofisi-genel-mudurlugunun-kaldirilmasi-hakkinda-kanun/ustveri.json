@@ -2,17 +2,17 @@
   "law_number": "5273",
   "title": "ARSA OFİSİ KANUNU VE TOPLU KONUT KANUNUNDA DEĞİŞİKLİK YAPILMASI İLE ARSA OFİSİ GENEL MÜDÜRLÜĞÜNÜN KALDIRILMASI HAKKINDA KANUN",
   "slug": "5273-arsa-ofisi-kanunu-ve-toplu-konut-kanununda-degisiklik-yapilmasi-ile-arsa-ofisi-genel-mudurlugunun-kaldirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-12-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-12-15",
+    "number": "25671"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5273.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103846",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5273",
+  "source_mevzuat_id": "103846",
   "source_type": "KANUN",
-  "content_sha256": "4ed040b9d3934cc04fc77d4381cd6aa89d3217e1dda568092c0e323670665b30",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ea81c679b313d9b55bdb8037eb4fa0c5712a50587a02fafc877b13bebc19be21",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

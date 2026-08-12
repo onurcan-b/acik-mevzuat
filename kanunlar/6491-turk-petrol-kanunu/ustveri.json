@@ -2,17 +2,17 @@
   "law_number": "6491",
   "title": "TÜRK PETROL KANUNU",
   "slug": "6491-turk-petrol-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2013-05-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2013-06-11",
+    "number": "28674"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6491.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104232",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6491",
+  "source_mevzuat_id": "104232",
   "source_type": "KANUN",
-  "content_sha256": "6dd1ada62983cc73ea24daf1a422ef3a78c32ec181f3843b075d82a95cc46769",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8b84367e3b83aca04102d27fd66e4a0bdd9295de07012b7b536822c7eae2b136",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

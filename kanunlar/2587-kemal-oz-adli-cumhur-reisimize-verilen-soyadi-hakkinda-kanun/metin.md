@@ -1,19 +1,42 @@
 # KEMAL ÖZ ADLI CÜMHUR REİSİMİZE VERİLEN SOYADI HAKKINDA KANUN (No. 2587)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2587.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105321
+> Resmî Gazete: 1934-11-27 / 2865
+> UYAP Mevzuat kimliği: 105321
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 16 Sayfa: 4
+1424
 
-KEMAL öz adlı Cümhur Reisimize ATATÜRK soy adı verilmiştir.
+KEMAL
+ÖZ ADLI CÜMHUR REİSİMİZE VERİLEN SOY ADI
 
-# MADDE 2
+HAKKINDA
+KANUN
 
-Bu kanun neşri tarihinden muteberdir.
+Kanun
+Numarası : 2587
 
-# MADDE 3
+Kabul
+Tarihi : 24/11/1934
 
-Bu kanun Büyük Millet Meclisi tarafından icra olunur.
+Yayımlandığı
+Resmî Gazete : Tarih: 27/11/1934 Sayı: 2865
+
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 16 Sayfa: 4
+
+Madde
+1 –
+KEMAL
+öz adlı Cümhur Reisimize ATATÜRK soy adı verilmiştir.
+
+Madde
+2 –
+Bu
+kanun neşri tarihinden muteberdir.
+
+Madde
+3 –
+Bu
+kanun Büyük Millet Meclisi tarafından icra olunur.

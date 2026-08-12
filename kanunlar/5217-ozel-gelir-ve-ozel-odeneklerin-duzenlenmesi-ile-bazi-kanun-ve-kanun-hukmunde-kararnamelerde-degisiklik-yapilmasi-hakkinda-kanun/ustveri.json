@@ -2,17 +2,17 @@
   "law_number": "5217",
   "title": "ÖZEL GELİR VE ÖZEL ÖDENEKLERİN DÜZENLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5217-ozel-gelir-ve-ozel-odeneklerin-duzenlenmesi-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-07-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-23",
+    "number": "25531"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5217.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103774",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5217",
+  "source_mevzuat_id": "103774",
   "source_type": "KANUN",
-  "content_sha256": "26d85f7415b8cacb5aa642ed25ef928fdaa848bb74c70eec2fa5a80738437321",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a106b894043826a72ba1e36aba43bf701a17669951dbd001950834079ef969ab",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

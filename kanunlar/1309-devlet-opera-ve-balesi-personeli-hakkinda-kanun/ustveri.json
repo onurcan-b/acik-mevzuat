@@ -2,17 +2,17 @@
   "law_number": "1309",
   "title": "DEVLET OPERA VE BALESİ PERSONELİ HAKKINDA KANUN",
   "slug": "1309-devlet-opera-ve-balesi-personeli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1970-07-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1970-07-23",
+    "number": "13557"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1309.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104987",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1309",
+  "source_mevzuat_id": "104987",
   "source_type": "KANUN",
-  "content_sha256": "4554d91afd29d8393d0f37bcdd04ce3dbd97d4f5f9b2ec24fb770af08f1fb597",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6620a17c082013b17e32fe7e83ce409658d9d050a13d61d7a3ac80777d2b500d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7429",
   "title": "ELEKTRİK PİYASASI KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7429-elektrik-piyasasi-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2022-12-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2022-12-28",
+    "number": "32057"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7429.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103052",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7429",
+  "source_mevzuat_id": "103052",
   "source_type": "KANUN",
-  "content_sha256": "6ffefa2759d2358508a43618f047d85e73901fde399f83b16edcae4dd6d46456",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "95a5709ac1ce8576f53f95262b6eebad7b388645e431c929de6619030cbd7b87",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }
