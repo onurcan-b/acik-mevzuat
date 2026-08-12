@@ -2,17 +2,17 @@
   "law_number": "7088",
   "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
   "slug": "7088-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2018-02-07",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "30354 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7088.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104263",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7088",
+  "source_mevzuat_id": "104263",
   "source_type": "KANUN",
-  "content_sha256": "d4e3a19b95e31b511d20dbdcc45c32d78dc98b97c6f66f52b1f06fb72499490c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ee3994bd47b1eaf112defe09c42ce6bcc0f647206ad6a727c6d4d6172a8e3642",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

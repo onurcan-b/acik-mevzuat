@@ -2,17 +2,17 @@
   "law_number": "6745",
   "title": "YATIRIMLARIN PROJE BAZINDA DESTEKLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6745-yatirimlarin-proje-bazinda-desteklenmesi-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-08-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-09-07",
+    "number": "29824"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6745.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104424",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6745",
+  "source_mevzuat_id": "104424",
   "source_type": "KANUN",
-  "content_sha256": "1edb0ecd7d3c504198e73e797ceb82997a3437be6b3f78acec122eb038ae47b9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "089d1fb4d135a4ef4ccca8c67f0d2a22b8a1f3d12ba67cd2ad7bec576b19070f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

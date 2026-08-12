@@ -1,0 +1,18 @@
+{
+  "law_number": "1602",
+  "title": "ASKERİ YÜKSEK İDARE MAHKEMESİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "1602-askeri-yuksek-idare-mahkemesi-kanununun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "1972-07-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1972-07-20",
+    "number": "14251"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335311",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335311",
+  "source_type": "MULGA",
+  "content_sha256": "2c7305bde0d160bd47e2175e5726f2f767c44b8d9ac59e262800c5c1fbf259b8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

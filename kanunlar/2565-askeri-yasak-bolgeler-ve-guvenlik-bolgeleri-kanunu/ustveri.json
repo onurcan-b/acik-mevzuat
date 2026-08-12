@@ -2,17 +2,17 @@
   "law_number": "2565",
   "title": "ASKERİ YASAK BÖLGELER VE GÜVENLİK BÖLGELERİ KANUNU",
   "slug": "2565-askeri-yasak-bolgeler-ve-guvenlik-bolgeleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1981-12-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-12-22",
+    "number": "17552"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2565.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104184",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2565",
+  "source_mevzuat_id": "104184",
   "source_type": "KANUN",
-  "content_sha256": "94fee6767915ae0485ce48da5adc9896c5996ca049be30c65d089cb18ed22db5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4c16ae7eb277a64409ce4111cbee57b9450ff3012547473011786d2c6fe22be7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

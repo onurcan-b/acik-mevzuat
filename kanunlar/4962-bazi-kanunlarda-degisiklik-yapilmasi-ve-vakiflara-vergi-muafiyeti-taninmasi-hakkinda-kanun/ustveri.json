@@ -2,17 +2,17 @@
   "law_number": "4962",
   "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE VAKIFLARA VERGİ MUAFİYETİ TANINMASI HAKKINDA KANUN",
   "slug": "4962-bazi-kanunlarda-degisiklik-yapilmasi-ve-vakiflara-vergi-muafiyeti-taninmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-07-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-08-07",
+    "number": "25192"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4962.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103703",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4962",
+  "source_mevzuat_id": "103703",
   "source_type": "KANUN",
-  "content_sha256": "b41d800787955ebefc121a67020e384faae43b112bc5df2639b6a1e2c7fc6b01",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a17f5641376c22b0d8efbb37f1916b90257e7b2974c301f53677dade08d92bc8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

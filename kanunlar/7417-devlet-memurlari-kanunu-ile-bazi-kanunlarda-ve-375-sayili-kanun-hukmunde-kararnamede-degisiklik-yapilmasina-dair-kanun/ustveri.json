@@ -2,17 +2,17 @@
   "law_number": "7417",
   "title": "DEVLET MEMURLARI KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7417-devlet-memurlari-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2022-07-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2022-07-05",
+    "number": "31887"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7417.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103462",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7417",
+  "source_mevzuat_id": "103462",
   "source_type": "KANUN",
-  "content_sha256": "f3df4ca8bc366bce14e4fb1259055f458a571570a49088f16b9c8aa749017132",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "de76c7098f2f30e3fc604e26a9aef49309ac22f7e4ccdbb947a8b7f8a640ede6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

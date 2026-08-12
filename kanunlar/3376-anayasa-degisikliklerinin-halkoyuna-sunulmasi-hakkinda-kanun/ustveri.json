@@ -2,17 +2,17 @@
   "law_number": "3376",
   "title": "ANAYASA DEĞİŞİKLİKLERİNİN HALKOYUNA SUNULMASI HAKKINDA KANUN",
   "slug": "3376-anayasa-degisikliklerinin-halkoyuna-sunulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1987-05-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1987-05-28",
+    "number": "19473"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3376.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104749",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3376",
+  "source_mevzuat_id": "104749",
   "source_type": "KANUN",
-  "content_sha256": "49c3e0c1385afe4be0eae35674b2ed5d834cf04eca8f6b2051384be02f6c27da",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cc39898dbdf7672e87b9a00489507c2f3157dbcf49bd7120916eeba2c78f8ee0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

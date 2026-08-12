@@ -1,0 +1,18 @@
+{
+  "law_number": "3645",
+  "title": "İSTANBUL ELEKTRİK,TRAMVAY VE TÜNEL İDARELERİ TEŞKİLAT VE TESİSATININ İSTANBUL BELEDİYESİNE DEVRİNE DAİR KANUN",
+  "slug": "3645-istanbul-elektrik-tramvay-ve-tunel-idareleri-teskilat-ve-tesisatinin-istanbul-belediyesine-devrine-dair-kanun",
+  "accepted_date": "1939-06-16",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1939-06-22",
+    "number": "4239"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105269",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105269",
+  "source_type": "KANUN",
+  "content_sha256": "ebf8f01fcb2c5ad28efd85acf85a3738dad30eae1d48c3e5c6f9fed63737fc66",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

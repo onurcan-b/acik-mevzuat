@@ -2,17 +2,17 @@
   "law_number": "6769",
   "title": "SINAİ MÜLKİYET KANUNU",
   "slug": "6769-sinai-mulkiyet-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2016-12-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2017-01-10",
+    "number": "29944"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6769.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104221",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6769",
+  "source_mevzuat_id": "104221",
   "source_type": "KANUN",
-  "content_sha256": "76eb38eda93559ce890cb367c7af701220c718d17fbbc39daeb9af4afc26ecdf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7c8c78280882706bce33ec2703ee880c5e8908e2bb21f3ca9d8b1f1bc33c96b0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

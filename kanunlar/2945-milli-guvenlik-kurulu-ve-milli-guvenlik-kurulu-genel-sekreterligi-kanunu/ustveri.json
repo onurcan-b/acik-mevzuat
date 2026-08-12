@@ -1,0 +1,18 @@
+{
+  "law_number": "2945",
+  "title": "MİLLİ GÜVENLİK KURULU VE MİLLİ GÜVENLİK KURULU GENEL SEKRETERLİĞİ KANUNU",
+  "slug": "2945-milli-guvenlik-kurulu-ve-milli-guvenlik-kurulu-genel-sekreterligi-kanunu",
+  "accepted_date": "1983-11-09",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-11-11",
+    "number": "18218"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335515",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335515",
+  "source_type": "MULGA",
+  "content_sha256": "406a05a8b1a5c17e847ffdaa3688d725e142dd4165bb218fa2840ac9c343dd19",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

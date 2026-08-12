@@ -2,17 +2,17 @@
   "law_number": "2549",
   "title": "DEVLET MEZARLIĞI HAKKINDA KANUN",
   "slug": "2549-devlet-mezarligi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-11-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-11-10",
+    "number": "17510"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2549.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104605",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2549",
+  "source_mevzuat_id": "104605",
   "source_type": "KANUN",
-  "content_sha256": "d62d16c13e525d87b1dfe887234b1ca392261a7ce945499935de32176e979046",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a446f2d561e3c3a40726c51fbd4edb1125751eddcd67aae90de02a34717b9bf7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

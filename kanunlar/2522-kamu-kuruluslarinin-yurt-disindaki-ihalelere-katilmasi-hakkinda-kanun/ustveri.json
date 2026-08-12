@@ -2,17 +2,17 @@
   "law_number": "2522",
   "title": "KAMU KURULUŞLARININ YURT DIŞINDAKİ İHALELERE KATILMASI HAKKINDA KANUN",
   "slug": "2522-kamu-kuruluslarinin-yurt-disindaki-ihalelere-katilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-09-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-09-15",
+    "number": "17459"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2522.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104926",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2522",
+  "source_mevzuat_id": "104926",
   "source_type": "KANUN",
-  "content_sha256": "07e38d2298b327a6c434a02c5b6c68ac68499b9770ed0950c3a2ea84cd78a43f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f2241cfb509dd6e5608dc73e7e8986b5d8b187308b30b3ed8d7774525b502525",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

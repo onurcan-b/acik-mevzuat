@@ -1,0 +1,18 @@
+{
+  "law_number": "129",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YÜKSEKÖĞRETİM ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 129)",
+  "slug": "129-olaganustu-hal-kapsaminda-yuksekogretim-alaninda-alinan-tedbirlere-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-129",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-03",
+    "number": "32121"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336502",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336502",
+  "source_type": "MULGA",
+  "content_sha256": "9086cb26d65050e8c7e789296cfddfe58a4eef13e21be4d7edd3cb0159ae45b3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

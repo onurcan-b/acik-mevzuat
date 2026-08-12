@@ -2,17 +2,17 @@
   "law_number": "3508",
   "title": "KAYSERİ İL MERKEZİNDE MELİKGAZİ VE KOCASİNAN ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
   "slug": "3508-kayseri-il-merkezinde-melikgazi-ve-kocasinan-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1988-12-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1988-12-14",
+    "number": "20019"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3508.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104705",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3508",
+  "source_mevzuat_id": "104705",
   "source_type": "KANUN",
-  "content_sha256": "118fac0fd13b0b41c65c50cc37ef87895c3bf161059294065573dcf32ac5a85c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ce449e680579994e6aa9593f5b8362c380a667b7f3fed908085fa6c0918c7e1b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

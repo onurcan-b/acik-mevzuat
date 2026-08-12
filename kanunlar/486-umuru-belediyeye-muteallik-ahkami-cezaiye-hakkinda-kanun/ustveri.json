@@ -2,17 +2,17 @@
   "law_number": "486",
   "title": "UMURU BELEDİYEYE MÜTEALLİK AHKAMI CEZAİYE HAKKINDA KANUN",
   "slug": "486-umuru-belediyeye-muteallik-ahkami-cezaiye-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1924-04-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1924-05-17",
+    "number": "70"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.486.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105423",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.486",
+  "source_mevzuat_id": "105423",
   "source_type": "KANUN",
-  "content_sha256": "1db092952de29436acee44a861bd2cd2bdeb59c31a8031b2497a8b8171defcb9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7794f3f4739c91bd554f85a4e8f05c4eab81ca7011aabfbe6880bf53b80b0799",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

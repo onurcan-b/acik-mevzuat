@@ -2,17 +2,17 @@
   "law_number": "2015",
   "title": "ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNDEN 167 DÖNÜM BEŞYÜZ METREKARELİK KISMININ ANKARA BELEDİYESİNE SATILMASI HAKKINDA KANUN",
   "slug": "2015-ataturk-orman-ciftligi-arazisinden-167-donum-besyuz-metrekarelik-kisminin-ankara-belediyesine-satilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1976-06-19",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1976-06-26",
+    "number": "15628"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2015.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104969",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2015",
+  "source_mevzuat_id": "104969",
   "source_type": "KANUN",
-  "content_sha256": "e21ba775f842316ab3a432226557f9817327c012bafba473375e9c983dc736ae",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c4630156789a9707c2337d7e3ddc412c53f1cf97e3ea5ad0dba05b74dffc8c3e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

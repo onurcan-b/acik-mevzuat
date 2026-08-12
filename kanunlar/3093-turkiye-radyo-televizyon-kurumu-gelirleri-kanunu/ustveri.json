@@ -2,17 +2,17 @@
   "law_number": "3093",
   "title": "TÜRKİYE RADYO - TELEVİZYON KURUMU GELİRLERİ KANUNU",
   "slug": "3093-turkiye-radyo-televizyon-kurumu-gelirleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1984-12-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-12-15",
+    "number": "18606"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3093.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104450",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3093",
+  "source_mevzuat_id": "104450",
   "source_type": "KANUN",
-  "content_sha256": "637c0c5dd8df1d5a888f4bf01c952b282c2d5678ab2e0872ad9c52e90fe7be31",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "00d2b76bb6a4c5a879e5c9f34edd6a666fd1c7018841b9bf5d651bbd6b156d50",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

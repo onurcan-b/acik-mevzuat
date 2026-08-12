@@ -1,18 +1,18 @@
 {
   "law_number": "2709",
-  "title": "Türkiye Cumhuriyeti Anayasası",
+  "title": "TÜRKİYE CUMHURİYETİ ANAYASASI",
   "slug": "2709-turkiye-cumhuriyeti-anayasasi",
-  "accepted_date": null,
+  "accepted_date": "1982-10-18",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17863 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103165",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2709",
-  "source_type": "ANAYASA",
-  "content_sha256": "d5ddedc1f0245f37d8a22cd9ebce76f471a84bfc9eeca5cc898d11868ff65663",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "source_mevzuat_id": "103165",
+  "source_type": "KANUN",
+  "content_sha256": "26f05e97bca5589df47382a9f271169e5f9adf55ab931e57f9f480d3b9e080c7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "4721",
+  "title": "TÜRK MEDENİ KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "4721-turk-medeni-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "2001-11-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2001-12-08",
+    "number": "24607"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335263",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335263",
+  "source_type": "MULGA",
+  "content_sha256": "f9a6d803f2134d50273931bd9ffe779e5841ace61870a9200ff8f0aa05e76279",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

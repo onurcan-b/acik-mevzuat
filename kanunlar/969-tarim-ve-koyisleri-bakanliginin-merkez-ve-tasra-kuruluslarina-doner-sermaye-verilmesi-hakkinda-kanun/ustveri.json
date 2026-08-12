@@ -2,17 +2,17 @@
   "law_number": "969",
   "title": "TARIM VE KÖYİŞLERİ BAKANLIĞININ MERKEZ VE TAŞRA KURULUŞLARINA DÖNER SERMAYE VERİLMESİ HAKKINDA KANUN",
   "slug": "969-tarim-ve-koyisleri-bakanliginin-merkez-ve-tasra-kuruluslarina-doner-sermaye-verilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1967-12-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1967-12-30",
+    "number": "12790"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.969.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105025",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.969",
+  "source_mevzuat_id": "105025",
   "source_type": "KANUN",
-  "content_sha256": "d9beb12b4356cb844e8fa12640e12843ce1969ff105391d7b1cdf618efe47704",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "372ded2e85fb9ab27dd972157eac1609da9eaef696e064504bea824e46bb198a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

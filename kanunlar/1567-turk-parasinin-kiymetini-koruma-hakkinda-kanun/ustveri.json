@@ -2,17 +2,17 @@
   "law_number": "1567",
   "title": "TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN",
   "slug": "1567-turk-parasinin-kiymetini-koruma-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1930-02-20",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "1433"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1567.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104506",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1567",
+  "source_mevzuat_id": "104506",
   "source_type": "KANUN",
-  "content_sha256": "6c5d15a9b3b01ac665b7e46da897915a5628523b4699d7bb7d2c061ef1fb57d4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "733b39d612234f7aa83dc5fc3f4fb63029c1ca9a2ea75512edbc0f3269b9fe73",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

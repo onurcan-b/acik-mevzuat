@@ -1,0 +1,18 @@
+{
+  "law_number": "488",
+  "title": "DAMGA VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "488-damga-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1964-07-01",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "11751"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335338",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335338",
+  "source_type": "MULGA",
+  "content_sha256": "050f0c62698a46cdbdbf6218db4d5a76e14a9cd02663581196e6a3b92472321d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

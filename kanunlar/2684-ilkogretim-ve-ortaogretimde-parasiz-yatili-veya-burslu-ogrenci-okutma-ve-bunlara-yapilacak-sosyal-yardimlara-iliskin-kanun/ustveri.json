@@ -2,17 +2,17 @@
   "law_number": "2684",
   "title": "İLKÖĞRETİM VE ORTAÖĞRETİMDE PARASIZ YATILI VEYA BURSLU ÖĞRENCİ OKUTMA VE BUNLARA YAPILACAK SOSYAL YARDIMLARA İLİŞKİN KANUN",
   "slug": "2684-ilkogretim-ve-ortaogretimde-parasiz-yatili-veya-burslu-ogrenci-okutma-ve-bunlara-yapilacak-sosyal-yardimlara-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "1982-06-17",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1982-06-19",
+    "number": "17729"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2684.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104909",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2684",
+  "source_mevzuat_id": "104909",
   "source_type": "KANUN",
-  "content_sha256": "390d93c3ceb0cddaa0bc316eccb6cbc4af9d0a555bf54018fcb089b73746a441",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "256bc8ca7375b056a09bec4175d58c06a538a8b9386fcee769d6ca83765a3bdc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,22 +1,18 @@
 {
   "law_number": "5237",
-  "title": "Türk Ceza Kanunu",
+  "title": "TÜRK CEZA KANUNU",
   "slug": "5237-turk-ceza-kanunu",
   "accepted_date": "2004-09-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2004-10-12",
+    "date": null,
     "number": "25611"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103228",
   "language": "tr",
-  "tags": [
-    "ceza_hukuku",
-    "genel_hukumler",
-    "suclar_ve_cezalar"
-  ],
-  "source_mevzuat_id": "1.5.5237",
+  "tags": [],
+  "source_mevzuat_id": "103228",
   "source_type": "KANUN",
-  "content_sha256": "3b1f7d318be37956e3bd4eb2cf9830b8c7a178e91a9ba5c6908cc56b0e3c4a3f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "328d8c300ebc47645a3fc8a23ecd955f292e4f752433b0f56685cbc129194987",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

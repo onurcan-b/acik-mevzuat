@@ -2,17 +2,17 @@
   "law_number": "2923",
   "title": "YABANCI DİL EĞİTİMİ VE ÖĞRETİMİ İLE TÜRK VATANDAŞLARININ FARKLI DİL VE LEHÇELERİNİN ÖĞRENİLMESİ HAKKINDA KANUN",
   "slug": "2923-yabanci-dil-egitimi-ve-ogretimi-ile-turk-vatandaslarinin-farkli-dil-ve-lehcelerinin-ogrenilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-10-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-10-19",
+    "number": "18196"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2923.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104856",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2923",
+  "source_mevzuat_id": "104856",
   "source_type": "KANUN",
-  "content_sha256": "e3f3f19d4a4f54f9807ec1ca9498729efb6d00dc5aa10102930afce4c01dac69",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "870d3e3ac8197acd4b6174ac1a429861f63573b30a178f39730fd3cdf7c03b67",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

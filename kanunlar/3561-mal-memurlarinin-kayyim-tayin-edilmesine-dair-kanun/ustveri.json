@@ -2,17 +2,17 @@
   "law_number": "3561",
   "title": "MAL MEMURLARININ KAYYIM TAYİN EDİLMESİNE DAİR KANUN",
   "slug": "3561-mal-memurlarinin-kayyim-tayin-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1989-05-18",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "20177"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3561.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104700",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3561",
+  "source_mevzuat_id": "104700",
   "source_type": "KANUN",
-  "content_sha256": "f1669b8599bacb4a7197eeca30cca6c9fe9a6d040f1b9e282a509bd6c735f9fe",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1b287aaf9db51e6db56b30982c8dccfbf7505f81de64e10d7ed5a4dadfa9ea17",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

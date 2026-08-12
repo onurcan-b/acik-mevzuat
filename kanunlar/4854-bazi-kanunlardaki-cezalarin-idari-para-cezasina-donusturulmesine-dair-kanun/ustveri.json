@@ -2,17 +2,17 @@
   "law_number": "4854",
   "title": "BAZI KANUNLARDAKİ CEZALARIN İDARİ PARA CEZASINA DÖNÜŞTÜRÜLMESİNE DAİR KANUN",
   "slug": "4854-bazi-kanunlardaki-cezalarin-idari-para-cezasina-donusturulmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-04-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-05-06",
+    "number": "25100"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4854.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103637",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4854",
+  "source_mevzuat_id": "103637",
   "source_type": "KANUN",
-  "content_sha256": "62ef76498e0dc4dca9c522cb3258c37220e0a9d9cc6a2ef10545044368834de9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2c054e5dc8a61793e0bca06bab3b23b3279f98e6a73dd2f4356f81bdae1779e6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

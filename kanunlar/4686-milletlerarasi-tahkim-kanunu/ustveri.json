@@ -2,17 +2,17 @@
   "law_number": "4686",
   "title": "MİLLETLERARASI TAHKİM KANUNU",
   "slug": "4686-milletlerarasi-tahkim-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-06-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-07-05",
+    "number": "24453"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4686.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104629",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4686",
+  "source_mevzuat_id": "104629",
   "source_type": "KANUN",
-  "content_sha256": "61d9653e182571b1107e715124513a9f41de41332d0243d13799644ecb079ae7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e52f4f8e6f07dd169c1fe0612ef1e42940c4061525704c5bfc63eaadd8f3bf8c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

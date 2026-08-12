@@ -2,17 +2,17 @@
   "law_number": "5569",
   "title": "KÜÇÜK VE ORTA BÜYÜKLÜKTEKİ İŞLETMELERİN MALİ SEKTÖRE OLAN BORÇLARININ YENİDEN YAPILANDIRILMASI HAKKINDA KANUN",
   "slug": "5569-kucuk-ve-orta-buyuklukteki-isletmelerin-mali-sektore-olan-borclarinin-yeniden-yapilandirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-12-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-12-30",
+    "number": "26392"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5569.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103951",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5569",
+  "source_mevzuat_id": "103951",
   "source_type": "KANUN",
-  "content_sha256": "c0028e3599621f5de49c3bd727515e4404c4b4229e10e38b7a67b675801fad0d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7664a0b66650e827d74515794be69658b9ba0fac4189e3317d86a967d022eaa1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

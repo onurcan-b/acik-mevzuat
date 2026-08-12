@@ -2,17 +2,17 @@
   "law_number": "6750",
   "title": "TİCARİ İŞLEMLERDE TAŞINIR REHNİ KANUNU",
   "slug": "6750-ticari-islemlerde-tasinir-rehni-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2016-10-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-10-28",
+    "number": "29871"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6750.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104130",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6750",
+  "source_mevzuat_id": "104130",
   "source_type": "KANUN",
-  "content_sha256": "132146cba26f037157357bfc729600658011a10bc4e8d4030e3a7fb5869bff6d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a61df3eca0c39d1354f5abe708e2b39607fd7dab3260d863f4a6577ea6d57517",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

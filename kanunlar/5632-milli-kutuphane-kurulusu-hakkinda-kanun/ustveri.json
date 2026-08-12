@@ -1,0 +1,18 @@
+{
+  "law_number": "5632",
+  "title": "MİLLİ KÜTÜPHANE KURULUŞU HAKKINDA KANUN",
+  "slug": "5632-milli-kutuphane-kurulusu-hakkinda-kanun",
+  "accepted_date": "1950-03-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1950-03-29",
+    "number": "7469"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335488",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335488",
+  "source_type": "MULGA",
+  "content_sha256": "c3af5a9708a4de5cf5abea80955b0365c17145201f0fa0b6ea29f1cedbedc5be",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

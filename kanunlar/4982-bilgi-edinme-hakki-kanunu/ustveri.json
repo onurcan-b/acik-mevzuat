@@ -2,17 +2,17 @@
   "law_number": "4982",
   "title": "BİLGİ EDİNME HAKKI KANUNU",
   "slug": "4982-bilgi-edinme-hakki-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-10-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-10-24",
+    "number": "25269"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4982.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103705",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4982",
+  "source_mevzuat_id": "103705",
   "source_type": "KANUN",
-  "content_sha256": "856f9e0f96674c12eff6b3b80d7b6c5254128d57b45169405098e859ede28163",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "34bc628d784afa9658c5c501babe250da98e1bf11a80bc219a66d830ada9afcb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "217",
+  "title": "DEVLET PERSONEL BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "217-devlet-personel-baskanligi-kurulus-ve-gorevleri-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1984-06-18",
+    "number": "18435 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336484",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336484",
+  "source_type": "MULGA",
+  "content_sha256": "6010ce1cfd0ea33aead6ee564b718b6b7bdbfcd5d1daa0e9e61b85cb15b2d6d2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

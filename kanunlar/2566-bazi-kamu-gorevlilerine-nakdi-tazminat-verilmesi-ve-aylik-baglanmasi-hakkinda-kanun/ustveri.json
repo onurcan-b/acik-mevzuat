@@ -2,17 +2,17 @@
   "law_number": "2566",
   "title": "BAZI KAMU GÖREVLİLERİNE NAKDİ TAZMİNAT VERİLMESİ VE AYLIK BAĞLANMASI HAKKINDA KANUN",
   "slug": "2566-bazi-kamu-gorevlilerine-nakdi-tazminat-verilmesi-ve-aylik-baglanmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-12-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-12-22",
+    "number": "17552"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2566.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104918",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2566",
+  "source_mevzuat_id": "104918",
   "source_type": "KANUN",
-  "content_sha256": "353538c4e6377d82209edf0b2780950233925970d33d306bf364f3b158fc6a57",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a31e04d9a75a7541666d70e23d13a57e25279904b203fa7eb7454067c12e2e2d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

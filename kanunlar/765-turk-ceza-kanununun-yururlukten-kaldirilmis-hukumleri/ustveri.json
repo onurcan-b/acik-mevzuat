@@ -1,0 +1,18 @@
+{
+  "law_number": "765",
+  "title": "TÜRK CEZA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "765-turk-ceza-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1926-03-01",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "320"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335556",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335556",
+  "source_type": "MULGA",
+  "content_sha256": "3dbc9f229d9b9f039e9a4a44ea9f3d3d9c5bf8d802c03897a6b148656e5d1143",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

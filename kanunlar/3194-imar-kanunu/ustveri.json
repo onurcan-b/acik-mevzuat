@@ -2,17 +2,17 @@
   "law_number": "3194",
   "title": "İMAR KANUNU",
   "slug": "3194-imar-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1985-05-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18749"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3194.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103150",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3194",
+  "source_mevzuat_id": "103150",
   "source_type": "KANUN",
-  "content_sha256": "32c5908261b37a34ef431a97ce90164e3d79fd488d5e50230333d871c9d01b58",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7f36b10bb7b3e35175df8b8152265b05c1c7eb9caa582628bbea4a6ca621e8f3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

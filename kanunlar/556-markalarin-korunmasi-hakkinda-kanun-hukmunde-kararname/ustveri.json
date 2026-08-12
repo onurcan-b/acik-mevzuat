@@ -1,0 +1,18 @@
+{
+  "law_number": "556",
+  "title": "MARKALARIN KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "556-markalarin-korunmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1995-06-08",
+    "number": "22326"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336279",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336279",
+  "source_type": "MULGA",
+  "content_sha256": "a6832e11f0936bd641d20e6f608690210dcb38d76e7b2fe73024cff80e22cf45",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

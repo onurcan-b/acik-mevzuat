@@ -2,17 +2,17 @@
   "law_number": "4681",
   "title": "CEZA İNFAZ KURUMLARI VE TUTUKEVLERİ İZLEME KURULLARI KANUNU",
   "slug": "4681-ceza-infaz-kurumlari-ve-tutukevleri-izleme-kurullari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-06-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-06-21",
+    "number": "24439"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4681.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103556",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4681",
+  "source_mevzuat_id": "103556",
   "source_type": "KANUN",
-  "content_sha256": "232a6697bccd595c179fd7a752473fb800d180b9bac8832429074e9c73db0bcc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e40660cac51d26d8c66a20bed230a03576dc32d39d507e8fd9c146b2d39e94db",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

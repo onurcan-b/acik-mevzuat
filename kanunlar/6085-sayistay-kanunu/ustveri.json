@@ -2,17 +2,17 @@
   "law_number": "6085",
   "title": "SAYIŞTAY KANUNU",
   "slug": "6085-sayistay-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2010-12-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "27790"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6085.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103099",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6085",
+  "source_mevzuat_id": "103099",
   "source_type": "KANUN",
-  "content_sha256": "2465b1c8b0953a88fe42650acf4b1f08e407b22504179f12cae86bcb2ada493d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b1c196df3b82e6ae457e25e4ecf5c5a2f6ff2d110036bb09779035f0bc40684a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5201",
   "title": "HARP ARAÇ VE GEREÇLERİ İLE SİLAH, MÜHİMMAT VE PATLAYICI MADDE ÜRETEN SANAYİ KURULUŞLARININ DENETİMİ HAKKINDA KANUN",
   "slug": "5201-harp-arac-ve-gerecleri-ile-silah-muhimmat-ve-patlayici-madde-ureten-sanayi-kuruluslarinin-denetimi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-06-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-03",
+    "number": "25511"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5201.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103769",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5201",
+  "source_mevzuat_id": "103769",
   "source_type": "KANUN",
-  "content_sha256": "deceeb2d2c6489a63a599a72a4fd3a1c5e645c1e1b512621780bbf0f8f5d3495",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e2e2c52390912301b1b12fb46356a63490f52eb5e73b70b5fe4cb921f405d13d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

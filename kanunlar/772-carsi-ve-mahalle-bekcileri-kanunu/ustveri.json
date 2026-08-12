@@ -1,0 +1,18 @@
+{
+  "law_number": "772",
+  "title": "ÇARŞI VE MAHALLE BEKÇİLERİ KANUNU",
+  "slug": "772-carsi-ve-mahalle-bekcileri-kanunu",
+  "accepted_date": "1966-07-14",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1966-07-22",
+    "number": "12355"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335554",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335554",
+  "source_type": "MULGA",
+  "content_sha256": "6aa296e69f831ff83a4041bfe55aebf40a18a37558030ba9c25cc7a06c7704f2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

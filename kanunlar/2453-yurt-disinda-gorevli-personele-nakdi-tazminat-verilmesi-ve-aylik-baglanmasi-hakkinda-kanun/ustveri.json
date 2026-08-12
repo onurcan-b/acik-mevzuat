@@ -2,17 +2,17 @@
   "law_number": "2453",
   "title": "YURT DIŞINDA GÖREVLİ PERSONELE NAKDİ TAZMİNAT VERİLMESİ VE AYLIK BAĞLANMASI HAKKINDA KANUN",
   "slug": "2453-yurt-disinda-gorevli-personele-nakdi-tazminat-verilmesi-ve-aylik-baglanmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-04-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-04-25",
+    "number": "17321"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2453.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104947",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2453",
+  "source_mevzuat_id": "104947",
   "source_type": "KANUN",
-  "content_sha256": "6900b8220905783511eeaf86dcff8a09886c41b97a274f43c73d921ae4f484a3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3dbb41ebd79bced05da483fdc1c0e9c285adef71b2a2a5866e0eb64f8644da3e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

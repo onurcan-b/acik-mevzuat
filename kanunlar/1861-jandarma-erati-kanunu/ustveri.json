@@ -2,17 +2,17 @@
   "law_number": "1861",
   "title": "JANDARMA ERATI KANUNU",
   "slug": "1861-jandarma-erati-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1931-07-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1931-07-30",
+    "number": "1860"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1861.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105352",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1861",
+  "source_mevzuat_id": "105352",
   "source_type": "KANUN",
-  "content_sha256": "08435df8d11a0944c07c173a1e8d75b832365044c131b8f6986314cbb6460ffe",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4b65a8eefda8c566d68d48ff234ae64f70060299592850278633fc1f973cf80a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

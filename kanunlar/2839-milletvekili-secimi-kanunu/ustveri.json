@@ -2,17 +2,17 @@
   "law_number": "2839",
   "title": "MİLLETVEKİLİ SEÇİMİ KANUNU",
   "slug": "2839-milletvekili-secimi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-06-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-06-13",
+    "number": "18076"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2839.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103885",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2839",
+  "source_mevzuat_id": "103885",
   "source_type": "KANUN",
-  "content_sha256": "08ced9bdff3999f51786e304882274f14b3edb120a214bca16cce6c06ad02b8a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "96c66ddbc8e9852fd25ce3df23efaf868633a92e71dd338be031f29d5f8dd1fd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

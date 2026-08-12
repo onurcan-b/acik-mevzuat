@@ -2,17 +2,17 @@
   "law_number": "5436",
   "title": "KAMU MALİ YÖNETİMİ VE KONTROL KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5436-kamu-mali-yonetimi-ve-kontrol-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-12-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-12-24",
+    "number": "26033"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5436.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103918",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5436",
+  "source_mevzuat_id": "103918",
   "source_type": "KANUN",
-  "content_sha256": "98336e5004bcc22f2c613d15f8168975b557ba8137b458b028aa2009b10042ce",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "82d2d4fe9474e2c2ab0195df0ca21fbd90bb687a9576e12081970ea0c30525bc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

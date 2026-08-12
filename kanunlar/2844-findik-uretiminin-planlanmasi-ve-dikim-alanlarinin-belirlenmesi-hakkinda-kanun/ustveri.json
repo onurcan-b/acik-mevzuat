@@ -2,17 +2,17 @@
   "law_number": "2844",
   "title": "FINDIK ÜRETİMİNİN PLANLANMASI VE DİKİM ALANLARININ BELİRLENMESİ HAKKINDA KANUN",
   "slug": "2844-findik-uretiminin-planlanmasi-ve-dikim-alanlarinin-belirlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-06-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-06-18",
+    "number": "18081"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2844.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104875",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2844",
+  "source_mevzuat_id": "104875",
   "source_type": "KANUN",
-  "content_sha256": "3b1b13c396a372fbe4ea6107fcf73229360904e3494e858168d21ae3e07ce7b7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "518ddbe57736b56b46589e256c9752e801813a60ca8f4239e571d5eecc326205",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

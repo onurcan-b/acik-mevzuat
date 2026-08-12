@@ -2,17 +2,17 @@
   "law_number": "5429",
   "title": "TÜRKİYE İSTATİSTİK KANUNU",
   "slug": "5429-turkiye-istatistik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-11-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-11-18",
+    "number": "25997"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5429.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103912",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5429",
+  "source_mevzuat_id": "103912",
   "source_type": "KANUN",
-  "content_sha256": "37f364e2114b6247c2bf701952ff3c0f218fcd93b8e55d5984c395f5480b563c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a9efe5b76a3c2a564e842aebb116b19fbc463f480968916f669fb698b2ec7913",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

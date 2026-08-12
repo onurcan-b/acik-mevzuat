@@ -2,17 +2,17 @@
   "law_number": "5894",
   "title": "TÜRKİYE FUTBOL FEDERASYONU KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
   "slug": "5894-turkiye-futbol-federasyonu-kurulus-ve-gorevleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2009-05-05",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "27230"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5894.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103793",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5894",
+  "source_mevzuat_id": "103793",
   "source_type": "KANUN",
-  "content_sha256": "be13628cc7d61e12c514a17320c9942d0ded2e5eec10880f352e0d42e027ba59",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "da156b9de3741b7989779a4adfb2e4df63004b89ad8d6e361bb9def01a94f0bb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

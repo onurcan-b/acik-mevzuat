@@ -2,17 +2,17 @@
   "law_number": "5255",
   "title": "İZMİR KENTİNDE YAPILACAK DÜNYA ÜNİVERSİTELERARASI SPOR OYUNLARI (UNİVERSİADE) KANUNU",
   "slug": "5255-izmir-kentinde-yapilacak-dunya-universitelerarasi-spor-oyunlari-universiade-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-11-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-11-13",
+    "number": "25642"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5255.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103814",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5255",
+  "source_mevzuat_id": "103814",
   "source_type": "KANUN",
-  "content_sha256": "a4ff7e949b3f34795d8c7371306870704eebf00d380444fdd59a579d140e09e9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cbd72c54ad62c8e13e54b54508ae814dc957675345a34441a9cdf4d46a8f1921",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

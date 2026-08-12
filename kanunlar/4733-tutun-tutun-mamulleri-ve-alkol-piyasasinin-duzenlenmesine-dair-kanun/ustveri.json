@@ -1,18 +1,18 @@
 {
   "law_number": "4733",
-  "title": "Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun",
+  "title": "TÜTÜN, TÜTÜN MAMULLERİ VE ALKOL PİYASASININ DÜZENLENMESİNE DAİR KANUN",
   "slug": "4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2002-01-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24635"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4733.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103109",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4733",
+  "source_mevzuat_id": "103109",
   "source_type": "KANUN",
-  "content_sha256": "ae2c86d1d4cbbe1f56da652b593e667a370867ebdf34dc4880dba68ca2d64329",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cd79b97763fcf049d29247aba60c7696be33310c582e38e7bf8a0110e38cd56a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

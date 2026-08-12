@@ -2,17 +2,17 @@
   "law_number": "6322",
   "title": "AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6322-amme-alacaklarinin-tahsil-usulu-hakkinda-kanun-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2012-05-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-15",
+    "number": "28324"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6322.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104323",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6322",
+  "source_mevzuat_id": "104323",
   "source_type": "KANUN",
-  "content_sha256": "f4fba9f04a8a146db39aa43a08c15a5ed380b136bc4d9f5f9b61f99bb670637b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2a7cbf40d0dab6ea72ccceb936a33f822386fed96adba724aaf910ba2bf02949",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

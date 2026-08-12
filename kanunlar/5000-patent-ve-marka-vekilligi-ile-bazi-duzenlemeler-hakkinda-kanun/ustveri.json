@@ -2,17 +2,17 @@
   "law_number": "5000",
   "title": "PATENT VE MARKA VEKİLLİĞİ İLE BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "5000-patent-ve-marka-vekilligi-ile-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-11-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-11-19",
+    "number": "25294"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5000.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103708",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5000",
+  "source_mevzuat_id": "103708",
   "source_type": "KANUN",
-  "content_sha256": "76b090ffb2cd02cf1dc21c7f7b79788e12ca2c218798fda622d830e1f553d40c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "033a1001d6b876ba060e60c452726bb098e058a0b0cf30b624d6ced552d938d6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

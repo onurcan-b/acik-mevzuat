@@ -2,17 +2,17 @@
   "law_number": "7381",
   "title": "NÜKLEER DÜZENLEME KANUNU",
   "slug": "7381-nukleer-duzenleme-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2022-03-05",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "31772"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7381.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103056",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7381",
+  "source_mevzuat_id": "103056",
   "source_type": "KANUN",
-  "content_sha256": "a139c904d0bc0b8af91a7637d41b51c6eb2c1c8ddc72dd9db8d8107d5a0b9cd1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "10a345ba23a9e01704b3b662835e88d3696a627fc727e8d01257acd3b26d11fa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

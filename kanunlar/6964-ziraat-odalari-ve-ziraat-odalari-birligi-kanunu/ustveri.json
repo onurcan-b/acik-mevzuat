@@ -2,17 +2,17 @@
   "law_number": "6964",
   "title": "ZİRAAT ODALARI VE ZİRAAT ODALARI BİRLİĞİ KANUNU",
   "slug": "6964-ziraat-odalari-ve-ziraat-odalari-birligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1957-05-15",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "9614"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6964.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105104",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6964",
+  "source_mevzuat_id": "105104",
   "source_type": "KANUN",
-  "content_sha256": "8995af34ae200139d63b75775434dc59791ba2543dec73b056fbd694c38437c8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "52e6b6b7fbbda955fda37da4ede209d1c2c46d34dd331507e18af8c6e0daf3ea",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

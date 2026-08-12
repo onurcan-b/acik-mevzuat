@@ -2,17 +2,17 @@
   "law_number": "4688",
   "title": "KAMU GÖREVLİLERİ SENDİKALARI  VE TOPLU SÖZLEŞME KANUNU",
   "slug": "4688-kamu-gorevlileri-sendikalari-ve-toplu-sozlesme-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-06-25",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24460"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4688.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103152",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4688",
+  "source_mevzuat_id": "103152",
   "source_type": "KANUN",
-  "content_sha256": "a28fbc6dcffb17ee54b281a00fb68bc432302f690697e5fe6a53b79f74f84dae",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4a4580e50a2a27492b013c0e108f29706c1ed43cb94921743ad20964046d845d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

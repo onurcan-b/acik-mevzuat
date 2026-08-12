@@ -1,0 +1,18 @@
+{
+  "law_number": "645",
+  "title": "ORMAN VE SU İŞLERİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "645-orman-ve-su-isleri-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2011-07-04",
+    "number": "27984 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336271",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336271",
+  "source_type": "MULGA",
+  "content_sha256": "78990b2b6f4bd8d143644401f47d1d3a035c2e958389ec75f8b92e84582dbdf7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

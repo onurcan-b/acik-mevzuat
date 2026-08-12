@@ -2,17 +2,17 @@
   "law_number": "2313",
   "title": "UYUŞTURUCU MADDELERİN MURAKABESİ HAKKINDA KANUN",
   "slug": "2313-uyusturucu-maddelerin-murakabesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1933-06-12",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "2435"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2313.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103320",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2313",
+  "source_mevzuat_id": "103320",
   "source_type": "KANUN",
-  "content_sha256": "cf93f6732d920e5e5ba953e059c10f23cc9e1c9afcf7b58b4d928d7663826857",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a04c002bbee755d62b22c3212ac7b2d56defe281af7a0515e5a594da1fb665a6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

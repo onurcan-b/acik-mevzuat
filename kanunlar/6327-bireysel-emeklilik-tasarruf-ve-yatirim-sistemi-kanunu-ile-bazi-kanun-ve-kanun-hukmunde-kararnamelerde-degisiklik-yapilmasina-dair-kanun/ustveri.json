@@ -2,17 +2,17 @@
   "law_number": "6327",
   "title": "BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6327-bireysel-emeklilik-tasarruf-ve-yatirim-sistemi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2012-06-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-29",
+    "number": "28338"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6327.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104311",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6327",
+  "source_mevzuat_id": "104311",
   "source_type": "KANUN",
-  "content_sha256": "8d8955a42b5822fa465adefddba98cc16bf9913e023f50f530b94b7430c55b58",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0a53820b9f05b6a68f542a8deec0573d4046ae2b4129cffb52792ac0808bdadb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

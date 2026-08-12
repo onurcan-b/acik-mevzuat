@@ -2,17 +2,17 @@
   "law_number": "2911",
   "title": "TOPLANTI VE GÖSTERİ YÜRÜYÜŞLERİ KANUNU",
   "slug": "2911-toplanti-ve-gosteri-yuruyusleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-10-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-10-08",
+    "number": "18185"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2911.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102968",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2911",
+  "source_mevzuat_id": "102968",
   "source_type": "KANUN",
-  "content_sha256": "544e72a4945c75388d085942d70d81fcd7fa8d6631a0d17a3fede56e686aa179",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "46a38e997dd5bfd829c00e6c2aa8a44245e8d4a9170d1bc1fe0f38e141015b28",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

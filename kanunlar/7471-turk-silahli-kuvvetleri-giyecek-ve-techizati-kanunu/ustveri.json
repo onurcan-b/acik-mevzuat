@@ -2,17 +2,17 @@
   "law_number": "7471",
   "title": "TÜRK SİLAHLI KUVVETLERİ GİYECEK VE TEÇHİZATI KANUNU",
   "slug": "7471-turk-silahli-kuvvetleri-giyecek-ve-techizati-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1960-05-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-05-13",
+    "number": "10504"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7471.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105083",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7471",
+  "source_mevzuat_id": "105083",
   "source_type": "KANUN",
-  "content_sha256": "2b9393ab65c16df9d394c079bd5a7d2aa9f55d8eed8c4f115e61a6f8ae8bd90e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bcb40736787a376290b3c693e6e90c04c349d508417487bf67506fdc05573515",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

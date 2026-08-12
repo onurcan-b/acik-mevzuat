@@ -2,17 +2,17 @@
   "law_number": "3224",
   "title": "TÜRK DİŞ HEKİMLERİ BİRLİĞİ KANUNU",
   "slug": "3224-turk-dis-hekimleri-birligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1985-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-06-25",
+    "number": "18792"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3224.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104782",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3224",
+  "source_mevzuat_id": "104782",
   "source_type": "KANUN",
-  "content_sha256": "1a90b68868bc3e160ed73fab7b8ace918baa35e1281f01054eaa47a39033b4bd",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "25123f9c52fb102d1c6a997ffe2632db14d2b073ee1aa62ba356d87849799317",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

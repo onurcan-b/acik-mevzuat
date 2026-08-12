@@ -1,0 +1,18 @@
+{
+  "law_number": "7163",
+  "title": "TÜRKİYE VE ORTA-DOĞU AMME İDARESİ ENSTİTÜSÜ TEŞKİLAT  KANUNU",
+  "slug": "7163-turkiye-ve-orta-dogu-amme-idaresi-enstitusu-teskilat-kanunu",
+  "accepted_date": "1958-06-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1958-07-05",
+    "number": "9947"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335469",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335469",
+  "source_type": "MULGA",
+  "content_sha256": "50ed97a5aef60ea170c27aa9ed0ee751065f471d4be8b81f0a1fec038b74cb7a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

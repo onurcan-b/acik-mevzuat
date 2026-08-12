@@ -1,0 +1,18 @@
+{
+  "law_number": "298",
+  "title": "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "298-secimlerin-temel-hukumleri-ve-secmen-kutukleri-hakkinda-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1961-04-26",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "10796"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335343",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335343",
+  "source_type": "MULGA",
+  "content_sha256": "dd6b8d45f468ab484a67bf86bea039cd51aa3d0b5b56353cb1c43709c236d1bf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

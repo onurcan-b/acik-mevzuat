@@ -2,17 +2,17 @@
   "law_number": "6283",
   "title": "HEMŞİRELİK KANUNU",
   "slug": "6283-hemsirelik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1954-02-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1954-03-02",
+    "number": "8647"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6283.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105145",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6283",
+  "source_mevzuat_id": "105145",
   "source_type": "KANUN",
-  "content_sha256": "d10994b09e5a772410c3414d8689ed831086791ee88d9f324ed004ac39704315",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d2da2479554e104b5661acaf0eb7b096a747f47a1856d2a4efe86c3e964b71a1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

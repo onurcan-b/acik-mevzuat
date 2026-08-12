@@ -1,0 +1,18 @@
+{
+  "law_number": "2709",
+  "title": "TÜRKİYE CUMHURİYETİ ANAYASASI´NIN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2709-turkiye-cumhuriyeti-anayasasi-nin-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1982-10-18",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1982-11-09",
+    "number": "17863"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335526",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335526",
+  "source_type": "MULGA",
+  "content_sha256": "e3d8bfee9da00cf17a307f0b8e8e6ea38cc15380119183faf3f224daf1b76596",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

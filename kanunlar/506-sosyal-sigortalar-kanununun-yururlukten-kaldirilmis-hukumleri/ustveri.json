@@ -1,0 +1,18 @@
+{
+  "law_number": "506",
+  "title": "SOSYAL SİGORTALAR KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "506-sosyal-sigortalar-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1964-07-17",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1964-07-29",
+    "number": "11766"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335562",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335562",
+  "source_type": "MULGA",
+  "content_sha256": "09522fea559989a96e926b5a56c3a75b28d4438179f88602e730b9adfe51374c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

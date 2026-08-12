@@ -2,17 +2,17 @@
   "law_number": "5846",
   "title": "FİKİR VE SANAT ESERLERİ KANUNU",
   "slug": "5846-fikir-ve-sanat-eserleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1951-12-05",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "7981"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5846.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104458",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5846",
+  "source_mevzuat_id": "104458",
   "source_type": "KANUN",
-  "content_sha256": "8f34d7958037abe75b6254af8091c9344cd7b65911c8a3d9c8de6d650433faf8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4a4a3f0a674aed11d4bc66b794bb8956536efbad2adca3b7681a040b3b764d73",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

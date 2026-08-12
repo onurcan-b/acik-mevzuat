@@ -2,17 +2,17 @@
   "law_number": "6001",
   "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNÜN HİZMETLERİ HAKKINDA KANUN",
   "slug": "6001-karayollari-genel-mudurlugunun-hizmetleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2010-06-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2010-07-13",
+    "number": "27640"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6001.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103465",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6001",
+  "source_mevzuat_id": "103465",
   "source_type": "KANUN",
-  "content_sha256": "c19718063b36707004e18c15c8fac8f7e4b35061fc1a256112f94271a7bb3544",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fc6e82d73d684519a521f1fe8ab326965f48ad45ef4fc3f537b57384084124f5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

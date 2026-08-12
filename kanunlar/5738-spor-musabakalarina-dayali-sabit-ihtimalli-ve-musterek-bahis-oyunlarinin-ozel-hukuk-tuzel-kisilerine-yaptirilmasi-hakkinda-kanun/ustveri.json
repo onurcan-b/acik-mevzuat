@@ -2,17 +2,17 @@
   "law_number": "5738",
   "title": "SPOR MÜSABAKALARINA DAYALI SABİT İHTİMALLİ VE MÜŞTEREK BAHİS OYUNLARININ ÖZEL HUKUK TÜZEL KİŞİLERİNE YAPTIRILMASI HAKKINDA KANUN",
   "slug": "5738-spor-musabakalarina-dayali-sabit-ihtimalli-ve-musterek-bahis-oyunlarinin-ozel-hukuk-tuzel-kisilerine-yaptirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-02-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2008-02-27",
+    "number": "26800"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5738.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104055",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5738",
+  "source_mevzuat_id": "104055",
   "source_type": "KANUN",
-  "content_sha256": "91220ce1a19fc0c500e8b57712632bf6e9555c2d365f19fcf54846de52f3fffd",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e2f02e23b560d4c6f2c52010d941f754f591fe7be16e1050485d10cf4b187b78",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

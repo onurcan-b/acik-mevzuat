@@ -2,17 +2,17 @@
   "law_number": "6305",
   "title": "AFET SİGORTALARI KANUNU",
   "slug": "6305-afet-sigortalari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2012-05-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-05-18",
+    "number": "28296"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6305.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104298",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6305",
+  "source_mevzuat_id": "104298",
   "source_type": "KANUN",
-  "content_sha256": "45250ce93efe84e57f9a01a0a1b24138f10ae9e9ac5bd08ad6fd1b625a14fe03",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "58caec19e7ba2d7c6353a7d4023454594c77d3bf983ed662500742fb8d7cf5a8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4646",
   "title": "DOĞAL GAZ PİYASASI KANUNU (ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASI VE DOĞAL GAZ PİYASASI HAKKINDA KANUN)",
   "slug": "4646-dogal-gaz-piyasasi-kanunu-elektrik-piyasasi-kanununda-degisiklik-yapilmasi-ve-dogal-gaz-piyasasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-04-18",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24390"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4646.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103050",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4646",
+  "source_mevzuat_id": "103050",
   "source_type": "KANUN",
-  "content_sha256": "f584ed4e4c9eb9c532a48f71da7a7dffd6735f83fcf67f17092fa2d30aaf6f0d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9e8ea5a936acbf007f1196a4fc7804d2bfc264fe2c4fc0b495b4afa77af92dfb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

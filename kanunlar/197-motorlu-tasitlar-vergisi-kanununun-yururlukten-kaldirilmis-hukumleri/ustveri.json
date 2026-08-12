@@ -1,0 +1,18 @@
+{
+  "law_number": "197",
+  "title": "MOTORLU TAŞITLAR VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "197-motorlu-tasitlar-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1963-02-18",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "11342"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335567",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335567",
+  "source_type": "MULGA",
+  "content_sha256": "2a9a0238b4189ee220767c370d3f9e9ffcd873a4bfe5124e8a5518a3f582f019",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

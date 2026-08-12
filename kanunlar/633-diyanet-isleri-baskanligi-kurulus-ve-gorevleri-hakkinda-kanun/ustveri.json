@@ -2,17 +2,17 @@
   "law_number": "633",
   "title": "DİYANET İŞLERİ BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
   "slug": "633-diyanet-isleri-baskanligi-kurulus-ve-gorevleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1965-06-22",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "12038"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.633.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102941",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.633",
+  "source_mevzuat_id": "102941",
   "source_type": "KANUN",
-  "content_sha256": "8dfec6512d956c61d7f3b72e95606fd25caf5a8f0fa928a23f87f2e7c5add108",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fa1b9505657882e30f5b7f66d60988d4442294453dfc25fd61d973914cc2516c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

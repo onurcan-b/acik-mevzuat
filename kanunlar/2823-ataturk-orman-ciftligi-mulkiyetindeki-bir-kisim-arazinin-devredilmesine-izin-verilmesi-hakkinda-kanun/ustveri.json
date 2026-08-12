@@ -2,17 +2,17 @@
   "law_number": "2823",
   "title": "ATATÜRK ORMAN ÇİFTLİĞİ MÜLKİYETİNDEKİ BİR KISIM ARAZİNİN DEVREDİLMESİNE İZİN VERİLMESİ HAKKINDA KANUN",
   "slug": "2823-ataturk-orman-ciftligi-mulkiyetindeki-bir-kisim-arazinin-devredilmesine-izin-verilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-05-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-05-27",
+    "number": "18059"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2823.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104893",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2823",
+  "source_mevzuat_id": "104893",
   "source_type": "KANUN",
-  "content_sha256": "5f4bfc8fc500d0f348a556ed4f8316e5da512da898b92b8fbade2d3178d6fab6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6d11d2ceaa5c6747024340aeb165e734eeb04b01312f5bcb8c5570e644516451",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

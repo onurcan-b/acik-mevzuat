@@ -1,0 +1,18 @@
+{
+  "law_number": "4104",
+  "title": "MUHARİP YABANCI ORDU MENSUPLARINDAN TÜRKİYE´YE İLTİCA EDENLER HAKKINDA KANUN",
+  "slug": "4104-muharip-yabanci-ordu-mensuplarindan-turkiye-ye-iltica-edenler-hakkinda-kanun",
+  "accepted_date": "1941-08-11",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1941-08-15",
+    "number": "4887"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105242",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105242",
+  "source_type": "KANUN",
+  "content_sha256": "efda03905650f6df4928f536f28c93f2d0f91e561020eead989bbdaa07a6ce80",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

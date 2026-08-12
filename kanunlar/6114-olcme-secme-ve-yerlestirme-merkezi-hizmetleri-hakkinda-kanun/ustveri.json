@@ -2,17 +2,17 @@
   "law_number": "6114",
   "title": "ÖLÇME, SEÇME VE YERLEŞTİRME MERKEZİ HİZMETLERİ HAKKINDA KANUN",
   "slug": "6114-olcme-secme-ve-yerlestirme-merkezi-hizmetleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-02-17",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2011-03-03",
+    "number": "27863"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6114.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103819",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6114",
+  "source_mevzuat_id": "103819",
   "source_type": "KANUN",
-  "content_sha256": "e5626630f15df8f69ca09756b2ee1ccffb5749f02e2e61582632bd03d3b910fc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "de443753b740c59750824d7d091921f734d02123c4db62cb1d91f8d347eba752",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

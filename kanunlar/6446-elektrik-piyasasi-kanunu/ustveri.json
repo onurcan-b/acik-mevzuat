@@ -2,17 +2,17 @@
   "law_number": "6446",
   "title": "ELEKTRİK PİYASASI KANUNU",
   "slug": "6446-elektrik-piyasasi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2013-03-14",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "28603"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6446.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103045",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6446",
+  "source_mevzuat_id": "103045",
   "source_type": "KANUN",
-  "content_sha256": "4076e0c759746ba6bba041e482149aa8b96060c261be877125df157ebfe77297",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b62eadf9c6cfaf7dec5a134d810eedfe67acd472808505ea3563f6af823b479a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

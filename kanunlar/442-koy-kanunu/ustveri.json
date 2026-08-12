@@ -2,17 +2,17 @@
   "law_number": "442",
   "title": "KÖY KANUNU",
   "slug": "442-koy-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1924-03-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1924-04-07",
+    "number": "68"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.442.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103115",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.442",
+  "source_mevzuat_id": "103115",
   "source_type": "KANUN",
-  "content_sha256": "ff7d67c53be5e803969fd25b2b2bf5daa6f63300bd4e7091830dddc91cdf5e39",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "df9dd534dd9fecace244b5e88c4fb6d910a07965cbeb1d00a9f0aeb04a6b07f4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

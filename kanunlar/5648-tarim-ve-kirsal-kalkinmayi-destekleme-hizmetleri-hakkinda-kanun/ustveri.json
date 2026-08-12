@@ -2,17 +2,17 @@
   "law_number": "5648",
   "title": "TARIM VE KIRSAL KALKINMAYI DESTEKLEME HİZMETLERİ HAKKINDA KANUN",
   "slug": "5648-tarim-ve-kirsal-kalkinmayi-destekleme-hizmetleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-05-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-05-18",
+    "number": "26526"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5648.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103983",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5648",
+  "source_mevzuat_id": "103983",
   "source_type": "KANUN",
-  "content_sha256": "70dcb677f93c2e727eda0a8dd7a338f4977c2cd48e7bd205ac68f232e7c5f83a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "14aed4efc116b092b3d9ace7f92018e33fa3d9d98f2fe5968ef34b4dd2095ee8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

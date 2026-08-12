@@ -1,0 +1,18 @@
+{
+  "law_number": "5952",
+  "title": "KAMU DÜZENİ VE GÜVENLİĞİ MÜSTEŞARLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "5952-kamu-duzeni-ve-guvenligi-mustesarliginin-teskilat-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": "2010-02-17",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2010-03-04",
+    "number": "27511"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335255",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335255",
+  "source_type": "MULGA",
+  "content_sha256": "05622688c1db053a3d8527c0c2ec2842203babf63b784a6a4d4ad4148174fd6c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

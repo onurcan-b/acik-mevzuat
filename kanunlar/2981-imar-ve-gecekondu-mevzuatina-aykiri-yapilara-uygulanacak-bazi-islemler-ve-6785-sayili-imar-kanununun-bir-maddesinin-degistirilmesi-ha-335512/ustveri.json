@@ -1,0 +1,18 @@
+{
+  "law_number": "2981",
+  "title": "İMAR VE GECEKONDU MEVZUATINA AYKIRI YAPILARA UYGULANACAK BAZI İŞLEMLER VE 6785 SAYILI İMAR KANUNUNUN BİR MADDESİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "slug": "2981-imar-ve-gecekondu-mevzuatina-aykiri-yapilara-uygulanacak-bazi-islemler-ve-6785-sayili-imar-kanununun-bir-maddesinin-degistirilmesi-ha-335512",
+  "accepted_date": "1984-02-24",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18335"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335512",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335512",
+  "source_type": "MULGA",
+  "content_sha256": "74fa20dd0459d4da7a7f034a7195e237bfdb2e5a8e829d20b36af5463cf56258",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

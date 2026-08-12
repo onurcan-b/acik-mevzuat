@@ -2,17 +2,17 @@
   "law_number": "6563",
   "title": "ELEKTRONİK TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "6563-elektronik-ticaretin-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2014-10-23",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "29166"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6563.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103057",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6563",
+  "source_mevzuat_id": "103057",
   "source_type": "KANUN",
-  "content_sha256": "4bc3ef97ed7ae5ab863b8d7187821d9d981761719b583b650f93b43ed9c629da",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e5ce1ab041b4c94c9dd19332de33145b0e706e20e920c38fed04a29668889adc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "3143",
+  "title": "SANAYİ VE TİCARET BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "3143-sanayi-ve-ticaret-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": "1985-01-08",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1985-01-18",
+    "number": "18639"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335507",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335507",
+  "source_type": "MULGA",
+  "content_sha256": "7699414d1010c64a4b7b0d60f5ad105bba2d0c2e5b4f84fbb8a2f2af8fec0429",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

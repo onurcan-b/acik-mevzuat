@@ -2,17 +2,17 @@
   "law_number": "5187",
   "title": "BASIN KANUNU",
   "slug": "5187-basin-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-06-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-06-26",
+    "number": "25504"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5187.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103226",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5187",
+  "source_mevzuat_id": "103226",
   "source_type": "KANUN",
-  "content_sha256": "654435ef95ef19fd53bb238cb76bb7ab53df3f14eafcdc73063d309dab57afe0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4a461cc3f08867cd907ac9bc736e5e5c4a22a0c9b4ec0d43e515d8f4383fabe9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

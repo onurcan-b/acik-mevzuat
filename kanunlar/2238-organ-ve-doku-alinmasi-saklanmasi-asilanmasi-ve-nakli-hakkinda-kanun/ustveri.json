@@ -2,17 +2,17 @@
   "law_number": "2238",
   "title": "ORGAN VE DOKU ALINMASI, SAKLANMASI, AŞILANMASI VE NAKLİ HAKKINDA KANUN",
   "slug": "2238-organ-ve-doku-alinmasi-saklanmasi-asilanmasi-ve-nakli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1979-05-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1979-06-03",
+    "number": "16655"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2238.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104962",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2238",
+  "source_mevzuat_id": "104962",
   "source_type": "KANUN",
-  "content_sha256": "afecd01dc9087995878d258257ba8085ecbf35e6b7c3e8a73dd6b27feba26a3e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "20eb62a1830418bf929572c9e7b1daf9c1efa47641537ffa22d80a115d9a53e9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

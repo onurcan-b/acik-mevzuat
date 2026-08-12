@@ -2,17 +2,17 @@
   "law_number": "2022",
   "title": "65 YAŞINI DOLDURMUŞ MUHTAÇ, GÜÇSÜZ VE KİMSESİZ TÜRK VATANDAŞLARINA AYLIK BAĞLANMASI HAKKINDA KANUN",
   "slug": "2022-65-yasini-doldurmus-muhtac-gucsuz-ve-kimsesiz-turk-vatandaslarina-aylik-baglanmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1976-07-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1976-07-10",
+    "number": "15642"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2022.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103215",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2022",
+  "source_mevzuat_id": "103215",
   "source_type": "KANUN",
-  "content_sha256": "9d3f90ea87096f33954ead9194392a4836b79089b87a4b36aceeed2330db21c7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7a321cab841ca6b08818058f6a3a14393e9eca12fce92b0031c4029ab8641f52",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

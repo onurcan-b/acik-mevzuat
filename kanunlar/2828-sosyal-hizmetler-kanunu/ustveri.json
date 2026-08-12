@@ -2,17 +2,17 @@
   "law_number": "2828",
   "title": "SOSYAL HİZMETLER KANUNU",
   "slug": "2828-sosyal-hizmetler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-05-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-05-27",
+    "number": "18059"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2828.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103192",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2828",
+  "source_mevzuat_id": "103192",
   "source_type": "KANUN",
-  "content_sha256": "ce6b533425e7d66d3efe6e55f6553924506a3efc848ef504c0346186a7188c17",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7b00b0773ba2796be81f41379e7203a11777fe064f7afa940c2efd7d5f7f79bc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

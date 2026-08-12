@@ -2,17 +2,17 @@
   "law_number": "3867",
   "title": "EREĞLİ KÖMÜR HAVZASINDAKİ OCAKLARIN DEVLETÇE İŞLETTİRİLMESİ HAKKINDA KANUN",
   "slug": "3867-eregli-komur-havzasindaki-ocaklarin-devletce-islettirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1940-05-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1940-06-05",
+    "number": "4527"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3867.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105257",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3867",
+  "source_mevzuat_id": "105257",
   "source_type": "KANUN",
-  "content_sha256": "603b667f2fa8a2a436fd5d2d0e04fec0576dabbd13bbe3d750a3e44c895ff6a0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b12978c89f4d13cf7d6c7caa36433b6c2dca0165fdf24db8f17f8142d3ae6a88",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

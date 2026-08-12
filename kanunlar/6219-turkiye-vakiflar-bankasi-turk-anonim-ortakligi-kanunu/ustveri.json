@@ -2,17 +2,17 @@
   "law_number": "6219",
   "title": "TÜRKİYE VAKIFLAR BANKASI TÜRK ANONİM ORTAKLIĞI KANUNU",
   "slug": "6219-turkiye-vakiflar-bankasi-turk-anonim-ortakligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1954-01-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1954-01-15",
+    "number": "8608"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6219.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104570",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6219",
+  "source_mevzuat_id": "104570",
   "source_type": "KANUN",
-  "content_sha256": "55568b6da1dcdf8888c6a80943f615eca9797c9da9f64ae97e1df6ba7f02a04a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c3d859484536913c2c1fa1617dbb35c9d7085dfa502084ee1ef415f5b59065d1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

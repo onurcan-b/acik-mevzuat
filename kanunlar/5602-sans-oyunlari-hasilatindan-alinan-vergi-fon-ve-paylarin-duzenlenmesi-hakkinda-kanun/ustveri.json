@@ -2,17 +2,17 @@
   "law_number": "5602",
   "title": "ŞANS OYUNLARI HASILATINDAN ALINAN VERGİ, FON VE PAYLARIN DÜZENLENMESİ HAKKINDA KANUN",
   "slug": "5602-sans-oyunlari-hasilatindan-alinan-vergi-fon-ve-paylarin-duzenlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-03-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-03-21",
+    "number": "26469"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5602.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103308",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5602",
+  "source_mevzuat_id": "103308",
   "source_type": "KANUN",
-  "content_sha256": "604b6f9ce91ebf99ee3d06b035d6df3f19ae260681c2db835bd88ceb9f4c806f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "333b9ff4489d02db8c03df1931a1a9f697349895d8480f266abe3ff640a9de59",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

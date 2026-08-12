@@ -2,17 +2,17 @@
   "law_number": "3894",
   "title": "DENİZDE ZAPT VE MÜSADERE KANUNU",
   "slug": "3894-denizde-zapt-ve-musadere-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1940-07-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1940-07-18",
+    "number": "4564"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3894.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105254",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3894",
+  "source_mevzuat_id": "105254",
   "source_type": "KANUN",
-  "content_sha256": "1a3c41f9297a931db73956f16646455cfc62b18f66653b759e7534211fe2be9e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "44b3cf3c42923982fb20c157aac85cd5d25ab03c47509562c6bd61ac797c1e78",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

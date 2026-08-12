@@ -2,17 +2,17 @@
   "law_number": "4768",
   "title": "18 MART GÜNÜNÜN ŞEHİTLER GÜNÜ VE 19 EYLÜL GÜNÜNÜN GAZİLER GÜNÜ İLAN EDİLMESİ HAKKINDA KANUN",
   "slug": "4768-18-mart-gununun-sehitler-gunu-ve-19-eylul-gununun-gaziler-gunu-ilan-edilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2002-06-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2002-07-03",
+    "number": "24804"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4768.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103598",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4768",
+  "source_mevzuat_id": "103598",
   "source_type": "KANUN",
-  "content_sha256": "d8cf0cfb7335b938ea6859d3d08f14634ecc453d3f004e43b8dcb514810c5173",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d664118f55e5c4a49160a19559bac4ed6d6556c319ef3ce298e10f76c3bb2c26",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

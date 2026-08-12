@@ -1,0 +1,18 @@
+{
+  "law_number": "78",
+  "title": "YÜKSEK ÖĞRETİM KURUMLARI ÖĞRETİM ELEMANLARININ KADROLARI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "78-yuksek-ogretim-kurumlari-ogretim-elemanlarinin-kadrolari-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-09-16",
+    "number": "18167 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336482",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336482",
+  "source_type": "MULGA",
+  "content_sha256": "73d14c5b0b1a8db10b7aea62b82f3415e813af8f1134a8ec7ad59e8671e69aab",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

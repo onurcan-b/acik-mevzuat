@@ -1,21 +1,35 @@
 # 2006 YILI PROGRAMININ HAZIRLANMASINA DAİR KANUN (No. 5339)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5339.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103874
+> Resmî Gazete: 2005-05-03 / 25804
+> UYAP Mevzuat kimliği: 103874
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+2006 YILI PROGRAMININ HAZIRLANMASINA
 
-Dokuzuncu Kalkınma Planının Türkiye Büyük Millet Meclisine sunulması
-bir yıl ertelenmiştir. 2006 Yılı Programının, Hükümet Programı ve izlenen politikalar
-doğrultusunda hazırlanarak yürürlüğe konulması hususunda Bakanlar Kurulu yetkilidir.
+DAİR KANUN
 
-# MADDE 2
+Kanun
+Numarası : 5339
 
+Kabul
+Tarihi : 28/4/2005
+
+Yayımlandığı
+Resmî Gazete : Tarih : 3/5/2005 Sayı : 25804
+
+Yayımlandığı
+Düstur : Tertip : 5 Cilt : 44
+
+Madde 1-
+Dokuzuncu Kalkınma Planının Türkiye Büyük Millet Meclisine
+sunulması bir yıl ertelenmiştir. 2006 Yılı Programının, Hükümet Programı ve izlenen
+politikalar doğrultusunda hazırlanarak yürürlüğe konulması hususunda Bakanlar Kurulu
+yetkilidir.
+
+Madde 2-
 Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-# MADDE 3
-
+Madde 3-
 Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

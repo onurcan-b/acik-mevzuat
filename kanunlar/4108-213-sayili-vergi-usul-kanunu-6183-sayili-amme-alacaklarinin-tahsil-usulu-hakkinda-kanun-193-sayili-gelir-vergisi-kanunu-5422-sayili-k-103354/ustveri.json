@@ -1,0 +1,18 @@
+{
+  "law_number": "4108",
+  "title": "213 SAYILI VERGİ USUL KANUNU, 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN, 193 SAYILI GELİR VERGİSİ KANUNU, 5422 SAYILI KURUMLAR VERGİSİ KANUNU VE 3065 SAYILI KATMA DEĞER VERGİSİ KANUNUNDA DEĞİŞİKLİKLER YAPILMASI HAKKINDA KANUN",
+  "slug": "4108-213-sayili-vergi-usul-kanunu-6183-sayili-amme-alacaklarinin-tahsil-usulu-hakkinda-kanun-193-sayili-gelir-vergisi-kanunu-5422-sayili-k-103354",
+  "accepted_date": "1995-05-25",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1995-06-02",
+    "number": "22301"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103354",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103354",
+  "source_type": "KANUN",
+  "content_sha256": "b181f17c356a2eb9ac24d1f17112d8d2aa404b34b546846b60be8229bc385a68",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

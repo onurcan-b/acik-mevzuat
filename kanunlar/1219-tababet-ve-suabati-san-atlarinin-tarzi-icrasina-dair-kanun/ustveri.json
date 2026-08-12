@@ -1,0 +1,18 @@
+{
+  "law_number": "1219",
+  "title": "TABABET VE ŞUABATI SAN´ATLARININ TARZI İCRASINA DAİR KANUN",
+  "slug": "1219-tababet-ve-suabati-san-atlarinin-tarzi-icrasina-dair-kanun",
+  "accepted_date": "1928-04-11",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": null,
+    "number": "863"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103569",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103569",
+  "source_type": "KANUN",
+  "content_sha256": "fc2eb0e02448efc7f62ab884d9893a312287abbc6c6f95cf1e9b9b9000e75d7f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "3563",
+  "title": "HARP AKADEMİLERİ KANUNU",
+  "slug": "3563-harp-akademileri-kanunu",
+  "accepted_date": "1989-05-24",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1989-05-31",
+    "number": "20181"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335501",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335501",
+  "source_type": "MULGA",
+  "content_sha256": "55d80571bc79f0b2ac0e63d421046397a000ff85985b9bdf54874e8ae5863df3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

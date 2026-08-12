@@ -2,17 +2,17 @@
   "law_number": "5651",
   "title": "İNTERNET ORTAMINDA YAPILAN YAYINLARIN DÜZENLENMESİ VE BU YAYINLAR YOLUYLA İŞLENEN SUÇLARLA MÜCADELE EDİLMESİ HAKKINDA KANUN",
   "slug": "5651-internet-ortaminda-yapilan-yayinlarin-duzenlenmesi-ve-bu-yayinlar-yoluyla-islenen-suclarla-mucadele-edilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-05-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "26530"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5651.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103224",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5651",
+  "source_mevzuat_id": "103224",
   "source_type": "KANUN",
-  "content_sha256": "1ad9f3384533ebf9a5dbed1ac6e1e236aba5413be9b51fe8771caea02b3acb48",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3dbd3b3d71e44018876d8d34227d180c8e5c223f0b7fa2b7431686a4444a176d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

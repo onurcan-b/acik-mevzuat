@@ -2,17 +2,17 @@
   "law_number": "5190",
   "title": "CEZA MUHAKEMELERİ USULÜ KANUNUNDA DEĞİŞİKLİK YAPILMASI VE DEVLET GÜVENLİK MAHKEMELERİNİN KALDIRILMASINA DAİR KANUN",
   "slug": "5190-ceza-muhakemeleri-usulu-kanununda-degisiklik-yapilmasi-ve-devlet-guvenlik-mahkemelerinin-kaldirilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-06-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-06-30",
+    "number": "25508"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5190.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103765",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5190",
+  "source_mevzuat_id": "103765",
   "source_type": "KANUN",
-  "content_sha256": "03222949c914ebbaf24deb7978c1195991aa93a02cca85adcdee700344913e5f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "97666f02017ae98da7475eb755b1f5dacbc75022fefb5a6b42538374b1746f06",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "1581",
   "title": "TARIM KREDİ KOOPERATİFLERİ VE BİRLİKLERİ KANUNU",
   "slug": "1581-tarim-kredi-kooperatifleri-ve-birlikleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1972-04-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1972-04-28",
+    "number": "14172"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1581.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104490",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1581",
+  "source_mevzuat_id": "104490",
   "source_type": "KANUN",
-  "content_sha256": "7a3a21c3244378dfc65899ce4889cd53ab3ae088247f53a52f397ffb0065311e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9ba68dfc4d4a8d81c508d91af16e13a4852e384153bb1e8d8768d6476954e3e1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

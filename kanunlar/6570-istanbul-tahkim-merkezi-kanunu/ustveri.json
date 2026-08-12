@@ -2,17 +2,17 @@
   "law_number": "6570",
   "title": "İSTANBUL TAHKİM MERKEZİ KANUNU",
   "slug": "6570-istanbul-tahkim-merkezi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2014-11-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2014-11-29",
+    "number": "29190"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6570.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104391",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6570",
+  "source_mevzuat_id": "104391",
   "source_type": "KANUN",
-  "content_sha256": "a4fc9c5908bd4983551d94b46c97ddadbf4e6c0bde098ddb395c1af0403914ad",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ebef7e7b8432fb304931f6c188ae64740396cb8fe6e1fe609547984dc8a7562f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

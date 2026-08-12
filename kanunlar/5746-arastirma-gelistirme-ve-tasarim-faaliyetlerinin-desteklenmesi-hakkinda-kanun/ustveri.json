@@ -2,17 +2,17 @@
   "law_number": "5746",
   "title": "ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA KANUN",
   "slug": "5746-arastirma-gelistirme-ve-tasarim-faaliyetlerinin-desteklenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-02-28",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "26814"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5746.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104057",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5746",
+  "source_mevzuat_id": "104057",
   "source_type": "KANUN",
-  "content_sha256": "c9bb512c949e22d31e87569093f8491e8b2f9f835c4661530b09fa72d24f2d01",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c8e8c188f78897aacd6aea238c964c7f9b3a2ff21bc132c06ea95813a229f0c0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5520",
   "title": "KURUMLAR VERGİSİ KANUNU",
   "slug": "5520-kurumlar-vergisi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2006-06-13",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "26205"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5520.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102961",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5520",
+  "source_mevzuat_id": "102961",
   "source_type": "KANUN",
-  "content_sha256": "6a2cddbf00dc281ced0bc25ff8941eaf265b0d2f020985d7cd32e66a2a437eb5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c0721e1f50ebd512c2f8ed4c064495c1484491722b6786afdd3eea443bd13398",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

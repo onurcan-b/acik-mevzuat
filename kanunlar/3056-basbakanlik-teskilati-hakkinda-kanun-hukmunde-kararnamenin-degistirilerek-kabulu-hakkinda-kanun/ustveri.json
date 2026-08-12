@@ -1,0 +1,18 @@
+{
+  "law_number": "3056",
+  "title": "BAŞBAKANLIK TEŞKİLATI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜ HAKKINDA KANUN",
+  "slug": "3056-basbakanlik-teskilati-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabulu-hakkinda-kanun",
+  "accepted_date": "1984-10-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18550"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335509",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335509",
+  "source_type": "MULGA",
+  "content_sha256": "4daae5077fce46ff9785a29784a534150ea68074bb833bf5c51aa1122820efa9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

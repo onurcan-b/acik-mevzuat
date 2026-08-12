@@ -2,17 +2,17 @@
   "law_number": "7512",
   "title": "DIŞİŞLERİ TEŞKİLATINI GÜÇLENDİRME VAKFI KANUNU",
   "slug": "7512-disisleri-teskilatini-guclendirme-vakfi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2024-05-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2024-06-06",
+    "number": "32568"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7512.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/328134",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7512",
+  "source_mevzuat_id": "328134",
   "source_type": "KANUN",
-  "content_sha256": "aafe394ae3470cfb54d014ccf83d1b23f0603c151e5b8dbb4642db4cd36b380a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1596482ec2c5503c9187a8613d4a29611c621cab86a9c9ef16d3aeaa7c456ecb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

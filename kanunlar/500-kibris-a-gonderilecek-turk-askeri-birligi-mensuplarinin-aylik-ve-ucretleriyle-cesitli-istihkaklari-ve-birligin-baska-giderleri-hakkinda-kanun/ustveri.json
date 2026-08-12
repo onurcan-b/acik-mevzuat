@@ -1,0 +1,18 @@
+{
+  "law_number": "500",
+  "title": "KIBRIS´A GÖNDERİLECEK TÜRK ASKERİ BİRLİĞİ MENSUPLARININ AYLIK VE ÜCRETLERİYLE ÇEŞİTLİ İSTİHKAKLARI VE BİRLİĞİN BAŞKA GİDERLERİ HAKKINDA KANUN",
+  "slug": "500-kibris-a-gonderilecek-turk-askeri-birligi-mensuplarinin-aylik-ve-ucretleriyle-cesitli-istihkaklari-ve-birligin-baska-giderleri-hakkinda-kanun",
+  "accepted_date": "1964-07-14",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1964-07-22",
+    "number": "11760"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105029",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105029",
+  "source_type": "KANUN",
+  "content_sha256": "268f7fe34d91de230020d7e2e7c4dac7d3e77482967d3af2f0c118edf9f757a3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

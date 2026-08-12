@@ -1,0 +1,18 @@
+{
+  "law_number": "2313",
+  "title": "UYUŞTURUCU MADDELERİN MURAKABESİ HAKKINDAKİ KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2313-uyusturucu-maddelerin-murakabesi-hakkindaki-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1933-06-12",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "2435"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335536",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335536",
+  "source_type": "MULGA",
+  "content_sha256": "8f4dd77790e34d48dd600c8694acff0633a99605bd946b6ee893169ee0636d92",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

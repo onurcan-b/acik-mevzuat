@@ -1,18 +1,18 @@
 {
   "law_number": "195",
-  "title": "Basın İlan Kurumu Teşkiline Dair Kanun",
+  "title": "BASIN İLAN KURUMU TEŞKİLİNE DAİR KANUN",
   "slug": "195-basin-ilan-kurumu-teskiline-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1961-01-02",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "10702"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.195.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103222",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.195",
+  "source_mevzuat_id": "103222",
   "source_type": "KANUN",
-  "content_sha256": "715ddba5663376cd4427d8c934267f037b65960dfdaa39f348818ccfe707f418",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "db2806b165894c1cbcbb6aa2b8b8c4dbdecd077a13f69f24aaab7d2b8d0d18ea",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

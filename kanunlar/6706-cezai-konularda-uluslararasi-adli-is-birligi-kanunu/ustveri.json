@@ -1,0 +1,18 @@
+{
+  "law_number": "6706",
+  "title": "CEZAÎ KONULARDA ULUSLARARASI ADLÎ İŞ BİRLİĞİ KANUNU",
+  "slug": "6706-cezai-konularda-uluslararasi-adli-is-birligi-kanunu",
+  "accepted_date": "2016-04-23",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2016-05-05",
+    "number": "29703"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104414",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "104414",
+  "source_type": "KANUN",
+  "content_sha256": "3a8b05316b3dcd37cbb7eeed8b2a9564cb290c976752d81078323388c9059cb3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

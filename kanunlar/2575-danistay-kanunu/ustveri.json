@@ -2,17 +2,17 @@
   "law_number": "2575",
   "title": "DANIŞTAY KANUNU",
   "slug": "2575-danistay-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1982-01-06",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17580"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2575.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103536",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2575",
+  "source_mevzuat_id": "103536",
   "source_type": "KANUN",
-  "content_sha256": "8a8af6741527058d7333b46378c58c760553222dfb08962f045925159b2d3382",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bbc035cbbbb6fa21586d37089fc84ca19dfe6e5b46eec75c6b2e6768e013aca0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

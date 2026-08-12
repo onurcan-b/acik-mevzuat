@@ -2,17 +2,17 @@
   "law_number": "5230",
   "title": "PAMUKBANK TÜRK ANONİM ŞİRKETİNİN TÜRKİYE HALK BANKASI ANONİM ŞİRKETİNE DEVRİ VE BAZI KANUNLARDA DEĞİŞİKLİKYAPILMASINA İLİŞKİN KANUN",
   "slug": "5230-pamukbank-turk-anonim-sirketinin-turkiye-halk-bankasi-anonim-sirketine-devri-ve-bazi-kanunlarda-degisiklikyapilmasina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-07-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-31",
+    "number": "25539"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5230.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103791",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5230",
+  "source_mevzuat_id": "103791",
   "source_type": "KANUN",
-  "content_sha256": "b1f9fb3251462dd322c4e5f303399bbaf4a5a2a4c35a1afbe4cb657cd376c9b3",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8600d0c2e70c20639f6571d3f2ab1c3af06ac7b8b51798904dbda2c647932cdf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

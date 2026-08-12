@@ -1,0 +1,18 @@
+{
+  "law_number": "4320",
+  "title": "AİLENİN KORUNMASINA DAİR KANUN",
+  "slug": "4320-ailenin-korunmasina-dair-kanun",
+  "accepted_date": "1998-01-14",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1998-01-17",
+    "number": "23233"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335268",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335268",
+  "source_type": "MULGA",
+  "content_sha256": "8cfcc97758582a6c2d964542d99f6e6d77fb23cb5891301621daae30b774acad",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "3218",
   "title": "SERBEST BÖLGELER KANUNU",
   "slug": "3218-serbest-bolgeler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1985-06-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-06-15",
+    "number": "18785"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3218.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102931",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3218",
+  "source_mevzuat_id": "102931",
   "source_type": "KANUN",
-  "content_sha256": "3de3cc664dde831c2917c6fb2c8dc1f03316f8d9e2b68331e7f2d0f50b507c5a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b6ab2f8b71ef87d7f69737eef9524cbd786bf2fc16c001e44f72b8242be60c6b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

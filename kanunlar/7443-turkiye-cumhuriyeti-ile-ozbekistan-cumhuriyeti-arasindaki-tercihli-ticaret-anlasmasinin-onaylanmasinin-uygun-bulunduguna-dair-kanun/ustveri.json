@@ -1,0 +1,18 @@
+{
+  "law_number": "7443",
+  "title": "TÜRKİYE CUMHURİYETİ İLE ÖZBEKİSTAN CUMHURİYETİ ARASINDAKİ  TERCİHLİ TİCARET ANLAŞMASININ ONAYLANMASININ UYGUN  BULUNDUĞUNA DAİR KANUN",
+  "slug": "7443-turkiye-cumhuriyeti-ile-ozbekistan-cumhuriyeti-arasindaki-tercihli-ticaret-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun",
+  "accepted_date": "2023-03-23",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2023-04-06",
+    "number": "32155"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/120185",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "120185",
+  "source_type": "KANUN",
+  "content_sha256": "6f78545e80782bd3f286629704fd28bbbda66da4a4458fe416600189b1fd972f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

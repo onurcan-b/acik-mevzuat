@@ -2,17 +2,17 @@
   "law_number": "5686",
   "title": "JEOTERMAL KAYNAKLAR VE DOĞAL MİNERALLİ SULAR KANUNU",
   "slug": "5686-jeotermal-kaynaklar-ve-dogal-mineralli-sular-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2007-06-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-06-13",
+    "number": "26551"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5686.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104008",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5686",
+  "source_mevzuat_id": "104008",
   "source_type": "KANUN",
-  "content_sha256": "0f936d9ba364a5b608768a36541dc86137241df2c56766e4e252aca2ce00fefb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dfc360587147b7a927f75707c7e9c18398c998eb1a81a796249a7abb3cbc8adb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

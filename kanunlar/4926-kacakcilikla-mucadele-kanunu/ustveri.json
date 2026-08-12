@@ -1,0 +1,18 @@
+{
+  "law_number": "4926",
+  "title": "KAÇAKÇILIKLA MÜCADELE KANUNU",
+  "slug": "4926-kacakcilikla-mucadele-kanunu",
+  "accepted_date": "2003-07-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2003-07-19",
+    "number": "25173"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335491",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335491",
+  "source_type": "MULGA",
+  "content_sha256": "1d06dfc33fe582eb6754a22c35eb90842f9d4987e4f564454514070979ff4d8f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

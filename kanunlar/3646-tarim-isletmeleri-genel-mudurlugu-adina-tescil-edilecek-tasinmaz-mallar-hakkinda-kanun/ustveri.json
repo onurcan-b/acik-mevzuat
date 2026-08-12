@@ -2,17 +2,17 @@
   "law_number": "3646",
   "title": "TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ ADINA TESCİL EDİLECEK TAŞINMAZ MALLAR HAKKINDA KANUN",
   "slug": "3646-tarim-isletmeleri-genel-mudurlugu-adina-tescil-edilecek-tasinmaz-mallar-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1990-05-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1990-05-25",
+    "number": "20528"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3646.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104689",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3646",
+  "source_mevzuat_id": "104689",
   "source_type": "KANUN",
-  "content_sha256": "9047fb02ced37e0f92d042978fad43fb1c7f47a3b7d659d2c8da5179e2cb93a9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "33d4a96d13c19bf372ff40f0d20ba50213fd6007a147b53493d38f984565e3d5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

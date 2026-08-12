@@ -2,17 +2,17 @@
   "law_number": "57",
   "title": "ANADOLU AJANSININ MALLARI VE PERSONELİ HAKKINDA KANUN",
   "slug": "57-anadolu-ajansinin-mallari-ve-personeli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-08-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-08-19",
+    "number": "10582"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.57.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105074",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.57",
+  "source_mevzuat_id": "105074",
   "source_type": "KANUN",
-  "content_sha256": "e09a4931e0c2126b0475e34d9a16a073567278268778973fcaad081939b5800a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8919bdb8609c8468593d714bc59fe2c8b787db713fa580168f3f84e986265c24",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

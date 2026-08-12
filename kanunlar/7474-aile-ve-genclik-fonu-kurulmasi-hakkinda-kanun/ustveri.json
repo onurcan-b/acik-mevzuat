@@ -2,17 +2,17 @@
   "law_number": "7474",
   "title": "AİLE VE GENÇLİK FONU KURULMASI HAKKINDA KANUN",
   "slug": "7474-aile-ve-genclik-fonu-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-11-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-11-29",
+    "number": "32384"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7474.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/189065",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7474",
+  "source_mevzuat_id": "189065",
   "source_type": "KANUN",
-  "content_sha256": "eb474fcf53b33dde04fa83ecb7367bbfe3444169f378b1b958477b6839ee938e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c4996bf904e96673df8a025d2934c73755ae21efbc31d621b4346a7285ed1f04",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

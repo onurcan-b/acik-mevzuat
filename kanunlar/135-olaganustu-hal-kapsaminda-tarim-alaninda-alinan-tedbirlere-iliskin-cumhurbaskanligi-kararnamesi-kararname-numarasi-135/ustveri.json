@@ -1,0 +1,18 @@
+{
+  "law_number": "135",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA TARIM ALANINDA ALINAN TEDBİRLERE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 135)",
+  "slug": "135-olaganustu-hal-kapsaminda-tarim-alaninda-alinan-tedbirlere-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-135",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-12",
+    "number": "32130"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336288",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336288",
+  "source_type": "MULGA",
+  "content_sha256": "59d71536b769c8d148036465e5b37f834a011ef9f24723ae227d1ddc4097a0f6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

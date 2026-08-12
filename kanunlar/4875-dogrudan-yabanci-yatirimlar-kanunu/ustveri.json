@@ -2,17 +2,17 @@
   "law_number": "4875",
   "title": "DOĞRUDAN YABANCI YATIRIMLAR KANUNU",
   "slug": "4875-dogrudan-yabanci-yatirimlar-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-06-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-06-17",
+    "number": "25141"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4875.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103648",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4875",
+  "source_mevzuat_id": "103648",
   "source_type": "KANUN",
-  "content_sha256": "96a70d6adefd82e1f2515f80f88ba48269f39fdbe6c05c75db8bdb5549e4866a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "067ae1edfb6aa24123a8d36a41c86438f943f25757522bda63c40b586ca08f77",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

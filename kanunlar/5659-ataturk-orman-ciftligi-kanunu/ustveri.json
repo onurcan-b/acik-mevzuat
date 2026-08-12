@@ -1,18 +1,18 @@
 {
   "law_number": "5659",
-  "title": "Atatürk Orman Çiftliği Kanunu",
+  "title": "ATATÜRK ORMAN ÇİFTLİĞİ KANUNU",
   "slug": "5659-ataturk-orman-ciftligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1950-03-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1950-04-01",
+    "number": "7472"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5659.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105180",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5659",
+  "source_mevzuat_id": "105180",
   "source_type": "KANUN",
-  "content_sha256": "196ce376f139d596c5fc8582bc3b7b59a8618455553f828c0e0e183143222844",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d5ba4f5ee1147b1cda064070605fd16dcddebe1347d399ca321f6a6d889682a7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

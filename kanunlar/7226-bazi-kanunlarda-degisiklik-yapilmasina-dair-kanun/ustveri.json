@@ -2,17 +2,17 @@
   "law_number": "7226",
   "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7226-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2020-03-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2020-03-26",
+    "number": "31080 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7226.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104174",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7226",
+  "source_mevzuat_id": "104174",
   "source_type": "KANUN",
-  "content_sha256": "7abd2195c8a6c454e5140d94003dfa94abca8a18e9dd3e1d44ffc9a14e19763d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "696dd60d6a97d2e55a4e9c23cc200e98d6295522102be5a2e55de13e1475ee87",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

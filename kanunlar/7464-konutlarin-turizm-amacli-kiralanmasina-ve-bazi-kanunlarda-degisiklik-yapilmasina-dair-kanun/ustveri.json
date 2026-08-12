@@ -2,17 +2,17 @@
   "law_number": "7464",
   "title": "KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7464-konutlarin-turizm-amacli-kiralanmasina-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-10-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-11-02",
+    "number": "32357"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7464.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/205599",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7464",
+  "source_mevzuat_id": "205599",
   "source_type": "KANUN",
-  "content_sha256": "fcd8371123e3f3d23f5b6022066b21371b6d75802bd04fa232df2b5fbbd1d2bf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "463eb782e19cdcfb42e2784ca9c722e84962a5b1de169458a1e5b015cb718d45",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

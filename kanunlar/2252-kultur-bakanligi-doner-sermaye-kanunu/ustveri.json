@@ -2,17 +2,17 @@
   "law_number": "2252",
   "title": "KÜLTÜR BAKANLIĞI DÖNER SERMAYE KANUNU",
   "slug": "2252-kultur-bakanligi-doner-sermaye-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1979-06-19",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "16679"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2252.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103474",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2252",
+  "source_mevzuat_id": "103474",
   "source_type": "KANUN",
-  "content_sha256": "094eac4842f4fd98f95cc75d02bf95e00402f4e7c747850262adaf8debdfa358",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b941229c94f34772ca882c82221832dd04d3379a8136201ea13cb8c775e0fe3c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

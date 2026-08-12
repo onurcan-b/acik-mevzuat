@@ -1,0 +1,18 @@
+{
+  "law_number": "126",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA YERLEŞME VE YAPILAŞMAYA İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 126)",
+  "slug": "126-olaganustu-hal-kapsaminda-yerlesme-ve-yapilasmaya-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-126",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-02-24",
+    "number": "32114"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336291",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336291",
+  "source_type": "MULGA",
+  "content_sha256": "b50f6c3c565676969213ec36b2120ef74a957ca26d60db094ba617fff0cb22b3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

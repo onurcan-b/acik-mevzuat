@@ -1,0 +1,18 @@
+{
+  "law_number": "122",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA KAMU PERSONELİNE İLİŞKİN ALINAN TEDBİRLERE DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 122)",
+  "slug": "122-olaganustu-hal-kapsaminda-kamu-personeline-iliskin-alinan-tedbirlere-dair-cumhurbaskanligi-kararnamesi-kararname-numarasi-122",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-02-15",
+    "number": "32105"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336294",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336294",
+  "source_type": "MULGA",
+  "content_sha256": "3cc6b53f97cd335a9682f842fc15745ce540d5f8c9d60882b019efdbdb2ea6ca",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

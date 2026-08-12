@@ -1,33 +1,62 @@
 # JANDARMA SINIFINA MENSUP SİVİL MEMURLARLA JANDARMA KADROLARI HAKKINDA KANUN (No. 1844)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1844.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105355
+> Resmî Gazete: 1931-07-26 / 1857
+> UYAP Mevzuat kimliği: 105355
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 12 Sayfa: 300
+1197
 
-Zabitan ve askeri memurların maaşatı hakkındaki 1453 numaralı kanun ile
-askeri memurlar hakkındaki 1455 numaralı kanunun hükümleri jandarma sınıfına mensup
-sivil memurlar hakkında dahi tatbik olunur.
+JANDARMA
+SINIFINA MENSUP
 
-# MADDE 2
+SİVİL
+MEMURLARLA
 
-Jandarma Umum Kumandanlığı kadroları ordu kadroları gibi Bütçe
-Encümenince her sene kabul ve tasdik edilerek tatbik olunur. Ücretle müstahdem bulunanlar
-hakkında ahkamı sabıka devam eder.
+JANDARMA
+KADROLARI HAKKINDA KANUN
 
-# MADDE 3
+Kanun
+Numarası : 1844
 
-Maaşatın tevhit ve teadülü hakkındaki 1452 numaralı kanunun 2 nci
-maddesine merbut cetvelde gösterilen jandarma sivil memurları teşkilatı kaldırılmıştır.
+Kabul
+Tarihi : 19/7/1931
 
-# MADDE 4
+Yayımlandığı
+Resmî Gazete : Tarih: 26/7/1931 Sayı: 1857
 
-Bu kanun 1 Ağustos 1931 tarihinden muteberdir.
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 12 Sayfa:
+300
 
-# MADDE 5
+Madde
+1 –
+Zabitan
+ve askeri memurların maaşatı hakkındaki 1453 numaralı kanun ile askeri memurlar
+hakkındaki 1455 numaralı kanunun hükümleri jandarma sınıfına mensup sivil
+memurlar hakkında dahi tatbik olunur.
 
-Bu kanunun hükümlerini icraya Milli Müdafaa, Dahiliye ve Maliye
-Vekilleri memurdur.
+Madde
+2 –
+Jandarma
+Umum Kumandanlığı kadroları ordu kadroları gibi Bütçe Encümenince her sene
+kabul ve tasdik edilerek tatbik olunur. Ücretle müstahdem bulunanlar hakkında
+ahkamı sabıka devam eder.
+
+Madde
+3 –
+Maaşatın
+tevhit ve teadülü hakkındaki 1452 numaralı kanunun 2 nci maddesine merbut
+cetvelde gösterilen jandarma sivil memurları teşkilatı kaldırılmıştır.
+
+Madde
+4 –
+Bu
+kanun 1 Ağustos 1931 tarihinden muteberdir.
+
+Madde
+5 –
+Bu
+kanunun hükümlerini icraya Milli Müdafaa, Dahiliye ve Maliye Vekilleri
+memurdur.

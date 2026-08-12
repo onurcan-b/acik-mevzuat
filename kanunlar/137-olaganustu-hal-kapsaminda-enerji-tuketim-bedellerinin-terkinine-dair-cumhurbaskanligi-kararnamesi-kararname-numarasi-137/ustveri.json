@@ -1,0 +1,18 @@
+{
+  "law_number": "137",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ENERJİ TÜKETİM BEDELLERİNİN TERKİNİNE DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 137)",
+  "slug": "137-olaganustu-hal-kapsaminda-enerji-tuketim-bedellerinin-terkinine-dair-cumhurbaskanligi-kararnamesi-kararname-numarasi-137",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-21",
+    "number": "32139"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336500",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336500",
+  "source_type": "MULGA",
+  "content_sha256": "2c131ff7b4063093c647a490c97190da5c10510aa00aaae3fbb82e7180704a33",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

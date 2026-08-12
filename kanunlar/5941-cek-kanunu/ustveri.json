@@ -2,17 +2,17 @@
   "law_number": "5941",
   "title": "ÇEK KANUNU",
   "slug": "5941-cek-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2009-12-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2009-12-20",
+    "number": "27438"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5941.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104102",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5941",
+  "source_mevzuat_id": "104102",
   "source_type": "KANUN",
-  "content_sha256": "171fd826ef4cd8e595a3f83eaa4b8390ab93c5f4f572e2b0254dca2886e8f7c2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "662beb3b557bd88fb7bb67c3f271119624f10e9effdb40f6512360214ce4ec33",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

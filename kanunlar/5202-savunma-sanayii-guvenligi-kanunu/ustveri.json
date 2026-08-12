@@ -2,17 +2,17 @@
   "law_number": "5202",
   "title": "SAVUNMA SANAYİİ GÜVENLİĞİ KANUNU",
   "slug": "5202-savunma-sanayii-guvenligi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-06-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-07-03",
+    "number": "25511"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5202.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103770",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5202",
+  "source_mevzuat_id": "103770",
   "source_type": "KANUN",
-  "content_sha256": "417a5cf469fefbfb9ddb8b63c3870509fcc41c6af0750c02a9012aee062e8c42",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1cccb8f0351db8b22349bf203a9a31a054efa5fef54dc166a8bc05fd1930da70",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

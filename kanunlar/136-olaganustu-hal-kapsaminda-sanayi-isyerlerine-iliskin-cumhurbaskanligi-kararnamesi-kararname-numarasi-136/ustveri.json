@@ -1,0 +1,18 @@
+{
+  "law_number": "136",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA SANAYİ İŞYERLERİNE İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 136)",
+  "slug": "136-olaganustu-hal-kapsaminda-sanayi-isyerlerine-iliskin-cumhurbaskanligi-kararnamesi-kararname-numarasi-136",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2023-03-12",
+    "number": "32130"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336289",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336289",
+  "source_type": "MULGA",
+  "content_sha256": "d1bc80b5c3fd8600ba0956b495a4e08b56e6aecd8423fd571dc35fe9f18bd68e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

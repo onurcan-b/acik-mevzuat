@@ -1,0 +1,18 @@
+{
+  "law_number": "5434",
+  "title": "TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "5434-turkiye-cumhuriyeti-emekli-sandigi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1949-06-08",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "7235"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335258",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335258",
+  "source_type": "MULGA",
+  "content_sha256": "f12795c42048f35d890ac51205fc8a92c85639ef907ae2a05fb1c0298dab6cb9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

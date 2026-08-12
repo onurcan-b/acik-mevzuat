@@ -2,17 +2,17 @@
   "law_number": "3067",
   "title": "KALKINMA PLANLARININ YÜRÜRLÜĞE KONMASI VE BÜTÜNLÜĞÜNÜN KORUNMASI HAKKINDA KANUN",
   "slug": "3067-kalkinma-planlarinin-yururluge-konmasi-ve-butunlugunun-korunmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-10-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-11-06",
+    "number": "18567"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3067.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104811",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3067",
+  "source_mevzuat_id": "104811",
   "source_type": "KANUN",
-  "content_sha256": "169e941d2248e4672599e0caefd4efb053b7bff91ea2c71f83acbfcab6d83460",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1dad404c4c6d8b6d924fc0d5ddf05f751c07f5465df4532aaa215ca3d66dabf6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "3201",
+  "title": "EMNİYET TEŞKİLAT KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "3201-emniyet-teskilat-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1937-06-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "3629"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335504",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335504",
+  "source_type": "MULGA",
+  "content_sha256": "611e9018cb5e9ae6b83c2b08326cd23d53a5ea73dc4ca06682d940e7aaf2ec83",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

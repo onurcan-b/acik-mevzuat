@@ -2,17 +2,17 @@
   "law_number": "5753",
   "title": "ARTVİN İLİ YUSUFELİ İLÇESİNİN MERKEZİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
   "slug": "5753-artvin-ili-yusufeli-ilcesinin-merkezinin-degistirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-04-16",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2008-04-24",
+    "number": "26856"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5753.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104064",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5753",
+  "source_mevzuat_id": "104064",
   "source_type": "KANUN",
-  "content_sha256": "3cc2605b4acad230952b67088100a8a347ef6880ee339bfc2576da2d6e10ac0c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "989e4055c0bfb81e751fef5786dea9d15dfeb838e8b4742a4ec96607ec78762f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

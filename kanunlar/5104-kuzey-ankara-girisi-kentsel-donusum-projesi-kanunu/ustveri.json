@@ -2,17 +2,17 @@
   "law_number": "5104",
   "title": "KUZEY ANKARA GİRİŞİ KENTSEL DÖNÜŞÜM PROJESİ KANUNU",
   "slug": "5104-kuzey-ankara-girisi-kentsel-donusum-projesi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-03-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-03-12",
+    "number": "25400"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5104.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103744",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5104",
+  "source_mevzuat_id": "103744",
   "source_type": "KANUN",
-  "content_sha256": "f6a38e566a31f16df1ba04462a2cf9e2d106a64d4c750bc1414daf27503d06e1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bfb9e0461969f719e1b3bbf77e4164f1efb75e2db43cac6e75811432e8186342",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "1868",
   "title": "İKAMET MUKAVELENAMESİ AKTEDİLMİYEN DEVLETLERLE YAPILACAK MUVAKKAT MUKAVELENAME HAKKINDA KANUN",
   "slug": "1868-ikamet-mukavelenamesi-aktedilmiyen-devletlerle-yapilacak-muvakkat-mukavelename-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1931-07-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1931-08-01",
+    "number": "1861"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1868.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105349",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1868",
+  "source_mevzuat_id": "105349",
   "source_type": "KANUN",
-  "content_sha256": "60964d89ef39a5b6ee1e57770aadf80eca5613a76c7ce49f7c25cd197076c5fb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8925e990bf409deb5d1625dad2b28acd642a8f7d666b79d7fb200290ba6dbba7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

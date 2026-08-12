@@ -2,17 +2,17 @@
   "law_number": "3653",
   "title": "YALOVA TERMAL KAPLICALARININ İDARESİ VE İŞLETİLMESİ HAKKINDA KANUN",
   "slug": "3653-yalova-termal-kaplicalarinin-idaresi-ve-isletilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1939-06-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1939-07-04",
+    "number": "4249"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3653.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105267",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3653",
+  "source_mevzuat_id": "105267",
   "source_type": "KANUN",
-  "content_sha256": "9cd52926e57363d5c76c2b1f4b0216152a06ad6fdfce842e55b8d05ea0168f32",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "14a1e6264031ebfb22e969653f3ae82b569393e5806a053c952653216415000c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

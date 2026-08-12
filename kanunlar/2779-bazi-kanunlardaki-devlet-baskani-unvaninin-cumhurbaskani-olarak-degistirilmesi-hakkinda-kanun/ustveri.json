@@ -2,17 +2,17 @@
   "law_number": "2779",
   "title": "BAZI KANUNLARDAKİ \"DEVLET BAŞKANI\" UNVANININ \"CUMHURBAŞKANI\" OLARAK DEĞİŞTİRİLMESİ HAKKINDA KANUN",
   "slug": "2779-bazi-kanunlardaki-devlet-baskani-unvaninin-cumhurbaskani-olarak-degistirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-01-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-01-13",
+    "number": "17927"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2779.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104901",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2779",
+  "source_mevzuat_id": "104901",
   "source_type": "KANUN",
-  "content_sha256": "f03980f1fcdf620d41b99e4158a8d2d0824b4086735d4b2b95e99850537367db",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9902054befc040c00d9134dda5f6ea730ac56ed97c1970eca5ce5b4eb5074a8a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

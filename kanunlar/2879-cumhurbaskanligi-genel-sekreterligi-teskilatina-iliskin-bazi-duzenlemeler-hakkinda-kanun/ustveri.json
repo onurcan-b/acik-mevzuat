@@ -2,17 +2,17 @@
   "law_number": "2879",
   "title": "CUMHURBAŞKANLIĞI GENEL SEKRETERLİĞİ TEŞKİLATINA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "2879-cumhurbaskanligi-genel-sekreterligi-teskilatina-iliskin-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1983-08-17",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18140"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2879.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104862",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2879",
+  "source_mevzuat_id": "104862",
   "source_type": "KANUN",
-  "content_sha256": "56b5d4a73bf9c6193fb7101d2c633b23ac030a1373385f19964a638fc2b663b2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "58db0187142752bbdba713642fcc7bc2a4adecfa25e85084c21e74e4226ed421",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

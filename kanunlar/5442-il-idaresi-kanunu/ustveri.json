@@ -2,17 +2,17 @@
   "law_number": "5442",
   "title": "İL İDARESİ KANUNU",
   "slug": "5442-il-idaresi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1949-06-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1949-06-18",
+    "number": "7236"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5442.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104572",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5442",
+  "source_mevzuat_id": "104572",
   "source_type": "KANUN",
-  "content_sha256": "46a3507f8393e7e973e22d2aafb80a5778caf708e99ee2a988471cca67e43df4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f9783b3854e445c053a9a49db6498604864673bc8a8775d7e30914648276d442",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

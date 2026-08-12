@@ -1,0 +1,18 @@
+{
+  "law_number": "357",
+  "title": "ASKERİ HAKİMLER KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "357-askeri-hakimler-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1963-10-26",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "11541"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335340",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335340",
+  "source_type": "MULGA",
+  "content_sha256": "4271af513238b823dcfb30143cdd3f835f9158d45ae2d10477a09556f25b03dd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

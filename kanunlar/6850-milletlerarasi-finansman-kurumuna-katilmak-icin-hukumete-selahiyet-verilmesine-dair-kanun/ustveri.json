@@ -2,17 +2,17 @@
   "law_number": "6850",
   "title": "MİLLETLERARASI FİNANSMAN KURUMUNA KATILMAK İÇİN HÜKÜMETE SELAHİYET VERİLMESİNE DAİR KANUN",
   "slug": "6850-milletlerarasi-finansman-kurumuna-katilmak-icin-hukumete-selahiyet-verilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1956-09-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1956-09-10",
+    "number": "9403"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6850.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105115",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6850",
+  "source_mevzuat_id": "105115",
   "source_type": "KANUN",
-  "content_sha256": "6dd4077ecab9880921513c4bc5ab3003059e2a1d6b0f39afbe7fd03c7f3e1439",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e3be363ede6f7ae3924792be73145b834ece205cd23c83227a583ecc44b35a77",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

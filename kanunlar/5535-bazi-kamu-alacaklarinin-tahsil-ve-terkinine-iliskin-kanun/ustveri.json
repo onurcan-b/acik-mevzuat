@@ -2,17 +2,17 @@
   "law_number": "5535",
   "title": "BAZI KAMU ALACAKLARININ TAHSİL VE TERKİNİNE İLİŞKİN KANUN",
   "slug": "5535-bazi-kamu-alacaklarinin-tahsil-ve-terkinine-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-06-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-07-08",
+    "number": "26222"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5535.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103934",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5535",
+  "source_mevzuat_id": "103934",
   "source_type": "KANUN",
-  "content_sha256": "9cbc8acebf7ced7fe5fc27865af0f9d0331cf5dac9f7306ec4e554bffbe44be6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "12cf71656370ed364ee26491ebc9a444cc17935676cc6893f91c7b6b6ac65a3b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "6763",
+  "title": "TÜRK TİCARET KANUNUNUN MER'İYET VE TATBİK ŞEKLİ HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "6763-turk-ticaret-kanununun-mer-iyet-ve-tatbik-sekli-hakkinda-kanunun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "1956-06-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "9353"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335472",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335472",
+  "source_type": "MULGA",
+  "content_sha256": "d33ef6c26fa36cf23b95feb6760e7ba33beeacd82066113d1a330b5cbd0400e4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

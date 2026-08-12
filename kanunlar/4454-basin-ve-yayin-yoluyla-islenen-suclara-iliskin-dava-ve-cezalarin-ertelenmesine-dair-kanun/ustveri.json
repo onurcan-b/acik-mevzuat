@@ -2,17 +2,17 @@
   "law_number": "4454",
   "title": "BASIN VE YAYIN YOLUYLA İŞLENEN SUÇLARA İLİŞKİN DAVA VE CEZALARIN ERTELENMESİNE DAİR KANUN",
   "slug": "4454-basin-ve-yayin-yoluyla-islenen-suclara-iliskin-dava-ve-cezalarin-ertelenmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1999-08-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1999-09-03",
+    "number": "23805"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4454.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103443",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4454",
+  "source_mevzuat_id": "103443",
   "source_type": "KANUN",
-  "content_sha256": "e5151eb215a4844afed0d755b942cd4da22c7521189695e2d52642af32868ebf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "17943981361dae7574d3a92fe0271991ac45a44cec92dfa118ca6a91b46b9987",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

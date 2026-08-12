@@ -2,17 +2,17 @@
   "law_number": "2629",
   "title": "UÇUŞ, PARAŞÜT, DENİZALTI, DALGIÇ VE KURBAĞA ADAM HİZMETLERİ TAZMİNAT KANUNU",
   "slug": "2629-ucus-parasut-denizalti-dalgic-ve-kurbaga-adam-hizmetleri-tazminat-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1982-02-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1982-02-28",
+    "number": "17619 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2629.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104912",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2629",
+  "source_mevzuat_id": "104912",
   "source_type": "KANUN",
-  "content_sha256": "cdd0d5a70858ac67270edd7309e1454ee4a8fb942d8bf51fdc9b2e8c446dac5a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "890fa1fda1ffa9db4fd4830208e3df6bd87c63780cc48c10e46028ea9a1354f4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

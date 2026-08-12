@@ -2,17 +2,17 @@
   "law_number": "4639",
   "title": "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ HAKKINDAKİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR YETKİ KANUNU",
   "slug": "4639-memurlar-ve-diger-kamu-gorevlileri-hakkindaki-bazi-kanunlarda-degisiklik-yapilmasina-dair-yetki-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-04-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2001-04-13",
+    "number": "24372"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4639.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103537",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4639",
+  "source_mevzuat_id": "103537",
   "source_type": "KANUN",
-  "content_sha256": "56d2eb15947d02d2064c294b06f0264d58a7b01467b59c9a3dfb5cecef845142",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0aac8a28e7f6d5e3396b24c02e612f7795b2a707a0234c9039d30c8cd59c5754",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "2978",
+  "title": "VERGİ İADESİ HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2978-vergi-iadesi-hakkinda-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1984-02-02",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18306"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335284",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335284",
+  "source_type": "MULGA",
+  "content_sha256": "756da82e00ef5c54717867cb80e69b3dd275d76adf505801e8e912aecdce18fa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

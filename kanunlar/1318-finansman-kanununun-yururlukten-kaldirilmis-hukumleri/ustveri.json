@@ -1,0 +1,18 @@
+{
+  "law_number": "1318",
+  "title": "FİNANSMAN KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "1318-finansman-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1970-07-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "13575"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335327",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335327",
+  "source_type": "MULGA",
+  "content_sha256": "f1cb828587c8cd52e14a00d53bed1facc9225bfd095fdaf3f6f45ac1b81913a6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

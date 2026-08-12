@@ -2,17 +2,17 @@
   "law_number": "7245",
   "title": "ÇARŞI VE MAHALLE BEKÇİLERİ KANUNU",
   "slug": "7245-carsi-ve-mahalle-bekcileri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2020-06-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2020-06-18",
+    "number": "31159"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7245.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104178",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7245",
+  "source_mevzuat_id": "104178",
   "source_type": "KANUN",
-  "content_sha256": "7193c1f2eef6fea7a891493968a57f9ff05d7b6215e0132200e6bf26dc6f8f18",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d16c6ff69d9eec33f67549ab8160dd8a06f16a7c64138ae733ae2fc0467a7bc0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

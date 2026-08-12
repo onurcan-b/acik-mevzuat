@@ -1,18 +1,18 @@
 {
   "law_number": "2942",
-  "title": "Kamulaştırma Kanunu",
+  "title": "KAMULAŞTIRMA KANUNU",
   "slug": "2942-kamulastirma-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-11-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18215"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2942.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102999",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2942",
+  "source_mevzuat_id": "102999",
   "source_type": "KANUN",
-  "content_sha256": "82f9a7a77d09d2f1103599459cd5adbf8693fc8290c10887c05503be3e5e2797",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "87ba3bb35dd8bf1d642176fc68ad3513d4955c087b72d044508ec7c1c3413edd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

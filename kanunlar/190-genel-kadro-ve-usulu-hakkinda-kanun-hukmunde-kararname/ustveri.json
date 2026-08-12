@@ -1,0 +1,18 @@
+{
+  "law_number": "190",
+  "title": "GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "190-genel-kadro-ve-usulu-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18251 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336483",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336483",
+  "source_type": "MULGA",
+  "content_sha256": "37a3f976e5590fba48f30c2be3cae37f041a19a65d12271e0b33e5736563520b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "1053",
+  "title": "BELEDİYE TEŞKİLÂTI OLAN YERLEŞİM YERLERİNE  İÇME, KULLANMA VE ENDÜSTRİ SUYU TEMİNİ HAKKINDA KANUN",
+  "slug": "1053-belediye-teskilati-olan-yerlesim-yerlerine-icme-kullanma-ve-endustri-suyu-temini-hakkinda-kanun",
+  "accepted_date": "1968-07-03",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1968-07-16",
+    "number": "12951"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105019",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105019",
+  "source_type": "KANUN",
+  "content_sha256": "7741c74f1df52137c48f0692f34a11598017d61bea269a965dab26b0e37ffb04",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

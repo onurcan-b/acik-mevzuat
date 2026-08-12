@@ -1,0 +1,18 @@
+{
+  "law_number": "6245",
+  "title": "HARCIRAH KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6245-harcirah-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1954-02-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "8637"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335250",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335250",
+  "source_type": "MULGA",
+  "content_sha256": "bf6353e80842026fdd17b3c3cab9b50b5183da709439f63440f8957790fca125",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

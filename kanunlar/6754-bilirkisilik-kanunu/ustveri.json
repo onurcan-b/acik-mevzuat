@@ -2,17 +2,17 @@
   "law_number": "6754",
   "title": "BİLİRKİŞİLİK KANUNU",
   "slug": "6754-bilirkisilik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2016-11-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-11-24",
+    "number": "29898"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104136",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6754",
+  "source_mevzuat_id": "104136",
   "source_type": "KANUN",
-  "content_sha256": "38d2b0e7e665d27636bc2f1a940b17c924d5f5e83a5914aaa8ebb52dc8d43cc1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "43a36c49fd554e537ed3d590cf699c27dd5de6e16cd565e2d916cd6160e90684",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

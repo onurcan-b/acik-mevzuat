@@ -1,58 +1,97 @@
 # YÜKSEKÖĞRETİM PERSONEL KANUNU, TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU VE DEVLET MEMURLARI KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN (No. 4048)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4048.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103318
+> Resmî Gazete: 1994-12-02 / 22129
+> UYAP Mevzuat kimliği: 103318
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 5
+YÜKSEKÖĞRETİM PERSONEL
+KANUNU, TÜRKİYE CUMHURİYETİ
 
-(11/10/1983 tarih ve 2914 sayılı Kanunun 12 nci maddesinin değiştirilmesi
-ile ilgili olup, yerine işlenmiştir.)
+EMEKLİ SANDIĞI KANUNU VE DEVLET MEMURLARI
+KANUNUNDA
 
-# MADDE 2
+DEĞİŞİKLİK YAPILMASI HAKKINDA KANUNU
 
-(14/7/1965 tarih ve 657 sayılı Kanuna ekli "IV sayılı Makam
-Tazminatı Cetveli" ne ibare eklenmesi ile ilgili olup, yerine işlenmiştir.)
+Kanun
+Numarası : 4048
 
-# MADDE 3
+Kabul
+Tarihi : 24/11/1994
 
-(11/10/1983 tarih ve 2914 sayılı Kanuna ekli "Ek Gösterge Cetvelinin"
+Yayımlandığı
+Resmî Gazete : Tarih : 2/12/1994 Sayı : 22129
+
+Yayımlandığı
+Düstur : Tertip : 5
+
+Madde 1 – (11/10/1983 tarih ve 2914 sayılı Kanunun 12 nci
+maddesinin değiştirilmesi ile ilgili olup, yerine işlenmiştir.)
+
+Madde
+2 – (14/7/1965 tarih ve 657 sayılı Kanuna ekli "IV sayılı Makam Tazminatı Cetveli"
+ne ibare eklenmesi ile ilgili olup, yerine işlenmiştir.)
+
+Madde
+3 – (11/10/1983 tarih ve 2914 sayılı Kanuna ekli "Ek Gösterge Cetvelinin"
 değiştirilmesi ile ilgili olup, yerine işlenmiştir.)
 
-# MADDE 4
+Madde
+4 – (11/10/1983 tarih ve 2914 sayılı Kanuna Ek 1 inci maddenin eklenmesi ile ilgili
+olup, yerine işlenmiştir.)
 
-(11/10/1983 tarih ve 2914 sayılı Kanuna Ek 1 inci maddenin eklenmesi
+Madde
+5 – (11/10/1983 tarih ve 2914 sayılı Kanunun Geçici 8 inci maddesinin değiştirilmesi
 ile ilgili olup, yerine işlenmiştir.)
 
-# MADDE 5
+Madde
+6 – (8/6/1949 tarih ve 5434 sayılı Kanunun Ek 68 inci maddesine fıkralar eklenmesi
+ile ilgili olup, yerine işlenmiştir.)
 
-(11/10/1983 tarih ve 2914 sayılı Kanunun Geçici 8 inci maddesinin
-değiştirilmesi ile ilgili olup, yerine işlenmiştir.)
+Geçici
+Madde 1 –
+3.7.1992 tarih ve 3837 sayılı Kanunun 27 nci maddesi ile
+190 sayılı Kanun Hükmünde Kararnameye eklenen Ek Madde 2 ile Sakarya Üniversitesi
+Merkez Teşkilatı için ihdas edilen idari kadrolardan toplam kadro sayısı içinde
+olduğu halde dereceler itibariyle yer almayan ekli 1 sayılı listedeki kadrolar anılan
+Kanun Hükmünde Kararnamenin Sakarya Üniversitesi ile ilgili bölümüne eklenmiştir.
 
-# MADDE 6
+Geçici
+Madde 2 – (Mülga: 3/4/1998 - 4359/16 md.)
 
-(8/6/1949 tarih ve 5434 sayılı Kanunun Ek 68 inci maddesine fıkralar
-eklenmesi ile ilgili olup, yerine işlenmiştir.)
+Madde
+7 –
+Bu
+Kanunun Geçici 1 inci maddesi yayımı tarihinde, 3 üncü maddesi 1.1.1995 tarihinde,
+diğer maddeleri 15.1.1995 tarihinde yürürlüğe girer.
 
-# GEÇİCİ MADDE 1
+Madde
+8 –
+Bu
+Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-3.7.1992 tarih ve 3837 sayılı Kanunun 27 nci maddesi ile 190 sayılı
-Kanun Hükmünde Kararnameye eklenen Ek Madde 2 ile Sakarya Üniversitesi Merkez
-Teşkilatı için ihdas edilen idari kadrolardan toplam kadro sayısı içinde olduğu halde dereceler
-itibariyle yer almayan ekli 1 sayılı listedeki kadrolar anılan Kanun Hükmünde Kararnamenin
-Sakarya Üniversitesi ile ilgili bölümüne eklenmiştir.
+4048 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
 
-# GEÇİCİ MADDE 2
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 
-(Mülga: 3/4/1998 - 4359/16 md.)
+Kanun
+No.
 
-# MADDE 7
+Farklı
+Tarihte Yürürlüğe Giren Maddeler
 
-Bu Kanunun Geçici 1 inci maddesi yayımı tarihinde, 3 üncü maddesi
-1.1.1995 tarihinde, diğer maddeleri 15.1.1995 tarihinde yürürlüğe girer.
+Yürürlüğe
+Giriş Tarihi
 
-# MADDE 8
+4359
 
-Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+1,
+2, 3 ve 14 üncü maddeleri
+
+1.1.1998
+
+Diğer
+maddeleri
+
+4.4.1998

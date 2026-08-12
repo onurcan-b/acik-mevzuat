@@ -1,0 +1,18 @@
+{
+  "law_number": "2876",
+  "title": "ATATÜRK KÜLTÜR,DİL VE TARİH YÜKSEK KURUMU KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2876-ataturk-kultur-dil-ve-tarih-yuksek-kurumu-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-08-11",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18138"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335290",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335290",
+  "source_type": "MULGA",
+  "content_sha256": "b4b63f42eb824406552e90a13b9900ed073ff0bd31fb96f95fef32942b28e206",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "1774",
   "title": "KİMLİK BİLDİRME KANUNU",
   "slug": "1774-kimlik-bildirme-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1973-06-26",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "14591"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1774.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104580",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1774",
+  "source_mevzuat_id": "104580",
   "source_type": "KANUN",
-  "content_sha256": "a382c3ba8b67ccca28155aadc383628ecfff6faa3eb27d7867d02e393e31b664",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a3c9dfb6fb6fa15aa785c2bd6a877d1bb74bd8195aaa5f31d10f9debf7b2a5b0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

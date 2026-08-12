@@ -2,17 +2,17 @@
   "law_number": "2547",
   "title": "YÜKSEKÖĞRETİM KANUNU",
   "slug": "2547-yuksekogretim-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1981-11-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17506"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2547.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102922",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2547",
+  "source_mevzuat_id": "102922",
   "source_type": "KANUN",
-  "content_sha256": "2bef924e70c2ad744552a6dd89446e090bb28670001df5db87d71ea49b7c5c60",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "64c29100c6f2f9700bc280ae0be13e10eddaf19809d7801e26ea900f164aa6f6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

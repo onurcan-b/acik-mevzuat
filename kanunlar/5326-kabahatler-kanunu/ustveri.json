@@ -2,17 +2,17 @@
   "law_number": "5326",
   "title": "KABAHATLER KANUNU",
   "slug": "5326-kabahatler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-03-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-03-31",
+    "number": "25772 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5326.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103475",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5326",
+  "source_mevzuat_id": "103475",
   "source_type": "KANUN",
-  "content_sha256": "854b9dfce12ea60990690b4394cec7a289adf24b2d9031c2ea5d7cf94cfdf88d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "dc5b4864c950934f51a07fca12ec3dc066c941d5338d97a3ce4e3b6dbb52b4cd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

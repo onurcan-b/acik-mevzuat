@@ -2,17 +2,17 @@
   "law_number": "2983",
   "title": "TASARRUFLARIN TEŞVİKİ VE KAMU YATIRIMLARININ HIZLANDIRILMASI HAKKINDA KANUN",
   "slug": "2983-tasarruflarin-tesviki-ve-kamu-yatirimlarinin-hizlandirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-02-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-03-17",
+    "number": "18344"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2983.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104831",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2983",
+  "source_mevzuat_id": "104831",
   "source_type": "KANUN",
-  "content_sha256": "5e6db1ba887e9b0904c7dc4c5cdb0b926adaa666e39b6154ec8ff8b94ff5e30b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "93071620d25e568d757e74081530ab6c71d6e16c00e87a703b0a32f5dd9a4370",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

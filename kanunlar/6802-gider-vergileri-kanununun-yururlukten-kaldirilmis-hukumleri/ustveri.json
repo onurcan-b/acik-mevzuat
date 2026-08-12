@@ -1,0 +1,18 @@
+{
+  "law_number": "6802",
+  "title": "GİDER VERGİLERİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6802-gider-vergileri-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1956-07-13",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "9362"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335471",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335471",
+  "source_type": "MULGA",
+  "content_sha256": "d206087ed303864b9ec8bfb12a936ab42519597cabdc1aad52e4be8bff9f9fbf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

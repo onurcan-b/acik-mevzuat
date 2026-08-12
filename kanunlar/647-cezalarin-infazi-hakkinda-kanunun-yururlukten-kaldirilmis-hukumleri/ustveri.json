@@ -1,0 +1,18 @@
+{
+  "law_number": "647",
+  "title": "CEZALARIN İNFAZI HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "647-cezalarin-infazi-hakkinda-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1965-07-13",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "12050"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335561",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335561",
+  "source_type": "MULGA",
+  "content_sha256": "0111dd1f17865647bfe712437281cc2d91cd226148c0f6e506d4b023ffc10bc6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

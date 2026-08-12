@@ -2,17 +2,17 @@
   "law_number": "1380",
   "title": "SU ÜRÜNLERİ KANUNU",
   "slug": "1380-su-urunleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1971-03-22",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "13799"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1380.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104544",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1380",
+  "source_mevzuat_id": "104544",
   "source_type": "KANUN",
-  "content_sha256": "65576e01c584b09d789e18332867954f20a252ce3b2c8ae7b895bd2a5b7b7919",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3942c558688e907710056ff6672a83cea6d9c162311cc163326618e421e71ccf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

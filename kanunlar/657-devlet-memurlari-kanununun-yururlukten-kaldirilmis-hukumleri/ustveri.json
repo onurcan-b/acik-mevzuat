@@ -1,0 +1,18 @@
+{
+  "law_number": "657",
+  "title": "DEVLET MEMURLARI KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "657-devlet-memurlari-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1965-07-14",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "12056"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335559",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335559",
+  "source_type": "MULGA",
+  "content_sha256": "e4d3036023bfc34fd706ae6a4cf949478e2499314478e97cdd20925e111897f2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

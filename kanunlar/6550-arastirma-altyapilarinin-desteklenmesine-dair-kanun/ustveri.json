@@ -2,17 +2,17 @@
   "law_number": "6550",
   "title": "ARAŞTIRMA ALTYAPILARININ DESTEKLENMESİNE DAİR KANUN",
   "slug": "6550-arastirma-altyapilarinin-desteklenmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2014-07-03",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "29056"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6550.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104373",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6550",
+  "source_mevzuat_id": "104373",
   "source_type": "KANUN",
-  "content_sha256": "ce51308ddc8d72a182b39bb98863040996fa1e723f87341431a8650ba2eaf327",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4929c28a51b43e89c5f0d0aba4f749ad1d5277fd8c5d827c9d7e821cb8a21d49",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

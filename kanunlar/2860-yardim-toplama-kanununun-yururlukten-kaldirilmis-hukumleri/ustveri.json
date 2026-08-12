@@ -1,0 +1,18 @@
+{
+  "law_number": "2860",
+  "title": "YARDIM TOPLAMA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2860-yardim-toplama-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-06-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18088"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335292",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335292",
+  "source_type": "MULGA",
+  "content_sha256": "5aa185e23f1684335966eec13cf05b2c78530c656fd87e6ff4a2f0766a102b70",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

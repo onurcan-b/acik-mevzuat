@@ -2,17 +2,17 @@
   "law_number": "7462",
   "title": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI TÜRK ANONİM ŞİRKETİ KANUNU",
   "slug": "7462-eregli-demir-ve-celik-fabrikalari-turk-anonim-sirketi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1960-02-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-03-01",
+    "number": "10445"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7462.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105087",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.7462",
+  "source_mevzuat_id": "105087",
   "source_type": "KANUN",
-  "content_sha256": "cba6be1d0f2b90f4dbb248d211fffe596deea2a4a6a501e4d4320bc8a3f73b84",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f23204ada887fdbf19f13eb9c6eb72f1957eb451090d92b0bfdcdfbfc58f29be",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

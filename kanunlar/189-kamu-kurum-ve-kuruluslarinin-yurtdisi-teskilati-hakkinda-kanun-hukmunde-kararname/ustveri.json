@@ -1,0 +1,18 @@
+{
+  "law_number": "189",
+  "title": "KAMU KURUM VE KURULUŞLARININ YURTDIŞI TEŞKİLATI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "189-kamu-kurum-ve-kuruluslarinin-yurtdisi-teskilati-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-12-14",
+    "number": "18251 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336487",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336487",
+  "source_type": "MULGA",
+  "content_sha256": "1d1f8159977cbcb9439dd6484b4fe9ccdc3f9a94b4527331feeb7184a1d8485e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4070",
+  "title": "HAZİNEYE AİT TARIM ARAZİLERİNİN SATIŞI HAKKINDA KANUN",
+  "slug": "4070-hazineye-ait-tarim-arazilerinin-satisi-hakkinda-kanun",
+  "accepted_date": "1995-02-16",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1995-02-19",
+    "number": "22207"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335498",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335498",
+  "source_type": "MULGA",
+  "content_sha256": "9437e91b59268da61be2070987e282cd83742d4417680352da9f080579c499c6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

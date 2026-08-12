@@ -1,22 +1,47 @@
 # UYGULANMA İMKANI KALMAMIŞ OLAN KANUNLARIN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN (No. 3488)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3488.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/104715
+> Resmî Gazete: 1988-11-08 / 19983
+> UYAP Mevzuat kimliği: 104715
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip : 5 Cilt : 28 Sayfa : 36
+UYGULANMA İMKANI
+KALMAMIŞ OLAN KANUNLARIN
 
-İlişik listedeki kanunlar, yürürlükten kaldırılmıştır.1
+YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA
+KANUN
 
-# MADDE 2
+Kanun
+Numarası : 3488
 
-Bu Kanun yayımı tarihinde yürürlüğe girer.
+Kabul
+Tarihi : 27/10/1988
 
-# MADDE 3
+Yayımlandığı
+Resmî Gazete : Tarih : 8/11/1988 Sayı : 19983
 
-Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Yayımlandığı
+Düstur : Tertip : 5 Cilt : 28 Sayfa :
+36
 
-1 Bu Kanunun ekindeki, yürürlükten kaldırılmış olan kanunların ad ve numaralarını içeren liste
-8.11.1988 tarih ve 19983 sayılı Resmi Gazete'de yayımlanmıştır.
+Madde
+1 –
+İlişik
+listedeki kanunlar, yürürlükten kaldırılmıştır.
+[1]
+
+Madde
+2 –
+Bu
+Kanun yayımı tarihinde yürürlüğe girer.
+
+Madde
+3 –
+Bu
+Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+[1]
+Bu Kanunun ekindeki, yürürlükten kaldırılmış olan
+kanunların ad ve numaralarını içeren liste 8.11.1988 tarih ve 19983 sayılı
+Resmi Gazete'de yayımlanmıştır.

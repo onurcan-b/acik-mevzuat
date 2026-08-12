@@ -2,17 +2,17 @@
   "law_number": "3071",
   "title": "DİLEKÇE HAKKININ KULLANILMASINA DAİR KANUN",
   "slug": "3071-dilekce-hakkinin-kullanilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1984-11-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-11-10",
+    "number": "18571"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3071.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104809",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3071",
+  "source_mevzuat_id": "104809",
   "source_type": "KANUN",
-  "content_sha256": "75e9832403cb63bcacfeeee739b664773b843b0a0fceb1dd03a387a98a20f68a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c2d54d4edededbcc65c633a84430fc4af8d7805246861c88495f2e5ba2cfddbe",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "2802",
+  "title": "HAKİMLER VE SAVCILAR KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2802-hakimler-ve-savcilar-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-02-24",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "17971"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335298",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335298",
+  "source_type": "MULGA",
+  "content_sha256": "dde40624bfea178846d1670dc842bb1da40f01dd30654824328f1460e92aa99f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

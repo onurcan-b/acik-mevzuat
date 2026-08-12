@@ -2,17 +2,17 @@
   "law_number": "3294",
   "title": "SOSYAL YARDIMLAŞMA VE DAYANIŞMAYI TEŞVİK KANUNU",
   "slug": "3294-sosyal-yardimlasma-ve-dayanismayi-tesvik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1986-05-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1986-06-14",
+    "number": "19134"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3294.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104760",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3294",
+  "source_mevzuat_id": "104760",
   "source_type": "KANUN",
-  "content_sha256": "990cc62626d5565461de56bb8691d05024647536725fd2655f672b3d25aa5379",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "207dd75d680538844fbb262ea43b25600aea1a97abda65de6bd3198c90d82336",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

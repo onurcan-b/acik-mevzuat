@@ -1,0 +1,18 @@
+{
+  "law_number": "6183",
+  "title": "AMME ALACAKLARININ TAHSİL USULÜ HAKKINDAKİ KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6183-amme-alacaklarinin-tahsil-usulu-hakkindaki-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1953-07-21",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "8469"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335482",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335482",
+  "source_type": "MULGA",
+  "content_sha256": "0d37365427d1d71b3ded4fba8efb408df30d994ecc5dd7818fa2dbd5848945e5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

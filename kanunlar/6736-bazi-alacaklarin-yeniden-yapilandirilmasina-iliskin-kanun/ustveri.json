@@ -2,17 +2,17 @@
   "law_number": "6736",
   "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA İLİŞKİN KANUN",
   "slug": "6736-bazi-alacaklarin-yeniden-yapilandirilmasina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2016-08-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2016-08-19",
+    "number": "29806"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6736.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104209",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6736",
+  "source_mevzuat_id": "104209",
   "source_type": "KANUN",
-  "content_sha256": "ba5e4cc1af061d5ca0576eda64bc45feb67a0f03d3b789b457ecb134c847485a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f10bf8680a2d1bc3528076e80d5e4cdc3febca328735ffdda88056ac43eeded4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

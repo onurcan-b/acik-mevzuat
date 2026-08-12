@@ -1,0 +1,18 @@
+{
+  "law_number": "3011",
+  "title": "RESMİ GAZETE´DE YAYIMLANACAK OLAN YÖNETMELİKLER HAKKINDA KANUN",
+  "slug": "3011-resmi-gazete-de-yayimlanacak-olan-yonetmelikler-hakkinda-kanun",
+  "accepted_date": "1984-05-24",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1984-06-01",
+    "number": "18418"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104829",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "104829",
+  "source_type": "KANUN",
+  "content_sha256": "6081b2c7db5fe9beb0246b35226550871a40f0a85b1d00d2e1416ef8043d0c11",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

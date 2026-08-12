@@ -2,17 +2,17 @@
   "law_number": "5275",
   "title": "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
   "slug": "5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-12-13",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25685"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5275.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102944",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5275",
+  "source_mevzuat_id": "102944",
   "source_type": "KANUN",
-  "content_sha256": "2587dc008ef808df9b779cd77c69b01541bda6c726ad844cca703257b27bcf1d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fba2b49e4ff4455ec7c04601f0bfc45db20e92a0d90cb847ee1ea3043ccc4b2c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

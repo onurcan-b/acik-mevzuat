@@ -1,0 +1,18 @@
+{
+  "law_number": "854",
+  "title": "DENİZ İŞ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "854-deniz-is-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1967-04-20",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "12586"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335334",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335334",
+  "source_type": "MULGA",
+  "content_sha256": "e8d77642692d114b42c63b002333378b11a633388fbb4c529d37260ab78919f1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "7446",
   "title": "ÇEVRE KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN  HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK  YAPILMASINA DAİR KANUN",
   "slug": "7446-cevre-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-03-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-04-05",
+    "number": "32154"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7446.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/120179",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7446",
+  "source_mevzuat_id": "120179",
   "source_type": "KANUN",
-  "content_sha256": "1d0d1dc99b4631ad71e7b653f0c2ce93ce4a36c1cf2be55c41f3d2af47812c8f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e29ced510e1ea0b6781b8f0329477c817a6b960e572b17554afaf47e5f51d408",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

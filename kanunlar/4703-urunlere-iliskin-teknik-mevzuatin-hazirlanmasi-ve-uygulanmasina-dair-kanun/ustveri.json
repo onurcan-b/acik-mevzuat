@@ -1,0 +1,18 @@
+{
+  "law_number": "4703",
+  "title": "ÜRÜNLERE İLİŞKİN TEKNİK MEVZUATIN HAZIRLANMASI VE UYGULANMASINA DAİR KANUN",
+  "slug": "4703-urunlere-iliskin-teknik-mevzuatin-hazirlanmasi-ve-uygulanmasina-dair-kanun",
+  "accepted_date": "2001-06-29",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "2001-07-11",
+    "number": "24459"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335495",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335495",
+  "source_type": "MULGA",
+  "content_sha256": "5f4a2927adac62bf8ffb6ff1db9a134226fcb03c532a9ca25480f7d3eaf4f078",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

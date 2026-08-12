@@ -2,17 +2,17 @@
   "law_number": "2946",
   "title": "KAMU KONUTLARI KANUNU",
   "slug": "2946-kamu-konutlari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-11-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-11-11",
+    "number": "18218"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2946.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104584",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2946",
+  "source_mevzuat_id": "104584",
   "source_type": "KANUN",
-  "content_sha256": "885d743ec318b77699749e6c8f08d7f221c17de769aa25ae6daa56719dfc989e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5f6dc54b6a7b2a851c50c37bed264c3370fcea02dbbd5fe09a5e6cdec12fcffc",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "7091",
   "title": "OLAĞANÜSTÜ HAL KAPSAMINDA ALINMASI GEREKEN TEDBİRLER HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
   "slug": "7091-olaganustu-hal-kapsaminda-alinmasi-gereken-tedbirler-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2018-02-08",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2018-03-08",
+    "number": "30354 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7091.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103817",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7091",
+  "source_mevzuat_id": "103817",
   "source_type": "KANUN",
-  "content_sha256": "0a8a56e48a03048ce744a5f2b09107dc3fd0c2e4032c36936e5895b447dbf60b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "78b21e89e6f141dc8e16306d7ab437d40adc08d362f195ccdd4c45f8f85a1a7f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

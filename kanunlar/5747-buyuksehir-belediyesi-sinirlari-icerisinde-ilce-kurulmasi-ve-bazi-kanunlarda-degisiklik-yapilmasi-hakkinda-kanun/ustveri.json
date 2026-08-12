@@ -2,17 +2,17 @@
   "law_number": "5747",
   "title": "BÜYÜKŞEHİR BELEDİYESİ SINIRLARI İÇERİSİNDE İLÇE KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5747-buyuksehir-belediyesi-sinirlari-icerisinde-ilce-kurulmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-03-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2008-03-22",
+    "number": "26824 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5747.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104030",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5747",
+  "source_mevzuat_id": "104030",
   "source_type": "KANUN",
-  "content_sha256": "c30eea3425cc398f362e6a1a8e15fac304a5dc656a5642342688d5a44e601c31",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0ff9f6923df6c3a639f60461cd97eb0aa5ac355675c16538edd35cd5cc8e002e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

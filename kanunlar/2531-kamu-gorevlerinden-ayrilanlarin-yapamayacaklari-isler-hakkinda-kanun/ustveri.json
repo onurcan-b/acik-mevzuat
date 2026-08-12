@@ -2,17 +2,17 @@
   "law_number": "2531",
   "title": "KAMU GÖREVLERİNDEN AYRILANLARIN YAPAMAYACAKLARI İŞLER HAKKINDA KANUN",
   "slug": "2531-kamu-gorevlerinden-ayrilanlarin-yapamayacaklari-isler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1981-10-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1981-10-06",
+    "number": "17480"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2531.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104922",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2531",
+  "source_mevzuat_id": "104922",
   "source_type": "KANUN",
-  "content_sha256": "19f99f34bbc57005cc75738950a01dd2f28a5780abf83a924987255db0f18e9d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fb47a01bff6a112b346634ee1bcf7f31289ca06fe6ceeb0bf35e47b874bd0aad",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

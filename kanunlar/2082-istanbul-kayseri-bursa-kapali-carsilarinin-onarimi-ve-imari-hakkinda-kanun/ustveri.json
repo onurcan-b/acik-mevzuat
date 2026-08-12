@@ -2,17 +2,17 @@
   "law_number": "2082",
   "title": "İSTANBUL, KAYSERİ, BURSA KAPALI ÇARŞILARININ ONARIMI VE İMARI HAKKINDA KANUN",
   "slug": "2082-istanbul-kayseri-bursa-kapali-carsilarinin-onarimi-ve-imari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1977-03-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1977-03-24",
+    "number": "15888"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2082.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104967",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2082",
+  "source_mevzuat_id": "104967",
   "source_type": "KANUN",
-  "content_sha256": "7395b73f92b833cba8fb6a671d17127295973dddacdf3745bb4404e37de59987",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6a9cc34c0c196f8975f274a09a6808f1f7c6c84544ff2bd999f8fbc8cd15642e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

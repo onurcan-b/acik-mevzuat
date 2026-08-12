@@ -2,17 +2,17 @@
   "law_number": "6461",
   "title": "TÜRKİYE DEMİRYOLU ULAŞTIRMASININ SERBESTLEŞTİRİLMESİ HAKKINDA KANUN",
   "slug": "6461-turkiye-demiryolu-ulastirmasinin-serbestlestirilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2013-04-24",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "28634"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6461.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104351",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6461",
+  "source_mevzuat_id": "104351",
   "source_type": "KANUN",
-  "content_sha256": "e918cbbd0c41174834018ce1665dffce0092bb6ccab30925d2e42809eac272ba",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b54a4f3807977a0391eb9b324227f9adef20449a7bf82916fad672667d676435",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

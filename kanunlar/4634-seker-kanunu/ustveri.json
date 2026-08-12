@@ -1,18 +1,18 @@
 {
   "law_number": "4634",
-  "title": "Şeker Kanunu",
+  "title": "ŞEKER KANUNU",
   "slug": "4634-seker-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2001-04-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24378"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4634.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103529",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4634",
+  "source_mevzuat_id": "103529",
   "source_type": "KANUN",
-  "content_sha256": "4a5cf87b3513070092bb96aa34386c52dcbf210bc3d5e53624a19d249a6fdfd8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3c68e90eb06c91f104a6f346097361a57cc195036e6047b01363c091460d959f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

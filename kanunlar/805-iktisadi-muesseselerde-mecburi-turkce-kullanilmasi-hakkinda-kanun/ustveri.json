@@ -2,17 +2,17 @@
   "law_number": "805",
   "title": "İKTİSADİ MÜESSESELERDE MECBURİ TÜRKÇE KULLANILMASI HAKKINDA KANUN",
   "slug": "805-iktisadi-muesseselerde-mecburi-turkce-kullanilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1926-04-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1926-04-22",
+    "number": "353"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.805.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105404",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.805",
+  "source_mevzuat_id": "105404",
   "source_type": "KANUN",
-  "content_sha256": "c8ef0a7f706f5cf2ad365686fae2fabf50e49b688d00fa0ce7374b7f56f6156e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a62c8c36d638267876aae94359814d1540f667e9dd9c2ade720fe6a3b4412408",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3385",
   "title": "KÜÇÜK SANAYİ BÖLGELERİ İÇİNDE DEVLETÇE İNŞA EDİLMİŞ ÖRNEK SANAYİ SİTESİ İŞ YERLERİNİN MÜLKİYETİNİN DEVREDİLMESİ HAKKINDA KANUN",
   "slug": "3385-kucuk-sanayi-bolgeleri-icinde-devletce-insa-edilmis-ornek-sanayi-sitesi-is-yerlerinin-mulkiyetinin-devredilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1987-06-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1987-06-25",
+    "number": "19498"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3385.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104743",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3385",
+  "source_mevzuat_id": "104743",
   "source_type": "KANUN",
-  "content_sha256": "10a1827234d7001d3fcd7d401b5c6f1fec1b257b2cc0aed6bc3885780ecf03c5",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "de0acc1ace685cc0e3cf555b3ed64d785c8a004a168ed21eb6bfd1c40e38eb41",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

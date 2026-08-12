@@ -2,17 +2,17 @@
   "law_number": "4123",
   "title": "TABİİ AFET NEDENİYLE MEYDANA GELEN HASAR VE TAHRİBATA İLİŞKİN HİZMETLERİN YÜRÜTÜLMESİNE DAİR KANUN",
   "slug": "4123-tabii-afet-nedeniyle-meydana-gelen-hasar-ve-tahribata-iliskin-hizmetlerin-yurutulmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1995-07-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1995-07-25",
+    "number": "22354"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4123.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103360",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4123",
+  "source_mevzuat_id": "103360",
   "source_type": "KANUN",
-  "content_sha256": "f20efbc3f1b48a7dac56d68418d9ca63df9264297582caaf35d346ce99dc13ca",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a609c9e2b6fac41d681ee861b8667b0d526886295a539791dbc075562d2a1e5d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

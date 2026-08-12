@@ -2,17 +2,17 @@
   "law_number": "37",
   "title": "BELEDİYE OPERA VE TİYATROLARI SANATKAR, MÜTEHASSIS VE STAJ YERLERİNE VERİLECEK ÜCRETLER HAKKINDA KANUN",
   "slug": "37-belediye-opera-ve-tiyatrolari-sanatkar-mutehassis-ve-staj-yerlerine-verilecek-ucretler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-07-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-07-30",
+    "number": "10565"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.37.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104493",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.37",
+  "source_mevzuat_id": "104493",
   "source_type": "KANUN",
-  "content_sha256": "7e00e129eae37961b2a9fc127c8604e1d245658849811b5940eee7d3cc7b8b21",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "69ece38314cb076ae56638d6afc23186777940c4e7688b04776382bb627722f1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

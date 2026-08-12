@@ -2,17 +2,17 @@
   "law_number": "2581",
   "title": "DENİZ TİCARET FİLOSUNUN GELİŞTİRİLMESİ VE GEMİ İNŞA TESİSLERİNİN TEŞVİKİ HAKKINDA KANUN",
   "slug": "2581-deniz-ticaret-filosunun-gelistirilmesi-ve-gemi-insa-tesislerinin-tesviki-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1982-01-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1982-01-21",
+    "number": "17581"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2581.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104915",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2581",
+  "source_mevzuat_id": "104915",
   "source_type": "KANUN",
-  "content_sha256": "a5679fe0e396c880fe96374e8a142b2336ac79005af7fc6bdc34d21553fbeeaa",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "2d26fcd442555e168bd321e1dd0b1b41da6a4368b34a07cea5c26ed2d07a040f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

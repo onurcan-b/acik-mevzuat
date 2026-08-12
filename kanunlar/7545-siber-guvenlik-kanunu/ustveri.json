@@ -2,17 +2,17 @@
   "law_number": "7545",
   "title": "SİBER GÜVENLİK KANUNU",
   "slug": "7545-siber-guvenlik-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2025-03-12",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "32846"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7545.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/341567",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7545",
+  "source_mevzuat_id": "341567",
   "source_type": "KANUN",
-  "content_sha256": "d384efce47e134bcaed8ba298480f34cfb092f6773d922dc48552535736026f4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "580d8976b0c53ee5d6baae4ab697a730cf730b130006c8cbdcb2960f952b9b9b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

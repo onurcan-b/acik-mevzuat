@@ -2,17 +2,17 @@
   "law_number": "3152",
   "title": "İÇİŞLERİ BAKANLIĞI YÜKSEK DİSİPLİN KURULU İLE İL YATIRIM VE HİZMETLERİNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "3152-icisleri-bakanligi-yuksek-disiplin-kurulu-ile-il-yatirim-ve-hizmetlerine-iliskin-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1985-02-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1985-02-23",
+    "number": "18675"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3152.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104611",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3152",
+  "source_mevzuat_id": "104611",
   "source_type": "KANUN",
-  "content_sha256": "a30923329aaa71ee26aa18e2da260b38edb62a7237a02a1b6fd59edb5f631493",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e3ee7956e4c21e91c8a7d0844b7ea50ba6ad165d0d1951e9d6985aa1a9b27a3e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

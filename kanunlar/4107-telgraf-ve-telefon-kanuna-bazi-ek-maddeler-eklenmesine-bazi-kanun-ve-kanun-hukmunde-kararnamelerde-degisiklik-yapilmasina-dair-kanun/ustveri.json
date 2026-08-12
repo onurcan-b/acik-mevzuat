@@ -2,17 +2,17 @@
   "law_number": "4107",
   "title": "TELGRAF VE TELEFON KANUNA BAZI EK MADDELER EKLENMESİNE, BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "4107-telgraf-ve-telefon-kanuna-bazi-ek-maddeler-eklenmesine-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1995-05-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1995-05-06",
+    "number": "22279"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4107.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103352",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4107",
+  "source_mevzuat_id": "103352",
   "source_type": "KANUN",
-  "content_sha256": "d11017b92bd3f47f9ff64718fcd0b1d5ac754c79af5171299e7e9d82ef5037bf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b055a134da085eab7e24f6e93dc5185a15db49db3cb8aec467fd12affa8b4c49",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

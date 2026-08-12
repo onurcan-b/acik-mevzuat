@@ -2,17 +2,17 @@
   "law_number": "7442",
   "title": "ORMAN KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7442-orman-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2023-03-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2023-04-05",
+    "number": "32154"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7442.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/121498",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7442",
+  "source_mevzuat_id": "121498",
   "source_type": "KANUN",
-  "content_sha256": "4095e482b022d8f54585b971eac29c7dc5d60dda1aecfd29bc1637091f8dcd51",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "337316ed584cdc1ce375fadf56006d957db02674ff37c31055dcabab2977b0de",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

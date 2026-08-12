@@ -2,17 +2,17 @@
   "law_number": "6948",
   "title": "SANAYİ SİCİLİ KANUNU",
   "slug": "6948-sanayi-sicili-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1957-04-17",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1957-04-24",
+    "number": "9593"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6948.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105108",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6948",
+  "source_mevzuat_id": "105108",
   "source_type": "KANUN",
-  "content_sha256": "faa00474afb1e772d940a6b067d49afa70c25633898948f11ee53d2dfabbde94",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f3ac8425adff026c3da9ce98d0b7a62cab15ade1a19e418bc75c6e1509c5b0f4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

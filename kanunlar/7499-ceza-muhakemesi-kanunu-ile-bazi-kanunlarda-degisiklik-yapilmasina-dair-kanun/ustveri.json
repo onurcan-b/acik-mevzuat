@@ -2,17 +2,17 @@
   "law_number": "7499",
   "title": "CEZA MUHAKEMESİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7499-ceza-muhakemesi-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2024-03-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2024-03-12",
+    "number": "32487"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7499.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/222327",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7499",
+  "source_mevzuat_id": "222327",
   "source_type": "KANUN",
-  "content_sha256": "b845f7f1a7f4f68b0f7199cd55447f091c1b7770e2f28760df4cccdbf3805c62",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a05038c1a078ab05551819682552f75222c74437b210833e378835a613bc185a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

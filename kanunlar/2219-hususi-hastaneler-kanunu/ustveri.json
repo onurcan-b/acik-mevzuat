@@ -2,17 +2,17 @@
   "law_number": "2219",
   "title": "HUSUSİ HASTANELER KANUNU",
   "slug": "2219-hususi-hastaneler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1933-05-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1933-06-05",
+    "number": "2419"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2219.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105340",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2219",
+  "source_mevzuat_id": "105340",
   "source_type": "KANUN",
-  "content_sha256": "95fdd1362de9d60c011552b3692bc65292cffa53fa9c7f607860c05c4597045b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a8affc220c374f0b8c503914eb20d0e013c21ee0303db8a763875029eb7e4d52",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6551",
   "title": "TERÖRÜN SONA ERDİRİLMESİ VE TOPLUMSAL BÜTÜNLEŞMENİN GÜÇLENDİRİLMESİNE DAİR KANUN",
   "slug": "6551-terorun-sona-erdirilmesi-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2014-07-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2014-07-16",
+    "number": "29062"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6551.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104376",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6551",
+  "source_mevzuat_id": "104376",
   "source_type": "KANUN",
-  "content_sha256": "9010902ee8f68a31bae4dfbad9730dd5aa3f64a361dfdd5157d726aec9ec17fa",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "3846ecf084d72d926c5b6d71ce5f7d4c7dcc563a9d5d9575c83c43ac2f99b183",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

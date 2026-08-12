@@ -2,17 +2,17 @@
   "law_number": "4044",
   "title": "4 ARALIK 1994 GÜNÜ MİLLETVEKİLİ VE MAHALLİ İDARELER ARA SEÇİMİ YAPILMASI HAKKINDA KANUN",
   "slug": "4044-4-aralik-1994-gunu-milletvekili-ve-mahalli-idareler-ara-secimi-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1994-09-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1994-10-01",
+    "number": "22068"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4044.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103316",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4044",
+  "source_mevzuat_id": "103316",
   "source_type": "KANUN",
-  "content_sha256": "7ac4240321783ae3eb02d7f0a7cbc009458869615f0d2e4bc4fe78fcf93aad40",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "5ae57f0f3c8472fdd8fcf57e28eaa7afe37a6e4f1497d52657d41baa2a8f3c9e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

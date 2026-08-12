@@ -1,0 +1,18 @@
+{
+  "law_number": "2464",
+  "title": "BELEDİYE GELİRLERİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2464-belediye-gelirleri-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1981-05-26",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "17354"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335303",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335303",
+  "source_type": "MULGA",
+  "content_sha256": "9edfcb041e39dfc81d29ed3d9f5a8bbb973d0be3ff69ee588106bb1c37e126a7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "5549",
   "title": "SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ HAKKINDA KANUN",
   "slug": "5549-suc-gelirlerinin-aklanmasinin-onlenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2006-10-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-10-18",
+    "number": "26323"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5549.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103949",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5549",
+  "source_mevzuat_id": "103949",
   "source_type": "KANUN",
-  "content_sha256": "a0fab16e0fded5ee3208329925174984ca9d852ca6e56b44d2eac89a3532a9d7",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d3fe2bd5d5fde3941a32e422793ef39c00c9fee3eb078fd25d3b95f81b0b3e94",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

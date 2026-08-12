@@ -2,17 +2,17 @@
   "law_number": "2914",
   "title": "YÜKSEKÖĞRETİM PERSONEL KANUNU",
   "slug": "2914-yuksekogretim-personel-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-10-11",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1983-10-13",
+    "number": "18190"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2914.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102939",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2914",
+  "source_mevzuat_id": "102939",
   "source_type": "KANUN",
-  "content_sha256": "b1fd7ccd808c5752336296f5baf4b9a71cebed2c52b81f0c917dae609b4a001c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "10239fa61627d92bcd132187d5f803f11adcb38bf792b592196d9775d8f012e3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "3303",
   "title": "TAŞKÖMÜRÜ HAVZASINDAKİ TAŞINMAZ MALLARIN İKTİSABINA DAİR KANUN",
   "slug": "3303-taskomuru-havzasindaki-tasinmaz-mallarin-iktisabina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1986-06-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1986-06-19",
+    "number": "19139"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3303.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104755",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3303",
+  "source_mevzuat_id": "104755",
   "source_type": "KANUN",
-  "content_sha256": "d784a1f8a24401dfc1110904fa0973783d44938dc9ec1ee3e28ccbdca6dee184",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f481b494cb0fe5baa19b79c925e96f9f694dd69c87f94b0835a92c0ff36385c6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

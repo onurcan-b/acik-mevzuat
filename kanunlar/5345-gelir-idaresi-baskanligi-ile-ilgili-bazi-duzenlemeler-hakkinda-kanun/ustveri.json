@@ -2,17 +2,17 @@
   "law_number": "5345",
   "title": "GELİR İDARESİ BAŞKANLIĞI İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "5345-gelir-idaresi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-05-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-05-16",
+    "number": "25817"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5345.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103862",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5345",
+  "source_mevzuat_id": "103862",
   "source_type": "KANUN",
-  "content_sha256": "5a5f2e066db6ab2687cf6e1c6944b72510087d95f1dc531f7725bc22c34da61e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ccedbf4db219261bbe756ae1d8b66fdcd0e1de2b2af8d51faf9e40b47024c3f7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

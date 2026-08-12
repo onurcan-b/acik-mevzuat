@@ -1,0 +1,18 @@
+{
+  "law_number": "3167",
+  "title": "ÇEKLE ÖDEMELERİN DÜZENLENMESİ VE ÇEK HAMİLLERİNİN KORUNMASI HAKKINDA KANUN",
+  "slug": "3167-cekle-odemelerin-duzenlenmesi-ve-cek-hamillerinin-korunmasi-hakkinda-kanun",
+  "accepted_date": "1985-03-19",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1985-04-03",
+    "number": "18714"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335277",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335277",
+  "source_type": "MULGA",
+  "content_sha256": "ceb4792a79f64eefcb534a118022a7a1d1867d1b8cd8458e031948303560fb1b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

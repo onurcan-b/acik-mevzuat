@@ -2,17 +2,17 @@
   "law_number": "4536",
   "title": "DENİZLERDE VE YURT YÜZEYİNDE GÖRÜLEN PATLAYICI MADDE VE ŞÜPHELİ CİSİMLERE UYGULANACAK ESASLARA İLİŞKİN KANUN",
   "slug": "4536-denizlerde-ve-yurt-yuzeyinde-gorulen-patlayici-madde-ve-supheli-cisimlere-uygulanacak-esaslara-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-02-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-02-27",
+    "number": "23977"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4536.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103480",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4536",
+  "source_mevzuat_id": "103480",
   "source_type": "KANUN",
-  "content_sha256": "696639dc665cb45074b4760fd7ba450920d445b6fb92500acc43288c3f2a77b0",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b9728d40dd309632c7711c6def4234c0a9e5467cc90d108912038ebadef8cc5d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

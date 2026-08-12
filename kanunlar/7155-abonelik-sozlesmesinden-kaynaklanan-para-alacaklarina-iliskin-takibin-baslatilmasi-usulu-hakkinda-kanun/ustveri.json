@@ -2,17 +2,17 @@
   "law_number": "7155",
   "title": "ABONELİK SÖZLEŞMESİNDEN KAYNAKLANAN PARA ALACAKLARINA İLİŞKİN TAKİBİN BAŞLATILMASI USULÜ HAKKINDA KANUN",
   "slug": "7155-abonelik-sozlesmesinden-kaynaklanan-para-alacaklarina-iliskin-takibin-baslatilmasi-usulu-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2018-12-06",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2018-12-19",
+    "number": "30630"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7155.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104439",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7155",
+  "source_mevzuat_id": "104439",
   "source_type": "KANUN",
-  "content_sha256": "2e0d0be6e12f89b3e0f6d4af5ee81ca98c3a3307419110ec1ab2b58b24f3a6d1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "415155d3ade0cb869e1c1f7a26d562e48b12a699c771cab8c5e4db0e824c2144",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

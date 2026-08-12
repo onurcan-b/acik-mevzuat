@@ -1,0 +1,18 @@
+{
+  "law_number": "353",
+  "title": "ASKERÎ MAHKEMELER KURULUŞU VE YARGILAMA USULÜ KANUNU",
+  "slug": "353-askeri-mahkemeler-kurulusu-ve-yargilama-usulu-kanunu",
+  "accepted_date": "1963-10-25",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1963-10-26",
+    "number": "11541"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335564",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335564",
+  "source_type": "MULGA",
+  "content_sha256": "438300ae951e0645be3ed0008fb4009113e7ee34a67d548fdbc77c73058640d9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

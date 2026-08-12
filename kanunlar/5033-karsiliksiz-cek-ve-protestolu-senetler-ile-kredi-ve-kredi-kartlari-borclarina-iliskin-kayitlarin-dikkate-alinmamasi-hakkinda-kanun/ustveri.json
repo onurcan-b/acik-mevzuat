@@ -2,17 +2,17 @@
   "law_number": "5033",
   "title": "KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN DİKKATE ALINMAMASI HAKKINDA KANUN",
   "slug": "5033-karsiliksiz-cek-ve-protestolu-senetler-ile-kredi-ve-kredi-kartlari-borclarina-iliskin-kayitlarin-dikkate-alinmamasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-12-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-12-31",
+    "number": "25333"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5033.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103716",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5033",
+  "source_mevzuat_id": "103716",
   "source_type": "KANUN",
-  "content_sha256": "7f38113669e3143aa61a604a8697fd73e4fc680333de47bd4c48b090fbe9915c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "24439fa234e47069436f8a7e52334b7101db3a4e04d7c959d9e5ca570b271c18",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "4049",
+  "title": "11.10.1983 TARİH VE 2913 SAYILI KANUN, 28.5.1986 TARİH VE 3292 SAYILI KANUN, 26.10.1990 TARİH VE 3671 SAYILI KANUN, 8.6.1949 TARİH VE 5434 SAYILI KANUN İLE 14.7.1965 TARİH SAYILI KANUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+  "slug": "4049-11-10-1983-tarih-ve-2913-sayili-kanun-28-5-1986-tarih-ve-3292-sayili-kanun-26-10-1990-tarih-ve-3671-sayili-kanun-8-6-1949-tarih-ve-54-103342",
+  "accepted_date": "1994-11-24",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1994-12-06",
+    "number": "22133"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103342",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103342",
+  "source_type": "KANUN",
+  "content_sha256": "9d6f197e348bc24b48ac4dd1a2620e9c8c71cf92edc260d27585858446adad8b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "6324",
   "title": "İZMİR EXPO ALANI HAKKINDA KANUN",
   "slug": "6324-izmir-expo-alani-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2012-06-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2012-06-15",
+    "number": "28324"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6324.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104295",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6324",
+  "source_mevzuat_id": "104295",
   "source_type": "KANUN",
-  "content_sha256": "4175cd400f667d58b2850a56362c5929b65822a41a8ca576ccf3b25921bc58ba",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6cfe478bcab0e2a66fbadbc0f47b3bb151426a93ecd7a6a2b1d4418d548f51ff",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5253",
   "title": "DERNEKLER KANUNU",
   "slug": "5253-dernekler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2004-11-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25649"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5253.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103163",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5253",
+  "source_mevzuat_id": "103163",
   "source_type": "KANUN",
-  "content_sha256": "86cafaea42b76ee337364d4d550828235dd31ccad47b9570d49230645c9ba47a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "71a09a79e76179818e4583470ed9b90d4cc50761fc391092c57f59d49e81e579",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5003",
   "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNCE YAPILACAK BÖLÜNMÜŞ YOL İNŞASINDA UYGULANACAK USUL VE ESASLAR HAKKINDA KANUN",
   "slug": "5003-karayollari-genel-mudurlugunce-yapilacak-bolunmus-yol-insasinda-uygulanacak-usul-ve-esaslar-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-11-19",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-11-22",
+    "number": "25297"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5003.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103710",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5003",
+  "source_mevzuat_id": "103710",
   "source_type": "KANUN",
-  "content_sha256": "9671d16a43bff2cd3b46017f97f2571567c5a4cc453a2f0fa3ebfb0c067e1399",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "e577762125dd9119fb05997d0f5c34a9da991efd35591f0b5f0d0536d6d9e726",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

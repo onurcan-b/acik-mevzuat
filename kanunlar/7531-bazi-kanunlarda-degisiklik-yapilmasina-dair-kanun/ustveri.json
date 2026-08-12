@@ -2,17 +2,17 @@
   "law_number": "7531",
   "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7531-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2024-11-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2024-11-14",
+    "number": "32722"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7531.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/334714",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7531",
+  "source_mevzuat_id": "334714",
   "source_type": "KANUN",
-  "content_sha256": "de94c6448ee432d920040f09ca596529052e7b692ab6d9cbf0f93fb174bdd2cc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d1e0f05c94dbc8921bfe5cda29cb9771b071df3eda9b300c02425d683d7a9e5e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

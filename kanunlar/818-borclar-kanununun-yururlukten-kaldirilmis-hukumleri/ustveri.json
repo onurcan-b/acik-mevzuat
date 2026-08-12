@@ -1,0 +1,18 @@
+{
+  "law_number": "818",
+  "title": "BORÇLAR KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "818-borclar-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1926-04-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "366"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335335",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335335",
+  "source_type": "MULGA",
+  "content_sha256": "e8ec6dd18a1f8bcc6b40167162d0bb8c87e9e2c775dc54661ead7eb359d6d17b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

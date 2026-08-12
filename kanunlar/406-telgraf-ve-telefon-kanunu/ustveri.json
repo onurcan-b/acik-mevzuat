@@ -2,17 +2,17 @@
   "law_number": "406",
   "title": "TELGRAF VE TELEFON KANUNU",
   "slug": "406-telgraf-ve-telefon-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1924-02-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1924-02-21",
+    "number": "59"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.406.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105428",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.406",
+  "source_mevzuat_id": "105428",
   "source_type": "KANUN",
-  "content_sha256": "6884ea7179c1c39d753ddcdb9c3e71684291ab2b5321361462da0973ccbc0b28",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4880f71319319447fa5829e83ec0567a26b9d6cb2162902a17ed20a27529c541",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

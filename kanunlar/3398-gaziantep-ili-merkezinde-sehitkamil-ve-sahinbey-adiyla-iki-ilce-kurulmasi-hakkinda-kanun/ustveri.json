@@ -2,17 +2,17 @@
   "law_number": "3398",
   "title": "GAZİANTEP İLİ MERKEZİNDE ŞEHİTKAMİL VE ŞAHİNBEY ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
   "slug": "3398-gaziantep-ili-merkezinde-sehitkamil-ve-sahinbey-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1987-06-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1987-06-27",
+    "number": "19500"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3398.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104734",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3398",
+  "source_mevzuat_id": "104734",
   "source_type": "KANUN",
-  "content_sha256": "d92473a36a7686c4c33873fa50c8ae78cc4863705c6323a7aacd87ffb26fcdf8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c8b6e25f06b6225afe055f45fbeedb294c06b9a36bba7fd0184e00fd352ec01e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

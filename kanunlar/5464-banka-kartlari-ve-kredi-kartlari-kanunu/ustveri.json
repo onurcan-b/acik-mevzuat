@@ -2,17 +2,17 @@
   "law_number": "5464",
   "title": "BANKA KARTLARI VE KREDİ KARTLARI KANUNU",
   "slug": "5464-banka-kartlari-ve-kredi-kartlari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2006-02-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-03-01",
+    "number": "26095"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5464.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103920",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5464",
+  "source_mevzuat_id": "103920",
   "source_type": "KANUN",
-  "content_sha256": "81c920f795c5c53a0e7640d0c8cbec842a90567bd1ace8a4679511911ae7acd1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "630aa7144d829cec1370da63b4c7ea8136b72e8701a66ade999fd93d6c00fc65",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

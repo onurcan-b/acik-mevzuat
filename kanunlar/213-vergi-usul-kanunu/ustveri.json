@@ -1,18 +1,18 @@
 {
   "law_number": "213",
-  "title": "Vergi Usul Kanunu",
+  "title": "VERGİ USUL KANUNU",
   "slug": "213-vergi-usul-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1961-01-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "10705"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103006",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.213",
+  "source_mevzuat_id": "103006",
   "source_type": "KANUN",
-  "content_sha256": "c30923c712b99cb006fba9340ed730a3e0012ca69cbd5d7132b19c3157b39336",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cb24ffae1e220d2a35bb2d5aca4d29e30fd4b07a3f544f179353d927a47ea3a4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

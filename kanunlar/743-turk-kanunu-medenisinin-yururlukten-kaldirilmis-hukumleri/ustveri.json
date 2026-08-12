@@ -1,0 +1,18 @@
+{
+  "law_number": "743",
+  "title": "TÜRK KANUNU MEDENİSİNİN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "743-turk-kanunu-medenisinin-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1926-02-17",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "339"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335557",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335557",
+  "source_type": "MULGA",
+  "content_sha256": "70bb96a39e6de07bcc00de41243b44d07dbc86b2b0edc6126d2420f633214f97",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

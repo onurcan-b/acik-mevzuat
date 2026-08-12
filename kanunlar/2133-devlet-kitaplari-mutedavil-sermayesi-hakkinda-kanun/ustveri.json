@@ -2,17 +2,17 @@
   "law_number": "2133",
   "title": "DEVLET KİTAPLARI MÜTEDAVİL SERMAYESİ HAKKINDA KANUN",
   "slug": "2133-devlet-kitaplari-mutedavil-sermayesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1933-04-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1933-04-04",
+    "number": "2370"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2133.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105343",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2133",
+  "source_mevzuat_id": "105343",
   "source_type": "KANUN",
-  "content_sha256": "0d6f83e6105034163d17e726ad3f230fff478ed6fa637cfa4894b7bf0f833063",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "20ddd9134a263e6803017475450ba01d314e55c4b66cde419fba764dd27db6a6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

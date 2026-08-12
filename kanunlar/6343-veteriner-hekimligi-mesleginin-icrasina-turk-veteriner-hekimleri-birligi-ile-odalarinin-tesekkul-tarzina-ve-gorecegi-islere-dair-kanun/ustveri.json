@@ -1,18 +1,18 @@
 {
   "law_number": "6343",
-  "title": "Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun",
+  "title": "VETERİNER HEKİMLİĞİ MESLEĞİNİN İCRASINA, TÜRK VETERİNER HEKİMLERİ BİRLİĞİ İLE ODALARININ TEŞEKKÜL TARZINA VE GÖRECEĞİ İŞLERE DAİR KANUN",
   "slug": "6343-veteriner-hekimligi-mesleginin-icrasina-turk-veteriner-hekimleri-birligi-ile-odalarinin-tesekkul-tarzina-ve-gorecegi-islere-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1954-03-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1954-03-18",
+    "number": "8661"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6343.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104481",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.6343",
+  "source_mevzuat_id": "104481",
   "source_type": "KANUN",
-  "content_sha256": "69574755cba7e32e665c004d226d4ac46bd0774a7e57610e7edb29d0f43d2cf2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cbe76cd37596292193313510dd0475c78409423bf03aef905f131446f22a898b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

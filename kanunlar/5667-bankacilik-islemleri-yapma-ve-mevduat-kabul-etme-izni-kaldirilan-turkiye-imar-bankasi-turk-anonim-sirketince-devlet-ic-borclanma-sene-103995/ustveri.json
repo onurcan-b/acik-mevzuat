@@ -1,0 +1,18 @@
+{
+  "law_number": "5667",
+  "title": "BANKACILIK İŞLEMLERİ YAPMA VE MEVDUAT KABUL ETME İZNİ KALDIRILAN TÜRKİYE İMAR BANKASI TÜRK ANONİM ŞİRKETİNCE DEVLET İÇ BORÇLANMA SENEDİ SATIŞI ADI ALTINDA TOPLANAN TUTARLARIN ÖDENMESİ HAKKINDA KANUN",
+  "slug": "5667-bankacilik-islemleri-yapma-ve-mevduat-kabul-etme-izni-kaldirilan-turkiye-imar-bankasi-turk-anonim-sirketince-devlet-ic-borclanma-sene-103995",
+  "accepted_date": "2007-05-24",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2007-05-30",
+    "number": "26537"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103995",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103995",
+  "source_type": "KANUN",
+  "content_sha256": "61f2a5d35de53eafcfd255ad135ae293d3c0b4d5b8bcc59c2dea85070fa37f41",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

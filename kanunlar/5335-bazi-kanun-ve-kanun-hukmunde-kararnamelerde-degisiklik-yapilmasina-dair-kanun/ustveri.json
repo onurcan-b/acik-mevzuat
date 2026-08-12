@@ -2,17 +2,17 @@
   "law_number": "5335",
   "title": "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "5335-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-04-21",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-04-27",
+    "number": "25798"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5335.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103865",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5335",
+  "source_mevzuat_id": "103865",
   "source_type": "KANUN",
-  "content_sha256": "498893779e46681b7cb6d1ba752b7cd1fc1cfee2eb4b0781cccebd08942d8f5e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "624a236f4d8ac0259161c9cd6f8b3f836f023fa6643c53aae03ed265001c38c4",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

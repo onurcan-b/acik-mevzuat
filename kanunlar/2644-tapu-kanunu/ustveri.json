@@ -2,17 +2,17 @@
   "law_number": "2644",
   "title": "TAPU KANUNU",
   "slug": "2644-tapu-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1934-12-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1934-12-29",
+    "number": "2892"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2644.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104521",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2644",
+  "source_mevzuat_id": "104521",
   "source_type": "KANUN",
-  "content_sha256": "ebb6cfccca5d84dabfe461b90d6aa42d01bfe3325dc68c6a35422f96d480503f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7902e1028437b2072183228e900d6e2c4e44fcaff696491882a83c2a38e59f76",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

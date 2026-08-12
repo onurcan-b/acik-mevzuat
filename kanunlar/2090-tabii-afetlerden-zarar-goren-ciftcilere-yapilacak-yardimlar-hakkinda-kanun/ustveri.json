@@ -2,17 +2,17 @@
   "law_number": "2090",
   "title": "TABİİ AFETLERDEN ZARAR GÖREN ÇİFTÇİLERE YAPILACAK YARDIMLAR HAKKINDA KANUN",
   "slug": "2090-tabii-afetlerden-zarar-goren-ciftcilere-yapilacak-yardimlar-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1977-06-20",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1977-07-05",
+    "number": "15987"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2090.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104965",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2090",
+  "source_mevzuat_id": "104965",
   "source_type": "KANUN",
-  "content_sha256": "222c45224dcacb027929bd9f640cbd460921f819eea2de28c872cc56c8deb43c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8cf51ead7277cd8b4892a202fbe62a471440e233aaf70caef5cb932e2870c1a7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

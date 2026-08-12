@@ -2,17 +2,17 @@
   "law_number": "209",
   "title": "SAĞLIK BAKANLIĞINA BAĞLI SAĞLIK KURUMLARI İLE ESENLENDİRME (REHABİLİTASYON) TESİSLERİNE VERİLECEK DÖNER SERMAYE HAKKINDA KANUN",
   "slug": "209-saglik-bakanligina-bagli-saglik-kurumlari-ile-esenlendirme-rehabilitasyon-tesislerine-verilecek-doner-sermaye-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1961-01-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-09",
+    "number": "10702"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.209.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103247",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.209",
+  "source_mevzuat_id": "103247",
   "source_type": "KANUN",
-  "content_sha256": "76c241290e237593322990b8c94d1af72a4fa7a07d91e684194e7fcd49b7b90d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "610086669377dcb08169c4312065bb9227d3c39419daf8e03551fb64d1a75443",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

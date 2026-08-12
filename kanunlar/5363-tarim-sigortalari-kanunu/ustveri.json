@@ -2,17 +2,17 @@
   "law_number": "5363",
   "title": "TARIM SİGORTALARI KANUNU",
   "slug": "5363-tarim-sigortalari-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2005-06-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-06-21",
+    "number": "25852"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5363.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103879",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5363",
+  "source_mevzuat_id": "103879",
   "source_type": "KANUN",
-  "content_sha256": "fa064173a3eaea4328c3b42df9cf73c34987675bc43e5e9ed9151445f451dde9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "fa3f5683cfafaf7433c2fb4ff44a88ed368bc3ec39180580bf5db0b0afa4bc9b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

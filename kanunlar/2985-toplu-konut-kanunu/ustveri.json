@@ -2,17 +2,17 @@
   "law_number": "2985",
   "title": "TOPLU KONUT KANUNU",
   "slug": "2985-toplu-konut-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1984-03-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-03-17",
+    "number": "18344"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2985.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104833",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2985",
+  "source_mevzuat_id": "104833",
   "source_type": "KANUN",
-  "content_sha256": "ce891c4e86bf49a886bc87d3bc19a2bc900f32141a37bbf9206523c4a0062977",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b2fb337e2344c06c08d6516a30cc2b8ae2e209ba5bc97ef4f5ef732116aa6179",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

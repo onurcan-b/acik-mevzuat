@@ -1,0 +1,18 @@
+{
+  "law_number": "2872",
+  "title": "ÇEVRE KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2872-cevre-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-08-08",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18132"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335521",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335521",
+  "source_type": "MULGA",
+  "content_sha256": "4a4f89cf5029c5ed53f0970d9279bd40f3af83ee27d0e4a67bf6a13a3cc0b6ad",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

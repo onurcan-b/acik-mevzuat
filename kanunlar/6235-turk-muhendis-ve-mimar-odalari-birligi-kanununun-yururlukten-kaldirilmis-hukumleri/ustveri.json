@@ -1,0 +1,18 @@
+{
+  "law_number": "6235",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6235-turk-muhendis-ve-mimar-odalari-birligi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1954-01-27",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1954-02-04",
+    "number": "8625"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335251",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335251",
+  "source_type": "MULGA",
+  "content_sha256": "606aa6287ef257475f7a0e142b9ba7b86cf96e6056d300c1a3f669664d9df7ad",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

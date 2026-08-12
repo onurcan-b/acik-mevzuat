@@ -2,17 +2,17 @@
   "law_number": "4505",
   "title": "SOSYAL GÜVENLİKLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE TEMSİL TAZMİNATI ÖDENMESİ HAKKINDA KANUN",
   "slug": "4505-sosyal-guvenlikle-ilgili-bazi-kanunlarda-degisiklik-yapilmasi-ve-temsil-tazminati-odenmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-01-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-02-12",
+    "number": "23962"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4505.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103471",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4505",
+  "source_mevzuat_id": "103471",
   "source_type": "KANUN",
-  "content_sha256": "7e426fd4a36b3ddd7a2a4d843b4bf3af5469ab8a6263bc2a29d104529fe5a1f9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "015799e80352bf80d1aff7c3c422faf98ed1e6c4141d4168eecfb8e6c004b23d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

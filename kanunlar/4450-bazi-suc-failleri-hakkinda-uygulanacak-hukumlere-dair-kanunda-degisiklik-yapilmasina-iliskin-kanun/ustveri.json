@@ -2,17 +2,17 @@
   "law_number": "4450",
   "title": "BAZI SUÇ FAİLLERİ HAKKINDA UYGULANACAK HÜKÜMLERE DAİR KANUNDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
   "slug": "4450-bazi-suc-failleri-hakkinda-uygulanacak-hukumlere-dair-kanunda-degisiklik-yapilmasina-iliskin-kanun",
-  "accepted_date": null,
+  "accepted_date": "1999-08-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1999-08-29",
+    "number": "23801"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4450.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103437",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4450",
+  "source_mevzuat_id": "103437",
   "source_type": "KANUN",
-  "content_sha256": "4f411fe76ba0738ab02ff0bccf520fefa00f3635f737205cf36a8d2a634daf6c",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cd0f821537543ff3a2b2f4c93b577c86a4739536d4af19d2bb1d6ef5c71d5d1d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

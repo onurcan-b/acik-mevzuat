@@ -1,0 +1,18 @@
+{
+  "law_number": "2451",
+  "title": "BAKANLIKLAR VE BAĞLI KURULUŞLARDA ATAMA USULÜNE İLİŞKİN KANUN",
+  "slug": "2451-bakanliklar-ve-bagli-kuruluslarda-atama-usulune-iliskin-kanun",
+  "accepted_date": "1981-04-23",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1981-04-25",
+    "number": "17321"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335534",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335534",
+  "source_type": "MULGA",
+  "content_sha256": "8691ba842cc7cf046efcd3c77d2d0ec5241a94432c1be2652cf95ea796dd57aa",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

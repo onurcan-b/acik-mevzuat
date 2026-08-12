@@ -2,17 +2,17 @@
   "law_number": "5637",
   "title": "UYGULAMA İMKANI KALMAMIŞ BAZI KANUNLARIN YÜRÜRLÜKTEN KALDIRILMASINA DAİR KANUN",
   "slug": "5637-uygulama-imkani-kalmamis-bazi-kanunlarin-yururlukten-kaldirilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-04-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-05-02",
+    "number": "26510"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5637.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103981",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5637",
+  "source_mevzuat_id": "103981",
   "source_type": "KANUN",
-  "content_sha256": "e0eb6c87fa31e039022a35952ba39f9d42d1e4c4f94c9c90f813afc897eac229",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "38b34fe775d107505556369c5bd1fd0b5e348bbb66f02b126d20943a18f4ef09",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

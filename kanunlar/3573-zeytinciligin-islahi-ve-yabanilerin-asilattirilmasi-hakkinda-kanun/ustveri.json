@@ -2,17 +2,17 @@
   "law_number": "3573",
   "title": "ZEYTİNCİLİĞİN ISLAHI VE YABANİLERİN AŞILATTIRILMASI HAKKINDA KANUN",
   "slug": "3573-zeytinciligin-islahi-ve-yabanilerin-asilattirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1939-01-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1939-02-07",
+    "number": "4126"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3573.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105274",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3573",
+  "source_mevzuat_id": "105274",
   "source_type": "KANUN",
-  "content_sha256": "cc4df4886c31e1fda132ff9803494d0f9d7495a3fcd72eb3eaaad8fe3f5bd8b8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "62a477f89d75594a42c6a6467af7319795e8569b706020cfe661db2b6414d8db",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

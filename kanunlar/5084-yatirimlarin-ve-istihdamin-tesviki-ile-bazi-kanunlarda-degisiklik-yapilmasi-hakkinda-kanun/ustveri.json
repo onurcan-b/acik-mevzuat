@@ -2,17 +2,17 @@
   "law_number": "5084",
   "title": "YATIRIMLARIN VE İSTİHDAMIN TEŞVİKİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5084-yatirimlarin-ve-istihdamin-tesviki-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2004-01-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-02-06",
+    "number": "25365"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5084.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103747",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5084",
+  "source_mevzuat_id": "103747",
   "source_type": "KANUN",
-  "content_sha256": "4c6088aa8bdd946a4c140834afba384c34271b20948a7f276eae494dd25dfd81",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bffe3d5518ead3a46e58239e915869ea6fa0aba5eacb1d2f29e6500c07a4928d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

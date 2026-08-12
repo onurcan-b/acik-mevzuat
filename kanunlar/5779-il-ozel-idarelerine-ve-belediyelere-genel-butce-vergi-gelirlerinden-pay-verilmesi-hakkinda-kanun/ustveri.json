@@ -2,17 +2,17 @@
   "law_number": "5779",
   "title": "İL ÖZEL İDARELERİNE VE BELEDİYELERE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN",
   "slug": "5779-il-ozel-idarelerine-ve-belediyelere-genel-butce-vergi-gelirlerinden-pay-verilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2008-07-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2008-07-15",
+    "number": "26937"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5779.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103280",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5779",
+  "source_mevzuat_id": "103280",
   "source_type": "KANUN",
-  "content_sha256": "81a699cf60492bfa8c1ca9bb4c6d38a4dc42001ad3f1f2b947c609399613e1ca",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7c748d19c8499a8a4f7cfc0bd5449c3164832e006cc9d4dbee3ac400339cb375",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

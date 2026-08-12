@@ -1,0 +1,18 @@
+{
+  "law_number": "213",
+  "title": "VERGİ USUL KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "213-vergi-usul-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1961-01-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "10705"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335565",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335565",
+  "source_type": "MULGA",
+  "content_sha256": "0651c901dd4711b550b6d64acf03235bf049cf6bcc30ae7a1ab490d2fcec0af1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

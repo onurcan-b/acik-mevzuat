@@ -2,17 +2,17 @@
   "law_number": "7578",
   "title": "SOSYAL HİZMETLER KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7578-sosyal-hizmetler-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2026-04-22",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "33240"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7578.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/352103",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7578",
+  "source_mevzuat_id": "352103",
   "source_type": "KANUN",
-  "content_sha256": "7f41bcda50bdb3ee29c201fa91e3d26ee738ffdaf9e6ca7fe0e17806914ffabf",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cbdf51e8f78f3fe2b74e7451f42cea022427589a5303ded31d1b3fd9ee77024c",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

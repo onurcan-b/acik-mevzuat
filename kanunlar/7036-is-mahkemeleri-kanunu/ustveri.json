@@ -2,17 +2,17 @@
   "law_number": "7036",
   "title": "İŞ MAHKEMELERİ KANUNU",
   "slug": "7036-is-mahkemeleri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2017-10-12",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2017-10-25",
+    "number": "30221"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7036.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104627",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7036",
+  "source_mevzuat_id": "104627",
   "source_type": "KANUN",
-  "content_sha256": "8532968ca72cbcc49e47b512e747ec75f161f7c88603addfb14946f64b79bb9e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "7940a3dafb6403afef37f5a58d2a1de74d7f7a2a7d201fc2de09e228d9b860c0",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

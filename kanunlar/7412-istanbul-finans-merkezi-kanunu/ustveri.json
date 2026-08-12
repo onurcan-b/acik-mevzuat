@@ -2,17 +2,17 @@
   "law_number": "7412",
   "title": "İSTANBUL FİNANS MERKEZİ KANUNU",
   "slug": "7412-istanbul-finans-merkezi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2022-06-22",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "31880"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7412.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103532",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7412",
+  "source_mevzuat_id": "103532",
   "source_type": "KANUN",
-  "content_sha256": "282d06051649240d87fe70ae075f70a802f3056174490f28e246e1825fbad025",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c6a517a333708940e81fafae2a210551f8cc7df58d53003150cc9803a6b16fd8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

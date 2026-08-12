@@ -2,17 +2,17 @@
   "law_number": "2860",
   "title": "YARDIM TOPLAMA KANUNU",
   "slug": "2860-yardim-toplama-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-06-23",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18088"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2860.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104548",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2860",
+  "source_mevzuat_id": "104548",
   "source_type": "KANUN",
-  "content_sha256": "6433f231a689c1877f1772566d4016ce4d24732b7897450f5382364ef1835410",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a399471f8598194aa7a70602930f16947d86336e1b095d0796e9013f7bd7bf51",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

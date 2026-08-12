@@ -2,17 +2,17 @@
   "law_number": "3704",
   "title": "KÖY EĞİTMEN KURSLARİYLE İLK ÖĞRETMEN OKULLARININ İDARESİNE DAİR KANUN",
   "slug": "3704-koy-egitmen-kurslariyle-ilk-ogretmen-okullarinin-idaresine-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1939-07-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1939-07-14",
+    "number": "4258"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3704.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105263",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3704",
+  "source_mevzuat_id": "105263",
   "source_type": "KANUN",
-  "content_sha256": "89099d3c0fa3e80f380b01d6a644a665a424cbcb8f6916118fc8e009d0813798",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "c1f76642918273d5619bf29b36f54d23c7adc63bb0805b96fd242ef7f74b1f2a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

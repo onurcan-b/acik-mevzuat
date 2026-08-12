@@ -1,18 +1,18 @@
 {
   "law_number": "1211",
-  "title": "Türkiye Cumhuriyet Merkez Bankası Kanunu",
+  "title": "TÜRKİYE CUMHURİYET MERKEZ BANKASI KANUNU",
   "slug": "1211-turkiye-cumhuriyet-merkez-bankasi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1970-01-14",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "13409"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1211.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103305",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1211",
+  "source_mevzuat_id": "103305",
   "source_type": "KANUN",
-  "content_sha256": "acfe2d3b71cfbe8c2e68dc106a99f2c965495eb47ffeaeda6d455eff18e0bfa1",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "73759669cf373de33a24ea5009730fdf9f5e4567336b320ac017e954e3062159",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

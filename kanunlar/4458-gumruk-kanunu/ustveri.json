@@ -2,17 +2,17 @@
   "law_number": "4458",
   "title": "GÜMRÜK KANUNU",
   "slug": "4458-gumruk-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1999-10-27",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "23866"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4458.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103044",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4458",
+  "source_mevzuat_id": "103044",
   "source_type": "KANUN",
-  "content_sha256": "fbfbdf48fc2e3194e7b8180e27fc111b1fc2a5a711ebff503abcebcdf886160a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f05b6f56a3d697f3038e5f7b4a55ddd78da2a6fbc4ada50a4828b3d54fc92ee1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

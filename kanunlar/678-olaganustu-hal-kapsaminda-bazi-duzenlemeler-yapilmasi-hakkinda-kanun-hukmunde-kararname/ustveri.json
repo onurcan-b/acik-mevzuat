@@ -1,0 +1,18 @@
+{
+  "law_number": "678",
+  "title": "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "678-olaganustu-hal-kapsaminda-bazi-duzenlemeler-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "29896"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336278",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336278",
+  "source_type": "MULGA",
+  "content_sha256": "a6e96eb535f58e58c7e9c8d59c0d41d5541bdcbb237c8e114c35c02be1c54543",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "4925",
   "title": "KARAYOLU TAŞIMA KANUNU",
   "slug": "4925-karayolu-tasima-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-07-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25173"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4925.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103656",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4925",
+  "source_mevzuat_id": "103656",
   "source_type": "KANUN",
-  "content_sha256": "932bc2bf9a33b044e4439ed400f795e9d8c3658af16e85dbaba598fabce27939",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f6e87074406b2efe6525cde659ec95f3f2e4ad75802e189da96ad37b3a8e9554",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

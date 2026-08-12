@@ -2,17 +2,17 @@
   "law_number": "5615",
   "title": "GELİR VERGİSİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "5615-gelir-vergisi-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2007-03-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2007-04-04",
+    "number": "26483"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5615.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103977",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5615",
+  "source_mevzuat_id": "103977",
   "source_type": "KANUN",
-  "content_sha256": "ab3b9a300be51694545d242938f50a47add21795161e8e00cde29f1668a69b77",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1fa781368f0c6b8f504c8e40b218330939e29ad132251e891414f63583a18e09",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

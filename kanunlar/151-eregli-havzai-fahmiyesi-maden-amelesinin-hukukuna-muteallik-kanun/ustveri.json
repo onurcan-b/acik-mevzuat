@@ -2,17 +2,17 @@
   "law_number": "151",
   "title": "EREĞLİ HAVZAİ FAHMİYESİ MADEN AMELESİNİN HUKUKUNA MÜTEALLİK KANUN",
   "slug": "151-eregli-havzai-fahmiyesi-maden-amelesinin-hukukuna-muteallik-kanun",
-  "accepted_date": null,
+  "accepted_date": "1337-09-10",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
+    "date": "1337-09-10",
     "number": null
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.151.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105448",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.151",
+  "source_mevzuat_id": "105448",
   "source_type": "KANUN",
-  "content_sha256": "a7c6c9a3d8e0cc3237744e7b9f8b1d703932260b3f82162ea66a6bb305a8a333",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "da023eb48413a42198b00082d572b2b9c0b800823be0943926bff3d9a2f03466",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

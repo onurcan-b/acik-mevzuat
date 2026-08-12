@@ -1,0 +1,18 @@
+{
+  "law_number": "2918",
+  "title": "KARAYOLLARI TRAFİK KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2918-karayollari-trafik-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-10-13",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18195"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335520",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335520",
+  "source_type": "MULGA",
+  "content_sha256": "1fb92d31b69e1bb72c5cdfe16324e7c90077b3d251ef469e3061f3fde2b9e6a6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

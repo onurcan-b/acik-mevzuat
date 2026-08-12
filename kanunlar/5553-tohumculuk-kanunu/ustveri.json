@@ -2,17 +2,17 @@
   "law_number": "5553",
   "title": "TOHUMCULUK KANUNU",
   "slug": "5553-tohumculuk-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2006-10-31",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2006-11-08",
+    "number": "26340"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5553.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103909",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5553",
+  "source_mevzuat_id": "103909",
   "source_type": "KANUN",
-  "content_sha256": "0b70cd8e5a3be71b6470b8c65036fdc0f193e46f11f7d43e938bf17ec965f793",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "05ac9556cf05a7499842b88685aeb951915662822ca98404fe9b338400822ba2",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "6112",
   "title": "RADYO VE TELEVİZYONLARIN KURULUŞ VE YAYIN HİZMETLERİ HAKKINDA KANUN",
   "slug": "6112-radyo-ve-televizyonlarin-kurulus-ve-yayin-hizmetleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2011-02-15",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "27863"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6112.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103824",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6112",
+  "source_mevzuat_id": "103824",
   "source_type": "KANUN",
-  "content_sha256": "016020d5f2bd875fd301f064ec0617fcb0c1fc452efa964556e9a942609a1ce6",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "605d2e4122baa733e014aa83b14c9708c258b05a64692cc138ef717ecddb6fe7",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

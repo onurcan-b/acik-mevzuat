@@ -2,17 +2,17 @@
   "law_number": "4528",
   "title": "D-8 ULUSLARARASI İCRA DİREKTÖRLÜĞÜNÜN TÜRKİYE DE YARARLANACAĞI AYRICALIKLAR, BAĞIŞIKLIKLAR VE KOLAYLIKLARA DAİR KANUN",
   "slug": "4528-d-8-uluslararasi-icra-direktorlugunun-turkiye-de-yararlanacagi-ayricaliklar-bagisikliklar-ve-kolayliklara-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-02-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-02-06",
+    "number": "23956"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4528.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103472",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4528",
+  "source_mevzuat_id": "103472",
   "source_type": "KANUN",
-  "content_sha256": "920b66880b20334427cbb28f62aafa18a75072b62c5b61fd0c8f53b14a515051",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "bca17933c0bcd6093ce7cb78e4db4f89b6b6d87fe20ea57bd170ffe2da72e1fd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

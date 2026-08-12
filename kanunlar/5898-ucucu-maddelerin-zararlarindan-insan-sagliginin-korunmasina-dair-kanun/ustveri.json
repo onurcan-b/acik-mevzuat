@@ -2,17 +2,17 @@
   "law_number": "5898",
   "title": "UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASINA DAİR KANUN",
   "slug": "5898-ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2009-05-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2009-05-16",
+    "number": "27230"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5898.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104093",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5898",
+  "source_mevzuat_id": "104093",
   "source_type": "KANUN",
-  "content_sha256": "9fe7289dafec3745f3dfafac4525f3df238757371101a31da22c6253e3986453",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "1c87bffc40e01e531d9634bd71f8f6f0cc7a17c7bac34dca41dafd282a37a460",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

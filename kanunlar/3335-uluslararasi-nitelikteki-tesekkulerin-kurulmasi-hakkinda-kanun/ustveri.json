@@ -2,17 +2,17 @@
   "law_number": "3335",
   "title": "ULUSLARARASI NİTELİKTEKİ TEŞEKKÜLERİN KURULMASI HAKKINDA KANUN",
   "slug": "3335-uluslararasi-nitelikteki-tesekkulerin-kurulmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1987-03-26",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1987-04-07",
+    "number": "19424"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3335.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104502",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3335",
+  "source_mevzuat_id": "104502",
   "source_type": "KANUN",
-  "content_sha256": "fbdbff91c7e1e774d08ba3641cd76b3bb013ba268438a9bb6fb9bff125f0846a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d8a39720d1303333100e9dc0e0baf5a7890526188e91fcc1a8ad7fb7f7d21d68",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

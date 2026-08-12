@@ -1,0 +1,18 @@
+{
+  "law_number": "4422",
+  "title": "ÇIKAR AMAÇLI SUÇ ÖRGÜTLERİYLE MÜCADELE KANUNU",
+  "slug": "4422-cikar-amacli-suc-orgutleriyle-mucadele-kanunu",
+  "accepted_date": "1999-07-30",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1999-08-30",
+    "number": "23773"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335266",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335266",
+  "source_type": "MULGA",
+  "content_sha256": "ba722919a5fc354e35f7420f01836176410f5c14f7492e8194f275be4e335447",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

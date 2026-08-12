@@ -2,17 +2,17 @@
   "law_number": "5681",
   "title": "MATBAALAR KANUNU",
   "slug": "5681-matbaalar-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1950-07-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1950-07-24",
+    "number": "7564"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5681.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105178",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.5681",
+  "source_mevzuat_id": "105178",
   "source_type": "KANUN",
-  "content_sha256": "4ea8e2607fb68faceba61923ed1253f14c1fae3cdb9fee56e394701835c8116d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "155672af0beb6d83dd5ccb6fa047c663c0dc542c36b6169eb34ebc0e5a50cc87",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

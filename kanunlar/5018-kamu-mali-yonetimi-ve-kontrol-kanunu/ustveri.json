@@ -2,17 +2,17 @@
   "law_number": "5018",
   "title": "KAMU MALİ YÖNETİMİ VE KONTROL KANUNU",
   "slug": "5018-kamu-mali-yonetimi-ve-kontrol-kanunu",
-  "accepted_date": null,
+  "accepted_date": "2003-12-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "25326"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5018.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102938",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5018",
+  "source_mevzuat_id": "102938",
   "source_type": "KANUN",
-  "content_sha256": "5c35599ecac1647c0164b0096b3fd882caf0a6e084f8bd279656875af5dfc1e2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "53b0a4a7b645e181b3ab78d535b9ee360b11539219da3c54571f7c2cd5d7e7bf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

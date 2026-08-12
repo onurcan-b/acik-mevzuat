@@ -2,17 +2,17 @@
   "law_number": "4853",
   "title": "ÇALIŞANLARIN TASARRUFLARINI TEŞVİK HESABININ TASFİYESİ VE BU HESAPTAN YAPILACAK ÖDEMELERE DAİR KANUN",
   "slug": "4853-calisanlarin-tasarruflarini-tesvik-hesabinin-tasfiyesi-ve-bu-hesaptan-yapilacak-odemelere-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-04-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2003-04-29",
+    "number": "25093"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4853.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103634",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4853",
+  "source_mevzuat_id": "103634",
   "source_type": "KANUN",
-  "content_sha256": "f51a53a4419de0ed82dee1e1101d724bcce81ce75f2556bdc6f986ea93f076fb",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "52597d9e205d035a5136dfc544ad629ef48982e7822fc27d930d354c5600ce17",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

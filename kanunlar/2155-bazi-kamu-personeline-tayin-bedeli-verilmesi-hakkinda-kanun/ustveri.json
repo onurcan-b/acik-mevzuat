@@ -2,17 +2,17 @@
   "law_number": "2155",
   "title": "BAZI KAMU PERSONELİNE TAYIN BEDELİ VERİLMESİ HAKKINDA KANUN",
   "slug": "2155-bazi-kamu-personeline-tayin-bedeli-verilmesi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1978-06-22",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1978-06-29",
+    "number": "16331"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2155.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104963",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2155",
+  "source_mevzuat_id": "104963",
   "source_type": "KANUN",
-  "content_sha256": "fb03cdcb352e6757db6b5a833c64e7a61cc0b6e2e02373a5f4e24fa1c02c58b9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f541ad7f577f31a662e01424b72fe6ad7349c128f511d8ec566bab10a1c936bd",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

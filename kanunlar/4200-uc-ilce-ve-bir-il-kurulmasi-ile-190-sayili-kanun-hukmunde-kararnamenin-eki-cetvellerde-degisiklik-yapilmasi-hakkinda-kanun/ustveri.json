@@ -2,17 +2,17 @@
   "law_number": "4200",
   "title": "ÜÇ İLÇE VE BİR İL KURULMASI İLE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "4200-uc-ilce-ve-bir-il-kurulmasi-ile-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1996-10-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1996-10-28",
+    "number": "22801"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4200.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103364",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4200",
+  "source_mevzuat_id": "103364",
   "source_type": "KANUN",
-  "content_sha256": "d50b3427b48217c4cc625b99ce9f361b279367f979558a67fad9c73476fb2807",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "8bff4295461e4e5068227f2efcfa129bc23dd52c462a38f63ffebae2136c264d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

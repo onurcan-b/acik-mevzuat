@@ -2,17 +2,17 @@
   "law_number": "4214",
   "title": "MEMURLAR, DİĞER KAMU GÖREVLİLERİ İLE BUNLARIN EMEKLİLERİNİN MALİ VE SOSYAL HAKLARINDA DÜZENLEMELER YAPILMASINA DAİR YETKİ KANUNU",
   "slug": "4214-memurlar-diger-kamu-gorevlileri-ile-bunlarin-emeklilerinin-mali-ve-sosyal-haklarinda-duzenlemeler-yapilmasina-dair-yetki-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1996-11-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1996-12-03",
+    "number": "22836"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4214.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103370",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4214",
+  "source_mevzuat_id": "103370",
   "source_type": "KANUN",
-  "content_sha256": "d1e4b1d8b6f1dac7be851dafb4c738f0be9889060fc15da8dc9720d2219187ef",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0e0ab81831b80fdc4b9bc8062b15ae0359ec2e6923d7c6591222cc21ed52e173",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

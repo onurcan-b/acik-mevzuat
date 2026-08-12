@@ -2,17 +2,17 @@
   "law_number": "2489",
   "title": "KEFALET KANUNU",
   "slug": "2489-kefalet-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1934-06-02",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1934-06-06",
+    "number": "2720"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2489.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105327",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.2489",
+  "source_mevzuat_id": "105327",
   "source_type": "KANUN",
-  "content_sha256": "f7c4437948f601c4e1a27667d2058fbfe3472777aef526e127f8d65b8739ef29",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "df3bfe13db31f29291957d562ff34ce8bd0bb7fa52de4e1baca79ba132259755",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

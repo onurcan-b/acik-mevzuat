@@ -2,17 +2,17 @@
   "law_number": "1163",
   "title": "KOOPERATİFLER KANUNU",
   "slug": "1163-kooperatifler-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1969-04-24",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "13195"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1163.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102928",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.1163",
+  "source_mevzuat_id": "102928",
   "source_type": "KANUN",
-  "content_sha256": "f9e1d70d573cbc3e736d194f92d86e53060453193df6c9da4ae2a942c66e1d63",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "cb49a5cd853a0aa378c324d9e335ae54da62a7f7b71ff278ffe652bad4f10fee",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

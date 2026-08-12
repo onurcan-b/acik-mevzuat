@@ -1,37 +1,70 @@
 # ATATÜRK ALEYHİNE İŞLENEN SUÇLAR HAKKINDA KANUN (No. 5816)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5816.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105174
+> Resmî Gazete: 1951-07-31 / 7872
+> UYAP Mevzuat kimliği: 105174
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 32 Sayfa: 1842
+2391
 
-Atatürk'ün hatırasına alenen hakaret eden veya söven kimse bir yıldan üç
-yıla kadar hapis cezası ile cezalandırılır.
-Atatürk'ü temsil eden heykel, büst ve abideleri veyahut Atatürk'ün kabrini tahrip eden,
-kıran, bozan veya kirleten kimseye bir yıldan beş yıla kadar ağır hapis cezası verilir.
-Yukarki fıkralarda yazılı suçları işlemeye başkalarını teşvik eden kimse asıl fail gibi
+ATATÜRK
+ALEYHİNE İŞLENEN SUÇLAR
+
+HAKKINDA
+KANUN
+
+Kanun
+Numarası : 5816
+
+Kabul
+Tarihi : 25/7/1951
+
+Yayımlandığı
+Resmî Gazete : Tarih: 31/7/1951 Sayı: 7872
+
+Yayımlandığı
+Düstur : Tertip: 3 Cilt: 32 Sayfa:
+1842
+
+Madde
+1 –
+Atatürk'ün
+hatırasına alenen hakaret eden veya söven kimse bir yıldan üç yıla kadar hapis
+cezası ile cezalandırılır.
+
+Atatürk'ü
+temsil eden heykel, büst ve abideleri veyahut Atatürk'ün kabrini tahrip eden,
+kıran, bozan veya kirleten kimseye bir yıldan beş yıla kadar ağır hapis cezası
+verilir.
+
+Yukarki
+fıkralarda yazılı suçları işlemeye başkalarını teşvik eden kimse asıl fail gibi
 cezalandırılır.
 
-# MADDE 2
-
-Birinci maddede yazılı suçlar; iki veya daha fazla kimseler tarafından
-toplu olarak veya umumi veya umuma açık mahallerde yahut basın vasıtasiyle işlenirse
+Madde
+2 –
+Birinci
+maddede yazılı suçlar; iki veya daha fazla kimseler tarafından toplu olarak
+veya umumi veya umuma açık mahallerde yahut basın vasıtasiyle işlenirse
 hükmolunacak ceza yarı nispetinde artırılır.
-Birinci maddenin ikinci fıkrasında yazılı suçlar zor kullanılarak işlenir veya bu suretle
-işlenmesine teşebbüs olunursa verilecek ceza bir misli artırılır.
 
-# MADDE 3
+Birinci
+maddenin ikinci fıkrasında yazılı suçlar zor kullanılarak işlenir veya bu
+suretle işlenmesine teşebbüs olunursa verilecek ceza bir misli artırılır.
 
-Bu kanunda yazılı suçlardan dolayı Cumhuriyet savcılıklarınca re'sen
-takibat yapılır.
+Madde
+3 –
+Bu
+kanunda yazılı suçlardan dolayı Cumhuriyet savcılıklarınca re'sen takibat
+yapılır.
 
-# MADDE 4
+Madde
+4 –
+Bu
+kanun yayımı tarihinde yürürlüğe girer.
 
-Bu kanun yayımı tarihinde yürürlüğe girer.
-
-# MADDE 5
-
-Bu kanunu Adalet Bakanı yürütür.
+Madde
+5 –
+Bu
+kanunu Adalet Bakanı yürütür.

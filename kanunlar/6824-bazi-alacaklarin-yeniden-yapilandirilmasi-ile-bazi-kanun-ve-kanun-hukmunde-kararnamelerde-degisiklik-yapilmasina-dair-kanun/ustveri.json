@@ -2,17 +2,17 @@
   "law_number": "6824",
   "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "6824-bazi-alacaklarin-yeniden-yapilandirilmasi-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2017-02-23",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2017-03-08",
+    "number": "30001"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6824.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104163",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.6824",
+  "source_mevzuat_id": "104163",
   "source_type": "KANUN",
-  "content_sha256": "df413830466f2b1a136c044464e29d0a135f730814bdbfe416914d9440853a7f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "de88e8658e423cf39071648ede692280b4ef367244348a126dc1d0e12dabf032",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

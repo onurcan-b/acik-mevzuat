@@ -2,17 +2,17 @@
   "law_number": "3092",
   "title": "ÇAY KANUNU",
   "slug": "3092-cay-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1984-12-04",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1984-12-19",
+    "number": "18610"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3092.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104798",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3092",
+  "source_mevzuat_id": "104798",
   "source_type": "KANUN",
-  "content_sha256": "d7fecaa04b909fd71a863086162639f3aa07ac399723de31398e9c755d56ae2d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0d90f31e0197c8679c4d506f396851136bc50415a7a8fff7b05cc10cbc98db98",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

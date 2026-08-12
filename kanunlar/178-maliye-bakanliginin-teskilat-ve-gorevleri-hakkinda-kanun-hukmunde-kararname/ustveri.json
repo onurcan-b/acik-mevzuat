@@ -1,0 +1,18 @@
+{
+  "law_number": "178",
+  "title": "MALİYE BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "slug": "178-maliye-bakanliginin-teskilat-ve-gorevleri-hakkinda-kanun-hukmunde-kararname",
+  "accepted_date": null,
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1983-12-14",
+    "number": "18251 (Mükerrer)"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/336272",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "336272",
+  "source_type": "MULGA",
+  "content_sha256": "8ae510eedf0cb1787e8f1f0144e882e5dd2a3ad051d76b56e00b83f5a68d56c5",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

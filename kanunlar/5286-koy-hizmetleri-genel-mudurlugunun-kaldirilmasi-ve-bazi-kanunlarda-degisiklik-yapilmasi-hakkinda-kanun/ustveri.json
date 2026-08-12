@@ -2,17 +2,17 @@
   "law_number": "5286",
   "title": "KÖY HİZMETLERİ GENEL MÜDÜRLÜĞÜNÜN KALDIRILMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5286-koy-hizmetleri-genel-mudurlugunun-kaldirilmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2005-01-13",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2005-01-28",
+    "number": "25710"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5286.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103852",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5286",
+  "source_mevzuat_id": "103852",
   "source_type": "KANUN",
-  "content_sha256": "c93ebc534b831706ccdcb02b86676ced0d30d804c0fc84229d8df291c5192cfc",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b51b5d25bb60c947cc509088e9ef02310a2eb5a3d7d8bccab64e69b42e92d75d",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

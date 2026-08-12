@@ -2,17 +2,17 @@
   "law_number": "4785",
   "title": "ORMAN KANUNUNA BAZI HÜKÜMLER EKLENMESİNE VE BU KANUNUN BİRİNCİ MADDESİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "4785-orman-kanununa-bazi-hukumler-eklenmesine-ve-bu-kanunun-birinci-maddesinde-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "1945-07-09",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1945-07-13",
+    "number": "6056"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4785.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105205",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.4785",
+  "source_mevzuat_id": "105205",
   "source_type": "KANUN",
-  "content_sha256": "de2ad59bac8661df9782900915c7b562f0d6529c5d68ac37d3aaf392a00e6d4f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "17c77058325cc3cbba4c61fa3d0639b1f5fb2533cfde1ed9874515ebf5a6b3fe",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "4641",
   "title": "EKONOMİK VE SOSYAL KONSEYİN KURULUŞU, ÇALIŞMA ESAS VE YÖNTEMLERİ HAKKINDA KANUN",
   "slug": "4641-ekonomik-ve-sosyal-konseyin-kurulusu-calisma-esas-ve-yontemleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2001-04-11",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "24380"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4641.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103538",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4641",
+  "source_mevzuat_id": "103538",
   "source_type": "KANUN",
-  "content_sha256": "98c1529cec37b9eb945f579a348c1d7242b6f78612c1c843b907a7d68e461fac",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "4bef40415b69c7678c7865493ed734d777257ad91211c227d4c21a296a3deea6",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

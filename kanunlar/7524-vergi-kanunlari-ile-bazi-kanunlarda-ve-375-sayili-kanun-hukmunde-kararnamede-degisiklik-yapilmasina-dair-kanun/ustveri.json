@@ -2,17 +2,17 @@
   "law_number": "7524",
   "title": "VERGİ KANUNLARI İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
   "slug": "7524-vergi-kanunlari-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
-  "accepted_date": null,
+  "accepted_date": "2024-07-28",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2024-08-02",
+    "number": "32620"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7524.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/329497",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.7524",
+  "source_mevzuat_id": "329497",
   "source_type": "KANUN",
-  "content_sha256": "7b13cb7284f7b4c197950478e9d780c5bf6d48b92553904cf58ea674db14437b",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "888fb1c84247b378263276af65296bbeaf39872d8963d625963cfa011717cd7e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "5902",
   "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
   "slug": "5902-afet-ve-acil-durum-yonetimi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2009-05-29",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2009-06-17",
+    "number": "27261"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5902.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103122",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5902",
+  "source_mevzuat_id": "103122",
   "source_type": "KANUN",
-  "content_sha256": "f091ae0f85f0f494d22a619f2096967b0cdf9dc4d5210a3005eb727f06200ee4",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "da09120efd5abdf7c30f4a6c5213ec9cb806eec50016a5e0ca35310c49f6ae39",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

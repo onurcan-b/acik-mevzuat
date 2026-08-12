@@ -1,0 +1,18 @@
+{
+  "law_number": "6570",
+  "title": "GAYRİMENKUL KİRALARI HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "slug": "6570-gayrimenkul-kiralari-hakkinda-kanunun-yururlukten-kaldirilan-hukumleri",
+  "accepted_date": "1955-05-18",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1955-05-27",
+    "number": "9013"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335478",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335478",
+  "source_type": "MULGA",
+  "content_sha256": "05962292fdc23d7fd29497c37f0eca70bf58f4fe41b278a0c4f82bcba004e11f",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "4572",
   "title": "TARIM SATIŞ KOOPERATİF VE BİRLİKLERİ HAKKINDA KANUN",
   "slug": "4572-tarim-satis-kooperatif-ve-birlikleri-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2000-06-01",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2000-06-16",
+    "number": "24081"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4572.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103516",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4572",
+  "source_mevzuat_id": "103516",
   "source_type": "KANUN",
-  "content_sha256": "d4a2b389d9abb42e36fd9a9a6ca1cc2f6094c6c39fbe2b1ebd35fbab312380d8",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ebf4833a8d4e53228996c873ddd76c5072f655b7af00b11e9098b753cf1e40bf",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "4538",
+  "title": "EURO´NUN HUKUKİ ARAÇLARA ETKİSİ İLE AKARYAKIT TÜKETİM VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "slug": "4538-euro-nun-hukuki-araclara-etkisi-ile-akaryakit-tuketim-vergisi-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
+  "accepted_date": "2000-02-24",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2000-02-27",
+    "number": "23977"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103482",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103482",
+  "source_type": "KANUN",
+  "content_sha256": "10d904f41430f3d1e5428ff57c179c7bab30046e4a5db87b8e34bc24715f7a81",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

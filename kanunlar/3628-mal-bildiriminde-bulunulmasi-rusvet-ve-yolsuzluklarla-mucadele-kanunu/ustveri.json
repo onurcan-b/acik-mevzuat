@@ -2,17 +2,17 @@
   "law_number": "3628",
   "title": "MAL BİLDİRİMİNDE BULUNULMASI, RÜŞVET VE YOLSUZLUKLARLA MÜCADELE KANUNU",
   "slug": "3628-mal-bildiriminde-bulunulmasi-rusvet-ve-yolsuzluklarla-mucadele-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1990-04-19",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1990-05-04",
+    "number": "20508"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3628.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103467",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3628",
+  "source_mevzuat_id": "103467",
   "source_type": "KANUN",
-  "content_sha256": "a0a5a22203777bc88d4ffbd64be87b0c42da78a3b0c19a1c14bb4ae166a07b7d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "342e475ce97d738092f70e2dc9b832a2c26a64567de11a08c0d57e0b8d493392",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

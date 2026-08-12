@@ -1,0 +1,18 @@
+{
+  "law_number": "2820",
+  "title": "SİYASİ PARTİLER KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2820-siyasi-partiler-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1983-04-22",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "18027"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335525",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335525",
+  "source_type": "MULGA",
+  "content_sha256": "cd23841801cf0b9df7f007a73038011d6d9a910cc476ae65ddbdf4874eab795e",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -2,17 +2,17 @@
   "law_number": "2797",
   "title": "YARGITAY KANUNU",
   "slug": "2797-yargitay-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-02-04",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17953"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2797.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103534",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2797",
+  "source_mevzuat_id": "103534",
   "source_type": "KANUN",
-  "content_sha256": "22c601704fba58e830092640f55288bc91632c74f04713409a929c7da8f5715d",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "0631a592bbcddcbd71cded2882d802e3e1795c812dd2884cb465d266d58f9a8a",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

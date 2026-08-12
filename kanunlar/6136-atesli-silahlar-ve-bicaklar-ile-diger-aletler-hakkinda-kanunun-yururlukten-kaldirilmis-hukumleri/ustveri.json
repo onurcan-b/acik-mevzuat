@@ -1,0 +1,18 @@
+{
+  "law_number": "6136",
+  "title": "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanunun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1953-07-10",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "8458"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335252",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335252",
+  "source_type": "MULGA",
+  "content_sha256": "d3ebba05ef93a85c30e5d78946e2de3931608e6a24a1cce8aba61f062774d971",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

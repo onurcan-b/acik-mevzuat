@@ -2,17 +2,17 @@
   "law_number": "5035",
   "title": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
   "slug": "5035-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "2003-12-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "2004-01-02",
+    "number": "25334 (Mükerrer)"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5035.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103714",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.5035",
+  "source_mevzuat_id": "103714",
   "source_type": "KANUN",
-  "content_sha256": "348bcda5819332269f0395c7a530e5ea541ffbc8cbf1ccbba1ff474e8f925f58",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "ba9a05e65f4a2e798a7eb35ce5117bde0788322a9a0a815d6f9b267f68ad0b87",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

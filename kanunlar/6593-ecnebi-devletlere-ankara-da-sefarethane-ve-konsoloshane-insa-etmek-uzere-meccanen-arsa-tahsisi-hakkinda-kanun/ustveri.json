@@ -1,0 +1,18 @@
+{
+  "law_number": "6593",
+  "title": "ECNEBİ DEVLETLERE ANKARA´DA SEFARETHANE VE KONSOLOSHANE İNŞA ETMEK ÜZERE MECCANEN ARSA TAHSİSİ HAKKINDA KANUN",
+  "slug": "6593-ecnebi-devletlere-ankara-da-sefarethane-ve-konsoloshane-insa-etmek-uzere-meccanen-arsa-tahsisi-hakkinda-kanun",
+  "accepted_date": "1955-05-20",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "1955-05-27",
+    "number": "9013"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105135",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "105135",
+  "source_type": "KANUN",
+  "content_sha256": "2e128ef4a2fa31814983557d99d62739494507d012d6264b304674983174f535",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

@@ -1,0 +1,18 @@
+{
+  "law_number": "4636",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+  "slug": "4636-milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesislerine-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+  "accepted_date": "2001-04-05",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2001-04-13",
+    "number": "24372"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103531",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "103531",
+  "source_type": "KANUN",
+  "content_sha256": "c3c80264469bbd9cdddcc7a955bbd927c1dea22e0967a7e16ce5a13f56d157ce",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

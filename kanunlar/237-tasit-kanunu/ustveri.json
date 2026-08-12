@@ -2,17 +2,17 @@
   "law_number": "237",
   "title": "TAŞIT KANUNU",
   "slug": "237-tasit-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1961-01-05",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1961-01-12",
+    "number": "10705"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.237.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103172",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.237",
+  "source_mevzuat_id": "103172",
   "source_type": "KANUN",
-  "content_sha256": "87d575ca41fa201425f20ff41899655958b3e4c9f118646216e201ad9ef1f85a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6ab89508e81a57efcc57b0e1dada12b0893be81dcd868c6fdcf4f0c7133907f3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2,17 +2,17 @@
   "law_number": "474",
   "title": "GÜMRÜK GİRİŞ TARİFE CETVELİ HAKKINDA KANUN",
   "slug": "474-gumruk-giris-tarife-cetveli-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1964-05-14",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1964-05-25",
+    "number": "11711"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.474.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105034",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.474",
+  "source_mevzuat_id": "105034",
   "source_type": "KANUN",
-  "content_sha256": "a6e55e75e0e7bd761ef297602738a7b613469efc63be3477a94476d54a5955e2",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "eaf78fa286f479a172f815cbc6db132a99ab5969d6be1e3a4f1d31a30bfe7a01",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

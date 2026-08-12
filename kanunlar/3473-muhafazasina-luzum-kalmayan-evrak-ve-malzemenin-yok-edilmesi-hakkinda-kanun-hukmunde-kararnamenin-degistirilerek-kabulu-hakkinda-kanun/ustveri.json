@@ -1,0 +1,18 @@
+{
+  "law_number": "3473",
+  "title": "MUHAFAZASINA LÜZUM KALMAYAN EVRAK VE MALZEMENİN YOK EDİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜ HAKKINDA KANUN",
+  "slug": "3473-muhafazasina-luzum-kalmayan-evrak-ve-malzemenin-yok-edilmesi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabulu-hakkinda-kanun",
+  "accepted_date": "1988-09-28",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1988-10-04",
+    "number": "19949"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335502",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335502",
+  "source_type": "MULGA",
+  "content_sha256": "390be033cb4e836e8039c1d04c29c8f1f5c309a05602f3df695f198b2ca98fa8",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

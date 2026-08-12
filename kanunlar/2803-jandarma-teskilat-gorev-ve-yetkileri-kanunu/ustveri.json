@@ -2,17 +2,17 @@
   "law_number": "2803",
   "title": "JANDARMA TEŞKİLAT, GÖREV VE YETKİLERİ KANUNU",
   "slug": "2803-jandarma-teskilat-gorev-ve-yetkileri-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1983-03-10",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "17985"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2803.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102989",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.2803",
+  "source_mevzuat_id": "102989",
   "source_type": "KANUN",
-  "content_sha256": "947906b9f33b718fe06e8b09ea15ecfdf08a25b924db4a4f4c7bf15c13cc1bf9",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "6699792226528ed14e156d1a8f9e135b6e442aa379995f8721bbc54747e4b7d3",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

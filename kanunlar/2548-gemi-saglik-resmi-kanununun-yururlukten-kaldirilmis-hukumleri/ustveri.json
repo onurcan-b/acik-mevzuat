@@ -1,0 +1,18 @@
+{
+  "law_number": "2548",
+  "title": "GEMİ SAĞLIK RESMİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "slug": "2548-gemi-saglik-resmi-kanununun-yururlukten-kaldirilmis-hukumleri",
+  "accepted_date": "1981-11-06",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": null,
+    "number": "17510"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335300",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335300",
+  "source_type": "MULGA",
+  "content_sha256": "d03d5925cde2c76704c92f33bd645bcf0c3b2e2ced2d5abad0455a28be6da99b",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

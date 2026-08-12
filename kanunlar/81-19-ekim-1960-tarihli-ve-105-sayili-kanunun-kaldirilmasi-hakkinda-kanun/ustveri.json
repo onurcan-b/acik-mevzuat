@@ -2,17 +2,17 @@
   "law_number": "81",
   "title": "19 EKİM 1960 TARİHLİ VE 105 SAYILI KANUNUN KALDIRILMASI HAKKINDA KANUN",
   "slug": "81-19-ekim-1960-tarihli-ve-105-sayili-kanunun-kaldirilmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1962-10-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1962-10-23",
+    "number": "11239"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.81.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105045",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.81",
+  "source_mevzuat_id": "105045",
   "source_type": "KANUN",
-  "content_sha256": "5880fbdbc4115cd6f3d60f1aa4c102b4baccb1de95f6c4ae92977c9957a92388",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "f2b3aea2ee3b0064e10dc95c90da769d9acedc1015c19072fb1a19c725e9a3f1",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

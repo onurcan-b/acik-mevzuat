@@ -2,17 +2,17 @@
   "law_number": "1608",
   "title": "UMURU BELEDİYEYE MÜTEALLİK AHKAMI CEZAİYE HAKKINDA 16 NİSAN 1340 TARİH VE 486 NUMARALI KANUNUN BAZI MADDELERİNİ MUADDİL KANUN",
   "slug": "1608-umuru-belediyeye-muteallik-ahkami-cezaiye-hakkinda-16-nisan-1340-tarih-ve-486-numarali-kanunun-bazi-maddelerini-muaddil-kanun",
-  "accepted_date": null,
+  "accepted_date": "1930-05-15",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "1498"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1608.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105365",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.1608",
+  "source_mevzuat_id": "105365",
   "source_type": "KANUN",
-  "content_sha256": "79e073ed1ce9dcf487aa874d00f70d8ca7c73ffdf4d9d8829a9dfb663bf27421",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "b6202b57e9b19abc072ec6f66517127a453d14a14a8bf1b18860d90f490ba8fb",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

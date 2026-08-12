@@ -1,18 +1,18 @@
 {
   "law_number": "3065",
-  "title": "Katma Değer Vergisi Kanunu",
+  "title": "KATMA DEĞER VERGİSİ KANUNU",
   "slug": "3065-katma-deger-vergisi-kanunu",
-  "accepted_date": null,
+  "accepted_date": "1984-10-25",
   "effective_status": "in_force",
   "official_gazette": {
     "date": null,
-    "number": null
+    "number": "18563"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3065.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102965",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.3065",
+  "source_mevzuat_id": "102965",
   "source_type": "KANUN",
-  "content_sha256": "855a7a8adb97c0928adc147d31da2c7cce13ebf262d0a2b9bd7a69cf004b663a",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a657bf5274ca69301e8fe4f20dcc036a35cd44242e930b08afd49dfc157aa383",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

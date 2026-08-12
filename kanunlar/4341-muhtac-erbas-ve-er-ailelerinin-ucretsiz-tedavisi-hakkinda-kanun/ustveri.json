@@ -2,17 +2,17 @@
   "law_number": "4341",
   "title": "MUHTAÇ ERBAŞ VE ER AİLELERİNİN ÜCRETSİZ TEDAVİSİ HAKKINDA KANUN",
   "slug": "4341-muhtac-erbas-ve-er-ailelerinin-ucretsiz-tedavisi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1998-02-18",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1998-02-22",
+    "number": "23266"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4341.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103405",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.5.4341",
+  "source_mevzuat_id": "103405",
   "source_type": "KANUN",
-  "content_sha256": "363f654c73c52140b62ee5e637b9292dcb5aaca20671b2d46917f97a4b54a70f",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "d049993521024bd70d61412e1f61405ef2ed90ffa7983ddd99004cc9079fa017",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "1412",
+  "title": "CEZA MUHAKEMELERİ USULÜ KANUNU",
+  "slug": "1412-ceza-muhakemeleri-usulu-kanunu",
+  "accepted_date": "1929-04-04",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1929-04-20",
+    "number": "1172"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335321",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335321",
+  "source_type": "MULGA",
+  "content_sha256": "69c132cc38364dfc979c58dbef6dc6dfd0d05c6f3dbb6d6bd37b8abba469b676",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

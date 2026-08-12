@@ -2,17 +2,17 @@
   "law_number": "3284",
   "title": "BAZI MADEN HURDALARININ DIŞARI ÇIKARILMASININ YASAK EDİLMESİ VE SATINALINMASI HAKKINDA KANUN",
   "slug": "3284-bazi-maden-hurdalarinin-disari-cikarilmasinin-yasak-edilmesi-ve-satinalinmasi-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1937-12-17",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1937-12-25",
+    "number": "3792"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3284.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105296",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.3.3284",
+  "source_mevzuat_id": "105296",
   "source_type": "KANUN",
-  "content_sha256": "e885643569f5a6f4176d912566d58624cffa3c8de69d09f574a4da8d305ac23e",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "9faaaf3c0fc64fc4ac57a8a6e9ce25a7d700ff1883af78f0c3ccc4bdf19edcb9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

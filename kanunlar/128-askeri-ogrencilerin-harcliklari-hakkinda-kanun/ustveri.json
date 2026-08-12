@@ -2,17 +2,17 @@
   "law_number": "128",
   "title": "ASKERİ ÖĞRENCİLERİN HARÇLIKLARI HAKKINDA KANUN",
   "slug": "128-askeri-ogrencilerin-harcliklari-hakkinda-kanun",
-  "accepted_date": null,
+  "accepted_date": "1960-11-15",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": null,
-    "number": null
+    "date": "1960-11-19",
+    "number": "10659"
   },
-  "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.128.pdf",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105068",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "1.4.128",
+  "source_mevzuat_id": "105068",
   "source_type": "KANUN",
-  "content_sha256": "25e6c82cc92fcdba19f9df57fbf56b723dfab04b2d3fb2ec27e22dad57670d61",
-  "retrieval_api": "https://github.com/openmevzuat/openmevzuat"
+  "content_sha256": "a2719ed391978fb2e20306d1e47941691cde236816ba0f205d2860a3ee5594c9",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

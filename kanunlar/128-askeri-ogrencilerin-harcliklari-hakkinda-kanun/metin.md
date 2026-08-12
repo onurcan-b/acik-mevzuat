@@ -1,55 +1,91 @@
 # ASKERİ ÖĞRENCİLERİN HARÇLIKLARI HAKKINDA KANUN (No. 128)
 
-> Resmî kaynak: https://www.mevzuat.gov.tr/MevzuatMetin/1.4.128.pdf
-> Taşıma/normalizasyon kaynağı: https://github.com/openmevzuat/openmevzuat
-> Upstream snapshot: d70a4c34f39a2f86984ebd38d198f8a4438006cf
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105068
+> Resmî Gazete: 1960-11-19 / 10659
+> UYAP Mevzuat kimliği: 105068
 
 ---
 
-# MADDE 1 — Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 451
+3317
 
-Kara, Deniz, Hava Harb Okulları ile Üniversitelerin muhtelif fakültelerinin
-ve yüksek okulların birinci sınıflarında Milli Savunma Bakanlığı hesabına okuyan ögrencilere
-ve Yedek Subay Okulu öğrencilerine ayda 30 lira, daha yukarı sınıflarda okuyanlara ayda 40
-lira harçlık verilir.
+ASKERİ
+ÖĞRENCİLERİN HARÇLIKLARI
 
-# MADDE 2
+HAKKINDA
+KANUN
+[1]
+
+Kanun
+Numarası : 128
+
+Kabul
+Tarihi : 15/11/1960
+
+Yayımlandığı
+Resmî Gazete: Tarih: 19/11/1960 Sayı: 10659
+
+Yayımlandığı
+Düstur : Tertip: 4 Cilt: 1 Sayfa: 451
+
+Madde
+1 –
+
+Kara, Deniz, Hava Harb Okulları ile Üniversitelerin muhtelif fakültelerinin ve
+yüksek okulların birinci sınıflarında Milli Savunma Bakanlığı hesabına okuyan
+ögrencilere ve Yedek Subay Okulu öğrencilerine ayda 30 lira, daha yukarı
+sınıflarda okuyanlara ayda 40 lira harçlık verilir.
+
+Madde
+2 –
 
 Askeri lise ve muadili askeri okullar öğrencileri ile astsubay okulları
-öğrencilerine ayda 20 lira, askeri orta okul ve muadili askeri okullar ve astsubay hazırlama
-orta okulları öğrencilerine ayda 10 lira harclık verilir.
+öğrencilerine ayda 20 lira, askeri orta okul ve muadili askeri okullar ve
+astsubay hazırlama orta okulları öğrencilerine ayda 10 lira harclık verilir.
 
-# MADDE 3
+Madde
+3 –
 
-Öğrenciler harçlığa okula kabulleri gününden itibaren müstehak olurlar.
-Harçlıklar, öğrenci okulu bitirip üst okula kaydedilinceye kadar veya okul ile ilişiği
+Öğrenciler harçlığa okula kabulleri gününden itibaren müstehak olurlar. Harçlıklar,
+öğrenci okulu bitirip üst okula kaydedilinceye kadar veya okul ile ilişiği
 kesilinceye kadar ödenir.
-Hava değişimi, istirahat alanlarla hastanede veya izinli bulunanların veya disiplin
+
+Hava
+değişimi, istirahat alanlarla hastanede veya izinli bulunanların veya disiplin
 cezası alanların harçlıkları kesilmez.
 
-# MADDE 4
+Madde
+4 –
+Milli
+Savunma Bakanlığı ve Jandarma Genel Kumandanlığı hesabına burs verilmek
+suretiyle okutulan öğrenciler bu kanundan faydalanamazlar.
 
-Milli Savunma Bakanlığı ve Jandarma Genel Kumandanlığı hesabına burs
-verilmek suretiyle okutulan öğrenciler bu kanundan faydalanamazlar.
+Madde
+5 –
 
-# MADDE 5
+Bu kanun gereğince ödenecek harçlıklar hiçbir vergi ve resme tabi tutulmaz ve
+borç için haczedilemez.
 
-Bu kanun gereğince ödenecek harçlıklar hiçbir vergi ve resme tabi
-tutulmaz ve borç için haczedilemez.
-Bu harclıklara, 4178 sayılı kanun gereğince verilen zam uygulanmaz.
+Bu
+harclıklara, 4178 sayılı kanun gereğince verilen zam uygulanmaz.
 
-# MADDE 6
+Madde
+6 –
 
 Bu kanuna aykırı hükümler yürürlükten kaldırılmıştır
 
-1 Bu Kanunun harçlık miktarları ile ilgili hükümleri 31/7/1970 tarih ve 1323 sayılı Kanunun 19/n maddesi ile
-yürürlükten kaldırılmış olup, anılan Kanuna konu harçlıklar 27/7/1967 tarih ve 926 sayılı Kanunun 143 üncü
-maddesinde yeniden düzenlenmiştir.
+Madde
+7 –
+Bu
+kanun yayımı tarihini takip eden ay başından itibaren yürürlüğe girer.
 
-# MADDE 7
-
-Bu kanun yayımı tarihini takip eden ay başından itibaren yürürlüğe girer.
-
-# MADDE 8
+Madde
+8 –
 
 Bu kanunu Milli Savunma, İçişleri ve Maliye Bakanları yürütür.
+
+[1]
+
+Bu Kanunun harçlık miktarları ile ilgili hükümleri 31/7/1970 tarih ve 1323
+sayılı Kanunun 19/n maddesi ile yürürlükten kaldırılmış olup, anılan Kanuna
+konu harçlıklar 27/7/1967 tarih ve 926 sayılı Kanunun 143 üncü maddesinde
+yeniden düzenlenmiştir.

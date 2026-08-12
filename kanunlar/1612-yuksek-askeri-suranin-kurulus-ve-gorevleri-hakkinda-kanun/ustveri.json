@@ -1,0 +1,18 @@
+{
+  "law_number": "1612",
+  "title": "YÜKSEK ASKERİ ŞÜRANIN KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
+  "slug": "1612-yuksek-askeri-suranin-kurulus-ve-gorevleri-hakkinda-kanun",
+  "accepted_date": "1972-07-17",
+  "effective_status": "repealed",
+  "official_gazette": {
+    "date": "1972-07-26",
+    "number": "14257"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335310",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "335310",
+  "source_type": "MULGA",
+  "content_sha256": "ac49353fe862c0be376bab43c656c7445004e4dd22d37f605eb624dd66577365",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}
