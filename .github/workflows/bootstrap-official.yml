@@ -28,7 +28,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Resmî KANUN + MULGA kataloğunu al
         run: >-
-          python betikler/senkronize.py
+          python betikler/resmi_api.py
           --mode catalog
           --types KANUN,MULGA
           --delay 0.35
@@ -62,7 +62,7 @@ jobs:
           path: /tmp/catalog
       - name: Resmî içerik API'sinden shard çek
         run: >-
-          python betikler/senkronize.py
+          python betikler/resmi_api.py
           --mode shard
           --catalog-file /tmp/catalog/mevzuat-catalog.json
           --output-root /tmp/shard-out
@@ -116,7 +116,7 @@ jobs:
           rm -rf kanunlar
           mkdir -p kanunlar
           cp -a /tmp/all-shards/kanunlar/. kanunlar/
-          python betikler/senkronize.py \
+          python betikler/resmi_api.py \
             --mode reindex \
             --catalog-file /tmp/catalog/mevzuat-catalog.json
 
