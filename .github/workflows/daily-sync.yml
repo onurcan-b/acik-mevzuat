@@ -23,7 +23,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 30
 
     steps:
       - name: Repoyu al
@@ -43,8 +43,15 @@ jobs:
       - name: Unit testler
         run: python -m unittest discover -s tests -v
 
-      - name: Resmî mevzuat sitesinden KANUN + MULGA senkronize et
-        run: python betikler/senkronize.py --types KANUN,MULGA --delay 0.30 --max-errors 0 --min-documents 1000
+      - name: Resmî katalog farkı + dönen içerik kontrolü
+        run: >-
+          python betikler/senkronize.py
+          --mode daily
+          --types KANUN,MULGA
+          --delay 0.60
+          --min-documents 1000
+          --rotation-buckets 28
+          --max-backfill 20
 
       - name: Metadata doğrulaması
         run: python betikler/dogrula.py
@@ -56,13 +63,13 @@ jobs:
         id: changes
         shell: bash
         run: |
-          if [ -z "$(git status --porcelain -- kanunlar indeks.json)" ]; then
+          if [ -z "$(git status --porcelain -- kanunlar indeks.json .mevzuat-catalog.json)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Resmî kaynak ile repo zaten aynı."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            git status --short -- kanunlar indeks.json > /tmp/mevzuat-status.txt
-            sed -n '1,100p' /tmp/mevzuat-status.txt
+            git status --short -- kanunlar indeks.json .mevzuat-catalog.json > /tmp/mevzuat-status.txt
+            sed -n '1,120p' /tmp/mevzuat-status.txt
           fi
 
       - name: Otomatik veri PR'ı oluştur ve hemen merge et
@@ -77,8 +84,8 @@ jobs:
           git config user.name "acik-mevzuat-bot"
           git config user.email "actions@users.noreply.github.com"
           git checkout -B "$BRANCH"
-          git add -A kanunlar indeks.json
-          git commit -m "chore(data): resmî mevzuat snapshot $DATE"
+          git add -A kanunlar indeks.json .mevzuat-catalog.json
+          git commit -m "chore(data): resmî mevzuat incremental sync $DATE"
           git push --force origin "$BRANCH"
 
           PR_NUMBER="$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')"
@@ -86,8 +93,8 @@ jobs:
             PR_URL="$(gh pr create \
               --base main \
               --head "$BRANCH" \
-              --title "Resmî mevzuat snapshot'ı $DATE" \
-              --body "Adalet Bakanlığı UYAP Mevzuat / mevzuat.adalet.gov.tr kaynaklarından doğrudan alınan KANUN ve MULGA corpus güncellemesi. Başka bir veri reposu kullanılmaz. Aynı workflow içinde unit test, metadata doğrulaması ve git diff kontrolü tamamlandı.")"
+              --title "Resmî mevzuat güncellemesi $DATE" \
+              --body "Adalet Bakanlığı UYAP/Bedesten resmî katalog ve getDocumentContent API'sinden incremental güncelleme. Tüm corpus günlük yeniden indirilmez; katalog değişiklikleri, eksik backfill ve dönen doğrulama kovası yenilenir.")"
             PR_NUMBER="${PR_URL##*/}"
           fi
 
