@@ -1,13 +1,6 @@
 name: Günlük mevzuat senkronizasyonu
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "betikler/senkronize.py"
-      - "betikler/dogrula.py"
-      - "requirements.txt"
-      - ".github/workflows/daily-sync.yml"
   schedule:
     - cron: "30 7 * * *"
   workflow_dispatch:
