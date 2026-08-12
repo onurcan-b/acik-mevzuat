@@ -4,12 +4,11 @@ on:
   push:
     branches: [main]
     paths:
-      - "betikler/upstream_senkronize.py"
+      - "betikler/senkronize.py"
       - "betikler/dogrula.py"
       - "requirements.txt"
       - ".github/workflows/daily-sync.yml"
   schedule:
-    # OpenMevzuat'ın günlük resmi-kaynak senkronizasyonundan sonra çalışır.
     - cron: "30 7 * * *"
   workflow_dispatch:
 
@@ -24,7 +23,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
 
     steps:
       - name: Repoyu al
@@ -41,14 +40,11 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
-      - name: Güncel OpenMevzuat snapshot'ını al
-        run: |
-          rm -rf /tmp/openmevzuat
-          git clone --depth 1 https://github.com/openmevzuat/openmevzuat.git /tmp/openmevzuat
-          git -C /tmp/openmevzuat log -1 --oneline
+      - name: Unit testler
+        run: python -m unittest discover -s tests -v
 
-      - name: Tüm güncel kanunları ve Anayasa'yı senkronize et
-        run: python betikler/upstream_senkronize.py /tmp/openmevzuat --min-documents 900
+      - name: Resmî mevzuat sitesinden KANUN + MULGA senkronize et
+        run: python betikler/senkronize.py --types KANUN,MULGA --delay 0.30 --max-errors 0 --min-documents 1000
 
       - name: Metadata doğrulaması
         run: python betikler/dogrula.py
@@ -60,16 +56,15 @@ jobs:
         id: changes
         shell: bash
         run: |
-          if [ -z "$(git status --porcelain -- kanunlar indeks.json .openmevzuat-upstream.json)" ]; then
+          if [ -z "$(git status --porcelain -- kanunlar indeks.json)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Upstream snapshot ile repo zaten aynı."
+            echo "Resmî kaynak ile repo zaten aynı."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            git status --short -- kanunlar indeks.json .openmevzuat-upstream.json > /tmp/mevzuat-status.txt
+            git status --short -- kanunlar indeks.json > /tmp/mevzuat-status.txt
             sed -n '1,100p' /tmp/mevzuat-status.txt
           fi
 
-      # Actions botu burada sadece doğrulanmış veri değişikliklerini PR olarak yayınlar.
       - name: Otomatik veri PR'ı oluştur ve hemen merge et
         if: steps.changes.outputs.changed == 'true'
         env:
@@ -78,13 +73,12 @@ jobs:
         run: |
           BRANCH="automation/mevzuat-sync"
           DATE="$(date -u +%F)"
-          UPSTREAM="$(git -C /tmp/openmevzuat rev-parse --short=12 HEAD)"
 
           git config user.name "acik-mevzuat-bot"
           git config user.email "actions@users.noreply.github.com"
           git checkout -B "$BRANCH"
-          git add -A kanunlar indeks.json .openmevzuat-upstream.json
-          git commit -m "chore(data): mevzuat snapshot $DATE ($UPSTREAM)"
+          git add -A kanunlar indeks.json
+          git commit -m "chore(data): resmî mevzuat snapshot $DATE"
           git push --force origin "$BRANCH"
 
           PR_NUMBER="$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')"
@@ -92,8 +86,8 @@ jobs:
             PR_URL="$(gh pr create \
               --base main \
               --head "$BRANCH" \
-              --title "Günlük mevzuat snapshot'ı $DATE" \
-              --body "OpenMevzuat'ın resmi kamu kaynaklarından ürettiği güncel canonical snapshot'ın Açık Mevzuat JSON/Markdown formatına otomatik aktarımı. Upstream: $UPSTREAM. Aynı workflow içinde metadata doğrulaması ve git diff kontrolü başarıyla tamamlandı.")"
+              --title "Resmî mevzuat snapshot'ı $DATE" \
+              --body "Adalet Bakanlığı UYAP Mevzuat / mevzuat.adalet.gov.tr kaynaklarından doğrudan alınan KANUN ve MULGA corpus güncellemesi. Başka bir veri reposu kullanılmaz. Aynı workflow içinde unit test, metadata doğrulaması ve git diff kontrolü tamamlandı.")"
             PR_NUMBER="${PR_URL##*/}"
           fi
 
