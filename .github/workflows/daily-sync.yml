@@ -38,7 +38,7 @@ jobs:
 
       - name: Resmî katalog farkı + dönen içerik kontrolü
         run: >-
-          python betikler/senkronize.py
+          python betikler/resmi_api.py
           --mode daily
           --types KANUN,MULGA
           --delay 0.60
