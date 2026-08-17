@@ -1,7 +1,7 @@
 # TÜRK DİŞ HEKİMLERİ BİRLİĞİ KANUNU (No. 3224)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/104782
-> Resmî Gazete: 1985-06-25 / 18792
+> Resmî Gazete: bilinmiyor / 18792
 > UYAP Mevzuat kimliği: 104782
 
 ---
@@ -1489,8 +1489,8 @@ metne işlendiği şekilde değiştirilmiştir.
 
 Anayasa Mahkemesinin 6/11/2025 tarihli ve
 E.: 2025/232; K.: 2025/216 sayılı Kararı ile bu madde iptal edilmiştir. Bu
-Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (14/10/2025) yürürlüğe
-girer.
+Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (14/10/2026)
+yürürlüğe girer.
 
 [8]
 15/11/2018 tarihli ve 7151 sayılı Kanunun 19 uncu
