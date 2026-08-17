@@ -5,7 +5,7 @@
   "accepted_date": "1985-06-07",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "1985-06-25",
+    "date": null,
     "number": "18792"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/104782",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "104782",
   "source_type": "KANUN",
-  "content_sha256": "25123f9c52fb102d1c6a997ffe2632db14d2b073ee1aa62ba356d87849799317",
+  "content_sha256": "f68d70fafecfc1676856c099b436bbc90daab2630ce3b6d1f18456006883e670",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }
