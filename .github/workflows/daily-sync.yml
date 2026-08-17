@@ -20,11 +20,11 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: Repoyu al
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -46,7 +46,7 @@ jobs:
               done
 
       - name: Python kur
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -64,7 +64,7 @@ jobs:
           --types KANUN,MULGA
           --delay 0.60
           --min-documents 1000
-          --rotation-buckets 28
+          --rotation-buckets 7
           --max-backfill 20
 
       - name: Metadata doğrulaması
@@ -108,7 +108,7 @@ jobs:
               --base main \
               --head "$BRANCH" \
               --title "Resmî mevzuat güncellemesi $DATE" \
-              --body "Adalet Bakanlığı UYAP/Bedesten resmî katalog ve getDocumentContent API'sinden incremental güncelleme. Tüm corpus günlük yeniden indirilmez; katalog değişiklikleri, eksik backfill ve dönen doğrulama kovası yenilenir.")"
+              --body "Adalet Bakanlığı UYAP/Bedesten resmî katalog ve getDocumentContent API'sinden incremental güncelleme. Tüm corpus günlük yeniden indirilmez; katalog değişiklikleri, eksik backfill ve 7 günlük dönen doğrulama kovası yenilenir.")"
             PR_NUMBER="${PR_URL##*/}"
           fi
 
