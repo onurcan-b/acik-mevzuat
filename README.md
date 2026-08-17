@@ -2,20 +2,21 @@
 
 Türkiye'deki **kanunları resmî kaynaktan otomatik alan, makine tarafından okunabilir biçimde saklayan ve değişiklikleri Git geçmişiyle izleyen** açık veri deposu.
 
-Veri kaynağı Adalet Bakanlığı'nın mevzuat servisidir. Depo resmî bir hukuk yayını değildir; doğrulama gereken durumlarda her zaman resmî kaynağa başvurulmalıdır.
+Veri kaynağı Adalet Bakanlığı'nın UYAP/Bedesten mevzuat servisidir. Depo resmî bir hukuk yayını değildir; hukuki doğrulama gereken durumlarda her zaman resmî kaynağa başvurulmalıdır.
 
 ## Nasıl çalışıyor?
 
 Her gün GitHub Actions otomatik olarak:
 
-1. Adalet Bakanlığı mevzuat API'sinden yürürlükteki (`KANUN`) ve mülga (`MULGA`) kanunların tamamını listeler.
-2. Her kanunun güncel tam metnini indirir.
-3. Metni kararlı bir metin/Markdown biçimine normalize eder.
-4. SHA-256 özeti hesaplar.
-5. Yalnızca resmî kaynaktaki içerik veya metadata gerçekten değişmişse dosyayı değiştirir.
-6. Değişiklik varsa otomatik Git commit'i oluşturup `main` branch'ine gönderir.
+1. yürürlükteki (`KANUN`) ve mülga (`MULGA`) kanunların resmî kataloğunun tamamını tarar,
+2. katalog metadata'sı değişen kayıtları hemen yeniler,
+3. eksik kayıtları kontrollü biçimde backfill eder,
+4. katalog değişmese bile metin değişikliklerini yakalamak için kanun metinlerini **7 günlük dönen doğrulama kovasıyla** yeniden indirir,
+5. metni kararlı Markdown biçimine normalize eder ve SHA-256 özeti hesaplar,
+6. metadata ve test doğrulamalarını çalıştırır,
+7. gerçek bir veri değişikliği varsa otomatik bir veri PR'ı oluşturur, squash-merge eder ve çalışma branch'ini temizler.
 
-Böylece bir kanunun geçmiş sürümleri ayrıca kopyalanmaz; **Git history zaten sürüm arşividir**.
+Böylece tüm corpus her gün gereksiz yere yeniden indirilmez; buna rağmen her kanun metni en geç yaklaşık bir hafta içinde yeniden doğrulanır. Git geçmişi, mevzuat sürümlerinin değişiklik arşividir.
 
 ## Veri yapısı
 
@@ -50,45 +51,75 @@ indeks.json
 }
 ```
 
-`indeks.json`, depodaki otomatik senkronize edilen bütün dokümanların makine tarafından kolayca tüketilebilen listesidir.
+`indeks.json`, otomatik senkronize edilen dokümanların makine tarafından kolayca tüketilebilen listesidir.
 
 ## Günlük otomasyon
 
-Workflow:
+Ana workflow:
 
 ```text
 .github/workflows/daily-sync.yml
 ```
 
-Zamanlanmış çalışma her gün otomatik tetiklenir. Ayrıca GitHub arayüzünden `workflow_dispatch` ile manuel olarak da başlatılabilir.
+Her gün:
 
-Workflow doğrudan `main` branch'ine veri commit'i atabilmek için yalnızca:
+```text
+07:30 UTC
+```
+
+çalışır. GitHub Actions yoğunluk nedeniyle planlanan başlangıç saatinden birkaç dakika sapabilir. Workflow ayrıca GitHub arayüzünden `workflow_dispatch` ile manuel tetiklenebilir.
+
+Pipeline:
+
+```text
+unit tests
+  ↓
+resmî katalog taraması
+  ↓
+katalog farkı + eksik backfill + 7 günlük metin rotasyonu
+  ↓
+metadata doğrulaması
+  ↓
+diff kontrolü
+  ↓
+varsa otomatik veri PR'ı
+  ↓
+squash merge + branch cleanup
+```
+
+Workflow yalnızca gerekli GitHub izinlerini kullanır:
 
 ```yaml
 permissions:
   contents: write
+  pull-requests: write
 ```
 
-yetkisini kullanır. Ek API anahtarı veya secret gerekmez.
+Ek API anahtarı veya repository secret'ı gerekmez.
+
+## Güvenilirlik
+
+- Bedesten istekleri retry/backoff ve timeout ile yapılır.
+- GitHub-hosted runner'larda askıda kalan keep-alive bağlantılarını azaltmak için resmî API istemcisi `Connection: close` kullanır.
+- Katalog beklenenden eksik dönerse çalışma başarısız olur; eksik katalog sessizce kabul edilmez.
+- Her senkronizasyonda unit testler, metadata doğrulaması ve `git diff --check` çalışır.
+- `main` branch'i korumalıdır; otomatik veri güncellemeleri PR üzerinden merge edilir.
 
 ## Yerelde çalıştırma
 
+Python 3.12+ önerilir.
+
 ```bash
 python -m pip install -r requirements.txt
-python betikler/senkronize.py
+python -m unittest discover -s tests -v
+python betikler/resmi_api.py --mode daily --types KANUN,MULGA --rotation-buckets 7
 python betikler/dogrula.py
 ```
 
-Varsayılan senkronizasyon:
+Tam senkronizasyon ve diğer mevzuat türleri için temel istemci de kullanılabilir:
 
 ```bash
 python betikler/senkronize.py --types KANUN,MULGA
-```
-
-Diğer mevzuat türleri de aynı altyapıyla desteklenir:
-
-```bash
-python betikler/senkronize.py --types KANUN,KHK,CB_KARARNAME,TUZUK
 ```
 
 Desteklenen türler:
@@ -115,16 +146,15 @@ git log -- kanunlar/5237-turk-ceza-kanunu/
 git diff <eski-commit> <yeni-commit> -- kanunlar/5237-turk-ceza-kanunu/metin.md
 ```
 
-Bu sayede "bu kanunun metni ne zaman değişti?" sorusu doğrudan Git üzerinden incelenebilir.
-
 ## Doğrulama
 
-Her push ve pull request'te:
+Her push ve pull request'te ayrı validation workflow'u da çalışır:
 
-- metadata JSON Schema doğrulaması,
-- senkronizasyon yardımcı fonksiyonlarının unit testleri
+```text
+.github/workflows/validate.yml
+```
 
-otomatik çalışır.
+Kontroller:
 
 ```bash
 python -m unittest discover -s tests -v
@@ -133,13 +163,18 @@ python betikler/dogrula.py
 
 ## Katkı
 
-Kod, parser ve veri modeli katkıları pull request ile yapılabilir. Otomatik üretilen kanun metinlerinin elle düzenlenmesi önerilmez; bir veri sorunu varsa senkronizasyon/parsing katmanı düzeltilmelidir.
+Kod, parser ve veri modeli katkıları pull request ile yapılabilir. Otomatik üretilen kanun metinlerinin elle düzenlenmesi yerine problemi üreten senkronizasyon/parsing katmanının düzeltilmesi tercih edilir.
 
-Ayrıntılar için `CONTRIBUTING.md` dosyasına bakın.
+Ayrıntılar için [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## Lisans
 
-Bu depo, özgün proje kodu ile resmî kanun metinlerini ayrı değerlendirir.
+Bu depo özgün proje kodu ile resmî kanun metinlerini ayrı değerlendirir.
 
-- `betikler/`, `semalar/` ve `.github/` altındaki özgün kod, şema ve otomasyon dosyaları MIT lisansı altındadır. Bkz. `LICENSE-CODE`.
-- `kanunlar/` altındaki resmî metinler için depo telif hakkı iddia etmez. Bkz. `LICENSE` ve `NOTICE.md`.
+- `betikler/`, `semalar/` ve `.github/` altındaki özgün kod, şema ve otomasyon dosyaları MIT lisansı altındadır: [`LICENSE-CODE`](LICENSE-CODE).
+- `kanunlar/` altındaki resmî metinler için depo telif hakkı iddia etmez: [`LICENSE`](LICENSE) ve [`NOTICE.md`](NOTICE.md).
+
+## Proje sahibi
+
+**Onurcan Büyükkalkan**  
+[buyukkalkan.net](https://buyukkalkan.net/)
