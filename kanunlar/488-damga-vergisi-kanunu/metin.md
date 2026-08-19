@@ -1757,7 +1757,7 @@ yardım makbuzları.
 
 14.
 (Ek: 27/3/1969 –
-1137/86 md.)
+1137/35 md.)
 İstiklal Madalyası verilmiş bulunanlara vatani hizmet
 tertibinden bağlanan şeref aylıklarının ödenmesine ait her türlü kağıtlar.
 
@@ -2305,11 +2305,9 @@ kağıtlar:
 
 1. İktisadi Devlet
 Teşekkülleriyle Müesseseleri ve İştirakler hakkındaki Kanuna tabi kurumlarla
-genel ve özel bütçeli daireler, il özel idareleri ve belediyelere bağlı tüzel kişiliği.
-
-Bulunan kurumlara özel
-kanunları gereğince Hazinece ödenmesi gereken sermaye, iştirak hissesi ve
-yardım ödeneklerinin ödenmesine ait kağıtlar.
+genel ve özel bütçeli daireler, il özel idareleri ve belediyelere bağlı tüzel kişiliği
+bulunan kurumlara özel kanunları gereğince Hazinece ödenmesi gereken sermaye,
+iştirak hissesi ve yardım ödeneklerinin ödenmesine ait kağıtlar.
 
 2. İktisadi Devlet
 Teşekkülleriyle müesseseleri ve iştirakler hakkındaki kanuna tabi kurum ve
@@ -3473,9 +3471,9 @@ Gazete'de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanl
 
 15/7/2016 tarihli ve 6728 sayılı Kanunun 26 ncı maddesiyle, bu maddenin üçüncü
 fıkrasında yer alan “Sermaye Piyasası Kanununun uygulanmasıyla ilgili olarak
-Sermaye Piyasası Kurulunca” ibaresi “Sermaye Piyasası Kanunu ve Bankacılık
-Kanununun uygulanmasıyla ilgili olarak Sermaye Piyasası Kurulu ile Bankacılık
-Düzenleme ve Denetleme Kurumunca” şeklinde değiştirilmiştir.
+Sermaye Piyasası Kurulunca” ibaresi “Sermaye Piyasası Kanunu ve Bankacılık Kanununun
+uygulanmasıyla ilgili olarak Sermaye Piyasası Kurulu ile Bankacılık Düzenleme
+ve Denetleme Kurumunca” şeklinde değiştirilmiştir.
 
 [11]
 
@@ -3538,11 +3536,10 @@ işlere uygulanmak üzere yayımı tarihinde yürürlüğe gireceği hüküm alt
 [19]
 
 Bu tabloda 30/12/2004 tarihli ve 5281 sayılı Kanunla
-getirilen miktarlar aynen bırakılmış olup, 31/12/2025 tarihli ve 33124 (5.
-Mükerrer) sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığının
-(Gelir İdaresi Başkanlığı) 71 Seri No.'lu Tebliği ile 1/1/2026 tarihinden
-geçerli olmak üzere tesbit edilen miktarlar metne parantez içinde siyah puntolarla
-işlenmiştir.
+getirilen miktarlar aynen bırakılmış olup, 31/12/2025 tarihli ve 33124 (5. Mükerrer)
+sayılı Resmî Gazete'de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi
+Başkanlığı) 71 Seri No.'lu Tebliği ile 1/1/2026 tarihinden geçerli olmak üzere
+tesbit edilen miktarlar metne parantez içinde siyah puntolarla işlenmiştir.
 
 [20]
 
@@ -3593,8 +3590,8 @@ değiştirilmiştir.
 yer alan “Sigorta mukavelenameleri, sigorta ücretine ait makbuzlar”
 ibaresi “Sigorta, reasürans ve koasürans sözleşmeleri, bireysel emeklilik,
 gruba bağlı bireysel emeklilik, işveren grup emeklilik sözleşmeleri, diğer kağıtlarda
-yer alan sigorta yaptırma taahhütleri ile sigorta primleri ve bireysel
-emeklilik katkı paylarının ödenmesine ilişkin kâğıtlar” şeklinde değiştirilmiştir.
+yer alan sigorta yaptırma taahhütleri ile sigorta primleri ve bireysel emeklilik
+katkı paylarının ödenmesine ilişkin kâğıtlar” şeklinde değiştirilmiştir.
 
 [27]
 
@@ -3708,8 +3705,8 @@ yatırım sözleşmeleri.” şeklinde değiştirilmiştir.
 
 [43]
 
-4/6/2008 tarihli ve 5766 sayılı Kanunun 10 uncu maddesiyle; (1) numaralı
-fıkrada yer alan “katma bütçeli” ibaresi “özel bütçeli” şeklinde değiştirilmiştir.
+4/6/2008 tarihli ve 5766 sayılı Kanunun 10 uncu maddesiyle; (1) numaralı fıkrada
+yer alan “katma bütçeli” ibaresi “özel bütçeli” şeklinde değiştirilmiştir.
 
 [44]
 
