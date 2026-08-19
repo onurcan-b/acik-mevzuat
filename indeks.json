@@ -4151,7 +4151,7 @@
       "type": "KANUN",
       "path": "kanunlar/488-damga-vergisi-kanunu",
       "source_mevzuat_id": "103017",
-      "content_sha256": "7ac9dc3f0c3c1a6b720b378aa6f423b85d88fb05ddf0c05a9556a796412f0ebf",
+      "content_sha256": "fb7124e02af523bf8447d3182808949347643864f5e6f2fd318bce8a1b9dda03",
       "fetch_status": "ok"
     },
     {
@@ -7746,15 +7746,6 @@
       "fetch_status": "ok"
     },
     {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "KANUN",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "102948",
-      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
-      "fetch_status": "ok"
-    },
-    {
       "law_number": "7381",
       "title": "NÜKLEER DÜZENLEME KANUNU",
       "type": "KANUN",
@@ -9642,6 +9633,15 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
+      "fetch_status": "ok"
+    },
+    {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "MULGA",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "335467",
+      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {
