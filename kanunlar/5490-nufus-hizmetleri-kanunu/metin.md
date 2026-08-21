@@ -1011,13 +1011,12 @@ sonra, çiftlere uluslararası aile cüzdanı verilir.
 
 (10)
 Uluslararası aile cüzdanı ve mavi kart Bakanlıkça belirlenen tasarım ve sayıda
-Maliye Bakanlığınca bastırılır. Aile cüzdanları ve mavi kartlar Maliye
-Bakanlığınca yurt içinde nüfus müdürlüklerine ve evlendirme memurluklarına
-verilmek üzere maliye yetkililerine, yurt dışında ise dış temsilciliklere
-verilmek üzere Dışişleri Bakanlığına gönderilir. Uluslararası aile cüzdanları
-ve mavi kartların en fazla üç bin adedi, bedeli sonradan ödenmek üzere,
-müteakiben üç bin adetlik partiler hâlinde peşin para karşılığında nüfus
-müdürlüğüne verilir.
+Maliye Bakanlığınca bastırılır. Aile cüzdanları ve mavi kartlar Maliye Bakanlığınca
+yurt içinde nüfus müdürlüklerine ve evlendirme memurluklarına verilmek üzere
+maliye yetkililerine, yurt dışında ise dış temsilciliklere verilmek üzere
+Dışişleri Bakanlığına gönderilir. Uluslararası aile cüzdanları ve mavi
+kartların en fazla üç bin adedi, bedeli sonradan ödenmek üzere, müteakiben üç
+bin adetlik partiler hâlinde peşin para karşılığında nüfus müdürlüğüne verilir.
 
 (11) Kimlik kartı, uluslararası
 aile cüzdanı ve mavi kart bedeli müracaat sırasında tahsil edilir. Doğum bildiriminin
@@ -1532,15 +1531,16 @@ MADDE 65-
 (Değişik: 19/10/2017-7039/23
 md.)
 Kimlik Paylaşımı Sisteminde yer alan bilgilerin genel yönetim kapsamındaki
-kamu idareleri dışındaki kamu kurum ve kuruluşları ve tüzel kişilerle paylaşılması
-karşılığında sorgu veya dönen kayıt başına katılma payı alınır. Katılma payının
-miktarı, Kimlik Paylaşımı Sisteminden sunulan servisin niteliği dikkate alınarak
-3 kuruştan az olmamak üzere Bakanlık ve Maliye Bakanlığınca müştereken mekânsal
-ve metinsel veriler için ayrı ayrı belirlenir. Bu miktarlar her yıl, bir önceki
-yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer
-298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında
-artırılır. Sorgu ve dönen kayıt sayısının belirlenmesinde Bakanlık kayıtları esas
-alınır.
+kamu idareleri ile Cumhurbaşkanlığı ofisleri dışındaki kamu kurum ve kuruluşları
+ve tüzel kişilerle paylaşılması karşılığında sorgu veya dönen kayıt başına katılma
+payı alınır. Katılma payının miktarı, Kimlik Paylaşımı Sisteminden sunulan servisin
+niteliği dikkate alınarak 3 kuruştan az olmamak üzere Bakanlık ve Maliye Bakanlığınca
+müştereken mekânsal ve metinsel veriler için ayrı ayrı belirlenir. Bu miktarlar
+her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul
+Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden
+değerleme oranında artırılır. Sorgu ve dönen kayıt sayısının belirlenmesinde Bakanlık
+kayıtları esas alınır.
+[27]
 
 (2) Katılma payları, takvim yılının üçer
 aylık dönemleri itibarıyla her bir dönemde yapılan sorgulamalar üzerinden hesaplanır.
@@ -1565,7 +1565,7 @@ Fazla çalışma
 MADDE 66-
 
 (Mülga: 11/10/2011-KHK-666/1 md.)
-[27]
+[28]
 
 ONBİRİNCİ KISIM
 
@@ -1646,7 +1646,7 @@ MADDE
 69-
 (1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Cumhurbaşkanınca
 yürürlüğe konulur.
-[28]
+[29]
 
 (2) Adres ve numaralamaya
 ilişkin yönetmelik ise doksan gün içerisinde Bakanlık, Türkiye İstatistik Kurumu
@@ -1960,6 +1960,16 @@ soyadları düzeltilir. Soyadı değiştirilen kadın ise kendisi ile birlikte e
 evlilik dışı çocukları varsa onların da soyadları düzeltilir. Bu maddede belirlenen
 sürenin bir katına kadar uzatılmasında Cumhurbaşkanı yetkilidir.
 
+GEÇİCİ MADDE 12-
+
+(Ek:8/4/2022-7394/21 md.)
+
+(1) Cumhurbaşkanlığı
+ofislerinden, 65 inci maddenin birinci fıkrasında bu maddeyi ihdas eden Kanunla
+yapılan değişikliğin yürürlüğe girdiği tarihten önceki dönem için Kimlik
+Paylaşımı Sistemi sorgu ve dönen kayıtlarına ilişkin olarak aynı fıkrada
+belirlenen katılma payı talep edilmez.
+
 Yürürlük
 
 MADDE 74-
@@ -2130,6 +2140,12 @@ Geçici Madde 11
 
 7/3/2021
 
+7394
+
+65, Geçici Madde 12
+
+15/4/2022
+
 [1]
 9/5/2012 tarihli ve 6304 sayılı Kanunun 10 uncu
 maddesiyle, bu fıkrada yer alan “Türk vatandaşları” ibaresinden sonra gelmek
@@ -2154,8 +2170,8 @@ maddesiyle bu maddenin birinci fıkrasında yer alan “nüfus cüzdanlarını�
 
 [5]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
-maddesiyle, bu maddenin başlığında ve ikinci fıkrasında yer alan “özürlü” ibareleri
-“engelli” şeklinde değiştirilmiştir.
+maddesiyle, bu maddenin başlığında ve ikinci fıkrasında yer alan “özürlü”
+ibareleri “engelli” şeklinde değiştirilmiştir.
 
 [6]
 29/5/2009 tarihli ve 5901 sayılı Kanunun 47 nci
@@ -2168,10 +2184,10 @@ maddesiyle, bu fıkraya “dış temsilciliklere” ibaresinden sonra gelmek üz
 il ve ilçe müftülüklerine” ibaresi eklenmiştir.
 
 [8]
-25/3/2020 tarihli ve 7226 sayılı Kanunun 28 inci
-maddesiyle bu fıkraya “birlikte” ibaresinden sonra gelmek üzere “veya
-taraflardan birinin ölmüş ya da yabancı olması halinde Türk vatandaşı olan
-diğer taraf veya vekilinin tek başına” ibaresi eklenmiştir.
+25/3/2020 tarihli ve 7226 sayılı Kanunun 28 inci maddesiyle
+bu fıkraya “birlikte” ibaresinden sonra gelmek üzere “veya taraflardan birinin
+ölmüş ya da yabancı olması halinde Türk vatandaşı olan diğer taraf veya
+vekilinin tek başına” ibaresi eklenmiştir.
 
 [9]
 Bu madde başlığı “Tanıma işlemi” iken, 19/10/2017
@@ -2277,13 +2293,18 @@ tarihli ve 5917 sayılı Kanunun 39 uncu maddesiyle metne işlendiği şekilde
 değiştirilmiştir.
 
 [27]
+
+8/4/2022 tarihli ve 7394 sayılı Kanunun 20
+nci maddesiyle, bu fıkranın birinci cümlesine “kamu idareleri” ibaresinden
+sonra gelmek üzere “ile Cumhurbaşkanlığı ofisleri” ibaresi eklenmiştir.
+
+[28]
 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede
 yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de
 yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.:
 2012/205 sayılı Kararı ile iptal edilmiştir.
 
-[28]
+[29]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 172 nci
 maddesiyle, bu fıkrada yer alan “yüzseksen gün içerisinde Bakanlıkça
-hazırlanarak Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde
-değiştirilmiştir.
+hazırlanarak Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
