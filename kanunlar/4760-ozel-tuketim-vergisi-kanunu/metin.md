@@ -1539,7 +1539,7 @@ Motorin
 1,7945
 
 13,9006
-47
+[48]
 
 Litre
 
@@ -1691,7 +1691,7 @@ Motorin
 1,7945
 
 13,9006
-47
+48
 
 Litre
 
@@ -2873,7 +2873,7 @@ Uygulanacak
 Vergi Oranı (%)
 
 87.01
-[48]
+[49]
 
 Traktörler
 (87.09 pozisyonuna
@@ -2891,7 +2891,7 @@ Yarı römorkler için çekiciler
 4
 
 4
-[49]
+[50]
 
 87.02
 
@@ -2903,21 +2903,21 @@ Yarı römorkler için çekiciler
 1
 
 1
-49
+50
 
 - Midibüs
 
 4
 
 4
-49
+50
 
 - Minibüs
 
 9
 
 9
-49
+50
 
 87.03
 
@@ -2948,7 +2948,7 @@ otomobilleri, steyşın vagonlar, yarış arabaları, arazi taşıtları hariç)
 15
 
 15
-49
+50
 
 -- İstiap haddi 850 kilogramı geçip
 motor silindir hacmi 2800 cm³’ün altında olanlar
@@ -2956,14 +2956,14 @@ motor silindir hacmi 2800 cm³’ün altında olanlar
 15
 
 15
-49
+50
 
 -- Sadece elektrik motorlu olanlar
 
 10
 
 10
-49
+50
 
 - Sürücü dahil
 9 kişilik oturma yeri olanlardan
@@ -2974,7 +2974,7 @@ silindir hacmi 3200 cm³’ü geçmeyenler
 15
 
 15
-49
+50
 
 -- Sadece elektrik motorlu olanlar
 
@@ -2988,87 +2988,87 @@ UTV (çok amaçlı hizmet aracı)
 10
 
 25
-[50]
+[51]
 
 45
-50
+51
 
 10
-49
+50
 
 - Diğerleri
 
 -- Motor
 silindir hacmi 1400 cm³'ü geçmeyenler
-[51]
+[52]
 
 --- Özel
 tüketim vergisi matrahı 650.000 TL’yi aşmayanlar
-51
+52
 
 70
-51
+52
 
 --- Özel
 tüketim vergisi matrahı 650.000 TL’yi aşıp, 900.000 TL’yi aşmayanlar
-51
+52
 
 75
-51
+52
 
 --- Özel
 tüketim vergisi matrahı 900.000 TL’yi aşıp, 1.100.000 TL’yi aşmayanlar
-51
+52
 
 80
-51
+52
 
 --- Diğerleri
-51
+52
 
 90
-51
+52
 
 -- Motor
 silindir hacmi 1400 cm³'ü geçen fakat 1600 cm³'ü geçmeyenler
-51
+52
 
 --- Özel
 tüketim vergisi matrahı 850.000 TL’yi aşmayanlar
-51
+52
 
 75
-51
+52
 
 --- Özel
 tüketim vergisi matrahı 850.000 TL’yi aşıp, 1.100.000 TL’yi aşmayanlar
-51
+52
 
 80
-51
+52
 
 --- Özel
 tüketim vergisi matrahı 1.100.000 TL’yi aşıp, 1.650.000 TL’yi aşmayanlar
-51
+52
 
 90
-51
+52
 
 --- Diğerleri
-51
+52
 
 100
-51
+52
 
 -- Motor
 silindir hacmi 1600 cm³’ü geçmeyenler
 
 --- Özel tüketim vergisi matrahı 600.000
 TL’yi aşmayanlar
-52
+53
 
 80
-[52]
+[53]
 
 --- Özel
 tüketim vergisi matrahı
@@ -3076,10 +3076,10 @@ tüketim vergisi matrahı
 
 TL’yi
 aşmayanlar
-52
+53
 
 80
-52
+53
 
 --- Özel
 tüketim vergisi matrahı
@@ -3089,10 +3089,10 @@ TL’yi aşıp, 800.000
 
 TL’yi
 aşmayanlar
-52
+53
 
 80
-52
+53
 
 --- Özel
 tüketim vergisi matrahı
@@ -3102,15 +3102,15 @@ TL’yi aşıp, 1.000.000
 
 TL’yi
 aşmayanlar
-52
+53
 
 80
-52
+53
 
 --- Diğerleri
 
 80
-52
+53
 
 -- Motor silindir hacmi 1600 cm³’ü
 geçen fakat 2000 cm³’ü geçmeyenler
@@ -3121,10 +3121,10 @@ elektrik motor gücü 50 kW’ı geçip motor silindir hacmi 1800 cm³’ü geç
 ---- Özel tüketim vergisi matrahı 600.000
 
 TL’yi aşmayanlar
-52
+53
 
 80
-52
+53
 
 ----
 Özel tüketim
@@ -3135,25 +3135,25 @@ TL’yi aşıp 1.000.000
 
 TL’yi
 aşmayanlar
-52
+53
 
 80
-52
+53
 
 ---- Özel
 tüketim vergisi matrahı 1.250.000 TL’yi aşmayanlar
-51
+52
 
 70
-51
+52
 
 ---- Diğerleri
 
 80
-52
+53
 
 80
-51
+52
 
 --- Diğerleri
 
@@ -3164,22 +3164,22 @@ tüketim vergisi matrahı 1.250.000 TL’yi aşmayanlar
 (1.650.000)
 
 TL’yi aşmayanlar
-51
 52
+53
+
+150
+53
 
 150
 52
-
-150
-51
 
 ---- Diğerleri
 
 150
-52
+53
 
 170
-51
+52
 
 -- Motor silindir hacmi 2000 cm³’ü
 geçenler
@@ -3192,61 +3192,61 @@ geçmeyenler
 
 (1.650.000)
 TL’yi aşmayanlar
-51
 52
+53
+
+150
+53
 
 150
 52
-
-150
-51
 
 ---- Diğerleri
 
 150
-52
+53
 
 170
-51
+52
 
 --- Diğerleri
 
 220
-52
+53
 
 220
-51
+52
 
 -- Elektrik motoru da bulunan araç
 dışından şarj edilebilir araçlardan, ağırlıklı birleşik kilometre başına karbondioksit
 emisyonu 25 gramın altında, eşdeğer elektrik enerjisiyle katedilebilir
 menzili 70 kilometre ve üzerinde olanlardan
-[53]
+[54]
 
 --- Motor silindir hacmi 1600 cm³’ü
 geçmeyenler
-53
+54
 
 ---- Özel tüketim vergisi matrahı
 1.350.000 TL’yi aşmayanlar
-53
+54
 
 45
-51
+52
 
 ---- Diğerleri
-53
+54
 
 75
-51
+52
 
 --- Motor silindir hacmi 1600 cm³’ü
 geçen fakat 1800 cm³’ü geçmeyenlerden özel tüketim vergisi matrahı 1.350.000
 TL’yi aşmayanlar
-53
+54
 
 85
-51
+52
 
 -- Sadece elektrik
 motorlu olanlar
@@ -3257,19 +3257,19 @@ motorlu olanlar
 tüketim vergisi matrahı 700.000
 (1.650.000)
 TL’yi aşmayanlar
-51
+52
 
 10
 
 25
-51
+52
 
 ---- Diğerleri
 
 40
 
 55
-51
+52
 
 --- Motor gücü 160 kW’ı geçenler
 
@@ -3279,19 +3279,19 @@ tüketim vergisi matrahı 750.000
 
 TL’yi
 aşmayanlar
-51
+52
 
 50
 
 65
-51
+52
 
 ---- Diğerleri
 
 60
 
 75
-51
+52
 
 8703.10.11.00.00
 
@@ -3303,7 +3303,7 @@ yanmalı pistonlu motorlu taşıtlar
 6,7
 
 6,7
-49
+50
 
 8703.10.18.00.00
 
@@ -3313,7 +3313,7 @@ Diğerleri
 6,7
 
 6,7
-49
+50
 
 87.04
 
@@ -3332,7 +3332,7 @@ hacmi 3000 cm³’ü geçmeyenler
 10
 
 10
-49
+50
 
 -- Motor silindir hacmi 3000 cm³’ü geçen
 fakat 4000 cm³’ü geçmeyenler
@@ -3340,14 +3340,14 @@ fakat 4000 cm³’ü geçmeyenler
 52
 
 52
-49
+50
 
 -- Motor silindir hacmi 4000 cm³’ü geçenler
 
 75
 
 75
-49
+50
 
 -- Sadece elektrik motorlu olanlar
 
@@ -3356,7 +3356,7 @@ fakat 4000 cm³’ü geçmeyenler
 37
 
 10
-49
+50
 
 --- Motor gücü 85 kW’ı geçen fakat 120
 kW’ı geçmeyenler
@@ -3364,14 +3364,14 @@ kW’ı geçmeyenler
 60
 
 52
-49
+50
 
 --- Motor gücü 120 kW’ı geçenler
 
 84
 
 75
-49
+50
 
 - Kapalı kasalı
 olup istiap haddi 620 kilogramın altında olanlar
@@ -3381,7 +3381,7 @@ olup istiap haddi 620 kilogramın altında olanlar
 10
 
 10
-49
+50
 
 -- Diğerleri
 
@@ -3389,20 +3389,20 @@ olup istiap haddi 620 kilogramın altında olanlar
 araç) ve
 
 UTV (çok amaçlı hizmet aracı)
-[54]
+[55]
 
 10
 
 25
 
 10
-49
+50
 
 - Diğerleri
 
 -- Azami yüklü kütlesi 3500
 kilogramı geçmeyen arazi taşıtları
-[55]
+[56]
 
 50
 
@@ -3411,14 +3411,14 @@ kilogramı geçmeyen arazi taşıtları
 4
 
 4
-49
+50
 
 -- Diğerleri
 
 4
 
 4
-49
+50
 
 87.05
 
@@ -3433,7 +3433,7 @@ seyyar radyoloji üniteleri)
 4
 
 4
-49
+50
 
 87.09
 
@@ -3447,7 +3447,7 @@ bu taşıtların aksam ve parçaları
 4
 
 4
-49
+50
 
 87.11
 
@@ -3461,7 +3461,7 @@ motorlu olanlar hariç)
 22
 
 0
-[56]
+[57]
 
 -
 Motor silindir hacmi 250 cm³’ü geçenler
@@ -3469,7 +3469,7 @@ Motor silindir hacmi 250 cm³’ü geçenler
 37
 
 37
-49
+50
 
 8711.60.10.00.00
 
@@ -3479,25 +3479,27 @@ motoru olan pedal yardımlı, iki, üç ve dört tekerlekli taşıtlar
 22
 
 0
-56
+57
 
 8711.60.90.00.11
 
-Motor gücü 20 kW’ı geçenler
+Motor
+gücü 20 kW’ı geçenler
 
 37
 
 37
-49
+50
 
 8711.60.90.00.12
 
-Motor gücü 20 kW’ı geçmeyenler
+Motor
+gücü 20 kW’ı geçmeyenler
 
 22
 
 0
-56
+57
 
 88.02
 
@@ -3510,7 +3512,7 @@ uçaklar hariç)]
 0,5
 
 0,5
-49
+50
 
 8901.10.10.00.11
 
@@ -3520,7 +3522,7 @@ uçaklar hariç)]
 6,7
 
 8
-[57]
+[58]
 
 8901.10.90.00.11
 
@@ -3531,7 +3533,7 @@ mahsus olmayanlar)
 6,7
 
 8
-57
+58
 
 89.03
 
@@ -3543,13 +3545,13 @@ taşıtları; kürekli kayıklar ve kanolar
 8
 
 8
-57
+58
 
 - Yatlar, kotralar, tekneler ve gezinti gemileri
-49
+50
 
 8
-57
+58
 
 NOT: Bu listedeki malların aksam ve parçaları
 kapsama dahil değildir.
@@ -3562,7 +3564,8 @@ kapsama dahil değildir.
 
 (Değişik: 21/3/2018-7103/56 md.)
 
-G.T.İ.P. NO
+G.T.İ.P.
+NO
 
 Mal İsmi
 
@@ -3572,59 +3575,62 @@ Vergi Oranı
 
 Asgari
 
-Maktu Vergi Tutarı
+Maktu Vergi
+Tutarı
 
 (TL)
 
-Uygulanacak Vergi Oranı
+Uygulanacak
+Vergi Oranı
 
 (%)
 
-Uygulanacak Asgari Maktu Vergi Tutarı
+Uygulanacak
+Asgari Maktu Vergi Tutarı
 
 (TL)
 
 20.09
 
-Meyva suları (üzüm
-şırası dahil) ve sebze suları (fermente edilmemiş ve alkol katılmamış), ilave
-şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın
-(Yalnız ambalajlanmış
-olanlar ve/veya toptan teslime konu edilenler) (Sebze suları ve Türk Gıda Kodeksine
-göre % 100 meyve suyu sayılanlar hariç)
+Meyva suları (üzüm şırası dahil) ve sebze suları (fermente
+edilmemiş ve alkol katılmamış), ilave şeker veya diğer tatlandırıcı maddeler katılmış
+olsun olmasın
+(Yalnız ambalajlanmış olanlar ve/veya toptan teslime konu
+edilenler) (Sebze suları ve Türk Gıda Kodeksine göre % 100 meyve suyu sayılanlar
+hariç)
 
 10
 
 -
 
 10
-[58]
+[59]
 
 -
-58
+59
 
 22.02
 
-Sular (mineral
-sular ve gazlı sular dahil) (ilave şeker veya diğer tatlandırıcı maddeler katılmış
-veya aromalandırılmış) ve alkolsüz diğer içecekler (20.09 pozisyonundaki meyve
-ve sebze suları hariç)
-(Yalnız ambalajlanmış olanlar ve/veya toptan teslime
-konu edilenler) (Doğal mineralli doğal maden suyu ile üretilmiş, tatlandırılmış,
-aromalandırılmış meyveli gazlı içecekler; şalgam suyu; Türk Gıda Kodeksine göre
-çeşnili ve aromalı/aromalandırılmış içme sütleri, bebek ve devam sütleri sayılanlar
-ile 2202.10.00.00.11, 2202.10.00.00.12, 2202.10.00.00.13, 2202.91.00.00.00 hariç)
-[59]
+Sular (mineral sular ve gazlı sular dahil) (ilave şeker
+veya diğer tatlandırıcı maddeler katılmış veya aromalandırılmış) ve alkolsüz diğer
+içecekler (20.09 pozisyonundaki meyve ve sebze suları hariç)
+(Yalnız ambalajlanmış
+olanlar ve/veya toptan teslime konu edilenler) (Doğal mineralli doğal maden suyu
+ile üretilmiş, tatlandırılmış, aromalandırılmış meyveli gazlı içecekler; şalgam
+suyu; Türk Gıda Kodeksine göre çeşnili ve aromalı/aromalandırılmış içme sütleri,
+bebek ve devam sütleri sayılanlar ile 2202.10.00.00.11, 2202.10.00.00.12, 2202.10.00.00.13,
+2202.91.00.00.00 hariç)
+[60]
 
 10
 
 -
 
 10
-58
+59
 
 -
-58
+59
 
 2202.10.00.00.11
 
@@ -3635,10 +3641,10 @@ Sade gazozlar
 -
 
 10
-58
+59
 
 -
-58
+59
 
 2202.10.00.00.12
 
@@ -3649,10 +3655,10 @@ Meyvalı gazozlar
 -
 
 10
-58
+59
 
 -
-58
+59
 
 2202.10.00.00.13
 
@@ -3663,58 +3669,61 @@ Kolalı gazozlar
 -
 
 35
-58
+59
 
 -
-58
+59
 
 2202.91.00.00.00
 
-Alkolsüz biralar
+Alkolsüz
+biralar
 
 10
 
 -
 
 10
-58
+59
 
 -
-58
+59
 
 2203.00
 
-Malttan üretilen biralar
+Malttan üretilen
+biralar
 
 63,3
 
 1,3498
 
 63
-58
+59
 
 12,4849
-58
+59
 
 22.04
 
-Taze üzüm şarabı (kuvvetlendirilmiş
-şaraplar dahil); üzüm şırası
+Taze üzüm
+şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası
 
-(20.09 pozisyonunda yer alanlar hariç)
+(20.09 pozisyonunda
+yer alanlar hariç)
 
-(2204.10 köpüklü şaraplar ve 2204.30
-diğer üzüm şıraları hariç)
+(2204.10 köpüklü
+şaraplar ve 2204.30 diğer üzüm şıraları hariç)
 
 63,3
 
 6,6363
 
 0
-58
+59
 
 61,3914
-58
+59
 
 2204.10
 
@@ -3725,15 +3734,15 @@ Köpüklü şaraplar
 44,8351
 
 0
-58
+59
 
 414,7770
-58
+59
 
 22.05
 
-Vermut ve diğer taze üzüm şarapları
-(bitkiler veya kokulu maddelerle aromalandırılmış)
+Vermut ve
+diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış)
 (2205.10.10.00.00, 2205.10.90.00.12
 hariç)
 
@@ -3742,82 +3751,81 @@ hariç)
 67,6673
 
 0
-58
+59
 
 626,0018
-58
+59
 
 2205.10.10.00.00
 
-Alkol derecesi hacim itibariyle %18
-veya daha az olanlar
+Alkol derecesi
+hacim itibariyle %18 veya daha az olanlar
 
 275,6
 
 53,7356
 
 0
-58
+59
 
 497,1163
-58
+59
 
 2205.10.90.00.12
 
-Alkol derecesi hacim itibariyle %22
-ve fazla olanlar
+Alkol derecesi
+hacim itibariyle %22 ve fazla olanlar
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.
 919,1384
-58
+59
 
 2206.00
 
-Fermente edilmiş diğer içecekler (elma
-şarabı, armut şarabı, bal şarabı, sake gibi), tarifenin başka yerinde belirtilmeyen
-veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş
-içeceklerle alkolsüz içeceklerin karışımları
+Fermente
+edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı, sake gibi), tarifenin
+başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları
+ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları
 
 275,6
 
 6,6363
 
 0
-58
+59
 
 135,4355
-58
+59
 
 2207.20
 
-Alkol derecesi
-ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen
-diğer alkollü içkiler
-[Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş
-etil alkol hariç]
+Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş
+etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler
+[Alkol derecesi
+ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç]
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 22.08
 
-Alkol derecesi hacim itibariyle %80’den
-az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü
-içkiler, likörler ve diğer alkollü içecekler
+Alkol derecesi
+hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım
+yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler
 [(2208.90.91; 2208.90.99) Alkol derecesi
 hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol hariç,
 (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)]
@@ -3827,25 +3835,25 @@ hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol har
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.20
 
-Üzüm şarabı veya üzüm cibresinin damıtılması
-yolu ile elde edilen alkollü içkiler
+Üzüm şarabı
+veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.50
 
@@ -3856,10 +3864,10 @@ Cin ve Geneva
 175,6630
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.60
 
@@ -3872,44 +3880,42 @@ hariç)
 175,6630
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.60.91.00.00
 
-Muhtevası 2 litreyi geçmeyen kaplarda
-olanlar
-(Alkol derecesi
-hacim itibariyle %45.4’den fazla olanlar)
+Muhtevası
+2 litreyi geçmeyen kaplarda olanlar
+(Alkol derecesi hacim itibariyle %45.4’den fazla olanlar)
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.60.99.00.00
 
-Muhtevası 2 litreyi geçen kaplarda olanlar
-
-(Alkol derecesi hacim
-itibariyle %45.4’den fazla olanlar)
+Muhtevası
+2 litreyi geçen kaplarda olanlar
+(Alkol derecesi hacim itibariyle %45.4’den fazla olanlar)
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.70
 
@@ -3920,26 +3926,27 @@ Likörler
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.90
 
 Diğerleri
-(2208.90.48.00.11, 2208.90.71.00.11
-hariç)
+
+(2208.90.48.00.11,
+2208.90.71.00.11 hariç)
 
 275,6
 
 197,5242
 
 0
-58
+59
 
 1.919,1384
-58
+59
 
 2208.90.48.00.11
 
@@ -3952,10 +3959,10 @@ olanlar)
 171,2723
 
 0
-58
+59
 
 1.705,9025
-58
+59
 
 2208.90.71.00.11
 
@@ -3968,16 +3975,17 @@ olanlar)
 171,2723
 
 0
-58
+59
 
 1.705,9025
-58
+59
 
 (B) CETVELİ
 
 (Değişik: 21/3/2018-7103/56 md.)
 
-G.T.İ.P. NO
+G.T.İ.P.
+NO
 
 Mal İsmi
 
@@ -3985,58 +3993,58 @@ Vergi Oranı
 
 (%)
 
-Asgari Maktu Vergi Tutarı
+Asgari Maktu
+Vergi Tutarı
 
 (TL)
 
-Uygulanacak Vergi
-Oranı
+Uygulanacak Vergi Oranı
 
 (%)
 
-Uygulanacak Asgari
-Maktu Vergi Tutarı
+Uygulanacak Asgari Maktu Vergi Tutarı
 
 (TL)
 
-Uygulanacak Maktu
-Vergi Tutarı
+Uygulanacak Maktu Vergi Tutarı
 
 (TL)
 
 2402.10.00.00.11
 
-Tütün içeren purolar
+Tütün içeren
+purolar
 
 65,25
 
 0,2429
 
 45
-58
+59
 
 1,8644
-58
+59
 
 2,6909
-58
+59
 
 2402.10.00.00.12
 
-Uçları açık purolar
+Uçları açık
+purolar
 
 65,25
 
 0,2429
 
 45
-58
+59
 
 1,8644
-58
+59
 
 2,6909
-58
+59
 
 2402.10.00.00.19
 
@@ -4047,17 +4055,18 @@ Sigarillolar
 0,2429
 
 45
-58
+59
 
 1,8644
-58
+59
 
 2,6909
-58
+59
 
 2402.20
 
-Tütün içeren sigaralar
+Tütün içeren
+sigaralar
 
 65,25
 
@@ -4065,13 +4074,13 @@ Tütün içeren sigaralar
 
 4
 2
-[60]
+[61]
 
 2,2953
-60
+61
 
 23,7404
-60
+61
 
 2402.90.00.00.00
 
@@ -4079,77 +4088,76 @@ Diğerleri
 (Tütün yerine geçen maddelerden yapılmış
 purolar, uçları açık purolar, sigarillolar ve sigaralar)
 
--Tütün yerine geçen maddelerden yapılmış
-purolar, uçları açık purolar ve sigarillolar
+-Tütün yerine
+geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar
 
 65,25
 
 0,2429
 
 45
-58
+59
 
 1,8644
-58
+59
 
 2,6909
-58
+59
 
--Tütün yerine
-geçen maddelerden yapılmış sigaralar
+-Tütün yerine geçen maddelerden yapılmış sigaralar
 
 65,25
 
 0,2429
 
 42
-60
+61
 
 2,2953
-60
+61
 
 23,7404
-60
+61
 
 24.03
 
-Diğer mamul
-tütün ve mamul tütün yerine geçen maddeler; “homojenize” veya yeniden tertip
-edilmiş tütün; tütün hülasa ve esansları
+Diğer mamul tütün ve mamul tütün yerine geçen maddeler;
+“homojenize” veya yeniden tertip edilmiş tütün; tütün hülasa ve esansları
 
-(2403.11.00.00.00, 2403.19.10.00.19,
-2403.19.90.00.19, 2403.91.00.00.00, 2403.99.10.00.00, 2403.99.90.00.00 hariç)
+(2403.11.00.00.00,
+2403.19.10.00.19, 2403.19.90.00.19, 2403.91.00.00.00, 2403.99.10.00.00, 2403.99.90.00.00
+hariç)
 
 65,25
 
 0,2429
 
 42
-60
+61
 
 2,2953
-60
+61
 
 23,7404
-60
+61
 
 2403.11.00.00.00
 
-Bu faslın 1
-nolu alt pozisyon notunda belirtilen nargile tütünleri
+Bu faslın 1 nolu alt pozisyon notunda belirtilen
+nargile tütünleri
 
 65,25
 
 0,2429
 
 0
-58
+59
 
 0,7008
-58
+59
 
 2,6064
-58
+59
 
 2403.19.10.00.19
 
@@ -4162,66 +4170,68 @@ ambalajlarda olanlar)
 0,2429
 
 55
-58
+59
 
 0,2652
-58
+59
 
 2,6064
-58
+59
 
 2403.19.90.00.19
 
 Diğerleri
-(Net muhtevası
-500 gr.ı geçen ambalajlarda olanlar)
+(Net muhtevası 500 gr.ı geçen
+ambalajlarda olanlar)
 
 65,25
 
 0,2429
 
 55
-58
+59
 
 0,2652
-58
+59
 
 2,6064
-58
+59
 
 2403.99.10.00.00
 
-Enfiye ve çiğnemeye mahsus tütün
+Enfiye ve
+çiğnemeye mahsus tütün
 
 65,25
 
 0,2429
 
 42
-60
+61
 
 2,2953
-60
+61
 
 23,7404
-60
+61
 
 4813.10.00.80.00
 
-Diğerleri (Makaron)
+Diğerleri
+(Makaron)
 
 65,25
 
 0,0994
 
 0
-58
+59
 
 0,2861
-58
+59
 
 -
-58
+59
 
 (4) Sayılı Cetvel
 
@@ -4722,16 +4732,16 @@ telsiz telefon cihazları
 vergisi matrahı 1.200 TL
 (4.500 TL
 )
-[61]
+[62]
 ’yi aşmayanlar
 
 - Özel tüketim
 vergisi matrahı 1.200 TL’yi
 (4.500 TL)
-61
+62
 ’yi aşıp, 2.400 TL’yi
 (9.000 TL)
-61
+62
 ’yi
 
 aşmayanlar
@@ -4772,9 +4782,9 @@ kullanılan taşınabilir alıcılar ile amatör telsiz alıcı cihazları)
 
 8517.69.90.90.24
 
-Alıcısı bulunan verici halk
-bandı (CB) ve 49 MHz alçak güçlü (100 miliwatt dan küçük) telsiz cihazları ve
-diğer amatör telsiz cihazları
+Alıcısı bulunan verici halk bandı (CB)
+ve 49 MHz alçak güçlü (100 miliwatt dan küçük) telsiz cihazları ve diğer amatör
+telsiz cihazları
 
 20
 
@@ -4858,8 +4868,7 @@ okuma sistemleri için diskler
 
 8523.41.90.00.00
 
-(Kayıt yapılmamış optik
-mesnetler)
+(Kayıt yapılmamış optik mesnetler)
 
 Diğerleri
 
@@ -4871,11 +4880,10 @@ Diğerleri
 
 (Diğer optik mesnetler)
 
-Dijital çok yönlü diskler
-(DVD)
+Dijital çok yönlü diskler (DVD)
 
-(Ses
-veya görüntü dışındaki fenomenleri tekrar vermeye mahsus olanlar, sadece sesi
+(Ses veya
+görüntü dışındaki fenomenleri tekrar vermeye mahsus olanlar, sadece sesi
 tekrar vermeye mahsus olanlar, otomatik bilgi işlem makinası vasıtasıyla
 işlenebilen ya da kullanıcıya etkileşim sağlayabilen, bir makinada okunabilir
 ikili formda kayıtlı görüntü, ses, bilgi ve komutların gösterimlerini tekrar
@@ -6747,8 +6755,7 @@ eşya ile (12) numaralı bendinin (a) alt bendi” şeklinde değiştirilmiştir
 [16]
 28/11/2017
 tarihli ve 7061 sayılı Kanunun 72 nci maddesi ile eklenen bu fıkranın yürürlüğe
-gireceği tarih, aynı Kanunun 123 üncü maddesi ile 1/1/2018 olarak
-belirlenmiştir.
+gireceği tarih, aynı Kanunun 123 üncü maddesi ile 1/1/2018 olarak belirlenmiştir.
 
 [17]
 4/6/2008 tarihli
@@ -6963,24 +6970,32 @@ yayımlanan 31/12/2025 tarihli ve 10799 sayılı Cumhurbaşkanı Kararı eki Kar
 şekilde tespit edilmiştir.
 
 [48]
+
+Bu motorin türü mallara ilişkin ÖTV tutarları 13/8/2026 tarihli ve
+33339 sayılı Resmî Gazete’de yayımlanan 12/8/2026 tarihli ve 11606 sayılı
+Cumhurbaşkanı Kararı eki Kararın 1 inci maddesiyle yayımı tarihinde yürürlüğe
+girmek üzere tespit edilmiştir. Tutarları görmek için Kararın yayımlandığı
+Resmî Gazete’ye bakınız.
+
+[49]
 14/10/2021 tarihli ve 7338 sayılı
 Kanunun 57 nci maddesiyle 8701.20 G.T.İ.P. numaralı malın yer aldığı satırdan
 önce gelmek üzere bu sıra eklenmiştir.
 
-[49]
+[50]
 Bu mallara ilişkin ÖTV tutarları
 27/3/2018 tarihli ve 30373 (3. Mükerrer) sayılı Resmî Gazete’de yayımlanan
 27/3/2018 tarihli ve 2018/11542 sayılı Bakanlar Kurulu Kararı eki Kararın 2 nci
 maddesiyle yayımı tarihinde yürürlüğe girmek üzere metne işlendiği şekilde
 tespit edilmiştir.
 
-[50]
+[51]
 14/10/2021
 tarihli ve 7338 sayılı Kanunun 57 nci maddesiyle 87.03 G.T.İ.P. numaralı
 sıranın “-Diğerleri” satırından önce gelmek üzere karşılarında gösterilen
 oranlarıyla birlikte bu satırlar eklenmiştir.
 
-[51]
+[52]
 
 24/7/2025 tarihli ve 10115
 sayılı Cumhurbaşkanı Kararı eki karar ile bu satırlarda yer alan bazı mallar
@@ -6989,7 +7004,7 @@ oluşturulmuş ve malların özel tüketim vergisi oranlarına esas özel tüket
 vergisi matrahları ile özel tüketim vergisi oranları metne işlendiği şekilde
 tespit edilmiştir.
 
-[52]
+[53]
 
 20/7/2025 tarihli ve 7555
 sayılı Kanunun 15 inci maddesiyle 87.03 G.T.İ.P. numarasında yer alan “-
@@ -6997,39 +7012,39 @@ Diğerleri” satırı altındaki bazı malların özel tüketim vergisi oranlar
 özel tüketim vergisi oranlarına esas özel tüketim vergisi matrahları metne
 işlendiği şekilde tespit edilmiştir.
 
-[53]
+[54]
 18/7/2024 tarihli ve 7521 sayılı
 Kanunun 11 inci maddesiyle 87.03 G.T.İ.P. numaralı sırasının “- Diğerleri”
 satırında yer alan “-- Sadece elektrik motorlu olanlar” alt satırından önce
 gelmek üzere karşılarında gösterilen oranlarıyla birlikte bu alt satırlar
 eklenmiştir.
 
-[54]
+[55]
 14/10/2021 tarihli ve 7338 sayılı
 Kanunun 57 nci maddesiyle 87.04 G.T.İ.P. numaralı sıranın “-Diğerleri”
 satırından önce gelmek üzere karşısında gösterilen oranıyla birlikte bu satır
 eklenmiştir.
 
-[55]
+[56]
 20/7/2025 tarihli ve 7555 sayılı
 Kanunun 15 inci maddesiyle “- Diğerleri” satırından sonra gelmek üzere
 karşısında gösterilen oranıyla birlikte satır eklenmiştir.
 
-[56]
+[57]
 Bu mallara ilişkin ÖTV tutarları
 31/12/2018 tarihli ve 30642 (4. Mükerrer) sayılı Resmî Gazete’de yayımlanan
 31/12/2018 tarihli ve 540 sayılı Cumhurbaşkanı Kararı eki Kararın 2 nci
 maddesiyle 1/1/2019 tarihinde yürürlüğe girmek üzere metne işlendiği şekilde
 tespit edilmiştir.
 
-[57]
+[58]
 
 6/9/2025 tarihli ve 33009
 sayılı Resmî Gazete’de yayımlanan 10363 sayılı Cumhurbaşkanı Kararının 1 inci
 maddesiyle bu malların özel tüketim vergisi oranları metne işlendiği şekilde
 değiştirilmiştir.
 
-[58]
+[59]
 Bu mala ilişkin asgari maktu vergi
 tutarları ile maktu vergi tutarları 31/12/2025 tarihli ve 33124 (5.Mükerrer)
 sayılı Resmî Gazete’de yayımlanan 31/12/2025 tarihli ve 10799 sayılı
@@ -7039,14 +7054,14 @@ yeniden tespit edilen bu malların asgari maktu ve maktu vergi tutarları
 hakkında bu Kanunun 12 nci maddesinin (3) numaralı fıkrası hükmünün 2026 yılı Ocak-Haziran
 dönemi için uygulanmayacağı hükme bağlanmıştır.
 
-[59]
+[60]
 17/1/2019
 tarihli ve 7161 sayılı Kanunun 37 nci maddesiyle beşinci parantez içi hükümde
 yer alan “meyveli gazlı içecekler” ibaresi “meyveli gazlı içecekler; şalgam
 suyu; Türk Gıda Kodeksine göre çeşnili ve aromalı/aromalandırılmış içme
 sütleri, bebek ve devam sütleri sayılanlar” şeklinde değiştirilmiştir.
 
-[60]
+[61]
 
 Bu mallara ilişkin asgari
 maktu vergi tutarları ile maktu vergi tutarları 3/7/2026 tarihli ve 33299 (Mükerrer)
@@ -7057,7 +7072,7 @@ tutarları yeniden tespit edilen bu malların asgari maktu ve maktu vergi
 tutarları hakkında bu Kanunun 12 nci maddesinin (3) numaralı fıkrası hükmünün
 2026 yılı Temmuz-Aralık dönemi için uygulanmayacağı hükme bağlanmıştır.
 
-[61]
+[62]
 24/10/2025 tarihli ve 33057 sayılı
 Resmî Gazete’de yayımlanan 23/10/2025 tarihli ve 10521 sayılı Cumhurbaşkanı
 Kararının 1 inci maddesiyle bu malların özel tüketim vergisi oranlarına esas
