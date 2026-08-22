@@ -5,7 +5,7 @@
   "accepted_date": "1954-01-27",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "1954-02-04",
+    "date": null,
     "number": "8625"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/105153",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "105153",
   "source_type": "KANUN",
-  "content_sha256": "847193628a77fbed4036d70ec3dbd53d62101c23c021e54f2dc0110b02d4a07a",
+  "content_sha256": "232e50acaf8fef629124e74deaab178d4e934cf243e609df9d23caea0a4a63ad",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

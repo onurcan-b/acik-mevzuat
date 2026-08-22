@@ -1,7 +1,7 @@
 # KABAHATLER KANUNU (No. 5326)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103475
-> Resmî Gazete: 2005-03-31 / 25772 (Mükerrer)
+> Resmî Gazete: bilinmiyor / 25772 (Mükerrer)
 > UYAP Mevzuat kimliği: 103475
 
 ---
@@ -1051,6 +1051,62 @@ olsun ibraz edilen paranın sahte olduğunun anlaşılması halinde, 5237 sayıl
 bu maddede sayılan tüzel kişilere Cumhuriyet savcısı tarafından bin Türk Lirasından
 beşbin Türk Lirasına kadar idarî para cezası verilir.
 
+Amaç dışı
+bıçak taşıma
+
+Madde 43/C-
+
+(Ek:8/8/2026-7593/8 md.)
+
+(1) Her ne ad
+altında olursa olsun, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve
+Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamı dışında kalan her tür bıçak
+ile diğer kesici, delici veya bereleyici aletlerin;
+
+a) 11/9/1981
+tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve
+Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanuna göre
+ruhsatlandırılan yerler ile ilgili yönetmeliğe göre ruhsatlandırılan işyerleri
+dışında satışı ve sergilenmesi,
+[11]
+
+b) Onsekiz
+yaşından küçük çocuklara satılması ve çocuklar tarafından satın alınması veya
+taşınması,
+
+yasaktır.
+
+(2) Birinci
+fıkrada sayılan yasaklara uymayan kişiye beşbin Türk Lirası, kabahate konu
+bıçak veya aletlerin sayı veya nitelik bakımından vahim olması halinde ise
+onbin Türk Lirası idarî para cezası verilir. Ayrıca bu kabahatin işlendiğini
+öğrenen işletici veya sorumlunun yetkili makamlara bildirim yapmaması halinde
+beşbin Türk Lirası idarî para cezası verilir.
+
+(3) Birinci
+fıkrada sayılan kabahatin konusunu oluşturan veya işlenmesi suretiyle elde
+edilen eşyanın mülkiyetinin kamuya geçirilmesine karar verilir.
+
+(4) Birinci
+fıkrada sayılan kabahat dolayısıyla idarî para cezasına ve elkoymaya kolluk
+görevlileri, mülkiyetin kamuya geçirilmesine mülkî amir tarafından karar
+verilir.
+
+(5) Birinci
+fıkradaki kabahati işlediği sırada onbeş yaşını doldurmamış çocuk hakkında
+çocuğun üstün yararı gözetilerek, 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma
+Kanunu hükümleri uyarınca koruyucu, destekleyici ve yönlendirme tedbirlerine
+karar verilmesi amacıyla mülkî amir tarafından çocuk hâkiminden tedbir
+talebinde bulunulur.
+
+(6) Bu madde
+hükümleri internet satışları ve mesafeli satışlar için de uygulanır.
+
+(7) Bir sanat
+veya mesleğin icrası ve eğitim için gerekli bıçak, şiş ve benzerlerinin icra
+yerinde ve icra eden kişilerce kullanılması, bulundurulması ve taşınması bu
+madde hükümlerine tabi değildir.
+
 Ek Madde 1- (Ek: 11/5/2005-5348/5
 md.)
 
@@ -1065,7 +1121,7 @@ sonra yürürlüğe giren diğer kanunlardaki idarî para cezaları ile ilgili o
 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun hükümlerine göre
 ülkede tedavülde bulunan para "Yeni Türk Lirası" olarak adlandırıldığı
 sürece bu ibare kullanılır.
-[11]
+[12]
 
 Geçici Madde 2-
 (1) Bu Kanun hükümleri, yürürlüğe girdiği
@@ -1083,7 +1139,7 @@ Yürürlük
 Madde 44
 - (1) Bu Kanun 1 Haziran 2005 tarihinde
 yürürlüğe girer.
-[12]
+[13]
 
 Yürütme
 
@@ -1216,10 +1272,22 @@ Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı
 
 16/5/2025
 
+7593
+
+43/C
+maddesinin birinci fıkrasının (a) bendi hükmü
+
+1/12/2026
+
+43/C
+maddesinin birinci fıkrasının (a) bendi dışındaki hükümleri
+
+18/8/2026
+
 [1]
 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci
-maddesiyle, bu fıkrada yer alan “Ancak” ibaresinden sonra gelmek üzere “, 89 uncu
-maddesi hariç olmak üzere” ibaresi eklenmiştir.
+maddesiyle, bu fıkrada yer alan “Ancak” ibaresinden sonra gelmek üzere “, 89
+uncu maddesi hariç olmak üzere” ibaresi eklenmiştir.
 
 [2]
 6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci
@@ -1258,9 +1326,10 @@ maddesiyle, bu fıkrada yer alan “yüz” ibaresi “bin” şeklinde değişt
 
 [9]
 27/12/2020 tarihli ve 7262 sayılı Kanunun 19 uncu
-maddesiyle fıkranın (a) bendine (1) numaralı alt bendinden sonra gelmek üzere aşağıdaki
-alt bent eklenmiş, diğer alt bent numaraları buna göre teselsül ettirilmiş,
-fıkrada yer alan “ikimilyon” ibaresi “elli milyon” şeklinde değiştirilmiştir.
+maddesiyle fıkranın (a) bendine (1) numaralı alt bendinden sonra gelmek üzere
+aşağıdaki alt bent eklenmiş, diğer alt bent numaraları buna göre teselsül
+ettirilmiş, fıkrada yer alan “ikimilyon” ibaresi “elli milyon” şeklinde
+değiştirilmiştir.
 
 [10]
 
@@ -1270,12 +1339,17 @@ sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan
 ibaresi “bir tüzel kişinin” şeklinde değiştirilmiştir.
 
 [11]
+
+Bu bent 1/12/2026 tarihinde yürürlüğe
+girecektir.
+
+[12]
 6/12/2006 tarihli ve 5560 sayılı Kanunun 36 ncı
 maddesiyle bu maddede yer alan "Bu Kanunda" ibaresinden sonra gelmek
 üzere "ve 1 Haziran 2005 tarihinden sonra yürürlüğe giren diğer
 kanunlardaki idarî para cezaları ile ilgili olarak" ibaresi eklenmiştir.
 
-[12]
+[13]
 Bu maddede yer alan "1 Nisan 2005“ ibaresi,
 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1
 Haziran 2005“ şeklinde değiştirilmiştir.

@@ -5,7 +5,7 @@
   "accepted_date": "2005-03-30",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2005-03-31",
+    "date": null,
     "number": "25772 (Mükerrer)"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103475",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "103475",
   "source_type": "KANUN",
-  "content_sha256": "dc5b4864c950934f51a07fca12ec3dc066c941d5338d97a3ce4e3b6dbb52b4cd",
+  "content_sha256": "a0e7a40efaf62741ece4aeea2d463d3dba8a15874d90f0f0e58d589c6bfcb499",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -1,0 +1,18 @@
+{
+  "law_number": "7595",
+  "title": "MİLLÎ DAYANIŞMA VE TOPLUMSAL BÜTÜNLEŞMENİN GÜÇLENDİRİLMESİNE DAİR KANUN",
+  "slug": "7595-milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun",
+  "accepted_date": "2026-08-10",
+  "effective_status": "in_force",
+  "official_gazette": {
+    "date": "2026-08-18",
+    "number": "33344"
+  },
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/353145",
+  "language": "tr",
+  "tags": [],
+  "source_mevzuat_id": "353145",
+  "source_type": "KANUN",
+  "content_sha256": "8155783792a67673419586978463db4700d53e5074a674774ed186ee54fd3f62",
+  "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
+}

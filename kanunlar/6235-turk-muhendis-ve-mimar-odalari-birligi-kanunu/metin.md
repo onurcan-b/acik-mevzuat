@@ -1,7 +1,7 @@
 # TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ KANUNU (No. 6235)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/105153
-> Resmî Gazete: 1954-02-04 / 8625
+> Resmî Gazete: bilinmiyor / 8625
 > UYAP Mevzuat kimliği: 105153
 
 ---
@@ -66,8 +66,8 @@ ahlakını korumak için gerekli gördüğü bütün teşebbüs ve faaliyetlerde
 c) Meslek ve
 menfaatleriyle ilgili işlerde resmi makamlarla işbirliği yaparak gerekli
 yardımlarda ve tekliflerde bulunmak, meslekle ilgili bütün mevzuatı normları,
-fenni şartnameleri incelemek ve bunlar hakkındaki görüş ve düşünceleri
-ilgililere bildirmektir.
+fenni şartnameleri incelemek ve bunlar hakkındaki görüş ve düşünceleri ilgililere
+bildirmektir.
 
 (Değişik: 18/6/1997 -
 4276/6 md.)
@@ -228,9 +228,9 @@ bir oda açar. İhtisas ve iştigal mevzuları ayrı olan mühendis ve mimarlar;
 ancak ihtısas veya iştigal mevzularının taallük ettiği odaya kaydolunurlar.
 
 Madde 15 –
-Odalarda asli aza olabilmek için Türkiye
-Cumhuriyeti tabiiyetinde olmak ve Türkiye hudutları içinde meslek ve
-sanatlarını icraya kanunen salahiyetli bulunmak şarttır.
+Odalarda asli aza
+olabilmek için Türkiye Cumhuriyeti tabiiyetinde olmak ve Türkiye hudutları
+içinde meslek ve sanatlarını icraya kanunen salahiyetli bulunmak şarttır.
 
 Madde 16 –
 Orman ve ziraat yüksek mühendis ve
@@ -257,7 +257,7 @@ yalnız odalarını ilgilendiren kısımlar ile görevlidirler.
 (Değişik: 18/6/1997 -
 4276/7 md.)
 Odalar
-va organları, kuruluş amaçları dışında faaliyette bulunamazlar.
+ve organları, kuruluş amaçları dışında faaliyette bulunamazlar.
 
 Madde 20 –
 Odaların idare uzuvları şunlardır:
@@ -417,11 +417,11 @@ mecburiyetindedirler.
 (Ek: 19/4/1983 - KHK - 66/10 md.)
 Kamu Kurumu ve Kuruluşları ile İktisadi Devlet Teşekkülleri
 ve Kamu İktisadi Kuruluşlarında asli ve sürekli olarak çalışan mühendislik ve
-mimarlık meslekleri mensuplarının meslek ve ihtisaslarıyla ilgili odaya
-girmeleri isteklerine bağlıdır. Ancak bunlar görevlerinin gereği olan işleri
-yaparken, mesleki bakımdan, Odaya kayıtlı meslekdaşlarının yetkileriyle
-haklarına sahip ve onların ödevleriyle yükümlüdürler. Bu konuda Türk Silahlı
-Kuvvetleri mensupları ile ilgili hükümler saklıdır.
+mimarlık meslekleri mensuplarının meslek ve ihtisaslarıyla ilgili odaya girmeleri
+isteklerine bağlıdır. Ancak bunlar görevlerinin gereği olan işleri yaparken,
+mesleki bakımdan, Odaya kayıtlı meslekdaşlarının yetkileriyle haklarına sahip
+ve onların ödevleriyle yükümlüdürler. Bu konuda Türk Silahlı Kuvvetleri
+mensupları ile ilgili hükümler saklıdır.
 
 Madde 34-
 
@@ -559,12 +559,12 @@ dışındaki kağıtlara yazılan veya mühürsüz zarflara konulan oylar geçer
 sayılır. Delege seçimlerinde, basılı aday listeleri kullanılabilir.
 
 Hakim, seçim sonuçlarını
-etkileyecek ölçüde bir usulsüzlük veya kanuna aykırı uygulama nedeniyle
-sçimlerin iptaline karar verdiği takdirde, süresi bir aydan az ve iki aydan
-fazla olmamak üzere seçimin yenileneceği pazar gününü tespit ederek Türk
-Mühendis ve Mimar Odaları Birliğine veya ilgili Odaya bildirir. Belirtilen
-günde yalnız seçim yapılır ve seçim işlemleri bu madde ile kanunun öngördüğü
-diğer hükümlere uygun olarak yürütülür.
+etkileyecek ölçüde bir usulsüzlük veya kanuna aykırı uygulama nedeniyle sçimlerin
+iptaline karar verdiği takdirde, süresi bir aydan az ve iki aydan fazla olmamak
+üzere seçimin yenileneceği pazar gününü tespit ederek Türk Mühendis ve Mimar
+Odaları Birliğine veya ilgili Odaya bildirir. Belirtilen günde yalnız seçim
+yapılır ve seçim işlemleri bu madde ile kanunun öngördüğü diğer hükümlere uygun
+olarak yürütülür.
 
 İlçe seçim kurulu başkanı
 hakime ve seçim sandık kurulu başkanı ile üyelerine, Seçimlerin Temel Hükümleri
@@ -628,10 +628,9 @@ tasarrufları hükümsüzdür.
 Ancak,
 milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin
 yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Birlik ve
-odalar, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı,
-yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını
-kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden
-yürürlükten kalkar.
+odalar, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört
+saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat
+içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.
 [6]
 
 Ek Madde 5 – 7 (Mülga:
@@ -641,15 +640,15 @@ Muvakkat Madde 1 –
 Türkiye'de mevcut bilümum yüksek
 mühendis, yüksek mimar, mühendis ve mimarlar bu kanunun neşrinden itibaren iki
 ay içinde Bayındırlık Vekaletinden alacakları birer beyannameyi doldurarak
-bulundukları yer bayındırlık müdürlüklerine veya doğrudan doğruya Bayındırlık
-Vekaletine vermeye mecburdurlar.
+bulundukları yer bayındırlık müdürlüklerine veya doğrudan doğruya Bayındırlık Vekaletine
+vermeye mecburdurlar.
 
 Muvakkat Madde 2 –
 Bu kanunun neşri tarihinden itibaren
 bir ay içinde Bayındırlık Vekaletinin teşebbüsü ile mezkür tarihte faaliyet
-halinde bulunan mesleki birliklerce gönderilecek ikişer temsilci ile
-Bayındırlık Vekaletinin tayin edeceği beş temsilciden müteşekkil müteşebbis
-heyet Bayındırlık Vekaletinde toplanır. Kanunun neşrinden itibaren üç ay içinde
+halinde bulunan mesleki birliklerce gönderilecek ikişer temsilci ile Bayındırlık
+Vekaletinin tayin edeceği beş temsilciden müteşekkil müteşebbis heyet
+Bayındırlık Vekaletinde toplanır. Kanunun neşrinden itibaren üç ay içinde
 Odalar Birliği Talimatnamesiyle kurulacak odaların hazırlıklarını ve ilk umumi
 heyet toplantısı için lüzumlu diğer bilümum hazırlıkları tamamlar ve ilan eder.
 Kanunun neşrinden itibaren altı ay içinde o tarihte faaliyette bulunan

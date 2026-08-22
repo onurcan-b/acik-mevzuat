@@ -5,7 +5,7 @@
   "accepted_date": "1983-05-24",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "1983-05-27",
+    "date": null,
     "number": "18059"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103192",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "103192",
   "source_type": "KANUN",
-  "content_sha256": "7b00b0773ba2796be81f41379e7203a11777fe064f7afa940c2efd7d5f7f79bc",
+  "content_sha256": "2723b7f3c8fe1b469b7f698b8c4bb3aeb6ae3e905de0163b7757cbde19b62f53",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }
