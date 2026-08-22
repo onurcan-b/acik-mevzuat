@@ -255,9 +255,27 @@ gerçekleştirilen darbe teşebbüsü ve terör eylemi ile bu eylemin devamı ni
 eylemler sebebiyle malul olan kamu görevlileri ve siviller ile bu eylemlerin devamı
 niteliğindeki eylemlerin ortaya çıkarılması, etkilerinin azaltılması veya bertaraf
 edilmesinin sağlanmasında yardımcı ve faydalı oldukları sırada yaralanan kamu görevlileri
-ve sivillere, yaralanma derecesine bakılmaksızın gazilik unvanı verilir. Bu maddenin
+ve sivillere, yaralanma derecesine bakılmaksızın gazilik unvanı verilir. Bu fıkranın
 uygulanmasına ilişkin usul ve esaslar Aile ve Sosyal Politikalar Bakanlığı tarafından
 belirlenir.
+[4]
+
+(2)
+(Ek:9/8/2026-7594/7 md.)
+Birinci fıkra
+kapsamına girenlerden yaralanma sonucu malul sayılmayan veya 13/7/1953 tarihli
+ve 4/1053 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Vazife
+Mâlûllüklerinin Nevileriyle Dereceleri Hakkında Nizamname hükümlerine göre
+derece tespiti yapılmayanların kendilerine, Sosyal Güvenlik Kurumunca bu
+fıkranın yürürlüğe girdiği tarihi takip eden ay başından itibaren 17.135
+gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda
+aylık bağlanır. Bu aylıklar hakkında 8/2/2006 tarihli ve 5454 sayılı T.C.
+Emekli Sandığı, Sosyal Sigortalar Kurumu ve Bağ-Kur’dan Aylık veya Gelir
+Almakta Olanlara Ek Ödeme Yapılması ile Sosyal Sigortalar Kurumu ve Bağ-Kur’dan
+Aylık veya Gelir Almakta Olanlara Ödenen Gelir ve Aylıklarda 2006 Yılında Yapılacak
+Artışlar ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun hükümleri
+uygulanır. Bu fıkra kapsamında Sosyal Güvenlik Kurumunca ödenen aylıklar,
+faturası karşılığında iki ay içerisinde Hazineden tahsil edilir.
 
 İhraç edilen personelin bildirilmesi
 
@@ -323,7 +341,7 @@ cümle: Anayasa Mahkemesinin 31/5/2023 tarihli ve E.: 2018/77; K.: 2023/105
 sayılı Kararı ile)
 
 Değişiklik hükümleri
-[4]
+[5]
 
 MADDE 17
 -
@@ -464,6 +482,15 @@ ibare
 
 22/8/2024
 
+7594
+
+14
+
+yayımını takip eden ödeme döneminden geçerli olmak
+üzere yayımı tarihinde
+
+(18/8/2026)
+
 [1]
 Bu Kanunun ekinde yer alan listeler için 8/3/2018
 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.
@@ -484,6 +511,11 @@ Düzenleme Yapılması Hakkında Kanun Hükmünde Kararname’nin ikinci maddesi
 yükünden ari olarak…” ibaresi ile ikinci cümlesi yönünden iptal edilmiştir.
 
 [4]
+9/8/2026 tarihli ve 7594 sayılı Kanunun 7 nci
+maddesiyle bu fıkranın ikinci cümlesinde yer alan “maddenin” ibaresi “fıkranın”
+şeklinde değiştirilmiştir.
+
+[5]
 Bu madde hükmü; 669 sayılı KHK’nin 9/11/2016 tarihli
 ve 6756 sayılı Kanun ile, 670 sayılı KHK’nin 8/2/2018 tarihli ve 7091 sayılı
 Kanun ile, 674 sayılı KHK’nin 10/11/2016 tarihli ve 6758 sayılı Kanun ile kanunlaşması

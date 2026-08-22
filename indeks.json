@@ -2,7 +2,7 @@
   "source": "https://mevzuat.adalet.gov.tr",
   "catalog_api": "https://bedesten.adalet.gov.tr/mevzuat/searchDocuments",
   "content_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent",
-  "documents_total": 1083,
+  "documents_total": 1084,
   "fetch_failures": 0,
   "documents": [
     {
@@ -1361,7 +1361,7 @@
       "type": "KANUN",
       "path": "kanunlar/2828-sosyal-hizmetler-kanunu",
       "source_mevzuat_id": "103192",
-      "content_sha256": "7b00b0773ba2796be81f41379e7203a11777fe064f7afa940c2efd7d5f7f79bc",
+      "content_sha256": "2723b7f3c8fe1b469b7f698b8c4bb3aeb6ae3e905de0163b7757cbde19b62f53",
       "fetch_status": "ok"
     },
     {
@@ -2657,7 +2657,7 @@
       "type": "KANUN",
       "path": "kanunlar/3713-terorle-mucadele-kanunu",
       "source_mevzuat_id": "102981",
-      "content_sha256": "1060353b39e9c529648e9aded764ae24bebe64536a50abb17ebe3e2f0772945a",
+      "content_sha256": "578922eb7840120c6a64e5124d1afe77a3b2681322fb1cee6d690eb66e62f813",
       "fetch_status": "ok"
     },
     {
@@ -4844,7 +4844,7 @@
       "type": "KANUN",
       "path": "kanunlar/5326-kabahatler-kanunu",
       "source_mevzuat_id": "103475",
-      "content_sha256": "dc5b4864c950934f51a07fca12ec3dc066c941d5338d97a3ce4e3b6dbb52b4cd",
+      "content_sha256": "a0e7a40efaf62741ece4aeea2d463d3dba8a15874d90f0f0e58d589c6bfcb499",
       "fetch_status": "ok"
     },
     {
@@ -4988,7 +4988,7 @@
       "type": "KANUN",
       "path": "kanunlar/5395-cocuk-koruma-kanunu",
       "source_mevzuat_id": "103904",
-      "content_sha256": "fc63a48c77d3b45e339d6411f710756ae5a1943b87cca5b34b83a17b4e5ac481",
+      "content_sha256": "0e0ef91249d44fee5d464826f3780bcee8e5f4e9e7a4c720588a09dc39aa5610",
       "fetch_status": "ok"
     },
     {
@@ -6203,7 +6203,7 @@
       "type": "KANUN",
       "path": "kanunlar/6235-turk-muhendis-ve-mimar-odalari-birligi-kanunu",
       "source_mevzuat_id": "105153",
-      "content_sha256": "847193628a77fbed4036d70ec3dbd53d62101c23c021e54f2dc0110b02d4a07a",
+      "content_sha256": "232e50acaf8fef629124e74deaab178d4e934cf243e609df9d23caea0a4a63ad",
       "fetch_status": "ok"
     },
     {
@@ -7310,7 +7310,7 @@
       "type": "KANUN",
       "path": "kanunlar/7082-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
       "source_mevzuat_id": "104251",
-      "content_sha256": "528a0e1c9a1ff34dd8711821f8a86a7daa163489bb86654bc2954751a1e56c2c",
+      "content_sha256": "7461b2f6e7ccb7dd7106bdd41a3847e4a1240f9943fe6cff2965cc3a2628473d",
       "fetch_status": "ok"
     },
     {
@@ -7746,6 +7746,15 @@
       "fetch_status": "ok"
     },
     {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "KANUN",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "102948",
+      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
+      "fetch_status": "ok"
+    },
+    {
       "law_number": "7381",
       "title": "NÜKLEER DÜZENLEME KANUNU",
       "type": "KANUN",
@@ -8121,6 +8130,15 @@
       "path": "kanunlar/7579-tapu-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
       "source_mevzuat_id": "352551",
       "content_sha256": "84d899dd354e76366e5ac248028782b4457004c27fe8f46cb6141f59b268cb34",
+      "fetch_status": "ok"
+    },
+    {
+      "law_number": "7595",
+      "title": "MİLLÎ DAYANIŞMA VE TOPLUMSAL BÜTÜNLEŞMENİN GÜÇLENDİRİLMESİNE DAİR KANUN",
+      "type": "KANUN",
+      "path": "kanunlar/7595-milli-dayanisma-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun",
+      "source_mevzuat_id": "353145",
+      "content_sha256": "8155783792a67673419586978463db4700d53e5074a674774ed186ee54fd3f62",
       "fetch_status": "ok"
     },
     {
@@ -9633,15 +9651,6 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
-      "fetch_status": "ok"
-    },
-    {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "MULGA",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "335467",
-      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {

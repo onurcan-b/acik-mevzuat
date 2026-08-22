@@ -1,13 +1,10 @@
 # ÖĞRETMENLİK MESLEK KANUNU (No. 7354)
 
-> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/335467
+> Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/102948
 > Resmî Gazete: 2022-02-14 / 31750
-> UYAP Mevzuat kimliği: 335467
+> UYAP Mevzuat kimliği: 102948
 
 ---
-
-Bu Kanun 10/10/2024
-tarihli ve 7528 sayılı Kanunun 36 ncı maddesiyle yürürlükten kaldırılmıştır.
 
 ÖĞRETMENLİK
 MESLEK KANUNU

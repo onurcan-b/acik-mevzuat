@@ -5,7 +5,7 @@
   "accepted_date": "2005-07-03",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "2005-07-15",
+    "date": null,
     "number": "25876"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103904",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "103904",
   "source_type": "KANUN",
-  "content_sha256": "fc63a48c77d3b45e339d6411f710756ae5a1943b87cca5b34b83a17b4e5ac481",
+  "content_sha256": "0e0ef91249d44fee5d464826f3780bcee8e5f4e9e7a4c720588a09dc39aa5610",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }
