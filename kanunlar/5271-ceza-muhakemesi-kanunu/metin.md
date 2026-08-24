@@ -4523,6 +4523,13 @@ Soruşturma veya kovuşturma
 yapılması izne veya talebe bağlı olan suçlarda izin alınmaksızın veya talep
 olmaksızın düzenlenen,
 
+e)
+(Ek:8/8/2026-7593/4
+md.)
+
+Onbeş yaşını doldurmamış çocuklar hakkında
+sosyal inceleme yaptırılmaksızın düzenlenen,
+
 İddianamenin Cumhuriyet Başsavcılığına iadesine karar verilir.
 
 (2) Suçun hukukî nitelendirilmesi sebebiyle iddianame iade edilemez.
@@ -4533,9 +4540,8 @@ iddianame kabul edilmiş sayılır.
 (4) Cumhuriyet savcısı, iddianamenin iadesi üzerine, kararda gösterilen
 eksiklikleri tamamladıktan ve hatalı noktaları düzelttikten sonra, kovuşturmaya
 yer olmadığı kararı verilmesini gerektiren bir durumun bulunmaması halinde,
-yeniden iddianame düzenleyerek dosyayı mahkemeye gönderir. İlk kararda
-belirtilmeyen sebeplere dayanılarak yeniden iddianamenin iadesi yoluna
-gidilemez.
+yeniden iddianame düzenleyerek dosyayı mahkemeye gönderir. İlk kararda belirtilmeyen
+sebeplere dayanılarak yeniden iddianamenin iadesi yoluna gidilemez.
 
 (5) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
 
@@ -4694,8 +4700,8 @@ Ses ve görüntü alıcı aletlerin kullanılması yasağı
 Madde 183 –
 (1) 180 inci maddenin beşinci fıkrası ile 196 ncı
 maddenin dördüncü fıkrası hükmü saklı kalmak üzere, adliye binası içerisinde ve
-duruşma başladıktan sonra duruşma salonunda her türlü sesli veya görüntülü
-kayıt veya nakil olanağı sağlayan aletler kullanılamaz. Bu hüküm, adliye binası
+duruşma başladıktan sonra duruşma salonunda her türlü sesli veya görüntülü kayıt
+veya nakil olanağı sağlayan aletler kullanılamaz. Bu hüküm, adliye binası
 içerisinde ve dışındaki diğer adlî işlemlerin icrasında da uygulanır.
 
 Açıklığın kaldırılması hakkında karar
@@ -4773,9 +4779,9 @@ Duruşmanın başlaması
 
 Madde 191 –
 (1) Sanığın ve müdafiinin hazır bulunup bulunmadığı,
-çağrılmış tanık ve bilirkişilerin gelip gelmedikleri saptanarak duruşmaya
-başlanır. Sanık, duruşmaya bağsız olarak alınır. Mahkeme başkanı veya hâkim,
-duruşmanın başladığını, iddianamenin kabulü kararını okuyarak açıklar.
+çağrılmış tanık ve bilirkişilerin gelip gelmedikleri saptanarak duruşmaya başlanır.
+Sanık, duruşmaya bağsız olarak alınır. Mahkeme başkanı veya hâkim, duruşmanın
+başladığını, iddianamenin kabulü kararını okuyarak açıklar.
 
 (2) Tanıklar duruşma salonundan dışarı çıkarılırlar.
 
@@ -4857,12 +4863,11 @@ isteyip istemediği sorulur.
 (3) Sorgu tutanağı duruşmada okunur.
 
 (4)
-(Değişik: 15/8/2017-KHK-694/147 md.; Aynen kabul:
-1/2/2018-7078/142 md.)
-Hâkim veya mahkemenin zorunlu gördüğü durumlarda,
-aynı anda görüntülü ve sesli iletişim tekniğinin kullanılması suretiyle yurt
-içinde bulunan sanığın sorgusu yapılabilir veya duruşmalara katılmasına karar
-verilebilir.
+(Değişik: 15/8/2017-KHK-694/147 md.; Aynen kabul: 1/2/2018-7078/142
+md.)
+Hâkim veya mahkemenin zorunlu gördüğü durumlarda, aynı anda görüntülü
+ve sesli iletişim tekniğinin kullanılması suretiyle yurt içinde bulunan sanığın
+sorgusu yapılabilir veya duruşmalara katılmasına karar verilebilir.
 
 (5) Hastalık veya disiplin önlemi ya da zorunlu diğer nedenlerle
 yargılamanın yapıldığı yargı çevresi dışındaki bir hastahane veya tutukevine
@@ -5638,9 +5643,9 @@ mahkeme başkanı veya hâkim tarafından çağrı kâğıdı ile çağırılıp
 (Ek
 cümleler:8/7/2021-7331/21 md.)
 Kovuşturma evresine geçildiğinde çağrı
-kâğıdına iddianame eklenir. Ayrıca, iddianameye ilişkin bilgiler ve duruşma
-tarihi; telefon, telgraf, faks, elektronik posta gibi iletişim bilgilerinin
-dosyada bulunması hâlinde bu araçlardan yararlanılmak suretiyle de bildirilir.
+kâğıdına iddianame eklenir. Ayrıca, iddianameye ilişkin bilgiler ve duruşma tarihi;
+telefon, telgraf, faks, elektronik posta gibi iletişim bilgilerinin dosyada
+bulunması hâlinde bu araçlardan yararlanılmak suretiyle de bildirilir.
 
 (2) Bu hususta yapılacak çağrı
 ve zorla getirme
@@ -5764,10 +5769,10 @@ Cumhuriyet savcısının nezaretinde uzmanlar aracılığıyla alınır. Mağdur
 beyan ve görüntüleri kayda alınır. Kovuşturma evresinde ise ancak, maddi
 gerçeğin ortaya çıkarılması açısından mağdur çocuğun beyanının alınması veya
 başkaca bir işlem yapılmasında zorunluluk bulunması hâlinde bu işlem, mahkeme
-veya görevlendireceği naip hâkim tarafından bu merkezlerde uzmanlar
-aracılığıyla yerine getirilir. Mağdur çocuk yargı çevresi ve mülkî sınırlara
-bakılmaksızın en yakın merkeze götürülmek suretiyle bu fıkrada belirtilen
-işlemler yerine getirilir.
+veya görevlendireceği naip hâkim tarafından bu merkezlerde uzmanlar aracılığıyla
+yerine getirilir. Mağdur çocuk yargı çevresi ve mülkî sınırlara bakılmaksızın
+en yakın merkeze götürülmek suretiyle bu fıkrada belirtilen işlemler yerine
+getirilir.
 
 (6)
 (Ek:17/10/2019-7188/22 md.)
@@ -5778,9 +5783,9 @@ ve görüntülerin kayda alınmasında mağdurun rızası aranır.
 
 (7)
 (Ek:17/10/2019-7188/22 md.)
-Beşinci ve altıncı fıkra
-kapsamında alınan beyan ve görüntü kayıtları dava dosyasında saklanır, kimseye
-verilmez ve gizliliği için gerekli tedbirler alınır.
+Beşinci ve altıncı fıkra kapsamında
+alınan beyan ve görüntü kayıtları dava dosyasında saklanır, kimseye verilmez ve
+gizliliği için gerekli tedbirler alınır.
 
 (8)
 (Ek:17/10/2019-7188/22 md.)
@@ -6485,8 +6490,11 @@ c)
 (Ek: 24/11/2016-6763/34 md.)
 Mağdurun
 veya suçtan zarar görenin gerçek veya özel hukuk tüzel kişisi olması koşuluyla,
-suça sürüklenen çocuklar bakımından ayrıca, üst sınırı üç yılı geçmeyen hapis
-veya adli para cezasını gerektiren suçlar.
+
+adli süreçteki
+çocuklar bakımından ayrıca, üst sınırı üç yılı geçmeyen
+hapis veya adli para cezasını gerektiren suçlar.
+[103]
 
 (2) Soruşturulması ve kovuşturulması şikâyete bağlı olanlar hariç olmak
 üzere; diğer kanunlarda yer alan suçlarla ilgili olarak uzlaştırma yoluna
@@ -6507,10 +6515,10 @@ hâlinde de uzlaşma hükümleri uygulanmaz.
 Ancak önödeme kapsamına giren bir suç ile uzlaştırma kapsamına
 giren bir suçun birlikte aynı mağdura karşı işlenmiş olması hâlinde uzlaştırma
 kapsamındaki suç bakımından uzlaşma hükümleri uygulanır.
-[103]
 [104]
 [105]
 [106]
+[107]
 
 (4) Soruşturma konusu suçun uzlaşmaya
 tâbi olması
@@ -6526,8 +6534,8 @@ veya istinabe yoluyla da yapabilir. Şüpheli, mağdur veya suçtan zarar gören
 kendisine uzlaşma teklifinde bulunulduktan itibaren yedi gün içinde kararını
 bildirmediği takdirde, teklifi reddetmiş sayılır.
 
-105
-[107]
+106
+[108]
 
 (5) Uzlaşma teklifinde bulunulması halinde, kişiye uzlaşmanın mahiyeti ve
 uzlaşmayı kabul veya reddetmesinin hukukî sonuçları anlatılır.
@@ -6557,7 +6565,7 @@ Cumhuriyet savcısınca uygun görülen belgelerin birer örneği verilir.
 Uzlaştırma bürosu
 uzlaştırmacıya, soruşturmanın
 gizliliği ilkesine uygun davranmakla yükümlü olduğunu hatırlatır.
-[108]
+[109]
 
 (12) Uzlaştırmacı, dosya içindeki belgelerin birer örneği kendisine
 verildikten itibaren en geç otuz gün içinde uzlaştırma işlemlerini sonuçlandırır.
@@ -6609,14 +6617,14 @@ verilir. Erteleme süresince zamanaşımı işlemez. Kamu davasının açılmas�
 ertelenmesi kararından sonra, uzlaşmanın gereklerinin yerine getirilmemesi
 halinde, 171 inci maddenin dördüncü fıkrasındaki şart aranmaksızın, kamu davası
 açılır. (…)
-[109]
+[110]
 Uzlaşmanın sağlanması halinde, uzlaşma
 anında tespit edilemeyen veya uzlaşmadan sonra ortaya çıkan zararlar hariç,
 soruşturma konusu suç nedeniyle tazminat davası açılamaz; açılmış olan davadan
 feragat edilmiş sayılır. Şüphelinin, edimini yerine getirmemesi halinde uzlaşma
 raporu veya belgesi, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 38
 inci maddesinde yazılı ilam mahiyetini haiz belgelerden sayılır.
-[110]
+[111]
 
 (20) Uzlaştırma müzakereleri sırasında yapılan açıklamalar, herhangi bir
 soruşturma ve kovuşturmada ya da davada delil olarak kullanılamaz.
@@ -6651,7 +6659,7 @@ aldığı, Adalet Bakanlığı tarafından belirlenen uzlaştırmacı listelerin
 görevlendirilir. Uzlaştırmacı, hazırladığı raporu, tutanakları ve varsa yazılı
 anlaşmayı büroya gönderir. Uzlaştırma süreci sonunda soruşturma dosyaları,
 uzlaştırma bürosunda görevli Cumhuriyet savcıları tarafından sonuçlandırılır.
-[111]
+[112]
 
 (25)
 (Ek: 24/11/2016-6763/34 md.)
@@ -6677,7 +6685,7 @@ kovuşturma dosyası, uzlaştırma işlemlerinin
 maddede belirtilen esas ve usûle
 göre yerine
 getirilmesi için uzlaştırma bürosuna gönderilir.
-[112]
+[113]
 
 (2)
 (Değişik:7/11/2024-7531/17 md.)
@@ -6868,7 +6876,7 @@ ayrıca hüküm koymadığı hâllerde 35 inci maddeye göre ilgililerin kararı
 veya tutanağa geçirilmek koşulu ile zabıt kâtibine beyanda bulunmak suretiyle
 yapılır. Tutanakla tespit edilen beyanı ve imzayı mahkeme başkanı veya hâkim
 onaylar. 263 üncü madde hükmü saklıdır.
-[113]
+[114]
 
 (2) Kararına itiraz edilen hâkim veya
 mahkeme, itirazı yerinde görürse kararını düzeltir; yerinde görmezse en çok üç
@@ -6980,7 +6988,7 @@ a)
 Hapis cezasından çevrilen adlî
 para cezaları hariç olmak üzere, sonuç olarak belirlenen onbeşbin Türk Lirası
 dâhil adlî para cezasına mahkûmiyet hükümlerine,
-[114]
+[115]
 
 b) Üst sınırı beşyüz günü geçmeyen adlî para cezasını gerektiren
 suçlardan beraat hükümlerine,
@@ -7002,7 +7010,7 @@ dilekçe verilmesi veya zabıt kâtibine bir beyanda bulunulması suretiyle
 yapılır; beyan tutanağa geçirilir ve tutanak hâkime onaylattırılır. Tutuklu
 sanık hakkında 263 üncü madde hükmü saklıdır.
 
-[115]
+[116]
 
 (2)
 (Mülga:2/3/2024-7499/18 md.)
@@ -7014,7 +7022,7 @@ Ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin
 yargı çevresi içerisindeki asliye mahkemelerinin hükümlerine karşı, kararın o
 yer Cumhuriyet başsavcılığına geliş tarihinden itibaren iki hafta içinde
 istinaf yoluna başvurabilirler.
-115
+116
 
 (4) Sanık ve bu Kanuna göre katılan sıfatını almış olanlar ile katılma
 isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette
@@ -7025,7 +7033,7 @@ nedenlerin gösterilmemesi inceleme yapılmasına engel olmaz.
 gerekçeleriyle birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere
 tebliğ edilir. İlgililer, tebliğ tarihinden itibaren iki hafta içinde bu
 husustaki cevaplarını bildirebilirler.
-115
+116
 
 Eski hâle getirme süresi içinde istinaf süresinin işlemesi
 
@@ -7051,15 +7059,15 @@ hükmün kesinleşmesini engeller.
 Madde 276 –
 (1) İstinaf istemi, kanunî sürenin geçmesinden sonra
 veya aleyhine istinaf yoluna başvurulamayacak bir hükme karşı yapılmışsa ya da
-istinaf yoluna başvuranın buna hakkı yoksa, hükmü veren mahkeme bir kararla
-dilekçeyi reddeder.
+istinaf yoluna başvuranın buna hakkı yoksa, hükmü veren mahkeme bir kararla dilekçeyi
+reddeder.
 
 (2) İstinaf başvurusunda bulunan Cumhuriyet savcısı veya ilgililer, ret
 kararının kendilerine tebliğinden itibaren iki hafta içinde bölge adliye
 mahkemesinden bu hususta bir karar vermesini isteyebilirler. Bu takdirde dosya
 bölge adliye mahkemesine gönderilir. Ancak, bu nedenle hükmün infazı
 ertelenemez.
-[116]
+[117]
 
 İstinaf isteminin
 tebliği ve cevabı
@@ -7069,17 +7077,17 @@ Madde 277 –
 reddedilmeyen istinaf dilekçesi veya beyana ilişkin tutanağın bir örneği karşı
 tarafa tebliğ olunur. Karşı taraf, tebliğ tarihinden itibaren iki hafta içinde
 yazılı olarak cevabını verebilir.
-116
+117
 
 (2) Karşı taraf sanık ise, bir tutanağa bağlanmak üzere zabıt kâtibine
 yapılacak bir beyanla da cevabını verebilir. Cevap verildikten veya bunun için
 belirli süre bittikten sonra dava dosyası, bölge adliye mahkemesine gönderilir.
-[117]
+[118]
 
 (3) 262 ve 263 üncü madde hükümleri saklıdır.
 
 Dosyanın bölge adliye mahkemesinde tevzii
-[118]
+[119]
 
 Madde 278 –
 
@@ -7113,9 +7121,9 @@ Bölge adliye mahkemesinde inceleme ve kovuşturma
 Madde 280 –
 (1) Bölge adliye mahkemesi, dosyayı ve dosyayla
 birlikte sunulmuş olan delilleri inceledikten sonra;
-[119]
 [120]
 [121]
+[122]
 
 a) İlk derece mahkemesinin kararında usule veya esasa ilişkin herhangi
 bir hukuka aykırılığın bulunmadığını, delillerde veya işlemlerde herhangi bir
@@ -7134,7 +7142,7 @@ aykırılığın düzeltilerek istinaf başvurusunun esastan reddine,
 
 c)
 (Ek:17/10/2019-7188/27 md.)
-[122]
+[123]
 
 Başka bir araştırmaya ihtiyaç duyulmadan cezayı kaldıran veya cezada
 indirim yapılmasını gerektiren şahsî sebeplere ya da şahsî cezasızlık
@@ -7156,8 +7164,8 @@ belirtilen bir hukuka aykırılık nedeninin bulunması hâlinde hükmün bozulm
 ve dosyanın yeniden incelenmek ve hükmolunmak üzere hükmü bozulan ilk derece
 mahkemesine veya kendi yargı çevresinde uygun göreceği diğer bir ilk derece
 mahkemesine gönderilmesine,
-[123]
 [124]
+[125]
 
 f)
 (Ek:17/10/2019-7188/27 md.)
@@ -7193,7 +7201,7 @@ Madde 281 –
 (1) Duruşma hazırlığı aşamasında bölge adliye
 mahkemesi daire başkanı veya görevlendireceği üye, 175 inci madde hükümlerine
 uygun olarak duruşma gününü saptar; gerekli çağrıları yapar.
-[125]
+[126]
 
 (Mülga ikinci cümle: 20/7/2017-7035/16 md.)
 
@@ -7206,7 +7214,7 @@ Madde 282 –
 (1) Duruşma açıldığında aşağıda gösterilen istisnalar
 dışında bu Kanunun duruşma hazırlığı, duruşma ve karara ilişkin hükümleri
 uygulanır:
-[126]
+[127]
 
 a) Duruşma, bu Kanunun öngördüğü genel hükümlere göre başladıktan sonra
 görevlendirilen üyenin inceleme raporu anlatılır.
@@ -7224,7 +7232,7 @@ d)
 Bölge adliye mahkemesi duruşma
 hazırlığı aşamasında toplanan delil ve belgeler, yapılmışsa keşif ve bilirkişi
 açıklamalarına ilişkin tutanak ve raporlar anlatılır.
-[127]
+[128]
 
 e) Bölge adliye mahkemesi duruşmasında dinlenilmeleri gerekli görülen
 tanık ve bilirkişiler çağrılır.
@@ -7234,9 +7242,9 @@ f)
 Sanık, müdafii, katılan ve
 vekilinin davetiye tebliğ edilmesine rağmen duruşmaya gelmemesi hâlinde
 duruşmaya devam edilerek sanığın sorgu tutanakları anlatılmak suretiyle dava
-yokluklarında bitirilebilir. Ancak, 195 inci madde hükümleri saklı kalmak
-üzere, sanık hakkında verilecek ceza, ilk derece mahkemesinin verdiği cezadan
-daha ağır ise, her hâlde sanığın dinlenmesi gerekir.
+yokluklarında bitirilebilir. Ancak, 195 inci madde hükümleri saklı kalmak üzere,
+sanık hakkında verilecek ceza, ilk derece mahkemesinin verdiği cezadan daha
+ağır ise, her hâlde sanığın dinlenmesi gerekir.
 
 Sanık lehine başvurma hâlinde verilecek hüküm
 
@@ -7244,7 +7252,7 @@ Madde 283 –
 (1) İstinaf yoluna yalnız sanık lehine başvurulmuşsa,
 yeniden verilen hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır
 olamaz.
-[128]
+[129]
 
 Direnme yasağı
 
@@ -7263,7 +7271,7 @@ hükmü hariç; diğer kanunlarda temyiz edilebileceği veya haklarında Yargıt
 başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin görev alanına
 giren dava ve işlere ilişkin ilk derece mahkemelerinin karar ve hükümlerine
 karşı istinaf yoluna başvurulur.
-[129]
+[130]
 
 ÜÇÜNCÜ
 BÖLÜM
@@ -7277,7 +7285,7 @@ Madde 286 –
 dışında kalan hükümleri temyiz edilebilir.
 
 (2) Ancak;
-[130]
+[131]
 
 a) İlk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları
 ile miktarı ne olursa olsun adlî para cezalarına karşı istinaf başvurusunun esastan
@@ -7288,7 +7296,7 @@ cezalarını artırmayan bölge adliye mahkemesi kararları,
 
 c)
 (Ek: 20/7/2017-7035/20 md.)
-[131]
+[132]
 
 Hapis cezasından
 çevrilen seçenek yaptırımlara ilişkin ilk derece mahkemesi kararları ile ilgili
@@ -7334,9 +7342,9 @@ Temyiz edilemez.
 (3)
 (Ek:17/10/2019-7188/29 md.)
 
-İkinci fıkrada belirtilen temyiz edilemeyecek kararlar kapsamında olsa bile
-aşağıda sayılan suçlar nedeniyle verilen bölge adliye mahkemesi ceza
-dairelerinin kararları temyiz edilebilir:
+İkinci fıkrada belirtilen temyiz edilemeyecek kararlar kapsamında olsa bile aşağıda
+sayılan suçlar nedeniyle verilen bölge adliye mahkemesi ceza dairelerinin kararları
+temyiz edilebilir:
 
 a) Türk Ceza Kanununda yer alan;
 
@@ -7354,7 +7362,7 @@ a) Türk Ceza Kanununda yer alan;
 
 7.
 (Ek:13/10/2022-7418/30 md.)
-[132]
+[133]
 
 Halkı yanıltıcı bilgiyi alenen yayma (madde 217/A),
 
@@ -7438,7 +7446,7 @@ verilmesi veya zabıt kâtibine bir beyanda bulunulması suretiyle yapılır; be
 tutanağa geçirilir ve tutanak hâkime onaylattırılır. Tutuklu bulunan sanık
 hakkında 263 üncü madde hükmü saklıdır.
 
-[133]
+[134]
 
 (2)
 (Mülga:2/3/2024-7499/19 md.)
@@ -7491,7 +7499,7 @@ karar ile temyiz istemini reddeder.
 kendisine tebliğinden itibaren iki hafta içinde Yargıtaydan bu hususta bir
 karar vermesini isteyebilir. Bu takdirde dosya Yargıtaya gönderilir. Ancak, bu
 nedenden dolayı hükmün infazı ertelenemez.
-[134]
+[135]
 
 Temyiz dilekçesinin tebliği ve
 cevabı, Yargıtay Cumhuriyet Başsavcılığının görevi
@@ -7501,18 +7509,18 @@ Madde 297 –
 mahkemesince reddedilmeyen temyiz istemine ilişkin dilekçesinin bir örneği
 karşı tarafa tebliğ olunur. Karşı taraf, tebliğ tarihinden itibaren iki hafta içinde
 yazılı olarak cevabını verebilir.
-[135]
+[136]
 
 (2) Cevap verildikten veya bunun için belirli süre bittikten sonra dava
 dosyası, bölge adliye mahkemesi tarafından Yargıtay Cumhuriyet Başsavcılığına
 gönderilir.
-[136]
+[137]
 
 (3) Yargıtay Cumhuriyet Başsavcılığınca düzenlenen tebliğname, hükmü
 temyiz etmeleri veya aleyhlerine sonuç doğurabilecek görüş içermesi hâlinde sanık
 veya müdafii ile katılan veya vekillerine ilgili dairesince tebliğ olunur.
 İlgili taraf tebliğden itibaren iki hafta içinde yazılı olarak cevap verebilir.
-135
+136
 
 (4) Üçüncü fıkra uyarınca yapılacak tebligatlar, ilgililerin dava
 dosyasından belirlenen son adreslerine yapılmasıyla geçerli olur.
@@ -7535,7 +7543,7 @@ hükümlerde, Yargıtay, incelemelerini uygun görmesi halinde duruşma yoluyla
 yapabilir. Duruşma gününden sanığa, katılana, müdafi ve vekile haber verilir.
 Sanık, duruşmada hazır bulunabileceği gibi, kendisini bir müdafi ile de temsil
 ettirebilir.
-[137]
+[138]
 
 (2) Sanık, tutuklu ise duruşmaya katılmak isteminde bulunamaz.
 
@@ -7588,8 +7596,7 @@ davanın esasına hükmedebileceği gibi hükümdeki hukuka aykırılığı da
 düzeltebilir:
 
 a) Olayın daha ziyade aydınlanması gerekmeden beraate veya davanın
-düşmesine ya da alt ve üst sınırı olmayan sabit bir cezaya hükmolunması
-gerekirse.
+düşmesine ya da alt ve üst sınırı olmayan sabit bir cezaya hükmolunması gerekirse.
 
 b) Yargıtay Cumhuriyet Başsavcılığının iddiasına uygun olarak sanığa kanunda
 yazılı cezanın en alt derecesini uygulamayı uygun görürse.
@@ -7677,13 +7684,12 @@ karşı diyeceklerini sorar.
 (2) Sanık, müdafii, katılan ve vekilinin dosyada varolan adreslerine de
 davetiye tebliğ olunamaması veya davetiye tebliğ olunmasına rağmen duruşmaya
 gelmemeleri nedeniyle bozmaya karşı beyanları saptanmamış olsa da duruşmaya
-devam edilerek dava yokluklarında bitirilebilir. Ancak, sanık hakkında
-verilecek ceza, bozmaya konu olan cezadan daha ağır ise, her hâlde dinlenmesi
-gerekir.
+devam edilerek dava yokluklarında bitirilebilir. Ancak, sanık hakkında verilecek
+ceza, bozmaya konu olan cezadan daha ağır ise, her hâlde dinlenmesi gerekir.
 
 (3)
 (Ek:20/2/2019-7165/9 md.)
-[138]
+[139]
 
 Yargıtaydan verilen bozma kararına uyulması hâlinde ilk derece mahkemesi
 tarafından verilen karara karşı, istinaf veya temyiz sınırlarına bakılmaksızın
@@ -7716,7 +7722,7 @@ BÖLÜM
 
 Cumhuriyet
 Başsavcısının İtiraz Yetkisi
-[139]
+[140]
 
 Yargıtay Cumhuriyet Başsavcısının itiraz yetkisi
 
@@ -7786,9 +7792,9 @@ mahkemelerinde Hâkimler ve Savcılar Kurulu tarafından daire başkanları
 arasından belirlenen ve dört üyeden oluşan başkanlar kurulu bu incelemeyi
 yapar. Başkanlar kurulunun bu maddeye ilişkin çalışma usul ve esasları,
 Hâkimler ve Savcılar Kurulu tarafından belirlenir.
-[140]
-
 [141]
+
+[142]
 
 İKİNCİ
 BÖLÜM
@@ -7804,7 +7810,7 @@ veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde hukuka
 aykırılık bulunduğunu öğrenen Adalet Bakanlığı, o karar veya hükmün Yargıtayca
 bozulması istemini, yasal nedenlerini belirterek Yargıtay Cumhuriyet
 Başsavcılığına yazılı olarak bildirir.
-[142]
+[143]
 
 (2) Yargıtay Cumhuriyet Başsavcısı, bu nedenleri aynen yazarak karar veya
 hükmün bozulması istemini içeren yazısını Yargıtayın ilgili ceza dairesine
@@ -7843,7 +7849,7 @@ olarak re'sen Yargıtay Cumhuriyet Başsavcısı tarafından da kullanılabilir.
 
 (2) 309 uncu madde gereğince Adalet Bakanlığı tarafından başvurulduğunda
 bu yetki, artık Yargıtay Cumhuriyet Başsavcısı tarafından kullanılamaz.
-[143]
+[144]
 
 ÜÇÜNCÜ
 BÖLÜM
@@ -7872,9 +7878,9 @@ d) Ceza hükmü hukuk mahkemesinin bir hükmüne dayandırılmış olup da bu
 hüküm kesinleşmiş diğer bir hüküm ile ortadan kaldırılmış ise.
 
 e) Yeni olaylar veya yeni deliller ortaya konulup da bunlar yalnız başına
-veya önceden sunulan delillerle birlikte göz önüne alındıklarında sanığın
-beraatini veya daha hafif bir cezayı içeren kanun hükmünün uygulanması ile
-mahkûm edilmesini gerektirecek nitelikte olursa.
+veya önceden sunulan delillerle birlikte göz önüne alındıklarında sanığın beraatini
+veya daha hafif bir cezayı içeren kanun hükmünün uygulanması ile mahkûm edilmesini
+gerektirecek nitelikte olursa.
 
 f) Ceza hükmünün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair
 Sözleşmenin veya eki protokollerin ihlâli suretiyle verildiğinin ve hükmün bu
@@ -7884,7 +7890,7 @@ Mahkemesine yapılan başvuru hakkında dostane çözüm ya da tek taraflı dekl
 sonucunda düşme kararı verilmesi. Bu hâlde yargılamanın yenilenmesi, Avrupa
 İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl içinde
 istenebilir.
-[144]
+[145]
 
 (2) Birinci fıkranın (f) bendi hükümleri, 4.2.2003 tarihinde Avrupa İnsan
 Hakları Mahkemesinin kesinleşmiş kararları ile, 4.2.2003 tarihinden sonra
@@ -7980,7 +7986,7 @@ istem kabule değer görülmeyerek reddedilir.
 
 (2) Aksi hâlde yargılamanın yenilenmesi istemi, bir diyeceği varsa iki
 hafta içinde bildirmek üzere Cumhuriyet savcısı ve ilgili tarafa tebliğ olunur.
-[145]
+[146]
 
 (3) Bu madde gereğince verilen kararlara itiraz edilebilir.
 
@@ -7998,7 +8004,7 @@ suretiyle toplanması sırasında, soruşturmaya ilişkin hükümler uygulanır.
 (3) Delillerin toplanması bittikten sonra Cumhuriyet savcısı ve hakkında
 hüküm kurulmuş olan kişiden iki haftalık süre içinde görüş ve düşüncelerini bildirmeleri
 istenir.
-[146]
+[147]
 
 Yenileme isteminin esassız olmasından dolayı reddi, aksi takdirde
 kabulü
@@ -8124,9 +8130,9 @@ Beraat veya ceza verilmesine yer olmadığı kararı verilmesi hâlinde
 gider
 
 Madde 327 –
-(1) Hakkında beraat veya ceza verilmesine yer
-olmadığına karar verilen kişi, sadece kendi kusurundan ileri gelen giderleri
-ödemeye mahkûm edilir.
+(1) Hakkında beraat veya ceza verilmesine yer olmadığına
+karar verilen kişi, sadece kendi kusurundan ileri gelen giderleri ödemeye
+mahkûm edilir.
 
 (2) Bu kişinin önceden ödemek zorunda kaldığı giderler, Devlet Hazinesince
 üstlenilir.
@@ -8295,13 +8301,12 @@ bağlanmış
 veya kesinleşmiş dosyalarda seri muhakeme usulü ile basit
 yargılama usulü uygulanmaz.
 
-[147]
 [148]
 [149]
+[150]
 
 e) Bu maddenin yürürlüğe girdiği tarih itibarıyla, kovuşturma evresine
-geçilmiş dosyalarda kamu davasının açılmasının ertelenmesi hükümleri
-uygulanmaz.
+geçilmiş dosyalarda kamu davasının açılmasının ertelenmesi hükümleri uygulanmaz.
 
 f) 286 ncı maddenin üçüncü fıkrasında yapılan düzenleme, bu maddenin yayımlandığı
 tarihten itibaren on beş gün içinde talep etmek koşuluyla aynı suçlarla ilgili
@@ -8333,11 +8338,10 @@ bakımından bu maddeyi ihdas eden Kanunla yapılan değişiklikten önceki hük
 uygulanmasına devam olunur.
 
 b) Kovuşturmaya yer olmadığına dair karara itiraz süresine ilişkin olarak
-173 üncü maddenin birinci fıkrasında yapılan
-değişiklik, 1/6/2024 tarihinde ve sonrasında verilen kararlar
-hakkında uygulanır. Bu tarihten önce verilen kararlar hakkında bu maddeyi ihdas
-eden Kanunla yapılan değişiklikten önceki hükümlerin uygulanmasına devam
-olunur.
+173 üncü maddenin birinci fıkrasında yapılan değişiklik, 1/6/2024 tarihinde
+ve sonrasında verilen kararlar hakkında uygulanır. Bu tarihten önce verilen
+kararlar hakkında bu maddeyi ihdas eden Kanunla yapılan değişiklikten önceki
+hükümlerin uygulanmasına devam olunur.
 
 c) Kanun yollarına başvuru şekli ve süreleri ile bu sürelerin tebliğden
 itibaren başlamasına ve cevap sürelerine ilişkin 268, 273, 276, 277, 291, 294,
@@ -8377,8 +8381,7 @@ eden Kanunla 231 inci maddenin onbirinci fıkrasında yapılan
 değişiklikten önceki kanun yoluna ilişkin hükümler uygulanır.
 
 d) 1/6/2024 tarihinden önce verilen hükmün açıklanmasının geri
-bırakılması kararları bakımından sanığın kabul etmesi şartı aranmaya devam
-olunur.
+bırakılması kararları bakımından sanığın kabul etmesi şartı aranmaya devam olunur.
 
 (3) Bu maddeyi ihdas eden Kanunla 141 inci maddede yapılan düzenlemeler, 1/6/2024 tarihinden
 sonra kesinleşen karar veya hükümler bakımından uygulanır.
@@ -8434,7 +8437,7 @@ Yürürlük
 Madde 334 –
 (1) Bu Kanun, 1 Haziran 2005 tarihinde yürürlüğe
 girer.
-[150]
+[151]
 
 Yürütme
 
@@ -9008,6 +9011,12 @@ Geçici Madde 7
 
 31/7/2026
 
+7593
+
+174, 253
+
+18/8/2026
+
 [1]
 Bu madde başlığı “Davanın nakli” iken, 24/11/2016
 tarihli ve 6763 sayılı Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
@@ -9031,8 +9040,8 @@ sayılı Resmi Gazete’de yayımlanan 2026 yılı Tanıklık Ücret Tarifesine 
 [5]
 15/8/2017 tarihli ve 694 sayılı KHK’nin 140 ıncı
 maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)”
-şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
-Kanunun 135 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun
+135 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
 [6]
 3/11/2016 tarihli ve 6754 sayılı Kanunun 43 üncü
@@ -9091,25 +9100,23 @@ inci maddesiyle, (1) numaralı alt bentten sonra gelmek üzere (2) numaralı alt
 bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
 
 [16]
-12/5/2022 tarihli ve 7406 sayılı Kanunun 9 uncu
-maddesiyle bu bentte yer alan “Silahla işlenmiş kasten yaralama (madde 86,
-fıkra 3, bent e)” ibaresi “Kasten yaralama (madde 86, fıkra 3, bent b, e ve f)”
-şeklinde değiştirilmiştir.
+12/5/2022 tarihli ve 7406 sayılı Kanunun 9 uncu maddesiyle
+bu bentte yer alan “Silahla işlenmiş kasten yaralama (madde 86, fıkra 3, bent
+e)” ibaresi “Kasten yaralama (madde 86, fıkra 3, bent b, e ve f)” şeklinde değiştirilmiştir.
 
 [17]
-24/11/2016 tarihli ve 6763 sayılı Kanunun 22 nci
-maddesiyle, bu fıkrada yer alan “veya” ibaresi “suçlarda veya vücut
-dokunulmazlığına karşı kasten işlenenler hariç olmak üzere” şeklinde
-değiştirilmiştir.
+24/11/2016 tarihli ve 6763 sayılı Kanunun 22 nci maddesiyle,
+bu fıkrada yer alan “veya” ibaresi “suçlarda veya vücut dokunulmazlığına karşı
+kasten işlenenler hariç olmak üzere” şeklinde değiştirilmiştir.
 
 [18]
 15/8/2017 tarihli ve 694 sayılı KHK’nin 141 inci
 maddesiyle, bu fıkrada yer alan “üç yılı” ibaresinden sonra gelmek üzere “,
 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci,
 Altıncı ve Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991 tarihli ve 3713
-sayılı Terörle Mücadele Kanunu kapsamına giren suçlarda beş yılı” ibaresi
-eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 136 ncı
-maddesiyle aynen kabul edilerek kanunlaşmıştır.
+sayılı Terörle Mücadele Kanunu kapsamına giren suçlarda beş yılı” ibaresi eklenmiş,
+daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 136 ncı maddesiyle
+aynen kabul edilerek kanunlaşmıştır.
 
 [19]
 20/11/2017 tarihli ve 696 sayılı KHK’nin 93 üncü
@@ -9145,11 +9152,11 @@ alan “bu madde hükümleri,” ibaresi “bu maddenin birinci ve ikinci fıkra
 hükümleri,” şeklinde değiştirilmiştir.
 
 [25]
-21/2/2014 tarihli ve 6526 sayılı Kanunun 9 uncu
-maddesiyle, bu fıkrada yer alan “makul” ibaresi “somut delillere dayalı
-kuvvetli” şeklinde değiştirilmiş, daha sonra 2/12/2014 tarihli ve 6572 sayılı
-Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “somut delillere dayalı
-kuvvetli” ibaresi “makul” şeklinde değiştirilmiştir.
+21/2/2014 tarihli ve 6526 sayılı Kanunun 9 uncu maddesiyle,
+bu fıkrada yer alan “makul” ibaresi “somut delillere dayalı kuvvetli” şeklinde
+değiştirilmiş, daha sonra 2/12/2014 tarihli ve 6572 sayılı Kanunun 40 ıncı
+maddesiyle bu fıkrada yer alan “somut delillere dayalı kuvvetli” ibaresi “makul”
+şeklinde değiştirilmiştir.
 
 [26]
 21/2/2014 tarihli ve 6526 sayılı Kanunun 10 uncu
@@ -9213,10 +9220,10 @@ yukarıdaki sürelere ek olarak her defasında bir aydan fazla olmamak ve toplam
 
 [34]
 24/11/2016 tarihli ve 6763 sayılı Kanunun 26 ncı
-maddesiyle, bu maddenin birinci birinci fıkrasında yer alan “ağır ceza
-mahkemesi” ibaresi “hâkim” şeklinde, “mahkemenin” ibaresi “hâkimin” şeklinde,
-“mahkeme” ibareleri “hâkim” şeklinde, aynı maddenin dördüncü fıkrasında yer
-alan “mahkeme” ibaresi “hâkim” şeklinde değiştirilmiştir.
+maddesiyle, bu maddenin birinci birinci fıkrasında yer alan “ağır ceza mahkemesi”
+ibaresi “hâkim” şeklinde, “mahkemenin” ibaresi “hâkimin” şeklinde, “mahkeme”
+ibareleri “hâkim” şeklinde, aynı maddenin dördüncü fıkrasında yer alan “mahkeme”
+ibaresi “hâkim” şeklinde değiştirilmiştir.
 
 [35]
 
@@ -9234,9 +9241,9 @@ numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metninden
 2/12/2014 tarihli ve 6572 sayılı Kanunun 42
 nci maddesiyle, bu maddeye beşinci fıkradan sonra gelmek üzere (6) numaralı
 fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, mevcut yedinci
-fıkranın (a) bendinin (14) numaralı alt bendi metne işlendiği şekilde
-değiştirilmiş, bu alt bentten sonra gelmek üzere (15) numaralı alt bent
-eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+fıkranın (a) bendinin (14) numaralı alt bendi metne işlendiği şekilde değiştirilmiş,
+bu alt bentten sonra gelmek üzere (15) numaralı alt bent eklenmiş ve diğer alt
+bent buna göre teselsül ettirilmiştir.
 
 [37]
 
@@ -9280,8 +9287,8 @@ maddesiyle bu fıkrada geçen "halinde" ibaresinden sonra gelmek üzere
 [43]
 8/7/2021 tarihli ve 7331 sayılı Kanunun 18 inci
 maddesiyle, bu fıkraya “soruşturma” ibaresinden sonra gelmek üzere “veya
-kovuşturma” ibaresi eklenmiş ve fıkrada yer alan “Başsavcılığı,” ibaresi
-“başsavcılığı veya mahkeme,” şeklinde değiştirilmiştir.
+kovuşturma” ibaresi eklenmiş ve fıkrada yer alan “Başsavcılığı,” ibaresi “başsavcılığı
+veya mahkeme,” şeklinde değiştirilmiştir.
 
 [44]
 24/11/2016 tarihli ve 6763 sayılı Kanunun 27 inci
@@ -9304,13 +9311,13 @@ mevcut (6) numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metnin
 
 [46]
 
-24/11/2016 tarihli ve 6763 sayılı Kanunun 28
-inci maddesiyle, bu bendin (1) numaralı alt bendine “(madde 79, 80)”
-ibaresinden sonra gelmek üzere “ile organ veya doku ticareti (madde 91)”
-ibaresi, (3) numaralı alt bendine “(madde 148, 149)” ibaresinden sonra gelmek
-üzere “ile nitelikli dolandırıcılık (madde 158)” ibaresi eklenmiş, aynı bende
-(8) numaralı alt bendinden sonra gelmek üzere (9) numaralı alt bent eklenmiş ve
-diğer alt bentler buna göre teselsül ettirilmiştir.
+24/11/2016 tarihli ve 6763 sayılı Kanunun 28 inci
+maddesiyle, bu bendin (1) numaralı alt bendine “(madde 79, 80)” ibaresinden
+sonra gelmek üzere “ile organ veya doku ticareti (madde 91)” ibaresi, (3)
+numaralı alt bendine “(madde 148, 149)” ibaresinden sonra gelmek üzere “ile nitelikli
+dolandırıcılık (madde 158)” ibaresi eklenmiş, aynı bende (8) numaralı alt
+bendinden sonra gelmek üzere (9) numaralı alt bent eklenmiş ve diğer alt
+bentler buna göre teselsül ettirilmiştir.
 
 [47]
 
@@ -9559,17 +9566,17 @@ Kanunun 31 inci maddesiyle ikinci fıkra eklenmiş ve diğer fıkralar buna gör
 teselsül ettirilmiştir.
 
 [85]
-2/1/2017 tarihli ve 680 sayılı KHK’nin 12 nci
-maddesiyle, bu bende “başvurmayan” ibaresinden sonra gelmek üzere “şüpheli
-veya” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
-Kanunun 11 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+2/1/2017 tarihli ve 680 sayılı KHK’nin 12 nci maddesiyle,
+bu bende “başvurmayan” ibaresinden sonra gelmek üzere “şüpheli veya” ibaresi
+eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 11 inci
+maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
 [86]
-24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü
-maddesiyle, bu maddenin birinci fıkrasına “sanığın” ibaresinden sonra gelmek
-üzere “Cumhuriyet savcısına başvurmasını veya” ibaresi ve “orantılı olarak”
-ibaresinden sonra gelmek üzere “Cumhuriyet savcısının istemi üzerine sulh ceza
-hâkimi veya” ibaresi eklenmiş; ikinci fıkrasının (a) bendine (16) numaralı alt
+24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle,
+bu maddenin birinci fıkrasına “sanığın” ibaresinden sonra gelmek üzere
+“Cumhuriyet savcısına başvurmasını veya” ibaresi ve “orantılı olarak”
+ibaresinden sonra gelmek üzere “Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi
+veya” ibaresi eklenmiş; ikinci fıkrasının (a) bendine (16) numaralı alt
 bendinden sonra gelmek üzere (17) numaralı alt bent eklenmiş, diğer alt bentler
 buna göre teselsül ettirilmiştir.
 
@@ -9661,18 +9668,17 @@ bentler eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
 
 [99]
 
-17/10/2019 tarihli ve
-7188 sayılı Kanunun 26 ncı maddesiyle üçüncü fıkraya “birlikte” ibaresinden
+17/10/2019
+tarihli ve 7188 sayılı Kanunun 26 ncı maddesiyle üçüncü fıkraya “birlikte” ibaresinden
 sonra gelmek üzere “aynı mağdura karşı” ibaresi eklenmiş, onikinci fıkrada yer
 alan “en çok yirmi gün daha” ibaresi “her defasında yirmi günü geçmemek üzere
 en fazla iki kez” şeklinde değiştirilmiştir.
 
 [100]
 
-24/11/2016 tarihli ve 6763 sayılı Kanunun 34
-üncü maddesiyle, bu maddenin onbeşinci ve yirmibirinci fıkralarında yer alan
-“Cumhuriyet savcısına” ibareleri “uzlaştırma bürosuna” şeklinde
-değiştirilmiştir.
+24/11/2016 tarihli ve 6763 sayılı Kanunun 34 üncü maddesiyle,
+bu maddenin onbeşinci ve yirmibirinci fıkralarında yer alan “Cumhuriyet
+savcısına” ibareleri “uzlaştırma bürosuna” şeklinde değiştirilmiştir.
 
 [101]
 
@@ -9691,16 +9697,26 @@ değiştirilmiştir.
 
 [103]
 
+8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci
+maddesiyle bu bentte
+yer
+alan “suça sürüklenen” ibaresi “
+adli süreçteki
+”
+şeklinde değiştirilmiştir.
+
+[104]
+
 24/11/2016 tarihli ve 6763 sayılı Kanunun 34 üncü
 maddesiyle, bu fıkrada yer alan “etkin pişmanlık hükümlerine yer verilen suçlar
 ile” ibaresi madde metninden çıkarılmıştır.
 
-[104]
+[105]
 12/5/2022 tarihli ve 7406 sayılı Kanunun 12 nci
 maddesiyle bu fıkrada yer alan “suçlarda,” ibaresi “suçlarda ve ısrarlı takip
 suçunda (madde 123/A),” şeklinde değiştirilmiştir.
 
-[105]
+[106]
 
 7/11/2024 tarihli ve 7531 sayılı Kanunun 16 ncı
 maddesiyle üçüncü fıkrasında yer alan “suçlarda ve ısrarlı takip suçunda (madde
@@ -9708,7 +9724,7 @@ maddesiyle üçüncü fıkrasında yer alan “suçlarda ve ısrarlı takip suç
 hakaret suçunda (125 inci maddenin ikinci fıkrası), uzlaştırma” şeklinde ve
 dördüncü fıkrasında yer alan “üç gün” ibaresi “yedi gün” şeklinde değiştirilmiştir.
 
-[106]
+[107]
 
 24/12/2025 tarihli ve 7571 sayılı Kanunun 24 üncü
 maddesiyle bu fıkrada
@@ -9716,7 +9732,7 @@ yer
 alan “(125 inci maddenin ikinci fıkrası),” ibaresi “(madde 125)” şeklinde
 değiştirilmiştir.
 
-[107]
+[108]
 24/11/2016 tarihli ve 6763 sayılı Kanunun 34 üncü
 maddesiyle, bu fıkrada yer alan “hâlinde, Cumhuriyet savcısı veya talimatı
 üzerine adlî kolluk görevlisi” ibaresi “ve kamu davası açılması için yeterli
@@ -9724,35 +9740,36 @@ maddesiyle, bu fıkrada yer alan “hâlinde, Cumhuriyet savcısı veya talimat�
 tarafından görevlendirilen uzlaştırmacı” şeklinde ve “Cumhuriyet savcısı”
 ibaresi “Uzlaştırmacı,” şeklinde değiştirilmiştir.
 
-[108]
+[109]
 24/11/2016 tarihli ve 6763 sayılı Kanunun 34 üncü
 maddesiyle, bu fıkrada yer alan “Cumhuriyet savcısı” ibaresi “Uzlaştırma
 bürosu” şeklinde değiştirilmiştir.
 
-[109]
+[110]
 Anayasa Mahkemesinin 26/7/2023 Tarihli ve E: 2023/43,
 K: 2023/141 Sayılı Kararı ile bu fıkrada
 yer alan "
 
-Uzlaşmanın sağlanması halinde, soruşturma konusu suç
-nedeniyle tazminat davası açılamaz;
-..." ibaresi
+Uzlaşmanın sağlanması halinde, soruşturma konusu suç nedeniyle
+tazminat davası açılamaz;
+..."
+ibaresi
 iptal edilmiştir.
 
-[110]
+[111]
 
 7/11/2024 tarihli ve 7531 sayılı Kanunun 16 ncı maddesiyle
 bu fıkranın beşinci cümlesinin başına “Uzlaşmanın sağlanması halinde, uzlaşma
 anında tespit edilemeyen veya uzlaşmadan sonra ortaya çıkan zararlar hariç,
 soruşturma konusu suç nedeniyle tazminat davası açılamaz;” ibaresi eklenmiştir.
 
-[111]
+[112]
 
 7/11/2024 tarihli ve 7531 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer
-alan “avukatların veya hukuk öğrenimi görmüş kişilerin” ibaresi “hukuk
-fakültesi mezunlarının” şeklinde değiştirilmiştir.
+alan “avukatların veya hukuk öğrenimi görmüş kişilerin” ibaresi “hukuk fakültesi
+mezunlarının” şeklinde değiştirilmiştir.
 
-[112]
+[113]
 
 24/11/2016 tarihli ve 6763 sayılı Kanunun 35
 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “uzlaştırma işlemleri”
@@ -9760,32 +9777,32 @@ ibaresi “kovuşturma dosyası, uzlaştırma işlemlerinin” şeklinde ve “g
 mahkeme tarafından yapılır.” ibaresi “göre yerine getirilmesi için uzlaştırma
 bürosuna gönderilir.” şeklinde değiştirilmiştir.
 
-[113]
-
-2/3/2024 tarihli ve 7499 sayılı
-Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi “iki hafta”
-şeklinde değiştirilmiştir.
-
 [114]
+
+2/3/2024 tarihli ve 7499 sayılı Kanunun
+37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi “iki hafta” şeklinde
+değiştirilmiştir.
+
+[115]
 
 2/3/2024 tarihli ve 7499 sayılı
 Kanunun 37 nci maddesi ile bu bentte yer alan “üçbin” ibaresi “onbeşbin”
 şeklinde değiştirilmiştir.
 
-[115]
-2/3/2024 tarihli ve 7499 sayılı Kanunun
-18 inci maddesi ile birinci fıkrasında yer alan “hükmün açıklanmasından
-itibaren yedi gün” ibaresi “hükmün gerekçesiyle birlikte tebliğ edildiği
-tarihten itibaren iki hafta” şeklinde, üçüncü ve beşinci fıkralarında yer alan
-“yedi gün” ibareleri “iki hafta” şeklinde değiştirilmiştir.
-
 [116]
+2/3/2024 tarihli ve 7499 sayılı Kanunun
+18 inci maddesi ile birinci fıkrasında yer alan “hükmün açıklanmasından itibaren
+yedi gün” ibaresi “hükmün gerekçesiyle birlikte tebliğ edildiği tarihten
+itibaren iki hafta” şeklinde, üçüncü ve beşinci fıkralarında yer alan “yedi
+gün” ibareleri “iki hafta” şeklinde değiştirilmiştir.
+
+[117]
 
 2/3/2024 tarihli ve 7499 sayılı
 Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi “iki hafta”
 şeklinde değiştirilmiştir.
 
-[117]
+[118]
 
 15/8/2016 tarihli ve 674 sayılı KHK’nin 15 inci maddesiyle,
 bu fıkrada yer alan “sunulmak üzere, Cumhuriyet Başsavcılığı tarafından bölge
@@ -9793,14 +9810,14 @@ adliye mahkemesi Cumhuriyet Başsavcılığına” ibaresi yürürlükten kaldı
 olup, daha sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 15 inci
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[118]
+[119]
 Bu madde başlığı “Bölge adliye mahkemesi
 Cumhuriyet savcısının görevi” iken, 15/8/2016 tarihli ve 674 sayılı KHK’nin 14
 üncü maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra bu hüküm
 10/11/2016 tarihli ve 6758 sayılı Kanunun 14 üncü maddesiyle aynen kabul
 edilerek kanunlaşmıştır.
 
-[119]
+[120]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 15
 inci maddesiyle, bu fıkranın (a) bendinde yer alan “(c)” ibaresi “(a), (c),
@@ -9808,7 +9825,7 @@ inci maddesiyle, bu fıkranın (a) bendinde yer alan “(c)” ibaresi “(a), (
 ve (c) bentleri eklenmiş, mevcut (b) ve (c) bentleri (d) ve (e) bentleri olarak
 teselsül ettirilmiştir.
 
-[120]
+[121]
 
 18/6/2014 tarihli ve
 6545 sayılı Kanunun 77 nci maddesiyle, bu fıkranın (a) bendine “303 üncü
@@ -9817,7 +9834,7 @@ ihlallerin varlığı hâlinde hukuka aykırılığın düzeltilerek istinaf ba�
 esastan reddine,” ibaresi eklenmiş; (c) bendinde yer alan “ilk derece
 mahkemesinin kararını kaldırarak” ibaresi madde metninden çıkarılmıştır.
 
-[121]
+[122]
 
 15/8/2016 tarihli ve 674
 sayılı KHK’nin 15 inci maddesiyle, bu fıkrada yer alan “Cumhuriyet
@@ -9825,20 +9842,20 @@ Başsavcılığının tebliğnamesini,” ibaresi yürürlükten kaldırılmış
 sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 15 inci maddesiyle aynen
 kabul edilerek kanunlaşmıştır.
 
-[122]
+[123]
 17/10/2019 tarihli ve 7188 sayılı Kanunun 27 nci
 maddesiyle (b) bendinden sonra gelmek üzere (c) bendi, mevcut (d) bendinden
 sonra gelmek üzere (f) bendi eklenmiş ve bentler buna göre teselsül ettirilmiştir.
 
-[123]
+[124]
 
 20/11/2017 tarihli ve 696 sayılı KHK’nin 98 inci
-maddesiyle, bu maddenin birinci fıkrasının (d) bendinde yer alan “maddede”
-ibaresi “maddenin birinci fıkrasının (g) ve (h) bentleri hariç diğer
-bentlerinde” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve
-7079 sayılı Kanunun 92 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+maddesiyle, bu maddenin birinci fıkrasının (d) bendinde yer alan “maddede” ibaresi
+“maddenin birinci fıkrasının (g) ve (h) bentleri hariç diğer bentlerinde”
+şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı
+Kanunun 92 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[124]
+[125]
 
 24/12/2025 tarihli ve 7571 sayılı Kanunun 25 inci
 maddesiyle bu bentte
@@ -9846,41 +9863,41 @@ yer
 alan “maddenin birinci fıkrasının (g) ve (h) bentleri hariç diğer bentlerinde” ibaresi
 “maddede” şeklinde değiştirilmiştir.
 
-[125]
+[126]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 16 ncı
 maddesiyle, bu fıkraya “mahkemesi” ibaresinden sonra gelmek üzere “daire”
 ibaresi eklenmiştir.
 
-[126]
+[127]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 17
 nci maddesiyle, bu fıkranın (a) bendinde yer alan “okunur” ibaresi “anlatılır”
-şeklinde, (b) bendinde yer alan “de okunur” ibaresi “anlatılır” şeklinde
-değiştirilmiş, aynı fıkraya (c) bendinden sonra gelmek üzere (d) bendi eklenmiş
-ve mevcut (d) bendi (e) bendi olarak teselsül ettirilmiştir.
-
-[127]
-
-20/11/2017 tarihli ve 696 sayılı KHK’nin 99
-uncu maddesiyle, bu bentte yer alan “okunur” ibaresi “anlatılır” şeklinde
-değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 93
-üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
+şeklinde, (b) bendinde yer alan “de okunur” ibaresi “anlatılır” şeklinde değiştirilmiş,
+aynı fıkraya (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut (d)
+bendi (e) bendi olarak teselsül ettirilmiştir.
 
 [128]
 
-20/7/2017 tarihli ve 7035 sayılı Kanunun 18
-inci maddesiyle, bu fıkraya “yoluna” ibaresinden sonra gelmek üzere “yalnız”
-ibaresi eklenmiştir.
+20/11/2017 tarihli ve 696 sayılı KHK’nin 99
+uncu maddesiyle, bu bentte yer alan “okunur” ibaresi “anlatılır” şeklinde değiştirilmiş,
+daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 93 üncü maddesiyle
+aynen kabul edilerek kanunlaşmıştır.
 
 [129]
+
+20/7/2017 tarihli ve 7035 sayılı Kanunun 18
+inci maddesiyle, bu fıkraya “yoluna” ibaresinden sonra gelmek üzere “yalnız” ibaresi
+eklenmiştir.
+
+[130]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 19
 uncu maddesiyle, bu fıkrada yer alan “Türk Ceza Kanununun” ibaresi “23/4/2016
 tarihli ve 6706 sayılı Cezaî Konularda Uluslararası Adlî İş Birliği Kanununun”
 şeklinde değiştirilmiştir.
 
-[130]
+[131]
 
 18/6/2014 tarihli ve
 6545 sayılı Kanunun 78 inci maddesiyle bu fıkranın (d) bendinde yer alan “suç
@@ -9888,44 +9905,44 @@ niteliğini değiştirmeyen” ibaresi “her türlü” şeklinde değiştirilm
 bendinde yer alan “bölge adliye mahkemesince verilen beraat kararları ile”
 ibaresi madde metninden çıkarılmıştır.
 
-[131]
+[132]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 20
 nci maddesiyle, (b) bendinden sonra gelmek üzere (c) bendi eklenmiş ve diğer
 bentler buna göre teselsül ettirilmiştir.
 
-[132]
+[133]
 
 13/10/2022 tarihli ve 7418 sayılı Kanunun 30
 uncu maddesiyle, (6) numaralı alt bentten sonra gelmek üzere alt bent eklenmiş
 ve diğer alt bentler buna göre teselsül ettirilmiştir.
 
-[133]
+[134]
 2/3/2024 tarihli ve 7499 sayılı Kanunun
 19 uncu maddesi ile bu fıkrada yer alan “hükmün açıklanmasından itibaren on beş
 gün” ibaresi “hükmün gerekçesiyle birlikte tebliğ edildiği tarihten itibaren
 iki hafta” şeklinde değiştirilmiştir.
 
-[134]
+[135]
 
 2/3/2024 tarihli ve 7499 sayılı
 Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi “iki hafta”
 şeklinde değiştirilmiştir.
 
-[135]
+[136]
 
 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile birinci fıkrada
 yer alan “yedi gün” ibaresi “iki hafta” ve üçüncü fıkrada yer alan “bir hafta”
 ibaresi “iki hafta” şeklinde değiştirilmiştir.
 
-[136]
+[137]
 
 15/8/2016 tarihli ve 674 sayılı KHK’nin 15 inci
 maddesiyle, bu fıkrada yer alan “Cumhuriyet Başsavcılığı” ibaresi yürürlükten
 kaldırılmış olup, daha sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun
 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[137]
+[138]
 
 20/11/2017 tarihli ve 696 sayılı KHK’nin 100
 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “sanığın veya
@@ -9934,79 +9951,79 @@ ibaresi “uygun görmesi halinde duruşma yoluyla yapabilir” şeklinde
 değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 94
 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[138]
+[139]
 
 20/2/2019 tarihli ve 7165 sayılı Kanunun 9 uncu maddesiyle,
 ikinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre
 teselsül ettirilmiştir.
 
-[139]
+[140]
 
 20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü
 maddesiyle, bu bölüm başlığında yer alan “Yargıtay” ibaresi metinden
 çıkarılmıştır.
 
-[140]
-Anayasa Mahkemesinin 26/1/2022 tarihli ve E.:2021/48;
-K.:2022/7 sayılı Kararı ile bu fıkranın birinci cümlesi “sanığın aleyhine
-itirazlar” yönünden iptal edilmiştir.
-
 [141]
+Anayasa Mahkemesinin 26/1/2022 tarihli ve E.:2021/48;
+K.:2022/7 sayılı Kararı ile bu fıkranın birinci cümlesi “sanığın aleyhine itirazlar”
+yönünden iptal edilmiştir.
+
+[142]
 
 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer
 alan “otuz gün” ibaresi “bir ay” ve “yedi gün” ibaresi “iki hafta” şeklinde
 değiştirilmiştir.
 
-[142]
+[143]
 6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesiyle
 bu fıkrada yer alan "Adalet Bakanı" ibaresi, "Adalet Bakanlığı"
 olarak değiştirilmiştir.
 
-[143]
+[144]
 6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı
 maddesiyle bu fıkrada yer alan "Adalet Bakanı" ibaresi, "Adalet Bakanlığı"
 olarak değiştirilmiştir.
 
-[144]
+[145]
 25/7/2018 tarihli ve 7145 sayılı Kanunun 18 inci
 maddesiyle, bu bentte yer alan “tespit edilmiş olması” ibaresinden sonra gelmek
 üzere “veya ceza hükmü aleyhine Avrupa İnsan Hakları Mahkemesine yapılan
 başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme
 kararı verilmesi” ibaresi eklenmiştir.
 
-[145]
+[146]
 
 2/3/2024 tarihli ve 7499 sayılı
 Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi “iki hafta”
 şeklinde değiştirilmiştir.
 
-[146]
+[147]
 
 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer
 alan “yedi günlük” ibaresi “iki haftalık” şeklinde değiştirilmiştir.
 
-[147]
-
-Anayasa Mahkemesinin 25/6/2020 tarihli ve
-E.:2020/16; K.:2020/33 sayılı Kararı ile bu fıkrada yer alan “kovuşturma
-evresine geçilmiş” ibaresinin aynı bentte yer alan "basit yargılama
-usulü" yönünden Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
-
 [148]
+
+Anayasa Mahkemesinin 25/6/2020 tarihli ve E.:2020/16;
+K.:2020/33 sayılı Kararı ile bu fıkrada yer alan “kovuşturma evresine geçilmiş”
+ibaresinin aynı bentte yer alan "basit yargılama usulü" yönünden
+Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
+
+[149]
 
 Anayasa Mahkemesinin 14/1/2021 tarihli ve
 E.:2020/81; K.:2021/4 sayılı Kararı ile bu fıkrada yer alan “…hükme bağlanmış…”
 ibaresinin aynı bentte yer alan "basit yargılama usulü" yönünden
 Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
 
-[149]
+[150]
 
 Anayasa Mahkemesinin 21/4/2022 tarihli ve
 E.:2020/87; K.:2022/44 sayılı Kararı ile bu bentte yer alan “…kovuşturma
 evresine geçilmiş, hükme bağlanmış…” ibaresinin "seri muhakeme usulü"
 yönünden Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
 
-[150]
+[151]
 Bu maddede yer alan "1 Nisan 2005“ ibaresi,
 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran
 2005“ şeklinde değiştirilmiştir.
