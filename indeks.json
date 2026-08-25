@@ -6086,7 +6086,7 @@
       "type": "KANUN",
       "path": "kanunlar/6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanun",
       "source_mevzuat_id": "103126",
-      "content_sha256": "db5a3e81f8ef35eb20b38ec073ce902edd94d251f18e6e6d03db9ce4f4e84020",
+      "content_sha256": "1f460b2cdcada53e0c8d088cddd902356675fbc33d909e512b2fb006ee3e8349",
       "fetch_status": "ok"
     },
     {
@@ -7743,15 +7743,6 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanunu",
       "source_mevzuat_id": "103036",
       "content_sha256": "b69bf3fbc481f197191c49c49ccebe4e3f1b73501acb436230247db0731a010a",
-      "fetch_status": "ok"
-    },
-    {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "KANUN",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "102948",
-      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
       "fetch_status": "ok"
     },
     {
@@ -9651,6 +9642,15 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
+      "fetch_status": "ok"
+    },
+    {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "MULGA",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "335467",
+      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {
