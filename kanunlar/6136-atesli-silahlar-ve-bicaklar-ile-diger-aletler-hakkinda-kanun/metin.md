@@ -597,23 +597,33 @@ Lirasına kadar idari para cezasına hükmolunur.
 Bu madde hükümlerine göre idari para
 cezası vermeye mülki idare amiri yetkilidir.
 
+Madde 13/A-
+
+(Ek:8/8/2026-7593/1 md.)
+
+Ateşli silahın dikkat ve
+özen yükümlülüğüne aykırı şekilde muhafaza edilmesi suretiyle çocuk tarafından
+ele geçirilmesine neden olan kişi, fiil daha ağır cezayı gerektiren başka bir
+suç oluşturmadığı takdirde bir yıldan üç yıla kadar hapis cezası ile
+cezalandırılır.
+
 Madde 14 – (Değişik:
 23/1/2008-5728/157 md.)
 
-Her kim, bu Kanun
-hükümlerine aykırı olarak 4 üncü maddede yazılı olan bıçak veya başkaca aletler
-yahut benzerlerini ülkeye sokar, sokmaya kalkışır veya bunların ülkeye
-sokulmasına aracılık eder veya bunları ülkede yapar veya bir yerden diğer bir
-yere taşır veya yollar veya taşımaya aracılık ederse iki yıldan beş yıla kadar
-hapis ve ikiyüz günden az olmamak üzere adlî para cezası ile cezalandırılır.
-Suç konusu bıçak ve aletlerin niteliği veya sayı olarak azlığı halinde
-verilecek ceza yarısına kadar indirilir.
+Her kim, bu Kanun hükümlerine
+aykırı olarak 4 üncü maddede yazılı olan bıçak veya başkaca aletler yahut benzerlerini
+ülkeye sokar, sokmaya kalkışır veya bunların ülkeye sokulmasına aracılık eder
+veya bunları ülkede yapar veya bir yerden diğer bir yere taşır veya yollar veya
+taşımaya aracılık ederse iki yıldan beş yıla kadar hapis ve ikiyüz günden az
+olmamak üzere adlî para cezası ile cezalandırılır. Suç konusu bıçak ve
+aletlerin niteliği veya sayı olarak azlığı halinde verilecek ceza yarısına
+kadar indirilir.
 
-Birinci fıkradaki
-eylemleri işlemek amacı ile teşekkül kuranlar ile yönetenler veya teşekküle
-mensup olanlar tarafından sözü geçen fıkrada yazılı suçlar işlenirse failler
-hakkında beş yıldan on yıla kadar hapis ve bin günden onbin güne kadar adlî
-para cezasına hükmolunur.
+Birinci fıkradaki eylemleri
+işlemek amacı ile teşekkül kuranlar ile yönetenler veya teşekküle mensup olanlar
+tarafından sözü geçen fıkrada yazılı suçlar işlenirse failler hakkında beş
+yıldan on yıla kadar hapis ve bin günden onbin güne kadar adlî para cezasına
+hükmolunur.
 
 Birinci fıkrada yazılı
 suçları ikinci fıkradaki hal dışında iki veya daha çok kişinin birlikte
@@ -700,10 +710,10 @@ Meclisi Mumafız Taburu personeli silahlarını taşıyabilirler.
 (A), (B) ve (C) bentlerinde sayılan yerlere silahla giren veya
 buralarda silah taşıyan kişiler, fiilleri daha ağır cezayı gerektiren başka bir
 suç oluşturmadığı takdirde, elli günden az olmamak üzere adlî para cezası ile
-cezalandırılır. Ayrıca, bu kişilerin silah ruhsatları bulundurmaya çevrilir.
-Önödeme veya mahkûmiyet kararındaki adlî para cezasının infaz edildiği
-veya düştüğü tarihten itibaren beş yıllık süre geçmediği takdirde, bu kişilere
-taşıma ruhsatı verilmez.
+cezalandırılır. Ayrıca, bu kişilerin silah ruhsatları bulundurmaya çevrilir. Önödeme
+veya mahkûmiyet kararındaki adlî para cezasının infaz edildiği veya
+düştüğü tarihten itibaren beş yıllık süre geçmediği takdirde, bu kişilere taşıma
+ruhsatı verilmez.
 
 Ek
 Madde 2 – (Ek: 12/6/1979 - 2249/13 md. ; Mülga: 23/1/2008-5728/578 md.)
@@ -854,10 +864,10 @@ Emniyet Genel Müdürlüğü tarafından yurt içinde veya yurt dışında serbe
 satılır. Bu satışlara ait işlemler 1050 sayılı Muhasebei Umumiye Kanunu ve 2886
 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.
 
-(Değişik üçüncü fıkra: 14/7/2004-5217/16 md.)
-Birinci
-ve ikinci fıkralara göre satışlardan elde edilen gelirler bütçeye gelir
-kaydedilir.
+(Değişik üçüncü fıkra:
+14/7/2004-5217/16 md.)
+Birinci ve ikinci fıkralara göre
+satışlardan elde edilen gelirler bütçeye gelir kaydedilir.
 
 Ek
 Madde 11 – (Ek: 22/11/1990 - 3684/5 md.)
@@ -884,13 +894,13 @@ sebebiyle elkonulan, milli savunma veya iç güvenlik hizmetleriyle doğrudan
 ilgili silah, mühimmat, araç ve gereç ile sarf malzemesinin delil olarak
 saklanmasına gerek bulunmaması halinde, bu eşyaların Türk Silahlı Kuvvetleri,
 Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı veya Sahil Güvenlik
-Komutanlığına tahsis edilmesi, mahallin en büyük mülki amiri tarafından
-soruşturma evresinde hakim veya kovuşturma evresinde mahkemeden talep
-edilebilir. Talep üzerine verilen kararlara karşı itiraz edilebilir. Soruşturma
-veya kovuşturma sonunda elkonulan eşyanın iadesine karar verildiği takdirde
-iadenin konusunu rayiç değer oluşturur. Bu maddenin uygulanmasına ilişkin usul
-ve esaslar Adalet, İçişleri, Maliye ve Milli Savunma Bakanlıklarınca müştereken
-çıkarılan yönetmelikle belirlenir.
+Komutanlığına tahsis edilmesi, mahallin en büyük mülki amiri tarafından soruşturma
+evresinde hakim veya kovuşturma evresinde mahkemeden talep edilebilir. Talep
+üzerine verilen kararlara karşı itiraz edilebilir. Soruşturma veya kovuşturma
+sonunda elkonulan eşyanın iadesine karar verildiği takdirde iadenin konusunu
+rayiç değer oluşturur. Bu maddenin uygulanmasına ilişkin usul ve esaslar
+Adalet, İçişleri, Maliye ve Milli Savunma Bakanlıklarınca müştereken çıkarılan
+yönetmelikle belirlenir.
 [16]
 
 Geçici
@@ -929,8 +939,7 @@ Geçici
 Madde 3 –
 Bu Kanunun yürürlüğe girdiği tarihte meslek ve sanat
 erbabı tarafından kullanılmakta olup 4 üncü maddede imali izne bağlı olan
-bıçaklar ilgililerin üç ay içinde müracaatı üzerine mahalli zabıtaca
-damgalanır.
+bıçaklar ilgililerin üç ay içinde müracaatı üzerine mahalli zabıtaca damgalanır.
 
 Geçici
 Madde 4 – (Ek: 4/7/1956 - 6768/2 md.)
@@ -1025,8 +1034,8 @@ verileceği kişiler, bu uygulamaya dair diğer hususlar, İçişleri Bakanlığ
 tarafından çıkarılacak yönetmelikle tespit edilir.
 [18]
 
-Geçici Madde 10-(Ek:
-2/7/2018-KHK-703/33 md.)
+Geçici Madde 10-(Ek: 2/7/2018-KHK-703/33
+md.)
 
 Bu maddenin yayımı tarihinde
 Başbakan, Başbakanlık müsteşarı, Başbakanlık ve Başbakanlığa bağlı veya ilgili
@@ -1330,8 +1339,8 @@ KHK/703
 6, 7, 8, 10, Ek Madde 7, Geçici Madde 10
 
 24/6/2018 tarihinde birlikte yapılan
-Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda
-Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
+Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının
+andiçerek göreve başladığı tarihte (9/7/2018)
 
 7190
 
@@ -1363,6 +1372,12 @@ Ek Madde 12
 1, 6, 7, 9, 12, 13
 
 30/11/2024
+
+7593
+
+13/A
+
+18/8/2026
 
 [1]
 12/6/1979 tarih ve 2249 sayılı Kanunun 1 inci
