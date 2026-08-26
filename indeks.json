@@ -5168,7 +5168,7 @@
       "type": "KANUN",
       "path": "kanunlar/5510-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu",
       "source_mevzuat_id": "102950",
-      "content_sha256": "90ace1c2e893ffbb1ff6be2f6f56d983a345aa7ccb5b46f78329c4a5fc062aa4",
+      "content_sha256": "a3973713c1cb92fcf57e869702750dc954a0edf9a1252857f71571b7a137277c",
       "fetch_status": "ok"
     },
     {
@@ -7746,6 +7746,15 @@
       "fetch_status": "ok"
     },
     {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "KANUN",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "102948",
+      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
+      "fetch_status": "ok"
+    },
+    {
       "law_number": "7381",
       "title": "NÜKLEER DÜZENLEME KANUNU",
       "type": "KANUN",
@@ -9642,15 +9651,6 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
-      "fetch_status": "ok"
-    },
-    {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "MULGA",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "335467",
-      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {

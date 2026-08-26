@@ -9848,8 +9848,9 @@ Bu madde kapsamına giren ve malullüklerinin
 sürekli olduğuna Kurum Sağlık Kurulunca karar verilen geçici ve gönüllü köy korucuları
 ile 2330 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde
 sayılan hizmetlerinden dolayı malullük aylığı bağlananlar 442 sayılı Kanunda öngörülen
-yaş hadlerine kadar, er ve erbaşlar askerlik çağı dışına çıktıkları tarihe kadar
-yeniden muayene edilmelerini Kurumdan isteyebilir.
+yaş hadlerine kadar, er ve erbaşlar 55 yaşını doldurdukları tarihe kadar yeniden
+muayene edilmelerini Kurumdan isteyebilir.
+[232]
 
 Bu madde kapsamına girenler için yukarıdaki fıkralar gereğince
 Kurumun yükleneceği ilâve giderler, ödeme tarihinden itibaren en geç iki ay içinde
@@ -9887,7 +9888,7 @@ bulunan sandıkların iştirakçileri ile aylık veya gelir bağlanmış olanlar
 hak sahiplerinin Sosyal Güvenlik Kurumuna devir tarihini belirlemeye Cumhurbaşkanı
 yetkilidir. Devir tarihi itibarıyla sandık iştirakçileri bu Kanunun 4 üncü maddesinin
 birinci fıkrasının (a) bendi kapsamında sigortalı sayılırlar.
-[232]
+[233]
 
 Sosyal Güvenlik Kurumu, Maliye Bakanlığı, Hazine Müsteşarlığı,
 Devlet Plânlama Teşkilatı Müsteşarlığı, Bankacılık Düzenleme ve Denetleme Kurumu,
@@ -9948,7 +9949,7 @@ beşinci ve altıncı fıkralarında belirtilen farklara ilişkin peşin değeri
 birlikte defaten veya taksitler halinde ödenmesi konusu, Cumhurbaşkanı kararı ile
 belirlenir. Taraflar, Sosyal Güvenlik Kurumunca belirlenecek tarihe kadar görüş
 ve önerilerini yazılı olarak verirler.
-[233]
+[234]
 
 Bu maddenin uygulanmasına ilişkin iş ve işlemlerde Türkiye Odalar,
 Borsalar ve Birlik Personeli Sigorta ve Emekli Sandığı Vakfı iştirakçilerini istihdam
@@ -10345,7 +10346,7 @@ ilçe müdürlüklerince belgelendirmeleri kaydıyla, bu maddenin yürürlük ta
 madde esaslarına göre %45 oranı üzerinden kendileri veya hak sahipleri borçlanabilirler.
 Borçlanılan bu süreler 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık
 süresi sayılır.
-[234]
+[235]
 
 GEÇİCİ MADDE 32 –
 
@@ -10452,7 +10453,7 @@ Türk Silahlı Kuvvetlerinin yönetime el koyduğu 12 Eylül 1980 tarihinden iti
 haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilenlerin, gözaltında
 veya tutuklulukta geçen süreleri için kendilerinin ya da hak sahiplerinin bu durumlarını
 belgeleyerek (…)
-[235]
+[236]
 ,
 gözaltında veya tutuklulukta geçen süreleri, talep tarihinde 82 nci maddeye göre
 belirlenen prime esas günlük kazanç alt sınırının %45’i üzerinden hesaplanacak primlerinin;
@@ -10462,7 +10463,7 @@ ise Hazinece ödenmesi suretiyle borçlandırılır. Bu şekilde borçlanılan s
 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında prim ödeme gün sayısı
 olarak değerlendirilir. Ancak, sigortalılık başlangıç tarihinden önceki borçlanılan
 süreler sigortalılık başlangıç tarihini geriye götürmez.
-[236]
+[237]
 
 5434 sayılı Kanuna tabi çalışmakta iken 1402 sayılı Sıkıyönetim Kanunu uyarınca
 kurulan sıkıyönetim mahkemelerinin görev alanına giren suçlar nedeniyle yakalanan
@@ -10477,7 +10478,7 @@ unsurlar ile kesenek ve karşılık oranları %45 olarak esas alınmak suretiyle
 borçlanma tutarının altı ay içerisinde kendilerince veya hak sahiplerince ödenmesi
 halinde hizmet sürelerine eklenir. Borçlanılan süreler 5434 sayılı Kanunun geçici
 205 inci maddesine göre yaş tespitinde dikkate alınmaz.
-236
+237
 
 Bu maddenin yürürlüğe girdiği tarihe kadar, kendi sigortalılıklarından dolayı
 sosyal güvenlik kanunlarına göre gelir veya aylık bağlanmış olanlar ile birinci
@@ -10512,7 +10513,7 @@ müştereken tespit edilir.
 Birinci fıkra kapsamına girenlerden depremler sonucunda yaralanan veya engelli
 hâle gelenlere verilecek protez, ortez, araç ve gereç bedelleri için katılım payı
 alınmaz.
-[237]
+[238]
 
 GEÇİCİ MADDE 38 –
 
@@ -10593,7 +10594,7 @@ her 240 gün için (1)’er eksiltilir. Maden işyerlerinin yer altı işlerinde
 sigortalı olarak ilk defa çalışmaya başladığı tarihten önce malûl olması, engelliliği
 nedeniyle vergi indiriminden yararlanması veya erken yaşlanması nedeniyle tarafına
 yaşlılık aylığı bağlananlara günden dolayı eksiltme yapılmaz.
-[238]
+[239]
 
 c) Ölüm aylığında; gösterge tablosundan aylık hesaplanmış olan için %60, üst
 gösterge tablosundan aylık hesaplanmış olan için ise 1999 yılı Aralık ayında yürürlükte
@@ -10658,7 +10659,7 @@ yönelik herhangi bir ödeme yapılmaz.
 GEÇİCİ MADDE 41 –
 
 (Ek: 31/5/2012-6322/33 md.)
-[239]
+[240]
 
 31/12/2028
 
@@ -10678,7 +10679,7 @@ tarafından görevlendirilecek iki temsilciden oluşan komisyon tarafından ve g
 bilirkişi mütalaası alınmak suretiyle takdir edilecek değeri üzerinden, borçlu kurumun
 da uygun görüşü alınarak Kurum bütçesinin gelir ve gider hesaplarıyla ilişkilendirilmeksizin
 Kurumca satın alınabilir.
-[240]
+[241]
 
 Bu idarelerin satın alınan taşınmazlarının tapu işlemlerine esas olan ve yukarıda
 belirtilen şekilde tespit edilen değerine eşit tutarda Kuruma ait olan ve 6183 sayılı
@@ -10724,7 +10725,7 @@ bu Kanunun yürürlüğe girdiği tarihten önce 5434 sayılı Kanun hükümleri
 çalışmaya başlamış olup geçici 4 üncü madde kapsamında çalışmaya devam edenler;
 yurt dışında resmî öğrenci olarak geçirmiş oldukları öğrenim sürelerinin 18 yaşının
 tamamlanmasından sonraki döneme ait olan kısmının tamamını veya bir bölümünü, (…)
-[241]
+[242]
 
 müracaat etmeleri ve müracaatın kabul edildiği ay itibarıyla geçerli olan emekli
 keseneğine esas kazanç tutarı üzerinden ve borçlanacakları süreye ilişkin
@@ -10735,7 +10736,7 @@ halinde ödeyecek olanların borçlanma işlemi sırasında hesaplanan aylık ta
 borcun ödendiği tarihteki prime esas asgarî kazanca oranlanarak, söz konusu oran
 ilgili ayın prime esas asgarî kazancı ile çarpılır ve bulunan tutar, ilgili ayın
 taksit tutarı kabul edilir.
-[242]
+[243]
 
 Borcunun tamamını peşin ödeyenler ile taksit ödeme dönemi sonunda borcunun
 tamamını ödemiş olduğu tespit olunanların borçlanmış oldukları süreler, fiili hizmet
@@ -10768,7 +10769,7 @@ olan katsayılar esas alınarak belirlenecek emekli keseneğine esas aylık
 tutarlarının %45’i üzerinden Kurum tarafından hesaplanarak halen çalıştıkları veya
 kamu görevlisi olarak en son çalışmış oldukları kamu idarelerine bildirilir ve söz
 konusu tutarlar bu idareler tarafından üç ay içerisinde Kuruma defaten ödenir.
-[243]
+[244]
 
 Haklarında verilmiş disiplin cezaları bütün sonuçları ile 5525 sayılı Kanun
 uyarınca ortadan kaldırılmış olanlardan memuriyetten çıkarılmış oldukları kuruma
@@ -10921,7 +10922,7 @@ da aynı dönemler için geçerli olan aylık prime esas kazanç olarak sayılı
 GEÇİCİ MADDE 53-
 
 (Ek: 10/9/2014-6552/57 md.)
-[244]
+[245]
 
 60 ıncımaddenin birinci fıkrasının (g) bendi kapsamında genel sağlık sigortası
 tescili yapılmış olup da gelir testine hiç başvurmayanlardan bu maddenin yayımını
@@ -11047,8 +11048,8 @@ md.)
 GEÇİCİ MADDE 60-
 
 (Ek: 10/9/2014-6552/81 md.)
-[245]
 [246]
+[247]
 
 (1) 2014 yılı Nisan ve önceki aylara ilişkin olup bu maddenin yayımlandığı
 tarihten önce tahakkuk ettiği hâlde ödenmemiş olan;
@@ -11505,7 +11506,7 @@ bu maddede belirtilen artışlar dışında 55 inci maddeye göre ayrıca artır
 
 GEÇİCİ MADDE 68- (Ek: 14/1/2016-6661/17
 md.)
-[247]
+[248]
 
 (1) Bu Kanunun 4 üncü maddesinin birinci
 fıkrasının (a) bendi kapsamında haklarında uzun vadeli sigorta kolları hükümleri
@@ -11568,7 +11569,7 @@ prim ve hizmet belgelerinde bildirilen prim ödeme gün sayısının yüzde 50�
 üzere, 2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde veya
 muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin toplam
 prim ödeme gün sayısı dikkate alınır.
-[248]
+[249]
 
 (7) Bu madde hükümleri,
 5018 sayılı Kanuna ekli (I) sayılı cetvelde sayılan kamu idarelerine ait kadro ve
@@ -11587,7 +11588,7 @@ hak edişinden kesilir.
 ilişkin yasal süresi dışında Kuruma verilen aylık prim ve hizmet belgelerinde veya
 Maliye Bakanlığına verilecek muhtasar ve prim hizmet beyannamelerinde kayıtlı sigortalılar
 için bu madde hükümleri uygulanmaz.
-[249]
+[250]
 
 (10) Bu maddenin uygulanmasına ilişkin
 usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine
@@ -11627,7 +11628,7 @@ Bakanlar Kurulunca belirlenen tutar ve altında bildirilen sigortalıların topl
 prim ödeme gün sayısını geçmemek üzere, 2017 yılında cari aya ilişkin verilen aylık
 prim ve hizmet belgelerinde veya muhtasar ve prim hizmet beyannamelerinde bildirilen
 sigortalılara ilişkin toplam prim ödeme gün sayısının,
-[250]
+[251]
 
 b) 2017 yılı içinde ilk defa
 bu Kanun kapsamına alınan işyerlerinden bildirilen sigortalılara ilişkin toplam
@@ -11789,7 +11790,7 @@ yapılmaz.
 
 GEÇİCİ MADDE 75- (Ek: 21/3/2018-7103/73
 md.)
-[251]
+[252]
 
 Bu Kanunun 4 üncü maddesinin
 birinci fıkrasının (a) bendi kapsamında haklarında uzun vadeli sigorta kolları hükümleri
@@ -12284,7 +12285,7 @@ hâlinde bu süreler sigortalılık süresi olarak değerlendirilmez ve bu madde
 ödenmiş olan tutarlar ilgilinin prim ve prime ilişkin borcunun bulunmaması kaydıyla
 faizsiz olarak iade edilir. İhya edilerek kazanılan hizmet süreleri borcun ödendiği
 tarihten itibaren geçerli sayılır.
-[252]
+[253]
 
 Birinci fıkraya göre sigortalılıkları durdurulanlar ile bunların bakmakla
 yükümlü olduğu kişiler hakkında 1/1/2012 tarihinden bu maddenin yürürlük tarihine
@@ -12944,8 +12945,8 @@ Bu madde kapsamında
 yapılacak ödemeleri karşılamak amacıyla gerekli olan tutar, yazılı talebe
 istinaden ayrıca fatura aranmaksızın Hazine tarafından Kuruma ödenir.
 (İptal ikinci cümle:
-Anayasa Mahkemesinin 5/11/2024 Tarihli ve
-E: 2023/175, K: 2024/184 Sayılı Kararı ile.)
+Anayasa Mahkemesinin 5/11/2024 Tarihli ve E: 2023/175,
+K: 2024/184 Sayılı Kararı ile.)
 
 Bu maddenin uygulanmasına
 ilişkin usul ve esaslar ile ödeme tarihini belirlemeye Kurum yetkilidir.
@@ -12980,62 +12981,63 @@ mahsup edilmez.
 GEÇİCİ MADDE 101-
 (Ek: 25/1/2024-7495/6 md.)
 
-4 üncü maddenin birinci fıkrasının
-(a) bendi kapsamında haklarında uzun vadeli sigorta kolları hükümleri uygulanan
-sigortalıları çalıştıran işverenlerce;
+4 üncü maddenin
+birinci fıkrasının (a) bendi kapsamında haklarında uzun vadeli sigorta kolları
+hükümleri uygulanan sigortalıları çalıştıran işverenlerce;
 
-a) 2023 yılının aynı ayına ilişkin Kuruma
-verilen aylık prim ve hizmet belgelerinde veya muhtasar ve prim hizmet
-beyannamelerinde prime esas günlük kazancı 671 Türk lirası ve altında
-bildirilen sigortalıların toplam prim ödeme gün sayısını geçmemek üzere, 2024
-yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde veya
-muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin
+a) 2023 yılının aynı
+ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde veya muhtasar ve
+prim hizmet beyannamelerinde prime esas günlük kazancı 671 Türk lirası ve
+altında bildirilen sigortalıların toplam prim ödeme gün sayısını geçmemek
+üzere, 2024 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde
+veya muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin
 toplam prim ödeme gün sayısının,
 
-b) 2024 yılı içinde ilk defa bu
-Kanun kapsamına alınan işyerlerinden bildirilen sigortalılara ilişkin toplam
-prim ödeme gün sayısının,
+b) 2024 yılı
+içinde ilk defa bu Kanun kapsamına alınan işyerlerinden bildirilen
+sigortalılara ilişkin toplam prim ödeme gün sayısının,
 
-2024 yılı Ocak ila Aralık
-ayları/dönemi için günlük 23,33 Türk lirası ile çarpımı sonucu bulunacak tutar,
-bu işverenlerin Kuruma ödeyecekleri sigorta primlerinden mahsup edilir ve bu
-tutar İşsizlik Sigortası Fonundan karşılanır. Ancak (a) bendinde belirtilen
-prime esas günlük kazanç tutarı, 6356 sayılı Kanun hükümleri uyarınca toplu iş
-sözleşmesine tabi özel sektör işverenlerine ait işyerleri için 1.341 Türk
-lirası olarak esas alınır.
+2024 yılı Ocak
+ila Aralık ayları/dönemi için günlük 23,33 Türk lirası ile çarpımı sonucu
+bulunacak tutar, bu işverenlerin Kuruma ödeyecekleri sigorta primlerinden
+mahsup edilir ve bu tutar İşsizlik Sigortası Fonundan karşılanır. Ancak (a)
+bendinde belirtilen prime esas günlük kazanç tutarı, 6356 sayılı Kanun
+hükümleri uyarınca toplu iş sözleşmesine tabi özel sektör işverenlerine ait
+işyerleri için 1.341 Türk lirası olarak esas alınır.
 
-Bu madde kapsamında destekten
-yararlanılacak ayda/dönemde, 2023 yılı Ocak ila Aralık aylarında/döneminde
-aylık prim ve hizmet belgesi veya muhtasar ve prim hizmet beyannamesi ile 4
-üncü maddenin birinci fıkrasının (a) bendi kapsamında uzun vadeli sigorta
-kollarından en az sigortalı bildirimi yapılan aydaki/dönemdeki sigortalı
-sayısının altında bildirimde bulunulması hâlinde bu madde hükümleri uygulanmaz.
+Bu madde kapsamında
+destekten yararlanılacak ayda/dönemde, 2023 yılı Ocak ila Aralık
+aylarında/döneminde aylık prim ve hizmet belgesi veya muhtasar ve prim hizmet
+beyannamesi ile 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında uzun
+vadeli sigorta kollarından en az sigortalı bildirimi yapılan aydaki/dönemdeki
+sigortalı sayısının altında bildirimde bulunulması hâlinde bu madde hükümleri uygulanmaz.
 
-Mevcut bir işletmenin kapatılarak değişik
-bir ad ve unvan altında ya da bir iş birimi olarak açılması veya yönetim ve
-kontrolü elinde bulunduracak şekilde doğrudan veya dolaylı ortaklık ilişkisi
-bulunan şirketler arasında istihdamın kaydırılması, şahıs işletmelerinde
-işletme sahipliğinin değiştirilmesi gibi İşsizlik Sigortası Fonu katkısından
-yararlanmak amacıyla muvazaalı işlem tesis ettiği anlaşılan veya sigortalıların
-prime esas kazançlarını 2024 yılı Ocak ila Aralık ayları/dönemi için Kuruma
-bildirmediği veya eksik bildirdiği tespit edilen işyerlerinden İşsizlik
-Sigortası Fonunca karşılanan tutar, gecikme cezası ve gecikme zammıyla birlikte
-geri alınır ve bu işyerleri hakkında bu madde hükümleri uygulanmaz.
-Ancak, ilgili ayda 2024 yılı Ocak ila Aralık
-aylarına/dönemine ait aylık brüt asgari ücretin onda birini geçmeyecek tutarda
-eksik prime esas kazanç bildirimi yapıldığının tespiti durumunda Kurumca
-yapılacak ihtar üzerine on beş günlük süre içinde söz konusu eksikliği gideren
-işyerleri hakkında bu madde hükümleri uygulanmaya devam eder.
+Mevcut bir işletmenin
+kapatılarak değişik bir ad ve unvan altında ya da bir iş birimi olarak açılması
+veya yönetim ve kontrolü elinde bulunduracak şekilde doğrudan veya dolaylı
+ortaklık ilişkisi bulunan şirketler arasında istihdamın kaydırılması, şahıs
+işletmelerinde işletme sahipliğinin değiştirilmesi gibi İşsizlik Sigortası Fonu
+katkısından yararlanmak amacıyla muvazaalı işlem tesis ettiği anlaşılan veya
+sigortalıların prime esas kazançlarını 2024 yılı Ocak ila Aralık ayları/dönemi
+için Kuruma bildirmediği veya eksik bildirdiği tespit edilen işyerlerinden
+İşsizlik Sigortası Fonunca karşılanan tutar, gecikme cezası ve gecikme zammıyla
+birlikte geri alınır ve bu işyerleri hakkında bu madde hükümleri
+uygulanmaz.
+Ancak, ilgili ayda 2024 yılı
+Ocak ila Aralık aylarına/dönemine ait aylık brüt asgari ücretin onda birini
+geçmeyecek tutarda eksik prime esas kazanç bildirimi yapıldığının tespiti
+durumunda Kurumca yapılacak ihtar üzerine on beş günlük süre içinde söz konusu
+eksikliği gideren işyerleri hakkında bu madde hükümleri uygulanmaya devam eder.
 
-İşyerinde çalıştırılan sigortalılarla
-ilgili 2024 yılı Ocak ila Aralık aylarına/dönemine ait aylık prim ve hizmet
-belgelerinin veya muhtasar ve prim hizmet beyannamelerinin yasal süresi içinde
-verilmediği, sigorta primlerinin yasal süresinde ödenmediği, denetim ve
-kontrolle görevli memurlarca yapılan soruşturma ve incelemelerde; çalıştırılan
-kişilerin sigortalı olarak bildirilmediği veya bildirilen sigortalının fiilen
-çalıştırılmadığı durumlarının tespit edilmesi, Kuruma prim, idari para cezası
-ve bunlara ilişkin gecikme cezası ve gecikme zammı borcunun bulunması
-hâllerinde bu maddeye ilişkin hükümler uygulanmaz.
+İşyerinde çalıştırılan
+sigortalılarla ilgili 2024 yılı Ocak ila Aralık aylarına/dönemine ait aylık
+prim ve hizmet belgelerinin veya muhtasar ve prim hizmet beyannamelerinin yasal
+süresi içinde verilmediği, sigorta primlerinin yasal süresinde ödenmediği,
+denetim ve kontrolle görevli memurlarca yapılan soruşturma ve incelemelerde;
+çalıştırılan kişilerin sigortalı olarak bildirilmediği veya bildirilen
+sigortalının fiilen çalıştırılmadığı durumlarının tespit edilmesi, Kuruma prim,
+idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcunun
+bulunması hâllerinde bu maddeye ilişkin hükümler uygulanmaz.
 Ancak Kuruma olan prim, idari para cezası ve bunlara
 ilişkin gecikme cezası ve gecikme zammı borçlarını 6183 sayılı Kanunun 48 inci
 maddesine göre tecil ve taksitlendiren ya da ilgili diğer kanunlar uyarınca
@@ -13043,55 +13045,57 @@ yapılandıran işverenler bu tecil ve taksitlendirme veya yapılandırma devam
 ettiği sürece bu madde hükümlerinden yararlandırılır. Bu maddenin uygulanmasında
 bu Kanunun ek 14 üncü maddesi hükümleri uygulanmaz.
 
-Birinci fıkranın (a) bendinin
-uygulanmasında, bir önceki yılın aynı ayına ilişkin olarak aylık prim ve hizmet
-belgesi veya muhtasar ve prim hizmet beyannamesi verilmemiş olması hâlinde
-bildirim yapılmış takip eden ilk aya ilişkin aylık prim ve hizmet belgesindeki
-veya muhtasar ve prim hizmet beyannamesindeki bildirimler esas alınır. 2023
-yılından önce bu Kanun kapsamına alınmış ancak 2023 yılında sigortalı
-çalıştırmamış işyerleri hakkında birinci fıkranın (b) bendi hükümleri
+Birinci fıkranın
+(a) bendinin uygulanmasında, bir önceki yılın aynı ayına ilişkin olarak aylık
+prim ve hizmet belgesi veya muhtasar ve prim hizmet beyannamesi verilmemiş olması
+hâlinde bildirim yapılmış takip eden ilk aya ilişkin aylık prim ve hizmet
+belgesindeki veya muhtasar ve prim hizmet beyannamesindeki bildirimler esas
+alınır. 2023 yılından önce bu Kanun kapsamına alınmış ancak 2023 yılında
+sigortalı çalıştırmamış işyerleri hakkında birinci fıkranın (b) bendi hükümleri
 uygulanır.
 
-Sigortalı ve işveren hisselerine
-ait sigorta primlerinin Devlet tarafından karşılandığı durumlarda işverenin
-ödeyeceği sigorta priminin İşsizlik Sigortası Fonunca karşılanacak tutardan az olması
-hâlinde sadece sigorta prim borcu kadar mahsup işlemi yapılır.
+Sigortalı ve
+işveren hisselerine ait sigorta primlerinin Devlet tarafından karşılandığı
+durumlarda işverenin ödeyeceği sigorta priminin İşsizlik Sigortası Fonunca
+karşılanacak tutardan az olması hâlinde sadece sigorta prim borcu kadar mahsup
+işlemi yapılır.
 
-3213 sayılı Kanunun ek 9 uncu maddesi
-uyarınca ücretleri asgari ücretin iki katından az olamayacağı hükme bağlanan
-“Linyit” ve “Taşkömürü” çıkarılan işyerlerinde yer altında çalışan sigortalılar
-için birinci fıkranın uygulanmasında (a) bendi uyarınca belirlenecek günlük
-kazanç 1.789 Türk lirası olarak ve 2023 yılının aynı ayına ilişkin Kuruma
-verilen aylık prim ve hizmet belgelerinde veya muhtasar ve prim hizmet
-beyannamelerinde bildirilen prim ödeme gün sayısının bir buçuk katını geçmemek
-üzere, 2024 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde
-veya muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin
-toplam prim ödeme gün sayısı dikkate alınır.
+3213 sayılı Kanunun ek 9
+uncu maddesi uyarınca ücretleri asgari ücretin iki katından az olamayacağı
+hükme bağlanan “Linyit” ve “Taşkömürü” çıkarılan işyerlerinde yer altında
+çalışan sigortalılar için birinci fıkranın uygulanmasında (a) bendi uyarınca
+belirlenecek günlük kazanç 1.789 Türk lirası olarak ve 2023 yılının aynı ayına
+ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde veya muhtasar ve prim
+hizmet beyannamelerinde bildirilen prim ödeme gün sayısının bir buçuk katını
+geçmemek üzere, 2024 yılında cari aya ilişkin verilen aylık prim ve hizmet
+belgelerinde veya muhtasar ve prim hizmet beyannamelerinde bildirilen
+sigortalılara ilişkin toplam prim ödeme gün sayısı dikkate alınır.
 
-Bu madde hükümleri, 5018 sayılı
-Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde sayılan kamu
-idarelerine ait kadro ve pozisyonlarda 4 üncü maddenin birinci fıkrasının (a)
-bendi kapsamında çalışan sigortalılar için uygulanmaz.
+Bu madde
+hükümleri, 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde
+sayılan kamu idarelerine ait kadro ve pozisyonlarda 4 üncü maddenin birinci
+fıkrasının (a) bendi kapsamında çalışan sigortalılar için uygulanmaz.
 
-4734 sayılı Kanunun 2
+4734 sayılı Kanunun
+2
 nci
-maddesinin birinci fıkrasının
-(a), (b), (c) ve (d) bentlerinde sayılan idareler tarafından ilgili mevzuatı
-uyarınca yapılan ve sözleşmesinde fiyat farkı ödeneceği öngörülen hizmet
-alımlarında, ihale dokümanında personel sayısının belirlendiği ve haftalık çalışma
-saatinin tamamının idarede kullanılmasının öngörüldüğü işçilikler için bu
-maddenin birinci fıkrası uyarınca İşsizlik Sigortası Fonu tarafından
-karşılanacak tutarlar bu idarelerce işverenlerin hak edişinden kesilerek
-Türkiye İş Kurumuna iade edilir.
+maddesinin
+birinci fıkrasının (a), (b), (c) ve (d) bentlerinde sayılan idareler tarafından
+ilgili mevzuatı uyarınca yapılan ve sözleşmesinde fiyat farkı ödeneceği
+öngörülen hizmet alımlarında, ihale dokümanında personel sayısının belirlendiği
+ve haftalık çalışma saatinin tamamının idarede kullanılmasının öngörüldüğü
+işçilikler için bu maddenin birinci fıkrası uyarınca İşsizlik Sigortası Fonu
+tarafından karşılanacak tutarlar bu idarelerce işverenlerin hak edişinden
+kesilerek Türkiye İş Kurumuna iade edilir.
 
-2024 Ocak ila Aralık aylarına/dönemine
-ilişkin yasal süresi dışında Kuruma verilen aylık prim ve hizmet belgelerinde
-veya Hazine ve Maliye Bakanlığına verilecek muhtasar ve prim hizmet
-beyannamelerinde kayıtlı sigortalılar için bu madde hükümleri uygulanmaz.
+2024 Ocak ila
+Aralık aylarına/dönemine ilişkin yasal süresi dışında Kuruma verilen aylık prim
+ve hizmet belgelerinde veya Hazine ve Maliye Bakanlığına verilecek muhtasar ve
+prim hizmet beyannamelerinde kayıtlı sigortalılar için bu madde hükümleri uygulanmaz.
 
-Bu maddenin uygulanmasına ilişkin
-usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı ve Türkiye İş Kurumunun
-görüşleri alınmak suretiyle Kurum tarafından belirlenir.
+Bu maddenin
+uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı ve
+Türkiye İş Kurumunun görüşleri alınmak suretiyle Kurum tarafından belirlenir.
 
 GEÇİCİ MADDE 102-
 (Ek: 25/1/2024-7495/7 md.)
@@ -13234,7 +13238,7 @@ md.)
 fıkrasının (ı) bendinin birinci cümlesinde yer alan “iki” ibaresi; aynı bentte
 yer alan şartlarla birlikte işverenlerin imalat sektöründe faaliyet göstermesi
 halinde “beş” olarak uygulanır.
-[253]
+[254]
 
 Bu madde hükümleri 31/12/2026 tarihine
 kadar uygulanmaya devam edilir. Cumhurbaşkanı, bu maddenin uygulanma
@@ -14679,6 +14683,12 @@ Ek Madde 19
 
 (31/7/2026)
 
+7594
+
+Geçici Madde 18
+
+18/8/2026
+
 [1]
 13/2/2011 tarihli ve 6111 sayılı Kanunun 23 üncü
 maddesiyle, (10) numaralı bentte yer alan “Bu Kanunun 60 ıncı maddesinin
@@ -14696,8 +14706,8 @@ maddesiyle bu bentte yer alan “60 ıncı maddenin birinci fıkrasının (c) be
 ıncı maddenin birinci fıkrasının (c) bendinin (1), (2) ve (7) numaralı alt
 bentleri ile yedinci, sekizinci ve onikinci” şeklinde 1/3/2017 tarihinden
 geçerli olmak üzere değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073
-sayılı Kanunun 72 nci maddesiyle aynen kabul edilerek 1/3/2017 tarihinde
-yürürlüğe girmek üzere kanunlaşmıştır.
+sayılı Kanunun 72 nci maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe
+girmek üzere kanunlaşmıştır.
 
 [3]
 17/1/2019 tarihli ve 7161 sayılı Kanunun 40 ıncı
@@ -14828,10 +14838,9 @@ ibarelerinden sonra gelmek üzere “bir gün öncesinden” ibareleri eklenmiş
 
 [23]
 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci
-maddesiyle; 12 nci maddesinin üçüncü fıkrasında yer alan “üçüncü” ibaresi
-“dördüncü”olarak değiştirilmiş; aynı Kanunun 66 ncı maddesiyle “işçi
-sendikaları” ibaresinden sonra gelmek üzere “ve konfederasyonları” ibaresi
-eklenmiştir.
+maddesiyle; 12 nci maddesinin üçüncü fıkrasında yer alan “üçüncü” ibaresi “dördüncü”olarak
+değiştirilmiş; aynı Kanunun 66 ncı maddesiyle “işçi sendikaları” ibaresinden
+sonra gelmek üzere “ve konfederasyonları” ibaresi eklenmiştir.
 
 [24]
 Bu bölüm başlığı “Kısa Vadeli Sigorta Hükümleri”
@@ -14920,14 +14929,14 @@ maddesiyle, bu fıkrada yer alan “özürlerin” ibaresi “engellilik hâller
 şeklinde değiştirilmiştir.
 
 [39]
-17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci
-maddesiyle bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve
-prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
+17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle
+bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve prime
+ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
 
 [40]
 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci
-maddesiyle bu fıkrada yer alan “dördüncü fıkrasında” ibaresi “üçüncü
-fıkrasında”, “hastalık ve analık” ibaresi “analık” şeklinde değiştirilmiştir.
+maddesiyle bu fıkrada yer alan “dördüncü fıkrasında” ibaresi “üçüncü fıkrasında”,
+“hastalık ve analık” ibaresi “analık” şeklinde değiştirilmiştir.
 
 [41]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
@@ -14956,10 +14965,9 @@ maddesiyle; yedinci fıkrada yer alan "50" ibaresi "55"
 ibaresi ise "prim ve prime ilişkin her türlü borcunun" değiştirilmiştir.
 
 [46]
-17/4/2008 tarihli ve 5754 sayılı
-Kanunun 16 ncı maddesiyle; bu fıkrada yer alan "yaş hadlerine"
-ibaresinden sonra gelmek üzere "65 yaşını geçmemek üzere" ibaresi
-eklenmiştir.
+17/4/2008 tarihli ve 5754 sayılı Kanunun
+16 ncı maddesiyle; bu fıkrada yer alan "yaş hadlerine" ibaresinden
+sonra gelmek üzere "65 yaşını geçmemek üzere" ibaresi eklenmiştir.
 
 [47]
 25/4/2013 tarihli ve 6462 sayılı
@@ -15042,9 +15050,9 @@ değiştirilmiştir.
 [60]
 
 13/10/2022 tarihli ve
-7418 sayılı Kanunun 24 üncü maddesiyle bu sırada yer alan “14 sayılı
-Cumhurbaşkanlığı Kararnamesine” ibaresi “9/6/2004 tarihli ve 5187 sayılı Basın
-Kanununa” şeklinde değiştirilmiştir.
+7418 sayılı Kanunun 24 üncü maddesiyle bu sırada yer alan “14 sayılı Cumhurbaşkanlığı
+Kararnamesine” ibaresi “9/6/2004 tarihli ve 5187 sayılı Basın Kanununa”
+şeklinde değiştirilmiştir.
 
 [61]
 
@@ -15095,8 +15103,8 @@ değiştirilmiştir.
 [69]
 Bu madde başlığı, “Cumhurbaşkanlığı, Türkiye Büyük
 Millet Meclisi Başkanlığı ve Başbakanlık görevinde bulunanların aylıkları”
-iken, 17/1/2012 tarihli ve 6270 sayılı Kanunun 5 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
+iken, 17/1/2012 tarihli ve 6270 sayılı Kanunun 5 inci maddesiyle metne işlendiği
+şekilde değiştirilmiştir.
 
 [70]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
@@ -15111,11 +15119,11 @@ ncı maddesiyle bu maddenin üçüncü fıkrasında yer alan “126.000” ibare
 şeklinde değiştirilmiştir.
 
 [72]
-1/7/2022 tarihli ve 7417 sayılı Kanunun 13 üncü
-maddesiyle bu fıkrada yer alan “istek tarihindeki Cumhurbaşkanına ödenmekte
-olan aylık ödeneğin % 40’ı esas alınarak Cumhurbaşkanına bağlanacak yaşlılık
-aylığının %75’i oranında” ibaresi “126.000 gösterge rakamının memur aylık katsayısı
-ile çarpımı sonucu bulunacak tutarda” şeklinde değiştirilmiştir.
+1/7/2022 tarihli ve 7417 sayılı Kanunun 13 üncü maddesiyle
+bu fıkrada yer alan “istek tarihindeki Cumhurbaşkanına ödenmekte olan aylık
+ödeneğin % 40’ı esas alınarak Cumhurbaşkanına bağlanacak yaşlılık aylığının %75’i
+oranında” ibaresi “126.000 gösterge rakamının memur aylık katsayısı ile çarpımı
+sonucu bulunacak tutarda” şeklinde değiştirilmiştir.
 
 [73]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
@@ -15161,9 +15169,9 @@ eklenmiştir.
 
 [78]
 
-4/12/2025 tarihli ve 7566 sayılı
-Kanunun 21 inci maddesiyle bu fıkrada yer alan “kazancı” ibaresi “kazancının
-%45’i” şeklinde değiştirilmiştir.
+4/12/2025 tarihli ve 7566 sayılı Kanunun
+21 inci maddesiyle bu fıkrada yer alan “kazancı” ibaresi “kazancının %45’i”
+şeklinde değiştirilmiştir.
 
 [79]
 Bu madde başlığı "Vazife malûllüğü, harp malûllüğü
@@ -15173,8 +15181,8 @@ sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmişti
 
 [80]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
-Kararnamenin 203 üncü maddesiyle bu bentte yer alan “Kanun, tüzük” ibaresi
-“Mevzuat” şeklinde değiştirilmiştir.
+Kararnamenin 203 üncü maddesiyle bu bentte yer alan “Kanun, tüzük” ibaresi “Mevzuat”
+şeklinde değiştirilmiştir.
 
 [81]
 17/4/2017 tarihli ve 690 sayılı
@@ -15302,16 +15310,16 @@ kabul edilerek kanunlaşmıştır.
 23/2/2017 tarihli ve 6824 sayılı Kanunun 12 nci
 maddesi ile, bu bentte yer alan “işsizlik ödeneği” ibaresinden sonra gelmek
 üzere “, Esnaf Ahilik Sandığı ödeneğinin” ibaresi eklenmiştir. 6824 sayılı
-Kanunun 25 inci maddesiyle, söz konusu ibarenin 1/1/2018 tarihinde yürürlüğe
-gireceği hüküm altına alınmıştır.
+Kanunun 25 inci maddesiyle, söz konusu ibarenin 1/1/2018 tarihinde yürürlüğe gireceği
+hüküm altına alınmıştır.
 
 [101]
 2/1/2017 tarihli ve 681 sayılı KHK’nin 74 üncü
 maddesiyle bu fıkrada yer alan “6 ncı maddenin birinci fıkrasının (d),” ibaresi
-“6 ncı maddenin birinci fıkrasının” şeklinde 1/3/2017 tarihinden geçerli olmak
-üzere değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı
-Kanunun 73 üncü maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe
-girmek üzere kanunlaşmıştır.
+“6 ncı maddenin birinci fıkrasının” şeklinde 1/3/2017 tarihinden geçerli olmak üzere
+değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 73
+üncü maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere
+kanunlaşmıştır.
 
 [102]
 9/1/2025 tarihli ve 7538 sayılı Kanunun 6 ncı maddesi
@@ -15571,8 +15579,7 @@ kanunlaşmıştır.
 [140]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
 Kararnamenin 203 üncü maddesiyle 81 inci maddenin birinci fıkrasının (c) ve (f)
-bentlerinde yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde
-değiştirilmiştir.
+bentlerinde yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
 [141]
 
@@ -15627,12 +15634,12 @@ ve 2886 sayılı Devlet İhale Kanununa, 4/1/2002 tarihli ve 4734 sayılı Kamu
 İhale Kanununa ve uluslararası anlaşma hükümlerine istinaden yapılan alım ve
 yapım işleri ile 4734 sayılı Kanundan istisna olan alım ve yapım işlerine
 ilişkin işyerleri, sosyal güvenlik destek primine tabi çalışanlar ve yurt
-dışında çalışan sigortalılar hakkında uygulanmaz.” Şeklinde, aynı bentte yer
-alan “Bu fıkrayla düzenlenen destek unsurundan diğer ilgili mevzuat uyarınca
-ayrıca yararlanmakta olan işverenler aynı dönem için ve mükerrer olarak bu
-destek unsurundan yararlanamaz. Bu durumda, işverenlerin tercihleri dikkate
-alınmak suretiyle uygulama, destek unsurlarından sadece biriyle sınırlı olarak
-yapılır.” Cümleleri “Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta prim
+dışında çalışan sigortalılar hakkında uygulanmaz.” Şeklinde, aynı bentte yer alan
+“Bu fıkrayla düzenlenen destek unsurundan diğer ilgili mevzuat uyarınca ayrıca
+yararlanmakta olan işverenler aynı dönem için ve mükerrer olarak bu destek
+unsurundan yararlanamaz. Bu durumda, işverenlerin tercihleri dikkate alınmak
+suretiyle uygulama, destek unsurlarından sadece biriyle sınırlı olarak yapılır.”
+Cümleleri “Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta prim
 desteklerinin aynı dönem için birlikte uygulanması halinde, bu destek öncelikle
 uygulanır.” şeklinde değiştirilmiştir.
 
@@ -15698,8 +15705,8 @@ maddesiyle, bu fıkrada yer alan “6,5” ibaresi 1/1/2017 tarihinden geçerli 
 
 [156]
 
-4/12/2025 tarihli ve 7566 sayılı
-Kanunun 24 üncü maddesiyle bu fıkrada yer alan “7,5” ibaresi “9” şeklinde
+4/12/2025 tarihli ve 7566 sayılı Kanunun
+24 üncü maddesiyle bu fıkrada yer alan “7,5” ibaresi “9” şeklinde
 değiştirilmiştir.
 
 [157]
@@ -15708,8 +15715,8 @@ iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle metne
 işlendiği şekilde değiştirilmiş, aynı maddenin ikinci ve beşinci fıkralarında
 yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek üzere “kanunla
 kurulan kurum ve kuruluşlar” ibaresi, dokuzuncu fıkrasında yer alan “yapılacak
-yerinde tespit kriterleri,” ibaresinden sonra gelmek üzere “uzlaşma
-komisyonlarının oluşumu, çalışma usûl ve esasları” ibaresi eklenmiştir.
+yerinde tespit kriterleri,” ibaresinden sonra gelmek üzere “uzlaşma komisyonlarının
+oluşumu, çalışma usûl ve esasları” ibaresi eklenmiştir.
 
 [158]
 15/7/2016 tarihli ve 6728 sayılı Kanunun 48 inci maddesiyle,
@@ -15763,10 +15770,10 @@ tarihinde yürürlüğe girmek üzere kanunlaşmıştır.
 
 [165]
 25/3/2020 tarihli ve 7226 sayılı Kanunun 45 inci
-maddesiyle bu fıkranın birinci cümlesinde yer alan “çalışanlar,” ibaresi
-“çalışanlar ile” şeklinde, “alanlar” ibaresi “alanlardan” şeklinde, “yirmi”
-ibaresi “sekiz” şeklinde değiştirilmiş ve “ile bu Kanunun ek 9 uncu maddesinin
-birinci fıkrasına tabi olanlardan” ibaresi madde metninden çıkarılmıştır.
+maddesiyle bu fıkranın birinci cümlesinde yer alan “çalışanlar,” ibaresi “çalışanlar
+ile” şeklinde, “alanlar” ibaresi “alanlardan” şeklinde, “yirmi” ibaresi “sekiz”
+şeklinde değiştirilmiş ve “ile bu Kanunun ek 9 uncu maddesinin birinci fıkrasına
+tabi olanlardan” ibaresi madde metninden çıkarılmıştır.
 
 [166]
 9/1/2025 tarihli ve 7538 sayılı Kanunun 11 inci maddesi
@@ -15861,8 +15868,7 @@ maddesiyle; bu fıkrada yer alan “meslek hastalığı” ibaresinden sonra gel
 
 [182]
 10/9/2014 tarihli ve 6552 sayılı Kanunun 53 üncü
-maddesiyle, bu fıkrada yer alan “altı ay” ibaresi “on iki ay” şeklinde
-değiştirilmiştir.
+maddesiyle, bu fıkrada yer alan “altı ay” ibaresi “on iki ay” şeklinde değiştirilmiştir.
 
 [183]
 20/7/2025 tarihli ve 7555 sayılı Kanunun 26 ncı
@@ -15883,8 +15889,8 @@ ibaresi madde metninden çıkarılmıştır.
 
 [186]
 18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü
-maddesiyle; bu fıkrada yer alan“8 inci,” ibaresinden sonra gelmek üzere “9
-uncu,” ibaresi eklenmiştir.
+maddesiyle; bu fıkrada yer alan“8 inci,” ibaresinden sonra gelmek üzere “9 uncu,”
+ibaresi eklenmiştir.
 
 [187]
 Bu madde başlığı “Değiştirilen, eklenen ve
@@ -15892,9 +15898,8 @@ uygulanmayacak hükümler” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 63
 maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 [188]
-13/2/2011 tarihli ve 6111 sayılı Kanunun 46 ncı
-maddesiyle, bu bentte yer alan “ve 33 üncü” ibaresi “, 33 üncü ve 35 inci”
-şeklinde
+13/2/2011 tarihli ve 6111 sayılı Kanunun 46 ncı maddesiyle,
+bu bentte yer alan “ve 33 üncü” ibaresi “, 33 üncü ve 35 inci” şeklinde
 değiştirilmiştir.
 
 [189]
@@ -15905,8 +15910,8 @@ yıl sonra,” ibaresi “1/1/2012 tarihinde,” olarak değiştirilmiştir.
 [190]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
 Kararnamenin 203 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
+ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde değiştirilmiştir.
 
 [191]
 15/7/2016 tarihli ve 6728 sayılı Kanunun 52 nci
@@ -16147,11 +16152,16 @@ değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunu
 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
 [232]
+9/8/2026 tarihli ve 7594 sayılı Kanunun 6 ncı
+maddesiyle bu fıkrada yer alan “askerlik çağı dışına çıktıkları” ibaresi “55
+yaşını doldurdukları” şeklinde değiştirilmiştir.
+
+[233]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin
 203 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
 şeklinde değiştirilmiştir.
 
-[233]
+[234]
 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde
 Kararnamenin 203 üncü maddesiyle bu fıkrada yer alan “Sosyal Güvenlik Kurumu,
 Maliye Bakanlığı, Hazine Müsteşarlığı, Devlet Plânlama Teşkilatı Müsteşarlığı,
@@ -16160,36 +16170,36 @@ Sandık iştirakçilerini istihdam eden kuruluşlar ile sandıkların görüş v
 önerileri alınarak Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde
 değiştirilmiştir.
 
-[234]
+[235]
 
 4/12/2025 tarihli ve 7566 sayılı
 Kanunun 21 inci maddesiyle bu fıkrada yer alan “esaslarına göre” ibaresi
 “esaslarına göre %45 oranı üzerinden” şeklinde değiştirilmiştir.
 
-[235]
+[236]
 Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.:
 2013/126, K.: 2014/17 sayılı Kararı ile bu fıkrada yer alan “…bu maddenin yayımı
 tarihinden itibaren altı ay içerisinde talepte bulunması kaydıyla…” ibaresi
 iptal edilmiştir.
 
-[236]
+[237]
 
 4/12/2025 tarihli ve 7566 sayılı
 Kanunun 21 inci maddesiyle birinci fıkrada yer alan “%32’si” ibaresi “%45’i”
 şeklinde, ikinci fıkrada yer alan “kesenek ve karşılık oranları” ibaresi
 “kesenek ve karşılık oranları %45 olarak” şeklinde değiştirilmiştir.
 
-[237]
+[238]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
 maddesiyle, bu fıkrada yer alan “sakat kalanlara” ibaresi “engelli hâle
 gelenlere” şeklinde değiştirilmiştir.
 
-[238]
+[239]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
 maddesiyle, bu bentte yer alan “sakatlığı” ibaresi “engelliliği” şeklinde
 değiştirilmiştir.
 
-[239]
+[240]
 23/2/2017 tarihli ve 6824 sayılı Kanunun 18 inci
 maddesiyle, bu maddenin birinci fıkrasına “Sosyal Güvenlik Kurumuna ait olan ve
 Kuruma bağlı tahsil dairelerince 6183 sayılı Kanun kapsamında takip edilen”
@@ -16199,46 +16209,46 @@ ecrimisil borçları” ibaresi ve üçüncü fıkrasına “takip edilen borcu�
 ibaresinden sonra gelmek üzere “ile kira ve ecrimisil borcu” ibaresi
 eklenmiştir.
 
-[240]
+[241]
 
 27/12/2023
 tarihli ve 7491 sayılı Kanunun 52 nci maddesi ile bu fıkranın birinci cümlesinde
 yer alan “31/12/2023” ibaresi “31/12/2028” şeklinde değiştirilmiştir.
 
-[241]
+[242]
 4/4/2015 tarihli ve 6645 sayılı Kanunun 52 nci
 maddesiyle bu fıkrada yer alan “bu maddenin yürürlük tarihinden itibaren üç ay
 içinde veya mecburi hizmetlerini tamamlayacakları tarihten itibaren üç ay içinde”
 ibaresi madde metninden çıkarılmıştır.
 
-[242]
+[243]
 
 4/12/2025 tarihli ve 7566 sayılı
 Kanunun 21 inci maddesiyle bu fıkrada yer alan “borçlanacakları süreye ilişkin
 olarak” ibaresi “borçlanacakları süreye ilişkin olarak %45 oranında” şeklinde
 değiştirilmiştir..
 
-[243]
+[244]
 
-4/12/2025 tarihli ve 7566 sayılı
-Kanunun 21 inci maddesiyle bu fıkrada yer alan “emekli keseneğine esas aylık
-tutarları” ibaresi “emekli keseneğine esas aylık tutarlarının %45’i” şeklinde
+4/12/2025 tarihli ve 7566 sayılı Kanunun
+21 inci maddesiyle bu fıkrada yer alan “emekli keseneğine esas aylık tutarları”
+ibaresi “emekli keseneğine esas aylık tutarlarının %45’i” şeklinde
 değiştirilmiştir..
 
-[244]
+[245]
 31/3/2015 tarihli ve 29312 sayılı Resmi Gazete’de yayımlanan
 23/3/2015 tarihli ve 2015/7470 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci
 maddesiyle, bu maddede yer alan başvuru süresinin maddede belirtilen sürenin
 bitiminden itibaren altı ay uzatılması kararlaştırılmıştır.
 
-[245]
+[246]
 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar
 Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresi
 ile ilk taksit ödeme süresi, sözkonusu maddenin birinci fıkrasının (d) bendi
 hükümlerine ilişkin süreler hariç olmak üzere, aynı maddede belirtilen
 sürelerin bitiminden itibaren bir ay uzatılmıştır.
 
-[246]
+[247]
 31/3/2015 tarihli ve 29312 sayılı Resmi Gazete’de
 yayımlanan 23/3/2015 tarihli ve 2015/7470 sayılı Bakanlar Kurulu Kararı Eki
 Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresi ile ilk taksit
@@ -16246,7 +16256,7 @@ Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresi ile ilk taksit
 borçlular yönünden maddede belirtilen sürelerin bitiminden itibaren altı ay
 uzatılması kararlaştırılmıştır.
 
-[247]
+[248]
 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü maddesiyle,
 bu maddenin birinci fıkrasının (a) bendinde yer alan “2016 yılında cari aya
 ilişkin verilen aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek
@@ -16255,35 +16265,35 @@ ilişkin verilen aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek
 gelmek üzere “veya muhtasar ve prim hizmet beyannamelerini” ibaresi
 eklenmiştir.
 
-[248]
+[249]
 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü
 maddesiyle, bu fıkrada yer alan “2016 yılında cari aya ilişkin verilen aylık
 prim ve hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya muhtasar ve
 prim hizmet beyannamelerinde” ibaresi eklenmiştir.
 
-[249]
+[250]
 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü
 maddesiyle, bu fıkrada yer alan “aylık prim ve hizmet belgelerinde” ibaresinden
 sonra gelmek üzere “veya Maliye Bakanlığına verilecek muhtasar ve prim hizmet
 beyannamelerinde” ibaresi eklenmiştir.
 
-[250]
+[251]
 Bu bendin 2017 yılında uygulanması ile ilgili
 olarak 22/2/2017 tarihli ve 29987 sayılı Resmi Gazete’de yayımlanan 6/2/2017
 tarihli ve 2017/9865 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 
-[251]
+[252]
 Bu maddenin uygulanması ile ilgili olarak 20/6/2018
 tarihli ve 30454 sayılı Resmi Gazete’de yayımlanan 9/4/2018 tarihli ve
 2018/11668 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 
-[252]
+[253]
 
 4/12/2025 tarihli ve 7566 sayılı
 Kanunun 21 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “kazanç
 tutarı üzerinden” ibaresi “kazanç tutarının %45’i üzerinden” şeklinde değiştirilmiştir.
 
-[253]
+[254]
 
 4/12/2025 tarihli ve 7566 sayılı Kanunun 27 nci maddesiyle
 bu fıkrada yer alan “dört” ibaresi “iki” şeklinde değiştirilmiştir.

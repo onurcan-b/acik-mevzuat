@@ -3,16 +3,16 @@
   "title": "ÖĞRETMENLİK MESLEK KANUNU",
   "slug": "7354-ogretmenlik-meslek-kanunu",
   "accepted_date": "2022-02-03",
-  "effective_status": "repealed",
+  "effective_status": "in_force",
   "official_gazette": {
     "date": "2022-02-14",
     "number": "31750"
   },
-  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/335467",
+  "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/102948",
   "language": "tr",
   "tags": [],
-  "source_mevzuat_id": "335467",
-  "source_type": "MULGA",
-  "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
+  "source_mevzuat_id": "102948",
+  "source_type": "KANUN",
+  "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }
