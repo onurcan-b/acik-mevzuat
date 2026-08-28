@@ -4745,7 +4745,7 @@
       "type": "KANUN",
       "path": "kanunlar/5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun",
       "source_mevzuat_id": "102944",
-      "content_sha256": "fba2b49e4ff4455ec7c04601f0bfc45db20e92a0d90cb847ee1ea3043ccc4b2c",
+      "content_sha256": "4c3d973361b1ba98400faf266e207138d06940f30bdc96aa809179cb65291952",
       "fetch_status": "ok"
     },
     {
@@ -5060,7 +5060,7 @@
       "type": "KANUN",
       "path": "kanunlar/5434-turkiye-cumhuriyeti-emekli-sandigi-kanunu",
       "source_mevzuat_id": "102959",
-      "content_sha256": "b9b8ccf6b83062a6bde0579393c21da1ff0dc784c91f2804599b8d2a6fc1e2a2",
+      "content_sha256": "3fc1b61bc0b0ed73cd0c71bad833e5245e46b28d4b6314eac96dbdc108547a85",
       "fetch_status": "ok"
     },
     {
@@ -7746,6 +7746,15 @@
       "fetch_status": "ok"
     },
     {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "KANUN",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "102948",
+      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
+      "fetch_status": "ok"
+    },
+    {
       "law_number": "7381",
       "title": "NÜKLEER DÜZENLEME KANUNU",
       "type": "KANUN",
@@ -9642,15 +9651,6 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
-      "fetch_status": "ok"
-    },
-    {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "MULGA",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "335467",
-      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {
