@@ -304,15 +304,15 @@ memurları
 
 5-
 (Ek:11/6/2020-7245/15 md.)
-Çarşı
-ve mahalle bekçileri
+Çarşı ve
+mahalle bekçileri
 
 60
 
 III-
-(Değişik:
-3/6/2011-640-KHK/40 md.)
-Gümrük Muhafaza mensupları:
+(Değişik: 3/6/2011-640-KHK/40 md.)
+Gümrük
+Muhafaza mensupları:
 
 1 - Gümrük Muhafaza Memurları
 
@@ -674,30 +674,28 @@ aylık bağlanmasını gerektiren kanunlara göre aylık bağlanmış malullerde
 sebebiyle hayatını kaybedenlerin ana veya babalarına, ölüm tarihini takip eden
 ay başından geçerli olmak üzere 5510 sayılı Kanunun 56 ncı maddesi ile bu
 Kanunun mülga 77 nci ve 92 nci maddelerinde sayılan haller hariç olmak kaydıyla
-herhangi bir şart aranmaksızın aylık bağlanır; erbaş ve erler ile yedek subay
+herhangi bir şart aranmaksızın aylık bağlanır; ana ve babalara bağlanan aylığın
+toplamı 16 yaşından büyükler için tespit edilen bir aylık asgari ücretin net
+tutarından az olamaz.
 
-ve
-yedek astsubay okulu öğrencilerinin ana veya babasına bağlanan aylığın toplamı
-16 yaşından büyükler için tespit edilen bir aylık asgari ücretin net tutarından
-az olamaz.
-
-Babaya bağlanan aylık, dul ve yetimlerin bulunması hali de
-dahil, ana ve babaya eşit olarak paylaştırılarak ödenir. Dul ve yetimlerle
-beraber baba veya anaya aylık bağlanması halinde, eş ve çocukların aylıkları
-baba veya ananın bulunmadığı durumlarda bağlanacak aylıktan az olamaz.
-(Değişik
-dördüncü cümle: 12/7/2013-6495/91 md.)
-Erbaş ve erler ile yedek subay ve
-yedek astsubay okulu öğrencilerinin ana ve babalarına bağlanacak aylığın 16
-yaşından büyükler için tespit edilen bir aylık asgari ücretin net tutarına
-yükseltilmesi amacıyla aylık yükseltilmesi yapılan hallerde ilave edilen kısım
-hariç olmak kaydıyla, bu fıkra kapsamında ana ve babalara bağlanacak aylıklar
-Cumhurbaşkanı kararı ile %200’üne kadar yükseltilebilir. Ödenecek aylığın
-Cumhurbaşkanınca artırılması halinde, bağlanan aylıkta meydana gelecek farklar
-ile dul ve yetimlerle beraber aylık bağlanması halinde, baba veya anaya
-bağlanan aylıklar da sosyal güvenlik kurumlarınca Hazineden tahsil edilir.
+Babaya bağlanan aylık, dul ve yetimlerin bulunması
+hali de dahil, ana ve babaya eşit olarak paylaştırılarak ödenir. Dul ve
+yetimlerle beraber baba veya anaya aylık bağlanması halinde, eş ve çocukların
+aylıkları baba veya ananın bulunmadığı durumlarda bağlanacak aylıktan az
+olamaz.
+(Değişik dördüncü cümle: 12/7/2013-6495/91 md.)
+Ana ve babalara
+bağlanacak aylığın 16 yaşından büyükler için tespit edilen bir aylık asgari
+ücretin net tutarına yükseltilmesi amacıyla aylık yükseltilmesi yapılan
+hallerde ilave edilen kısım hariç olmak kaydıyla, bu fıkra kapsamında ana ve
+babalara bağlanacak aylıklar Cumhurbaşkanı kararı ile %200’üne kadar
+yükseltilebilir. Ödenecek aylığın Cumhurbaşkanınca artırılması halinde,
+bağlanan aylıkta meydana gelecek farklar ile dul ve yetimlerle beraber aylık
+bağlanması halinde, baba veya anaya bağlanan aylıklar da sosyal güvenlik
+kurumlarınca Hazineden tahsil edilir.
 [8]
 [9]
+[10]
 
 (Ek fıkra: 17/4/2008-5754/75 md.; Mülga fıkra: 12/7/2013-6495/91
 md.)
@@ -767,7 +765,7 @@ ile üçüncü fıkrasının son cümlesinin bu maddeye aykırı hükümleri uyg
 
 Yukarıdaki fıkralara göre
 (…)
-[10]
+[11]
 
 mülga 2829 sayılı Kanunun 8 inci maddesi uyarınca birleştirilen hizmet süreleri
 üzerinden aylık bağlananlara ödenecek emeklilik ikramiyesinin hesabında bu
@@ -792,9 +790,9 @@ zorunludur. Bu zorunluluğa uymayanlar ikinci fıkra hükümlerinden
 yararlandırılmazlar.
 
 İştirakçilerden,
-kanunlarla belirlenen bekleme süreleri sonunda kadrosuzluk veya yaş haddi
-sebebiyle emekliye sevk edilenler ve vazife malullüğü hükümlerine göre vazife
-malullüğü aylığı bağlananlar ile ölüm sebebiyle haklarında emeklilik işlemi
+kanunlarla belirlenen bekleme süreleri sonunda kadrosuzluk veya yaş haddi sebebiyle
+emekliye sevk edilenler ve vazife malullüğü hükümlerine göre vazife malullüğü
+aylığı bağlananlar ile ölüm sebebiyle haklarında emeklilik işlemi
 uygulananlara; bu Kanuna göre aylığa hak kazandıkları tarihi takip eden üç ay
 içinde emekli ikramiyesinin hesaplanmasına esas alınan katsayılarda meydana
 gelecek artış nedeniyle oluşacak ikramiye farkları ile ilk mali yılın birinci
@@ -1412,7 +1410,7 @@ isteyenlerin Sandıkla ilgileri devam eder. Ancak bu kuruluşların
 sermayelerindeki kamu payının %50’nin altına düştüğü tarihten, anonim şirket
 statüsünde olmayanların satışı veya devri tarihinden sonra Sandığa tabi olarak
 geçen süreler için emeklilik ikramiyesi ödenmez.
-[11]
+[12]
 
 (Ek fıkra:
 1/8/2003-4971/27 md.)
@@ -1472,9 +1470,9 @@ Madde 76 – (Ek:27/1/2000 – 4505/4 md. ; Mülga: 31/5/2006-5510/106 md.)
 
 Ek
 Madde 77 – (Ek:11/5/2000 – 4567/1 md.)
-[12]
 [13]
 [14]
+[15]
 
 (Değişik
 birinci fıkra : 15/9/2000 – KHK – 624/1 md.; Değiştirilerek kabul: 13/6/2001 –
@@ -1505,15 +1503,15 @@ Kıdemli albaylar ile general ve amirallere bir üst rütbenin aylığı bağlan
 (Değişik
 üçüncü cümle: 12/7/2013-6495/92 md.)
 Astsubaylar ve uzman jandarmalarda
-yükselinebilecek azami derece ve kademe, 27/7/1967 tarihli ve 926 sayılı Türk
-Silahlı Kuvvetleri Personel Kanununda kendilerine ilişkin aylık gösterge
-tablosunda belirlenmiş olan en yüksek derece ve kademedir.
-(Mülga dördüncü
-cümle: 12/7/2013-6495/92 md.) (…)
-Uzman erbaşlar ile sözleşmeli erbaş ve
-erlerin aylık yönünden yükseltilmeleri ise 18/3/1986 tarihli ve 3269 sayılı
-Uzman Erbaş Kanunun 16 ncı maddesinde belirtilen esaslara göre yapılır.
-[15]
+yükselinebilecek azami derece ve kademe, 27/7/1967 tarihli ve 926 sayılı Türk Silahlı
+Kuvvetleri Personel Kanununda kendilerine ilişkin aylık gösterge tablosunda belirlenmiş
+olan en yüksek derece ve kademedir.
+(Mülga dördüncü cümle: 12/7/2013-6495/92
+md.) (…)
+Uzman erbaşlar ile sözleşmeli erbaş ve erlerin aylık yönünden
+yükseltilmeleri ise 18/3/1986 tarihli ve 3269 sayılı Uzman Erbaş Kanunun 16 ncı
+maddesinde belirtilen esaslara göre yapılır.
+[16]
 
 c)
 (Değişik: 4/7/2012-6353/70 md.)
@@ -1526,7 +1524,7 @@ inci maddesinin (i) ve (j) bentlerinde belirtilenlere uygulanacak azami derece
 ve kademe ise, genel idare hizmetleri sınıfı esas alınarak öğrenim durumları
 itibarıyla 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre
 yükselebilecekleri derece ve kademedir.
-[16]
+[17]
 
 d)
 Bu şekilde yükseltilen aylıklarda, emniyet hizmetleri sınıfında bulunan
@@ -1564,8 +1562,9 @@ hakkında izleyen yılın 1 Eylül tarihi itibarıyla intibak işlemi yapılır.
 Birinci fıkra kapsamında
 bulunanlardan, başkasının yardım ve desteği olmadan yaşamak için gereken
 hareketleri yapamayacak derecede malul olanlara, 16 yaşından büyük işçiler için
-tespit edilmiş olan otuz günlük asgari ücretin net tutarının iki katı,
+tespit edilmiş olan otuz günlük asgari ücretin net tutarının iki buçuk katı,
 aylıklarıyla birlikte ayrıca ödenir.
+[18]
 
 (Ek fıkra:
 17/4/2008-5754/75 md.; Mülga fıkra: 12/7/2013-6495/92 md.)
@@ -1699,8 +1698,8 @@ yapılacak eğitim ve öğretim yardımı ile 13.10.1988 tarihli ve 3480 sayıl�
 hükümlerine göre yaptırılmış olan sosyal tesislerin bakım, onarım ve
 işletilmesine ilişkin esas ve usuller yönetmelikle düzenlenir.
 
-(Ek
-fıkra: 17/4/2008-5754/75 md.; Değişik onuncu fıkra; 12/7/2013-6495/93 md.)
+(Ek fıkra:
+17/4/2008-5754/75 md.; Değişik onuncu fıkra; 12/7/2013-6495/93 md.)
 Birinci fıkrada belirtilen
 haller kapsamında harp veya vazife malulü sayılanlardan sınıf veya görev
 değiştirerek çalışmaya devam eden kamu görevlileri ile ilgili mevzuatına göre
@@ -1724,16 +1723,16 @@ memuru olarak istihdam edilip emekliliğe hak kazananlar dâhil uzman erbaşlar,
 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun geçici 32 nci maddesi
 uyarınca araştırmacı unvanlı kadrolara atananlar ile çarşı ve mahalle bekçisi
 kadro unvanı esas alınarak emekli aylığı veya (…)
-[17]
+[19]
 
 veya adi malûllük aylığı ödenenlerden emekli aylıklarıyla birlikte makam
 tazminatı ödenmesine hak kazanamamış olanlara, her ay emekli aylıklarıyla
 birlikte 100 YTL tutarında ayrıca ödeme yapılır.
-[18]
-[19]
 [20]
 [21]
 [22]
+[23]
+[24]
 
 Bu Kanun hükümlerine göre
 emekli aylığı bağlanmasından sonra sosyal güvenlik destek primi ödemek
@@ -1777,8 +1776,8 @@ başlayanlardan;
 
 a) 5510
 sayılı Kanun hükümlerine göre aylık bağlanan ve uzun vadeli sigorta kolları
-açısından sigortalı çalışma sürelerinin tamamı 5510 sayılı Kanunun 4 üncü
-maddesinin birinci fıkrasının c bendi kapsamında geçmiş olanlara,
+açısından sigortalı çalışma sürelerinin tamamı 5510 sayılı Kanunun 4 üncü maddesinin
+birinci fıkrasının c bendi kapsamında geçmiş olanlara,
 
 b) 5510
 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde
@@ -1823,15 +1822,15 @@ ikramiye hesabına esas alınan oran ve/veya miktarları dikkate alınarak öden
 Ancak, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
 kapsamında geçen uzun vadeli sigorta kolları bakımından sigortalılık
 süreleri esas alınarak emekli ikramiyesi ödenebilmesi için; iş kanunlarına tabi
-olarak çalışmış olanların iş sözleşmelerinin kıdem tazminatı ödenmesini
-gerektirecek şekilde sona ermiş olması, sözleşmeli personel statüsünde çalışmış
-olanların ise hizmet sözleşmelerinin ilgili mevzuatına göre iş sonu tazminatı
-veya aynı mahiyette olmakla birlikte başka bir adla ödenen tazminata hak
-kazanılmasını gerektirecek şekilde sona ermiş olması şarttır. Ayrıca, bu
-kişilerin, her ne suretle olursa olsun evvelce iş sonu tazminatı veya bu mahiyette
-olmakla birlikte başka bir adla tazminat ödenen süreleri ile kıdem tazminatı ya
-da emekli ikramiyesi ödenmiş olan süreleri, emekli ikramiyesinin hesabında
-dikkate alınmaz.
+olarak çalışmış olanların iş sözleşmelerinin kıdem tazminatı ödenmesini gerektirecek
+şekilde sona ermiş olması, sözleşmeli personel statüsünde çalışmış olanların
+ise hizmet sözleşmelerinin ilgili mevzuatına göre iş sonu tazminatı veya aynı
+mahiyette olmakla birlikte başka bir adla ödenen tazminata hak kazanılmasını
+gerektirecek şekilde sona ermiş olması şarttır. Ayrıca, bu kişilerin, her ne
+suretle olursa olsun evvelce iş sonu tazminatı veya bu mahiyette olmakla
+birlikte başka bir adla tazminat ödenen süreleri ile kıdem tazminatı ya da
+emekli ikramiyesi ödenmiş olan süreleri, emekli ikramiyesinin hesabında dikkate
+alınmaz.
 
 2) Bu madde
 kapsamında emekli ikramiyesi ödenenlerden vazife malûllüğü, kanunlarla
@@ -1877,8 +1876,8 @@ Tazminat Kanunu, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu ile
 28/2/1985 tarihli ve 3160 sayılı Emniyet Teşkilatı Uçuş ve Dalış Hizmetleri
 Tazminat Kanunu kapsamına giren personelden, uçuş, paraşüt, denizaltı, dalgıç
 ve kurbağa adam hizmetlerinin fiilen ifası sırasında; başka birinin sürekli
-bakımına muhtaç olacak şekilde malûl olanlar ile ölenlerin dul ve yetimlerine
-en yüksek Devlet memuru aylığı üzerinden, diğer malûllere ise mevcut aylıkları
+bakımına muhtaç olacak şekilde malûl olanlar ile ölenlerin dul ve yetimlerine en
+yüksek Devlet memuru aylığı üzerinden, diğer malûllere ise mevcut aylıkları
 üzerinden yukarıdaki fıkralarda belirtilen usûl ve esaslar çerçevesinde ve 30
 yıl hizmet yapmış gibi emekli ikramiyesi ödenir.
 
@@ -1905,10 +1904,10 @@ yatırılır. Sosyal Güvenlik Kurumu tarafından (6) numaralı fıkra uyarınca
 fazladan ödenecek emekli ikramiyesi tutarları ile (7) numaralı
 fıkra gereğince
 
-ödenecek
-emekli ikramiyesi tutarları ise yazı ile istenilmesi üzerine en fazla iki ay
-içinde faturası karşılığında Hazine tarafından Sosyal Güvenlik Kurumunun
-göstereceği hesaplara yatırılır.
+ödenecek emekli
+ikramiyesi tutarları ise yazı ile istenilmesi üzerine en fazla iki ay içinde
+faturası karşılığında Hazine tarafından Sosyal Güvenlik Kurumunun göstereceği
+hesaplara yatırılır.
 
 Ek Madde 83- (Ek:
 17/4/2008-5754/75 md.)
@@ -1927,9 +1926,9 @@ ait kesenek ve kurum karşılıkları, ilgili kurum bütçesinin personel
 ödeneklerinden Sosyal Güvenlik Kurumu Başkanlığına ödenir. Bu şekilde ilave
 olarak kesenek ve kurum karşılığı ödenen süreler için ilgililere ikramiye farkı
 ödenmez, ödenmiş olan ikramiyenin eksik hizmet süresine ilişkin kısmı geri
-alınmaz. Borç çıkarılan döneme ilişkin olarak ilgililer adına Sosyal Güvenlik
-Kurumu Başkanlığı tarafından karşılanmış olan tedavi ve ilaç bedelleri de
-kurumları bütçelerinden Sosyal Güvenlik Kurumu Başkanlığına ödenir.
+alınmaz. Borç çıkarılan döneme ilişkin olarak ilgililer adına Sosyal Güvenlik Kurumu
+Başkanlığı tarafından karşılanmış olan tedavi ve ilaç bedelleri de kurumları
+bütçelerinden Sosyal Güvenlik Kurumu Başkanlığına ödenir.
 
 Ek Madde 84- (Ek:
 26/7/2018-7146/4 md.)
@@ -1938,10 +1937,10 @@ Bu Kanuna göre tabip veya
 diş tabibi kadro ve pozisyonları esas alınarak emekli, adi malullük veya vazife
 malullüğü aylığı bağlanmış olup, aylıklarıyla birlikte makam tazminatı
 ödenmesine hak kazanamamış olan tabip ve diş tabiplerinden ilgili mevzuatına
-göre uzman olanlara (26.000) gösterge rakamının, uzman olmayanlara (20.000)
-gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda
-her ay emekli aylıklarıyla birlikte ilave ödeme yapılır.
-[23]
+göre uzman olanlara (26.000) gösterge rakamının, uzman olmayanlara (20.000) gösterge
+rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda her ay
+emekli aylıklarıyla birlikte ilave ödeme yapılır.
+[25]
 
 Birinci fıkra kapsamında
 yapılacak ödeme, ölenlerin mülga 67 nci maddede belirtilen aylığa müstahak dul
@@ -2003,7 +2002,8 @@ birlikte geri alınır.
 Hizmet sınıfı itibarıyla
 birinci fıkra kapsamına girenlerin 67 nci maddede belirtilen aylığa müstahak
 dul ve yetimlerinden ek 77 nci madde kapsamına girmeyenler; ikinci fıkradaki
-şartlar dikkate alınarak, 68 inci maddedeki oranlar üzerinden bu ödemeden yararlandırılır.
+şartlar dikkate alınarak, 68 inci maddedeki oranlar üzerinden bu ödemeden
+yararlandırılır.
 
 Bu madde kapsamında
 yapılacak ilave ödeme tutarları, ödemeyi izleyen iki ay içinde faturası
@@ -2166,7 +2166,7 @@ Madde 94 – (Ek: 11/3/1954 – 6388/4 md.; Mülga: 21/4/2005 – 5335/29 md.)
 
 Geçici
 Madde 95 – (Ek: 20/5/1955 – 6580/1 md.)
-[24]
+[26]
 
 Geçici
 Madde 96 – (Ek: 22/6/1956 – 6740/1 md. ; Mülga: 31/5/2006-5510/106 md.)
@@ -2179,11 +2179,11 @@ Madde 98 – (Ek: 13/7/1956 – 6800/1 md. ; Mülga: 31/5/2006-5510/106 md.)
 
 Geçici
 Madde 99 – (Ek: 16/7/1956 – 6807/1 md.)
-[25]
+[27]
 
 Geçici
 Madde 100, 101 – (Ek: 16/1/1957 – 6881/1 md.)
-[26]
+[28]
 
 Geçici
 Madde 102 – (Ek: 18/2/1957 – 6916/1 md.; Mülga: 21/42005 – 5335/29 md.)
@@ -2196,14 +2196,14 @@ Madde 104 – (Ek: 25/6/1958 – 7134/1 md. ; Mülga: 31/5/2006-5510/106 md.)
 
 Geçici
 Madde 105 – 106 – (Ek: 12/6/1959 – 7350/2 md.)
-[27]
+[29]
 
 Geçici
 Madde 107 – (Ek: 23/10/1962 – 82/1 md.)
-[28]
+[30]
 
 Geçici Madde 108 – (Ek: 23/10/1962 – 83/1 md.)
-[29]
+[31]
 
 Geçici Madde 109 – (Ek: 30/5/1963 – 241/3 md.
 
@@ -2254,8 +2254,8 @@ Geçici
 Madde 121 – (7/2/1969 – 1101/3 md. İle gelen Geçici 1 inci madde hükmü olup
 madde numarası teselsül ettirilmiştir.)
 
-Çeşitli kanunlarla bağlanmış veya
-bu kanunun yürürlüğe girmesinden sonra bağlanacak, Hazinece ödenmesi gerekli emekli, adi malullük,
+Çeşitli kanunlarla bağlanmış veya bu kanunun
+yürürlüğe girmesinden sonra bağlanacak, Hazinece ödenmesi gerekli emekli, adi malullük,
 vazife malullüğü, harb
 malullüğü, dul ve yetim aylıkları
 (Vatani hizmet aylıkları dahil) ile toptan ödemelerin ve bunlara ilişkin
@@ -2413,8 +2413,8 @@ Geçici 2 nci madde hükmü olup madde numarası teselsül ettirilmiştir. ; Mü
 31/5/2006-5510/106 md.)
 
 Geçici
-Madde 160 – (2/6/1972 – 1592/3 md. İle gelen Geçici 3 üncü madde hükmü olup
-madde numarası teselsül ettirilmiştir.; Mülga: 21/4/2005 – 5335/29 md.)
+Madde 160 – (2/6/1972 – 1592/3 md. İle gelen Geçici 3 üncü madde hükmü olup madde
+numarası teselsül ettirilmiştir.; Mülga: 21/4/2005 – 5335/29 md.)
 
 Geçici
 Madde 161 – (22/9/1972 – 1623/2 md. İle gelen Geçici 1 inci madde hükmü olup
@@ -2505,8 +2505,8 @@ Madde 182 – (7/5/1986 – 3284/24 md. İle gelen Geçici 5 inci madde hükmü 
 madde numarası teselsül ettirilmiştir. ; Mülga: 31/5/2006-5510/106 md.)
 
 Geçici
-Madde 183 – (7/5/1986 – 3284/24 md. İle gelen Geçici 6 ncı madde hükmü olup
-madde numarası teselsül ettirilmiştir. ; Mülga: 31/5/2006-5510/106 md.)
+Madde 183 – (7/5/1986 – 3284/24 md. İle gelen Geçici 6 ncı madde hükmü olup madde
+numarası teselsül ettirilmiştir. ; Mülga: 31/5/2006-5510/106 md.)
 
 Geçici
 Madde 184 – (7/5/1986 – 3284/24 md. İle gelen Geçici 7 nci madde hükmü olup
@@ -2636,11 +2636,11 @@ fazla, 5 tam yıl veya daha az kalan kadın iştirakçiler 43, 5 yıldan
 fazla, 6 yıl 6 ay veya daha az kalan erkek iştirakçiler 47 yaşını,
 
 f)
-(Yeniden düzenleme: 23/5/2002-4759/5 md.)
-Emeklilik
-hizmet sürelerini doldurmaya; 5 tam yıldan fazla, 6 tam yıl veya daha az kalan
-kadın iştirakçiler 44, 6 yıl 6 aydan fazla, 8 tam yıl veya daha az kalan
-erkek iştirakçiler 48 yaşını,
+(Yeniden düzenleme:
+23/5/2002-4759/5 md.)
+Emeklilik hizmet sürelerini doldurmaya; 5 tam yıldan
+fazla, 6 tam yıl veya daha az kalan kadın iştirakçiler 44, 6 yıl 6 aydan
+fazla, 8 tam yıl veya daha az kalan erkek iştirakçiler 48 yaşını,
 
 g)
 (Yeniden düzenleme:
@@ -2713,10 +2713,10 @@ fazla, 16 tam yıl veya daha az kalan kadın iştirakçiler 54, 21 yıl 6 aydan
 fazla, 22 tam yıl kalan erkek iştirakçiler 58 yaşını,
 
 r)
-(Ek:
-23/5/2002-4759/5 md.)
-Emeklilik hizmet sürelerini doldurmaya; 16 tam yıldan
-fazla, 17 tam yıl kalan kadın iştirakçiler 55 yaşını,
+(Ek: 23/5/2002-4759/5
+md.)
+Emeklilik hizmet sürelerini doldurmaya; 16 tam yıldan fazla, 17 tam
+yıl kalan kadın iştirakçiler 55 yaşını,
 
 Doldurmaları ve kadın
 iştirakçinin 20, erkek iştirakçinin 25 fiilî hizmet süresini tamamlamaları
@@ -2948,12 +2948,12 @@ almakta iken ölenlerin veya anılan madde ve kanunlara göre aylık bağlanmas�
 gerektiren olaylar sebebiyle hayatını kaybedenlerin dul ve yetimleri; bu
 maddeyi düzenleyen Kanunla ana ve babalara aylık bağlanabilmesine ilişkin olarak
 bu Kanunun 72 nci maddesinin dördüncü fıkrasında yapılan değişikliklerin,
-bağlanmış olan aylıkların intibak suretiyle arttırılmasına ilişkin ek 77 nci
-maddesinde yapılan değişikliklerin, ek ödeme ve eğitim öğretim yardımı
-verilmesine ilişkin olarak ek 79 uncu maddesinde yapılan değişikliklerin
-durumlarına uygun hükümlerinden, bu maddenin yürürlüğe girdiği tarihten önceki
-döneme ilişkin olarak herhangi bir fark ödenmeksizin ilgili maddelerde
-belirlenmiş olan usul ve esaslar çerçevesinde yararlandırılırlar.
+bağlanmış olan aylıkların intibak suretiyle arttırılmasına ilişkin ek 77 nci maddesinde
+yapılan değişikliklerin, ek ödeme ve eğitim öğretim yardımı verilmesine ilişkin
+olarak ek 79 uncu maddesinde yapılan değişikliklerin durumlarına uygun
+hükümlerinden, bu maddenin yürürlüğe girdiği tarihten önceki döneme ilişkin
+olarak herhangi bir fark ödenmeksizin ilgili maddelerde belirlenmiş olan usul
+ve esaslar çerçevesinde yararlandırılırlar.
 
 Ek 79 uncu madde
 kapsamında ek ödemenin beş katı tutarında yardım yapılmış olması hâlinde, bu
@@ -3090,9 +3090,8 @@ hükmü olup madde numarası teselsül ettirilmiştir.; Mülga: 21/4/2005 – 53
 md.)
 
 Ek
-Geçici Madde 19 – (28/4/1982 – 2665/3 md. İle gelen Ek Geçici 1 inci madde
-hükmü olup madde numarası teselsül ettirilmiştir. ; Mülga: 31/5/2006-5510/106
-md.)
+Geçici Madde 19 – (28/4/1982 – 2665/3 md. İle gelen Ek Geçici 1 inci madde hükmü
+olup madde numarası teselsül ettirilmiştir. ; Mülga: 31/5/2006-5510/106 md.)
 
 Ek
 Geçici Madde 20 – (28/4/1982 – 2665/3 md. İle gelen Ek Geçici 2 nci madde hükmü
@@ -3153,13 +3152,13 @@ d)
 Profesörlerden; profesörlük kadrosunda, Yükseköğretim Kurulu üyeliği veya
 Yükseköğretim Denetleme Kurulu üyeliği görevlerinde geçirdikleri hizmet
 süreleri 8 yıldan,
-[30]
+[32]
 
 e)
 Bakanlık Müsteşarlığı, Devlet Planlama Teşkilatı Müsteşarlığı veya Hazine ve
 Dış Ticaret Müsteşarlığı görevlerinde bulunanlardan, bu görevlerde geçirdikleri
 hizmet süreleri 3 yıldan,
-[31]
+[33]
 
 f)
 Yukarıda ayrı fıkralar halinde yazılı görevlerden birden fazlasında bulunulması
@@ -3261,7 +3260,7 @@ I –
 
 Geçici: 60,61,62,64
 maddeleri
-[32]
+[34]
 
 Geçici:31 inci madde
 
@@ -3368,7 +3367,7 @@ tarihli ve 1101 Sayılı Kanunla eklenen Ek 1 ve 4 üncü maddeler,
 
 8/7/1971
 tarihli ve 1425 Sayılı Kanunun 1 inci maddesinin c fıkrasıyla
-[33]
+[35]
 
 aynı kanunla eklenen Ek 4 üncü madde ve bu Kanunla ek ve değişikliklerinin
 24/12/1980 tarihli ve 2363 Sayılı Kanuna aykırı hükümleri
@@ -3421,7 +3420,7 @@ fıkrası;
 c)
 5434 sayılı Kanuna 2363 Sayılı Kanun ile eklenen Ek 3 üncü maddenin yedinci
 fıkrasının (a) ve (b) bentleri
-[34]
+[36]
 
 d)
 31/12/1980 tarih ve 2368 Sayılı Kanunun 5 inci maddesi
@@ -3856,7 +3855,7 @@ Yürürlüğe Giriş Tarihi
 Geçici 1 nci madde gereğince yapılacak devir
 işlemleri, geçici 2 nci maddede yazılı yükseltme işlemleri, geçici 3 ve 5 nci
 maddeler
-[35]
+[37]
 
 13/2/1969
 
@@ -3906,7 +3905,7 @@ Geçici 1, 2,
 1/3/1971
 
 Geçici Madde 7
-[36]
+[38]
 
 Bu maddede yazılı tüzüğün yürürlüğe girdiği tarihi
 takip eden aybaşından 3 ay sonra
@@ -4118,7 +4117,7 @@ KHK/243
 3166
 
 5 inci ve geçici 2 nci madde
-[37]
+[39]
 
 1/7/1985
 
@@ -4556,9 +4555,9 @@ d) diğer maddeleri
 4839
 
 a) 1 inci maddesi
-[38]
+[40]
 
-b) 6 ncı maddesi38
+b) 6 ncı maddesi40
 
 c) diğer maddeleri
 
@@ -4711,9 +4710,9 @@ maddeleri, ek 25 ilâ ek 27 nci maddeleri, ek 29 ve ek 30 uncu maddeleri, ek
 31 inci maddesinin (a) ve (b) bentleri, ek 32 ilâ ek 39 uncu maddeleri, ek 46
 ila ek 49 uncu maddeleri, ek 56 ve ek 57 nci maddeleri, ek 59 uncu maddesi,
 ek 67 ilâ ek 70 inci maddeleri, ek 72 ilâ ek 76 ncı maddeleri, ek 78 inci
-maddesi, ek 80 inci maddesi, geçici 8 inci maddesi, geçici 15 inci maddesi,
-geçici 16 ncı maddesi, geçici 54 üncü, geçici 65 inci, geçici 85 inci, geçici
-86 ncı, geçici 88 inci, geçici 96 ilâ geçici 98 inci, geçici 103 üncü, geçici
+maddesi, ek 80 inci maddesi, geçici 8 inci maddesi, geçici 15 inci maddesi, geçici
+16 ncı maddesi, geçici 54 üncü, geçici 65 inci, geçici 85 inci, geçici 86
+ncı, geçici 88 inci, geçici 96 ilâ geçici 98 inci, geçici 103 üncü, geçici
 104 üncü, geçici 109 ilâ geçici 113 üncü, geçici 115 ilâ geçici 118 inci,
 geçici 120 nci, geçici 139 ilâ geçici 140 ıncı, geçici 146 ncı, geçici 147
 nci, geçici 150 ilâ geçici 151 inci, geçici 153 üncü, geçici 157 nci, geçici
@@ -4959,13 +4958,22 @@ Ek Madde 70
 
 19/9/2023
 
+7594
+
+72, Ek Madde 77
+
+yayımını takip eden
+ödeme döneminden geçerli olmak üzere yayımı tarihinde
+
+(18/8/2026)
+
 [1]
 
 7/5/1986 tarih ve 3284 Sayılı Kanunla bu Kanuna eklenen ve teselsülü sağlamak
 için numarası "Ek Madde 57" olarak değiştirilen Ek 7 nci madde hükmü
-gereğince, "Emekli, Adi malullük veya Vazife malullüğü Aylığı Bağlanmış
-olanlarla, Bunların Kanunen Bakmakla Yükümlü Bulundukları Aile Fertleri,
-Dul ve Yetim Aylığı Alanların Muayene ve Tedavileri Hakkında Tüzük" ile
+gereğince, "Emekli, Adi malullük veya Vazife malullüğü Aylığı Bağlanmış olanlarla,
+Bunların Kanunen Bakmakla Yükümlü Bulundukları Aile Fertleri, Dul ve
+Yetim Aylığı Alanların Muayene ve Tedavileri Hakkında Tüzük" ile
 "Vazife malullerinin Nevileriyle Dereceleri Hakkında Nizamname" ve
 "Vazife malulüklerini Belirten Usul ve Belgeler Hakkında Tüzük" hariç
 bu Kanunda geçen diğer "tüzük" deyimleri "yönetmelik"
@@ -4998,8 +5006,7 @@ değiştirilmiş ve dördüncü fıkrasına “yedek subaylık” ibaresinden so
 
 [6]
 
-Sözü edilen Geçici 7 nci madde, teselsülü sağlamak için Geçici 139 olarak
-numaralandırılmıştır.
+Sözü edilen Geçici 7 nci madde, teselsülü sağlamak için Geçici 139 olarak numaralandırılmıştır.
 
 [7]
 
@@ -5008,38 +5015,47 @@ Kanunla 5434 sayılı Kanuna eklenen ve teselsülü sağlamak için numarası �
 Madde 141” olarak değiştirilen Geçici Madde 9 ile kaldırılmıştır.
 
 [8]
-
-2/7/2018 tarihli ve 700 sayılı KHK’nin 22 nci maddesiyle, bu fıkrada yer alan “Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve “Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+2/7/2018 tarihli ve 700 sayılı KHK’nin 22 nci
+maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde ve “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde
+değiştirilmiştir.
 
 [9]
-
-25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu fıkranın birinci
-ve dördüncü cümlelerine “yedek subay” ibarelerinden sonra gelmek üzere “ve
-yedek astsubay” ibaresi eklenmiştir.
+25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci
+maddesiyle bu fıkranın birinci ve dördüncü cümlelerine “yedek subay”
+ibarelerinden sonra gelmek üzere “ve yedek astsubay” ibaresi eklenmiştir.
 
 [10]
+
+9/8/2026 tarihli ve 7594
+sayılı Kanunun 1 inci maddesiyle bu fıkranın
+birinci cümlesinde yer alan
+“erbaş ve erler ile yedek subay ve yedek astsubay okulu öğrencilerinin ana veya
+babasına” ibaresi “ana ve babalara” şeklinde ve dördüncü cümlesinde yer alan
+“Erbaş ve erler ile yedek subay ve yedek astsubay okulu öğrencilerinin ana ve
+babalarına” ibaresi “Ana ve babalara” şeklinde değiştirilmiştir.
+
+[11]
 
 Anayasa Mahkemesinin 25/12/2014 tarihli ve E:2013/111, K:2014/195 sayılı
 kararıyla, bu fıkrada yer alan “verilecek emekli ikramiyesinin hesabında 30
 fiili hizmet yılından fazla süreler ile” ibaresi iptal edilmiştir.
 
-[11]
+[12]
 
 Bu fıkrada yer alan “özelleştirme programına alınan kuruluşlara atananlarla,”
 ibaresi,21/4/2005 tarihli ve 5335 sayılılı Kanunun 3 üncü maddesiyle
 “özelleştirme programına alınan kuruluşların bu Kanuna göre emeklilik hakkı
 tanınan kadro ve pozisyonlarına atananlarla,” şeklinde değiştirilmiştir.
 
-[12]
+[13]
 
 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu maddenin
 birinci fıkrasının (a) bendine “uzman erbaşlar” ibaresinden sonra gelmek üzere
 “, sözleşmeli erbaş ve erler” ibaresi eklenmiş, (b) bendinde yer alan “Uzman erbaşların”
 ibaresi “Uzman erbaşlar ile sözleşmeli erbaş ve erlerin” olarak değiştirilmiştir.
 
-[13]
+[14]
 
 4/7/2012 tarihli ve 6353 sayılı Kanunun 70 inci maddesiyle, bu maddenin (a)
 bendine “uzman erbaşlar,” ibaresinden sonra gelmek üzere “sözleşmeli subaylar,
@@ -5047,7 +5063,7 @@ sözleşmeli astsubaylar,” ve (b) bendine “azami rütbe tavanı subaylarda�
 ibaresinden sonra gelmek üzere “(öğrenim durumuna bakılmaksızın astsubaydan
 subay olanlar dahil)” ibareleri eklenmiştir.
 
-[14]
+[15]
 
 4/7/2012 tarihli ve 6353 sayılı Kanunun 70 inci maddesiyle, bu maddenin birinci
 fıkrasının (d) bendinde yer alan “başkomiser” ibaresi “öğrenim durumuna bakılmaksızın
@@ -5057,46 +5073,51 @@ asgari ücretin net tutarının iki katı” şeklinde değiştirilmiş, aynı m
 birinci fıkrasına c bendi eklenmiş ve mevcut e ve (f) bentleri (f) ve (g)
 bentleri şeklinde teselsül ettirilmiştir.
 
-[15]
-
-17/4/2008 tarihli ve 5754 sayılı Kanunun 75 inci maddesiyle bu bentte yer alan
-“ve uzman” ibaresi “Uzman” şeklinde değiştirilmiştir.
-
 [16]
-
-12/7/2013 tarihli ve 6495 sayılı Kanunun 92 nci maddesiyle, bu bentte yer alan
-“Sivil iştirakçiler ile” ibaresi “Sivil iştirakçilere uygulanacak azami derece
-ve kademe, öğrenim durumları ve hizmet sınıfları itibarıyla 14/7/1965 tarihli
-ve 657 sayılı Devlet Memurları Kanununa göre yükselebilecekleri derece ve
-kademe;” şeklinde değiştirilmiştir.
+17/4/2008 tarihli ve 5754 sayılı Kanunun 75 inci
+maddesiyle bu bentte yer alan “ve uzman” ibaresi “Uzman” şeklinde
+değiştirilmiştir.
 
 [17]
+12/7/2013 tarihli ve 6495 sayılı Kanunun 92 nci
+maddesiyle, bu bentte yer alan “Sivil iştirakçiler ile” ibaresi “Sivil
+iştirakçilere uygulanacak azami derece ve kademe, öğrenim durumları ve hizmet
+sınıfları itibarıyla 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa
+göre yükselebilecekleri derece ve kademe;” şeklinde değiştirilmiştir.
+
+[18]
+
+9/8/2026 tarihli ve 7594 sayılı Kanunun 2 nci
+maddesiyle bu fıkrada yer alan “iki katı” ibaresi “iki buçuk katı” şeklinde
+değiştirilmiştir.
+
+[19]
 
 12/7/2013 tarihli ve 6495 sayılı Kanunun 94 üncü maddesiyle, bu fıkrada yer
 alan “ek 77 nci madde kapsamına girenler hariç olmak üzere vazife malûllüğü
 veya” ibaresi yürürlükten kaldırılmıştır.
 
-[18]
+[20]
 
 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan
 “emekli aylığı” ibaresinden sonra gelmek üzere “veya ek 77 nci madde kapsamına
 girenler hariç olmak üzere vazife malûllüğü veya adi malûllük aylığı” ibaresi
 eklenmiştir.
 
-[19]
+[21]
 
 11/2/2014 tarihli ve 6519 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan
 “dâhil kadrolar” ibaresinden sonra gelmek üzere “ve Türk Silahlı Kuvvetlerine
 mensup subay, astsubay, uzman jandarma ve uzman erbaşlar” ibaresi eklenmiştir.
 
-[20]
+[22]
 
 22/1/2015 tarihli ve 6586 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer
 alan “uzman erbaşlar” ibaresinden sonra gelmek üzere “, 926 sayılı Türk Silâhlı
 Kuvvetleri Personel Kanununun geçici 32 nci maddesi uyarınca araştırmacı
 unvanlı kadrolara atananlar” ibaresi eklenmiştir.
 
-[21]
+[23]
 
 17/4/2017 tarihli ve 690 sayılı KHK’nin 31 inci maddesiyle, bu fıkrada yer alan
 “Türk Silahlı Kuvvetlerine” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel
@@ -5104,7 +5125,7 @@ Komutanlığı ve Sahil Güvenlik Komutanlığına” şeklinde değiştirilmiş
 bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 27 nci maddesiyle aynen kabul
 edilerek kanunlaşmıştır.
 
-[22]
+[24]
 
 18/2/2021 tarihli ve 7281 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan
 “uzman jandarma ve” ibaresinden sonra gelmek üzere “3269 sayılı Kanunun 5 inci
@@ -5112,81 +5133,81 @@ maddesinde 19/6/2010 tarihli ve 6000 sayılı Kanunla yapılan değişiklik
 gereğince Devlet memuru olarak istihdam edilip emekliliğe hak kazananlar dâhil”
 ibaresi eklenmiştir.
 
-[23]
+[25]
 
 16/6/2022 tarihli ve 7411 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan
 “(17.000)” ibaresi “(26.000)” şeklinde, “(13.000)” ibaresi “(20.000)” şeklinde
 değiştirilmiştir.
 
-[24]
+[26]
 
 20/5/1955 tarih ve 6580 Sayılı Kanun uygulanma imkanı kalmadığından yürürlükten
 kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış; bu sebeple
 madde metni yayımlanmamıştır.
 
-[25]
+[27]
 
 16/7/1956 tarih ve 6807 Sayılı Kanun, uygulanma imkanı kalmadığından
 yürürlükten kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış;
 bu sebeple madde metni yayımlanmamıştır.
 
-[26]
+[28]
 
 16/1/1957 tarih ve 6881 Sayılı Kanun, uygulanma imkanı kalmadığından
 yürürlükten kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış;
 bu sebeple madde metni yayımlanmamıştır.
 
-[27]
+[29]
 
 12/6/1959 tarih ve 7350 Sayılı Kanun, uygulanma imkanı kalmadığından
 yürürlükten kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış;
 bu sebeple madde metni yayımlanmamıştır.
 
-[28]
+[30]
 
 23/10/1962 tarih ve 82 Sayılı Kanun, uygulanma imkanı kalmadığından yürürlükten
 kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış; bu sebeple
 madde metni yayımlanmamıştır.
 
-[29]
+[31]
 
 23/10/1962 tarih ve 83 Sayılı Kanun, uygulanma imkanı kalmadığından yürürlükten
 kaldırılmak üzere TBMM’ne sevk edilecek kanunlar listesine alınmış; bu sebeple
 madde metni yayımlanmamıştır.
 
-[30]
+[32]
 
 28/12/1984 tarih ve 244 Sayılı KHK ile, (d) fıkrasındaki 10 yıllık süre 8 yıl
 olarak değiştirilmiştir.
 
-[31]
+[33]
 
 12/12/1984 tarih ve 243 Sayılı KHK’nin 52 nci maddesi ile; c fıkrasındaki 10
 yıllık süre 6 yıl, e fıkrasındaki 5-yıllık süre de 3 yıl olarak
 değiştirilmiştir.
 
-[32]
+[34]
 
 Şu kadarki, bu Kanunun yürürlüğe girdiği tarihe kadar bu maddeler hükümlerine
 göre emekli aylıklarına istihkak kesbetmiş olanların hakları mahfuzdur.
 
-[33]
+[35]
 
 Burada sözü edilen 1425 Sayılı Kanunun 1 nci maddesi teselsülün sağlanması için
 “Ek Madde 15” olarak numaralandırılmıştır.
 
-[34]
+[36]
 
 Burada sözü edilen Ek 3 üncü maddenin numarası teselsülün sağlanması için “Ek
 40 ıncı Madde” olarak değiştirilmiştir.
 
-[35]
+[37]
 
 Sözü edilen geçici 1,2,3 ve 5 inci maddelerin numaraları teselsül
 ettirme sebebiyle sırasıyla “Geçici Madde 121,122,123 ve 125”
 olmuştur.
 
-[36]
+[38]
 
 Sözü edilen 1 inci maddenin numarası teselsül ettirme sebebiyle “Ek Madde 15”,Ek 1,2,3,5,6,7,8,9, 10,11,12,ve 13 üncü maddelerin numaraları sırasıyla “Ek Madde
 16,17,18,19,20,21,22,23,24,25,26 ve 27”,Geçici
@@ -5195,12 +5216,12 @@ sırasıyla “Geçici Madde
 133,134,135,136,137,139,140,142,143,144,145,146,148,151,153 ve 154”
 olmuştur.
 
-[37]
+[39]
 
 Sözü edilen Geçici 2 nci maddenin numarası, teselsül ettirme sebebiyle “Geçici
 Madde 177” olmuştur.
 
-[38]
+[40]
 
 1 inci ve 6 ncı maddeler Anayasa Mahkemesinin 24/2/2004 tarihli ve 25383 sayılı
 Resmi Gazete’de yayımlanan, 8/10/2003 tarih ve E.2003/31, K.2003/87 sayılı

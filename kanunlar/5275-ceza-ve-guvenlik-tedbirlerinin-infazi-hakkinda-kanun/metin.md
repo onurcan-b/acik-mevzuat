@@ -253,14 +253,21 @@ edilir.
 Çocuk kapalı ceza infaz kurumları
 
 Madde 11-
-(1) Çocuk tutukluların ya da çocuk eğitimevlerinden
-disiplin veya diğer nedenlerle kapalı ceza infaz kurumlarına nakillerine karar
-verilen çocukların barındırıldıkları ve firara karşı engelleri olan iç ve dış
-güvenlik görevlileri bulunan, eğitim ve öğretime dayalı kurumlardır.
+(1)
+Çocuk hükümlülerin veya
+tutukluların
+ya da çocuk eğitimevlerinden disiplin veya diğer nedenlerle
+kapalı ceza infaz kurumlarına nakillerine karar verilen çocukların
+barındırıldıkları ve firara karşı engelleri olan iç ve dış güvenlik görevlileri
+bulunan, eğitim ve öğretime dayalı kurumlardır.
+[2]
 
-(2) Oniki-onsekiz yaş grubu çocuklar, cinsiyetleri ve fizikî gelişim
-durumları göz önüne alınarak bu kurumların ayrı ayrı bölümlerinde
-barındırılırlar.
+(2) Oniki-onsekiz yaş grubu çocuklar,
+suç türleri,
+cinsiyetleri
+ve fizikî gelişim durumları göz önüne alınarak bu kurumların ayrı ayrı
+bölümlerinde barındırılırlar.
+2
 
 (3) Bu hükümlüler, kendilerine özgü kurumun bulunmadığı hâllerde kapalı
 ceza infaz kurumlarının çocuklara ayrılan bölümlerine yerleştirilirler.
@@ -268,8 +275,8 @@ Kurumlarda ayrı bölümlerin bulunmaması hâlinde, kız çocukları kadın kap
 infaz kurumlarının bir bölümünde veya diğer kapalı ceza infaz kurumlarının
 kendilerine ayrılan bölümlerinde barındırılırlar.
 
-(4) Bu kurumlarda çocuklara eğitim ve öğretim verilmesi ilkesine
-tam olarak uyulur.
+(4) Bu kurumlarda çocuklara eğitim ve
+öğretim verilmesi ilkesine tam olarak uyulur.
 
 Gençlik kapalı ceza infaz kurumları
 
@@ -345,9 +352,9 @@ Toplam on yıl ve daha fazla
 hapis cezasına mahkûm olanlar ile terör suçları, örgüt kurmak, yönetmek veya
 örgüte üye olmak suçları, örgüt faaliyeti kapsamında işlenen suçlar, kasten
 öldürme suçları, cinsel dokunulmazlığa karşı işlenen suçlar ve uyuşturucu veya
-uyarıcı madde imal ve ticareti suçlarından mahkûm olanların kapalı ceza infaz kurumundan
-açık ceza infaz kurumuna ayrılmalarına ilişkin idare ve gözlem kurulu
-kararları, infaz hâkiminin onayından sonra uygulanır.
+uyarıcı madde imal ve ticareti suçlarından mahkûm olanların kapalı ceza infaz
+kurumundan açık ceza infaz kurumuna ayrılmalarına ilişkin idare ve gözlem
+kurulu kararları, infaz hâkiminin onayından sonra uygulanır.
 
 (5)
 (Ek:14/4/2020-7242/18 md.)
@@ -392,9 +399,55 @@ devam eden ve onsekiz yaşını dolduran çocukların, eğitim ve öğretimlerin
 tamamlayabilmeleri bakımından yirmibir yaşını bitirinceye kadar bu tesislerde
 kalmalarına izin verilebilir.
 
-(3) Haklarında tutuklama kararı bulunanlar ile 11 inci madde kapsamına
-girenler hariç olmak üzere, bu tesislerde bulunan çocuk hükümlüler kapalı ceza
-infaz kurumlarına gönderilmezler.
+(3)
+(Değişik:8/8/2026-7593/6 md.)
+
+Çocuk
+hükümlülerin çocuk kapalı ceza infaz kurumundan çocuk eğitimevine ayrılmalarına
+89 uncu madde uyarınca psikolog, pedagog, çocuk gelişimcisi, sosyal çalışmacı,
+psikolojik danışman, rehberlik uzmanı, öğretmen ve Türkiye Barolar Birliğinin
+çocuk hakları komisyonundan görevlendireceği avukat gibi en az bir uzman
+görevlinin de katılımıyla idare ve gözlem kurulu tarafından en geç üç ayda bir
+yapılan değerlendirme sonucunda karar verilir. Çocuk eğitimevine ayırmaya
+ilişkin olarak tutum ve davranışları olumsuz değerlendirilen çocuk hükümlülerin
+yeniden değerlendirilmeye tabi tutulma süreleri altı ayı geçemez.
+
+(4)
+(Ek:8/8/2026-7593/6
+md.)
+Aşağıdaki hâllerde çocuk hükümlüler hakkında verilen
+cezalar doğrudan çocuk eğitimevlerinde yerine getirilir:
+
+a) Kasıtlı suçlardan toplam üç yıl veya daha az süreli
+hapis cezasına mahkûm olanlar.
+
+b) Taksirli suçlardan toplam beş yıl veya daha az süreli
+hapis cezasına mahkûm olanlar.
+
+(5)
+(Ek:8/8/2026-7593/6 md.)
+Doğrudan çocuk eğitimevine alınanlar dahil olmak üzere bu kurumlarda
+bulunan çocuk hükümlülerden;
+
+a) Firar edenler veya başka bir fiilden dolayı
+haklarında tutuklama kararı verilenler,
+
+b) Kapalı ceza infaz kurumuna iade veya odaya kapatma
+disiplin cezası alıp, bu cezası kesinleşmiş olanlar veya asayiş ve düzenin
+sağlanması amacıyla disiplin cezası kesinleşmemiş olsa bile eylemi kurum düzeni
+ya da kişi güvenliği bakımından tehlike oluşturanlar,
+
+idare ve gözlem kurulu kararıyla çocuk kapalı ceza infaz
+kurumlarına gönderilirler.
+
+(6)
+(Ek:8/8/2026-7593/6 md.)
+Çocuk hükümlülerin, suç ve ceza türlerine göre, çocuk eğitimevlerine
+ayrılıp ayrılmamalarına, çocuk eğitimevlerinde geçirecekleri sürelere, çocuk
+kapalı ceza infaz kurumlarına gönderilmelerine, doğrudan çocuk eğitimevlerine
+alınmalarına, doğrudan çocuk eğitimevlerine alınanların çocuk kapalı ceza infaz
+kurumlarına gönderilmelerine ve diğer hususlara ilişkin usul ve esaslar
+yönetmelikte gösterilir.
 
 ÜÇÜNCÜ
 BÖLÜM
@@ -434,13 +487,13 @@ bildirimin yapıldığı yerde bulunan kolluk makam ve memurlarınca yerine
 getirilir. Bu fıkrada yazılı yükümlülüklere aykırı hareket edilmesi hâlinde
 geri bırakma kararı, kararı veren Cumhuriyet Başsavcılığınca kaldırılır. Bu karara
 karşı infaz hâkimliğine başvurulabilir.
-[2]
+[3]
 
 (4) Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren
 bir yıl altı ay geçmemiş bulunan kadınlar hakkında geri bırakılır. Çocuk ölmüş
 veya anasından başka birine verilmiş olursa, doğumdan itibaren iki ay geçince
 ceza infaz olunur.
-[3]
+[4]
 
 (5)
 (Ek: 24/1/2013-6411/3 md.)
@@ -458,22 +511,21 @@ veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız id
 ettiremeyen ve toplum güvenliği bakımından ağır ve somut tehlike
 oluşturmayacağı değerlendirilen mahkûmun cezasının infazı üçüncü fıkrada
 belirlenen usule göre iyileşinceye kadar geri bırakılabilir.
-[4]
 [5]
+[6]
 
-Çocuğunun hastalığı nedeniyle
-kadın hükümlünün cezasının infazının ertelenmesi
+Çocuğunun
+hastalığı nedeniyle kadın hükümlünün cezasının infazının ertelenmesi
 
-Madde 16/A-
-(Ek: 28/3/2023-7445/23 md.)
+Madde 16/A- (Ek: 28/3/2023-7445/23 md.)
 
-(1) İnfazına
-başlanmış olsa bile, toplam on yıl veya daha az süreli hapis cezasına mahkûm
-olan veya adli para cezası infaz sürecinde hapis cezasına çevrilen kadın
-hükümlünün, engelliliği nedeniyle bakıma muhtaç olan veya ağır bir hastalığa
-maruz kalan on sekiz yaşını doldurmamış çocuğunun bulunması ve toplum güvenliği
-bakımından ağır ve somut tehlike oluşturmayacağının değerlendirilmesi hâlinde,
-cezasının infazı Cumhuriyet Başsavcılığınca bir yıla kadar ertelenebilir.
+(1) İnfazına başlanmış olsa bile, toplam on yıl veya daha
+az süreli hapis cezasına mahkûm olan veya adli para cezası infaz sürecinde hapis
+cezasına çevrilen kadın hükümlünün, engelliliği nedeniyle bakıma muhtaç olan
+veya ağır bir hastalığa maruz kalan on sekiz yaşını doldurmamış çocuğunun
+bulunması ve toplum güvenliği bakımından ağır ve somut tehlike
+oluşturmayacağının değerlendirilmesi hâlinde, cezasının infazı Cumhuriyet
+Başsavcılığınca bir yıla kadar ertelenebilir.
 Erteleme süresi her defasında altı ayı geçmemek üzere en
 çok dört kez uzatılabilir. Erteleme süresi içinde zamanaşımı işlemez. Çocuğun
 engellilik nedeniyle bakıma muhtaç olma veya ağır hastalık hâli, 16
@@ -486,18 +538,19 @@ açılması veya çocuğun iyileşmesi hâlinde, erteleme kararı kaldırılarak
 derhâl infaz olunur. Hükümlü, Cumhuriyet savcısı tarafından erteleme süresi
 içinde;
 
-a) Belirli bir yerleşim bölgesini
-terk etmemek,
+a) Belirli bir
+yerleşim bölgesini terk etmemek,
 
-b) Belirlenen yerlere, belirtilen
-süreler içinde düzenli olarak başvurmak,
+b) Belirlenen
+yerlere, belirtilen süreler içinde düzenli olarak başvurmak,
 
-c) Ekonomik durumu göz önünde
-bulundurularak belirlenen güvence miktarını yatırmak,
+c) Ekonomik
+durumu göz önünde bulundurularak belirlenen güvence miktarını yatırmak,
 
 yükümlülüklerinden
-en az birine tâbi tutulur. Hükümlü hakkında ayrıca
-Cumhuriyet savcısı tarafından yurt dışına çıkamama yükümlülüğü konulur.
+en
+az birine tâbi tutulur. Hükümlü hakkında ayrıca Cumhuriyet savcısı tarafından
+yurt dışına çıkamama yükümlülüğü konulur.
 
 Hükümlünün istemiyle infazın ertelenmesi
 
@@ -526,7 +579,7 @@ ya da hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi gibi zo
 çok ivedi hâllerde, Cumhuriyet Başsavcılığınca bir yılı geçmeyen sürelerle
 hapis cezasının infazına ara verilebilir. Ancak bu ara verme iki defadan fazla
 olamaz.
-[6]
+[7]
 
 (5) Erteleme isteminin kabulü, güvence
 gösterilmesine veya diğer bir şarta bağlanabilir.
@@ -593,11 +646,10 @@ hapsin infazında hükümlüye öncelikle çağrı kâğıdı gönderilir.
 (4)
 (Ek:14/4/2020-7242/21 md.)
 
-Hakkında yakalama emri çıkarılan hükümlünün yakalanabilmesi amacıyla
-gerektiğinde konutta, işyerinde ve kamuya açık olmayan kapalı alanlarda arama
-yapılabilmesi bakımından Ceza Muhakemesi Kanununun 119 uncu maddesi hükümleri
-uygulanır. Hâkim tarafından verilecek arama kararları sulh ceza hâkimi
-tarafından verilir.
+Hakkında yakalama emri çıkarılan hükümlünün yakalanabilmesi amacıyla gerektiğinde
+konutta, işyerinde ve kamuya açık olmayan kapalı alanlarda arama yapılabilmesi
+bakımından Ceza Muhakemesi Kanununun 119 uncu maddesi hükümleri uygulanır.
+Hâkim tarafından verilecek arama kararları sulh ceza hâkimi tarafından verilir.
 
 DÖRDÜNCÜ
 BÖLÜM
@@ -748,7 +800,8 @@ md.)
 olunur.
 (Mülga ikinci cümle: 25/5/2005-5351/2 md.)
 
-Hükümlülerin gruplandırılması
+Hükümlülerin
+gruplandırılması
 
 Madde 24-
 (1) Hükümlüler;
@@ -768,8 +821,8 @@ suçlular,
 
 gibi gruplara ayrılırlar.
 
-(2) Hükümlüler ayrıca yaşları, hükümlülük süreleri ve suç türleri
-itibarıyla da gruplandırılırlar.
+(2) Hükümlüler ayrıca yaşları, hükümlülük süreleri ve suç türleri itibarıyla
+da gruplandırılırlar.
 
 Ağırlaştırılmış müebbet hapis cezasının infazı
 
@@ -819,9 +872,9 @@ Yükümlülükleri
 Cezayı çekme, güvenlik ve iyileştirme programına uyma
 
 Madde 26-
-(1) Hükümlü, hapis cezasının yerine getirilmesine
-katlanma ve bu amaçla düzenlenen infaz rejimine uygun tutum ve davranışlar
-içinde bulunmakla yükümlüdür.
+(1) Hükümlü, hapis cezasının yerine getirilmesine katlanma
+ve bu amaçla düzenlenen infaz rejimine uygun tutum ve davranışlar içinde
+bulunmakla yükümlüdür.
 
 (2) Hükümlü, ceza infaz kurumunun
 güvenlik ve iyileştirme programlarına tam bir uyum göstermekle yükümlüdür. Her
@@ -869,7 +922,7 @@ hükümlüler, öğretim yılı içinde atölye ve işyerlerinde çalıştırıl
 Eğitim Kanununun bu Kanuna aykırı olmayan hükümleri uygulanır.
 
 Kurum dışında çalıştırma
-[7]
+[8]
 
 Madde 30-
 (1) Açık ceza infaz kurumlarında bulunanlar ile kapalı
@@ -891,14 +944,14 @@ olunur.
 
 (5)
 (Ek:14/4/2020-7242/22 md.)
-[8]
+[9]
 
 Açık ceza infaz kurumlarında bulunan hükümlülerden istekli olanlar, ceza
 infaz kurumu görevlilerinin denetiminde, kamu kurum ve kuruluşlarının iş
 alanlarında, geceleyin bu kurum ve kuruluşlar tarafından barındırılmak
 suretiyle çalıştırılabilirler. Bu şekilde çalıştırılan süre, azami süre
-sınırına bakılmaksızın 105/A maddesi uyarınca denetimli serbestlik tedbiri
-uygulanmak suretiyle infaz edilecek süreye ilave edilir.
+sınırına bakılmaksızın 105/A maddesi uyarınca denetimli serbestlik tedbiri uygulanmak
+suretiyle infaz edilecek süreye ilave edilir.
 (Ek
 cümle:1/7/2022-7417/45 md.)
 Bu hükümlülerin gündeliği, işyurtları
@@ -907,7 +960,7 @@ bünyesinde çalıştırılan usta hükümlülere ödenen gündelikten az olamaz
 (6) Hükümlülerin kurum dışında çalışma esasları ile beşinci fıkra
 kapsamında çalıştırılacak hükümlülere uygulanmayacak kısıtlayıcı hükümler
 Cumhurbaşkanınca çıkarılan yönetmelikte gösterilir.
-[9]
+[10]
 
 (7)
 (Ek:1/7/2022-7417/45 md.)
@@ -931,7 +984,8 @@ kendi yaşam alanları veya eğitsel amaçlar dışında çalıştırılamazlar.
 (2) Hükümlü, yöneticilerin ve görevlilerin kişisel işlerinde
 çalıştırılamaz.
 
-Ücret ve sosyal haklar
+Ücret ve sosyal
+haklar
 
 Madde 32-
 (1) Çalışan hükümlülere ürettiklerinden elde edilen
@@ -1022,7 +1076,7 @@ Disiplin cezalarının niteliği ve uygulama koşulları
 Madde 37-
 (1) Hükümlü hakkında kurumda, düzenli bir yaşamın
 sürdürülmesi, güvenliğin ve disiplinin sağlanması bakımından kanun, (…)
-[10]
+[11]
 
 yönetmelikler ile
 idarenin uyulmasını emrettiği veya gerekli kıldığı davranış ve tutumları,
@@ -1255,9 +1309,9 @@ işleriyle başka işlerde kullanmak, bunlara kalkışmak veya bu amaçları
 gerçekleştirmek için oluşturulan gruplara katılmak veya bunlarla dayanışma
 içinde olmak.
 
-g) Üçüncü fıkranın (g) bendinde belirtilenler dışında kalıp da Kanuna
-uygun olarak yasaklanmış bulunan her türlü eşya, araç, gereç veya malzemeyi
-ceza infaz kurumlarına sokmak, bulundurmak, kullanmak.
+g) Üçüncü fıkranın (g) bendinde belirtilenler dışında kalıp da Kanuna uygun
+olarak yasaklanmış bulunan her türlü eşya, araç, gereç veya malzemeyi ceza
+infaz kurumlarına sokmak, bulundurmak, kullanmak.
 
 h) Sayım ve aramalar ile 43 üncü maddenin (e) bendinde belirtilen
 faaliyetlere şiddet kullanarak engel olmak veya buna kalkışmak.
@@ -1307,8 +1361,8 @@ h) Görevlileri veya hükümlü ve tutukluları rehin almak.
 ı) Firar etmek veya tünel kazmak.
 
 j) Hükümlü ve tutuklular üzerinde baskı kurarak çıkar sağlamak, özel
-işleriyle başka işlerde kullanmak, bunlara kalkışmak veya bu amaçları
-gerçekleştirmek için nüfuz kullanarak grup oluşturmak.
+işleriyle başka işlerde kullanmak, bunlara kalkışmak veya bu amaçları gerçekleştirmek
+için nüfuz kullanarak grup oluşturmak.
 
 k) Suç örgütlerine ait her türlü yayın, bez afiş, pankart, resim, sembol,
 işaret ve benzeri eşyayı kurumların herhangi bir yerine asmak veya teşhir
@@ -1398,7 +1452,7 @@ dikkatinin çekilmesidir.
 eylemin sonuçlarının, istekli olması koşulu ile çocuk tarafından onarma, tazmin
 etme veya eski hâle getirme suretiyle giderilmesidir. Bu disiplin cezasını
 gerektiren eylemler şunlardır:
-[11]
+[12]
 
 a) Başkasına ait eşyayı izinsiz almak, kullanmak.
 
@@ -1423,8 +1477,8 @@ yerlerden aldığı kitap, araç ve gereçleri zamanında geri vermemek, eksik v
 ve bunlara zarar vermek.
 
 j) Dikkatsizlikle kurumun bina,
-eklenti ve donanımları ile kuruma ait taşınır ve taşınmaz malları veya
-başkasına ait herhangi bir eşyayı yakmak, kırmak veya hasara uğratmak.
+eklenti ve donanımları ile kuruma ait taşınır ve taşınmaz malları veya başkasına
+ait herhangi bir eşyayı yakmak, kırmak veya hasara uğratmak.
 
 k) Üzerinde bulundurulmasına izin verilmeyen veya bulundurabileceğinden
 fazla eşya veya para bulundurmak.
@@ -1463,7 +1517,7 @@ f) Kurum veya dış güvenlik görevlilerine rüşvet vermek.
 g) Suç örgütlerine ait her türlü yayın, bez afiş, pankart, resim, sembol,
 işaret ve benzeri eşyayı kurumun herhangi bir yerine asmak veya teşhir etmek ya
 da bulundurmak.
-[12]
+[13]
 
 h) Katıldığı faaliyetlerin akışını ve
 düzenini engelleyici ve bozucu nitelikte kastî davranışlarda bulunmak,
@@ -1486,7 +1540,7 @@ Disiplin cezasını gerektiren eylemin niteliğine ve ağırlık derecesine gör
 çocuğun izninin altmış güne kadar ertelenmesi veya kapalı ceza infaz
 kurumlarında açık ziyaretlerin altmış güne kadar kapalı şekilde
 yaptırılmasıdır. Bu disiplin cezasını gerektiren eylemler şunlardır:
-[13]
+[14]
 
 a) Diğer çocuklar üzerinde nüfuz kurmak ve husumet hislerini tahrike
 çalışmak, imtiyaz ve menfaat hırsları yaratmak.
@@ -1502,7 +1556,7 @@ kullanılabilecek madde ve aletleri yapmak, saklamak, bulundurmak.
 e) İdareye ait olup kendisine
 verilmemiş bulunan yatak, battaniye, karyola ve dolap gibi eşyayı zapt etmek
 veya satmak ya da maddi menfaat karşılığı diğer çocuklara kullandırmak.
-13
+14
 
 f) Kurum görevlilerine hakaret etmek, karşı gelmek.
 
@@ -1546,13 +1600,13 @@ fıkrada sayılan disiplin eylemlerinin ikinci veya daha fazla tekrarı hâlinde
 ise bir yıl süre ile iadesidir. Çocuk, bu fıkra dışında işlenen disiplin
 suçları ve disiplin cezalarından dolayı çocuk kapalı infaz kurumuna iade
 edilemez. Kapalı ceza infaz kurumuna iadeyi gerektiren eylemler şunlardır:
-[14]
+[15]
 
 a) Kurum içinde veya dışında başkasını neticesi sebebiyle ağırlaşmış
 şekilde yaralamak ya da yaralayıcı, öldürücü her türlü âlet, silâh ve patlayıcı
 madde kullanmak suretiyle herhangi bir kimseyi yaralamaya teşebbüs etmek,
 yaralamak.
-14
+15
 
 b) Bir kimseyi rızası hilafına alıkoymak.
 
@@ -1560,8 +1614,8 @@ c) Şiddet ve tehdit ile kurum görevlilerinin görevini engellemek.
 
 d) Firara teşebbüs etmek veya firar etmek.
 
-e) Kasten kurumun bina, eklenti ve donanımları ile taşınır ve taşınmaz
-mallarını yakmak veya yakmaya teşebbüs etmek, ağır hasar vermek.
+e) Kasten kurumun bina, eklenti ve donanımları ile taşınır ve taşınmaz mallarını
+yakmak veya yakmaya teşebbüs etmek, ağır hasar vermek.
 
 f) Hükümlü ve tutukluları idareye karşı kışkırtmak, isyan çıkartmak veya
 isyana teşebbüs etmek.
@@ -1574,9 +1628,9 @@ veya bunlara teşebbüs ve bu tür davranışlara kışkırtmak.
 ı) Görevlilere, diğer çocuklara işkence yapmak veya yaptırmak.
 
 (9) Odaya kapatma cezası: Sekizinci
-fıkrada belirtilen kapalı infaz kurumunda bulunan çocuğun, aynı fıkrada
-belirtilen eylemlerde bulunması hâlinde, beş güne kadar açık havaya çıkma hakkı
-saklı kalmak üzere, gece ve gündüz tek başına bir odada tutulmasıdır. Bu ceza,
+fıkrada belirtilen kapalı infaz kurumunda bulunan çocuğun, aynı fıkrada belirtilen
+eylemlerde bulunması hâlinde, beş güne kadar açık havaya çıkma hakkı saklı
+kalmak üzere, gece ve gündüz tek başına bir odada tutulmasıdır. Bu ceza,
 çocuğun kurum görevlilerine istediği zaman ulaşmasına engel olunmayacak şekilde
 uygulanır. Çocuk, cezanın infazı öncesinde, sırasında ve sonrasında doktor
 kontrolünden geçirilir. Cezanın infazı sırasında çocuğun; ailesi, avukatı ve
@@ -1594,7 +1648,7 @@ tarafından verilir ve uygulanır.
 (2) Hükümlülerin diğer disiplin cezalarını gerektiren eylemlerinin
 öğrenilmesinden itibaren derhâl ve en geç beş gün içinde kurum en üst amirince
 atanan bir görevli tarafından soruşturmaya başlanır.
-[15]
+[16]
 
 (3)
 (Değişik:14/4/2020-7242/27 md.)
@@ -1629,9 +1683,9 @@ beraber soruşturmayı başlatır. Bu hâlde infaz hâkimine bilgi verilir.
 (Ek:14/4/2020-7242/27 md.)
 Disiplin soruşturması hükümlünün
 barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapılır. Hükümlünün
-ceza infaz kurumu dışındaki eylemleri nedeniyle yapılacak disiplin
-soruşturması, hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu
-disiplin kurulu tarafından yapılır.
+ceza infaz kurumu dışındaki eylemleri nedeniyle yapılacak disiplin soruşturması,
+hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu disiplin kurulu
+tarafından yapılır.
 
 Disiplin cezasını gerektiren eylemlerin tekrarı, disiplin cezalarının
 infazı ve kaldırılması
@@ -1648,7 +1702,7 @@ disiplin cezası kesinleştikten sonra bu cezanın infazı tamamlanıp kaldırı
 için dördüncü fıkrada belirtilen süreler geçinceye kadar yeniden disiplin
 cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst
 ceza uygulanır.
-[16]
+[17]
 
 (3) Disiplin cezalarının infazı;
 
@@ -1658,7 +1712,7 @@ hükümler saklı kalmak üzere, kesinleşen disiplin cezalarının infazına de
 başlanır. Birden fazla disiplin cezası verilmiş olması hâlinde, bu cezalar
 kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir cezanın infazı
 tamamlanmadan diğerinin infazına başlanmaz.
-[17]
+[18]
 
 b) Disiplin cezalarının tamamı infaz edilip kaldırılmadıkça koşullu
 salıverilme işlemi yapılmaz, ancak bu süre hakederek salıverme tarihini
@@ -1673,7 +1727,7 @@ sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası infaz edi
 yerine 44 üncü maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü
 fıkrasının uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun
 bırakma cezası uygulanır. Raporlar infaz dosyasına konulur.
-17
+18
 
 (4) İnfaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında
 ve iyi hâlin kazanılmasında aşağıda belirtilen süreler esas alınır;
@@ -1725,7 +1779,7 @@ süreler karar tarihinden, firar hâlinde infaz tarihinden itibaren başlar.
 iyileştirme programında ilerleme veya verilen ceza ile amaçlanan sonucun
 gerçekleşmesi durumunda, çocuk hakkında verilen disiplin cezasını süre koşulu
 aranmaksızın her zaman kaldırabilir.
-[18]
+[19]
 
 Yönetim tarafından alınabilecek tedbirler
 
@@ -1779,13 +1833,13 @@ eklentilerinde ceza infaz kurumu personelinin yakın nezareti olmaksızın mahre
 şekilde görüştürülebilir.
 
 b) Çocuk hükümlülere, en geç (…)
-[19]
+[20]
 
 ayda bir kez olmak üzere, üç saatten yirmidört saate kadar ana ve babasıyla
 veya vasisiyle ya da ana veya babasıyla birlikte kardeşiyle kurum ya da
 eklentilerinde ceza infaz kurumu personelinin yakın nezareti olmaksızın aile
 görüşmesi yaptırılabilir.
-19
+20
 
 c) Haftalık ziyaret süresi iki saate kadar uzatılabilir.
 
@@ -1881,8 +1935,8 @@ b) Nakil giderlerini peşin olarak ödemeyi kabul etmeleri,
 
 c)
 (Değişik:14/4/2020-7242/30 md.)
-Ceza infaz kurumlarında
-bulunulması gereken sürenin üç aydan fazla olması,
+Ceza infaz kurumlarında bulunulması
+gereken sürenin üç aydan fazla olması,
 
 d) İyi hâl göstermeleri, disiplin cezası almamış veya kaldırılmış olması,
 
@@ -1898,9 +1952,9 @@ olmaması,
 Gerekir.
 (Ek cümle : 24/1/2013-6411/7 md.)
 Çocuk hükümlüler ile
-maddi durumunun yetersiz olduğunu belgelendiren hükümlüler bakımından bu
-fıkranın (b) bendi uygulanmaz.
-[20]
+maddi durumunun yetersiz olduğunu belgelendiren hükümlüler bakımından bu fıkranın
+(b) bendi uygulanmaz.
+[21]
 
 (2) Bu hükümlüler nakledildikleri
 kurumlarda, eğitim öğretim veya hastalık nedeniyle nakil hariç, bir yıl kalmak
@@ -1980,7 +2034,7 @@ hükümlüler hakkında 97 nci madde hükümleri uygulanır.
 
 (4) Görevli nezaretinde yapılan nakiller sırasında hükümlünün iaşe ve
 bedensel ihtiyaçları giderilir.
-[21]
+[22]
 
 ÜÇÜNCÜ
 KISIM
@@ -2021,7 +2075,7 @@ avukatına veya avukatın hükümlüye verdiği belge veya belge örnekleri, dos
 ve aralarındaki konuşmaya ilişkin olarak kendilerinin tuttukları kayıtlar
 incelenemez; hükümlünün avukatı ile yaptığı görüşme dinlenemez ve kayda
 alınamaz.
-[22]
+[23]
 
 (5)
 (Ek: 3/10/2016-KHK-676/6 md.; Aynen kabul: 1/2/2018-7070/6 md.)
@@ -2040,7 +2094,7 @@ görevli görüşmede hazır bulundurulabilir, hükümlünün avukatına veya av
 hükümlüye verdiği belge veya belge örnekleri, dosyalar ve aralarındaki
 konuşmalara ilişkin tuttukları kayıtlara elkonulabilir veya görüşmelerin gün ve
 saatleri sınırlandırılabilir.
-[23]
+[24]
 
 (6)
 (Ek: 3/10/2016-KHK-676/6 md.; Aynen kabul: 1/2/2018-7070/6 md.)
@@ -2048,8 +2102,8 @@ saatleri sınırlandırılabilir.
 hakimliği hükümlünün; kurallara uyumunu, toplum veya ceza infaz kurumu
 bakımından arz ettiği tehlikeyi ve rehabilitasyon çalışmalarındaki gelişimini
 değerlendirerek, kararda belirttiği süreyi üç aydan fazla olmamak üzere
-müteaddit defa uzatabileceği gibi kısaltılmasına veya sonlandırılmasına da
-karar verebilir.
+müteaddit defa uzatabileceği gibi kısaltılmasına veya sonlandırılmasına da karar
+verebilir.
 
 (7)
 (Ek: 3/10/2016-KHK-676/6 md.; Aynen kabul: 1/2/2018-7070/6 md.)
@@ -2087,7 +2141,7 @@ beşinci fıkradaki suçlardan hükümlü olup, başka bir suçtan dolayı şüp
 sanık sıfatıyla avukatıyla görüşen hükümlüler
 
 hakkında da uygulanır.
-[24]
+[25]
 
 (11)
 (Ek: 3/10/2016-KHK-676/6 md.; Aynen kabul: 1/2/2018-7070/6 md.)
@@ -2107,7 +2161,7 @@ soruşturma ve kovuşturma, açılacak veya açılmış davalarla sınırlı olm
 vekâletname sunmak koşuluyla görüşebilirler. Vekâletnamesi olmayan yabancı
 uyruklu avukatlar, hükümlü ile Türkiye barolarına kayıtlı bir avukatla birlikte
 görüşme yapabilirler.
-[25]
+[26]
 
 Kültür ve sanat etkinliklerine katılma, ifade özgürlüğü
 
@@ -2157,7 +2211,7 @@ vergi muafiyeti tanınan vakıflar ve kamu yararına çalışan dernekler taraf�
 çıkartılan gazete, kitap ve basılı yayınlar, hükümlülere ücretsiz olarak ve
 serbestçe verilir. Eğitim ve öğretimine devam eden hükümlülerin ders kitapları
 denetime tâbi tutulamaz.
-[26]
+[27]
 
 (3)
 (Değişik:14/4/2020-7242/32 md.)
@@ -2192,10 +2246,9 @@ belirlenecek sayıda mahkûmun kalabileceği odalarda barındırılırlar.
 (2) Her hükümlüye yöresel iklime uygun nitelikte tek tip yatak ve yeterli
 sayıda yatak takımı verilir.
 
-(3) Kadınların erkeklerle, hükümlülerin tutuklularla, çocukların
-yetişkinlerle, örgüt veya çıkar amaçlı örgüt suçluları ile terör suçlularının
-Kanunda sayılan hâller dışında bir araya gelmelerine ve bağlantı kurmalarına
-izin verilmez.
+(3) Kadınların erkeklerle, hükümlülerin tutuklularla, çocukların yetişkinlerle,
+örgüt veya çıkar amaçlı örgüt suçluları ile terör suçlularının Kanunda sayılan
+hâller dışında bir araya gelmelerine ve bağlantı kurmalarına izin verilmez.
 
 (4) Oda ve kısımlarda iklim koşulları göz önüne alınarak yeterli yer,
 ışık, ısınma, havalandırma ve hijyen sağlanır.
@@ -2233,7 +2286,7 @@ Cumhurbaşkanınca çıkarılan yönetmelikte belirlenen esas ve usullere göre
 idarenin kontrolündeki ücretli telefonlar ile görüşme yapabilirler. Telefon
 görüşmesi idarece dinlenir ve kayıt altına alınır. Bu hak, tehlikeli hâlde
 bulunan ve örgüt mensubu hükümlüler bakımından kısıtlanabilir.
-[27]
+[28]
 
 (2) Açık ceza infaz kurumları ile
 çocuk eğitimevlerinde hükümlüler, ücretli telefonlarla serbestçe görüşme
@@ -2243,7 +2296,7 @@ yapabilirler.
 eş ve kardeşlerinin ölüm, ağır hastalık, salgın hastalık veya doğal afet
 hâllerinde, kuruma ait telefon ve faks cihazından derhâl yararlandırılırlar.
 Görüşmeler, tutanak ile belgelenir ve tutanaklar özel bir dosyada saklanır.
-[28]
+[29]
 
 (4) Hükümlüler açık ve kapalı ceza infaz kurumlarında, çocuk
 eğitimevlerinde araç telefonu, telsiz telefon veya cep telefonu ve benzeri
@@ -2260,10 +2313,10 @@ yayınlarını izleme hakkına sahiptir.
 (2) Merkezî yayın sistemi bulunmayan
 kurumlarda, yararlı olmayan yayınların izlenmesini ve dinlenmesini engelleyecek
 önlemler alınmak suretiyle bağımsız anten kullanılarak televizyon ve radyo
-izlenmesine ve dinlenmesine izin verilir. Bu cihazlar, bedeli kendisi
-tarafından ödenmek koşuluyla hükümlü adına kurumca satın alınır. Her ne biçimde
-olursa olsun dışardan gelenler tarafından getirilen radyo, televizyon ve
-bilgisayarlar kuruma alınmaz.
+izlenmesine ve dinlenmesine izin verilir. Bu cihazlar, bedeli kendisi tarafından
+ödenmek koşuluyla hükümlü adına kurumca satın alınır. Her ne biçimde olursa
+olsun dışardan gelenler tarafından getirilen radyo, televizyon ve bilgisayarlar
+kuruma alınmaz.
 
 (3) Kapalı ve açık ceza infaz kurumları ile çocuk eğitimevlerinde ancak,
 eğitim ve iyileştirme programları çerçevesinde kurum yönetimince belirlenen
@@ -2296,8 +2349,8 @@ kurumun en üst amirince denetlenir.
 tehlikeye düşüren, görevlileri hedef gösteren, terör ve çıkar amaçlı suç örgütü
 veya diğer suç örgütleri mensuplarının haberleşmelerine neden olan, kişi veya
 kuruluşları paniğe yöneltecek yalan ve yanlış bilgileri, tehdit ve hakareti
-içeren mektup, faks ve telgraflar hükümlüye verilmez. Hükümlü tarafından
-yazılmış ise gönderilmez.
+içeren mektup, faks ve telgraflar hükümlüye verilmez. Hükümlü tarafından yazılmış
+ise gönderilmez.
 
 (4) Hükümlü tarafından resmî makamlara veya savunması için avukatına
 gönderilen mektup, faks ve telgraflar denetime tâbi değildir.
@@ -2326,7 +2379,7 @@ savcısı tarafından denetlenir. Bu fıkra hükmü dördüncü fıkra bakımın
 uygulanmaz.
 
 Hükümlüye dışarıdan gönderilen hediyeyi kabul etme hakkı
-[29]
+[30]
 
 Madde 69-
 
@@ -2387,10 +2440,9 @@ nicelik olarak besleyici, sağlık koşullarına uygun, makul çeşitlilikte, ya
 sağlık, çalıştığı işin özelliği, dinî ve kültürel gerekleri göz önünde
 tutularak besin verilir ve içme suyu sağlanır.
 
-(2) Hükümlü, kendisine verilen günlük besin ve ihtiyaç maddeleri
-dışındaki ihtiyaçlarını kurum kantininden sağlayabilir. Kantini bulunmayan
-kurumlarda, bu maddeler, idarenin izin ve kontrolü altında dışardan
-sağlanabilir.
+(2) Hükümlü, kendisine verilen günlük besin ve ihtiyaç maddeleri dışındaki
+ihtiyaçlarını kurum kantininden sağlayabilir. Kantini bulunmayan kurumlarda, bu
+maddeler, idarenin izin ve kontrolü altında dışardan sağlanabilir.
 
 (3) Hasta hükümlüye, kurum hekiminin belirleyeceği besinler verilir.
 
@@ -2526,8 +2578,8 @@ kartına işlenir ve dosyasında saklanır.
 Sosyal Güvenlik Bakanlığı ile üniversitelerin sağlık kuruluşları, hükümlülerin
 tedavileri bakımından gerekli yardımları yapmakla görevlidirler.
 
-(3) Rızası olsa bile hiçbir hükümlü üzerinde tıbbî deney
-yapılamaz.
+(3) Rızası olsa bile hiçbir hükümlü
+üzerinde tıbbî deney yapılamaz.
 
 Sağlık denetimi
 
@@ -2540,9 +2592,9 @@ verir.
 Hastaneye sevk
 
 Madde 80-
-(1) Hükümlünün sağlık nedeniyle hastaneye
-sevkine gerek duyulduğunda durum, kurum hekimi tarafından derhâl bir raporla
-ceza infaz kurumu yönetimine bildirilir.
+(1) Hükümlünün sağlık
+nedeniyle hastaneye sevkine gerek duyulduğunda durum, kurum hekimi tarafından
+derhâl bir raporla ceza infaz kurumu yönetimine bildirilir.
 
 İnfazı engelleyecek hastalık hâli
 
@@ -2604,7 +2656,7 @@ içinde ziyaret edilebilir.
 Çocuk
 hükümlüler için ziyaret süresi bir saatten az, üç saatten fazla olmamak üzere
 belirlenir.
-[30]
+[31]
 
 (2) Birinci fıkrada belirtilenler
 dışındaki kimselerin ziyaretine Cumhuriyet Başsavcılığı tarafından yazılı
@@ -2645,7 +2697,7 @@ görüştürülmelerinde yukarıdaki fıkra hükmü uygulanır.
 (3) 83 üncü madde hükümleri saklıdır.
 
 Adalet Bakanlığının ziyaret izni verme yetkisi
-[31]
+[32]
 
 Madde 85-
 (1)
@@ -2734,11 +2786,11 @@ gelişmelerini sağlamak amacıyla fizik ve ruhsal sağlık durumlarının elver
 ölçüde spor, beden eğitimi ve eğlendirici etkinliklere katılmasına müsaade
 olunur ve olanaklar ölçüsünde yer ve araç sağlanır.
 
-(2) Açık havada çalışmayan veya kapalı ceza infaz
-kurumlarında bulunan hükümlüye, hava koşulları elverdiği ölçüde, günde en az
-bir saat açık havada gezinmek olanağı verilir. Bu süre içerisinde bireysel spor
-da yapılabilir. Kurum dışındaki etkinliklere açık ceza infaz kurumları ile
-çocuk eğitimevlerinde bulunan hükümlüler katılabilirler.
+(2) Açık havada çalışmayan veya kapalı
+ceza infaz kurumlarında bulunan hükümlüye, hava koşulları elverdiği ölçüde,
+günde en az bir saat açık havada gezinmek olanağı verilir. Bu süre içerisinde
+bireysel spor da yapılabilir. Kurum dışındaki etkinliklere açık ceza infaz
+kurumları ile çocuk eğitimevlerinde bulunan hükümlüler katılabilirler.
 
 Kütüphane ve kurslardan yararlanma
 
@@ -2816,7 +2868,7 @@ ailesinin çıkarları için bu konularda hizmet veren resmî ve özel kuruluş 
 kişilerle ilişki kurması doğrultusunda katkı ve yardımda bulunulur.
 
 Hükümlüye iş bulmada yardım
-[32]
+[33]
 
 Madde 91-
 (1) Hükümlü, salıverildiğinde iş bulması veya kendi
@@ -2855,7 +2907,7 @@ sayılır. Ceza infaz kurumundan ayrılış ve dönüşlerinde hükümlü veya t
 sağlık durumu doktor raporu ile tespit edilir. Yer gösterme sırasında yapılan
 işlemlere ilişkin belgelerin bir örneği ilgilinin dosyasında muhafaza edilmek
 üzere Cumhuriyet Başsavcılığına gönderilir.
-[33]
+[34]
 
 İzinler
 
@@ -2866,14 +2918,14 @@ dışındaki hükümlülere mazeret izni, özel izin veya iş arama izni verileb
 
 (2) İzinlerin kullandırılması ile
 ilgili ayrıntılar Cumhurbaşkanınca çıkarılan yönetmelikte gösterilir.
-32
+33
 
 Mazeret izni
 
 Madde 94-
 (1) Hükümlülük süresinin onda birini iyi hâlle geçirmiş
 olanlara hükümlünün isteği ile;
-[34]
+[35]
 
 a) Ana, baba, eş, kardeş veya çocuğunun ölümü nedeniyle ceza infaz kurumu
 en üst amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile,
@@ -2901,11 +2953,11 @@ b) Sağlık Kurulu raporu ile belgelendirilmesi şartıyla ana, baba, eş,
 kardeş, çocuk ile eşin anne veya babasından birinin yaşamsal tehlike
 oluşturacak önemli ve ağır hastalık hâllerinin bulunması nedeniyle bunlardan
 her biri için (…)
-[35]
+[36]
 
 toplam iki defaya mahsus olmak üzere hasta ziyareti amacıyla yol süresi dışında
 bir güne kadar,
-[36]
+[37]
 
 izin verilebilir.
 (Değişik ikinci cümle: 24/1/2013-6411/ 10 md.)
@@ -2929,8 +2981,8 @@ verilebilir.
 (Ek cümle:14/4/2020-7242/39 md.)
 Hastalık veya doğal afet
 gibi zorunlu hâllerde bu izinler birleştirilerek kullandırılabilir.
-[37]
 [38]
+[39]
 
 İş arama izni
 
@@ -3006,7 +3058,7 @@ cümle:14/4/2020-7242/42 md.)
 Adli para cezasından çevrilen ve ceza infaz
 kurumunda infaz edilme aşamasına gelen hapis cezaları da toplama kararına dahil
 edilir.
-[39]
+[40]
 
 Hastanede geçen sürenin cezadan indirilmesi
 
@@ -3018,7 +3070,7 @@ burada geçirdiği süre, cezadan indirilir.
 (2) Ancak, cezanın infazını durdurmak için hükümlü, hastalığına kasten
 neden olmuşsa bu hükümden yararlanamaz. Bu hâlde Cumhuriyet savcısı infaz
 hâkimliğinden bir karar verilmesini ister.
-[40]
+[41]
 
 İnfaz sırasında verilecek kararların mercii ve usulü
 
@@ -3027,7 +3079,7 @@ Madde 101-
 gereğince mahkemeden veya infaz hâkimliğinden alınması gereken kararlar duruşma
 yapılmaksızın verilir. Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün
 görüşlerini yazılı olarak bildirmeleri istenebilir.
-[41]
+[42]
 
 (2)
 (Değişik:14/4/2020-7242/44 md.)
@@ -3080,7 +3132,7 @@ yükümlüdürler.
 
 (3) Bu yükümlülük ve yardımların yöntem ve esasları Cumhurbaşkanınca
 çıkarılan yönetmelikte belirlenir.
-[42]
+[43]
 
 Hükümlüler arası yardımlaşma
 
@@ -3142,7 +3194,7 @@ hizmet veren bir özel kuruluşun belirli hizmetlerinde çalıştırılmasıdır
 cümle:14/4/2020-7242/45 md.)
 Günlük çalışma süresi, en az iki saat ve en
 fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir.
-[43]
+[44]
 
 (2)
 (Değişik:14/4/2020-7242/45 md.)
@@ -3160,7 +3212,7 @@ müdürlükleri, bölgelerinde bulunan bu tür kurumlardan hükümlüleri ne sur
 (Mülga: 5/4/2012-6291/3 md.)
 
 Denetimli serbestlik tedbiri uygulanarak cezanın infazı
-[44]
+[45]
 
 Madde 105/A
 –
@@ -3194,7 +3246,7 @@ gönderilen iyi hâlli hükümlüler, diğer şartları da taşımaları hâlind
 fıkrada düzenlenen infaz usulünden yararlanabilirler.
 
 (3) Yukarıdaki fıkralarda düzenlenen infaz usulünden;
-[45]
+[46]
 
 a) Sıfır-altı yaş grubunda çocuğu bulunan ve koşullu salıverilmesine iki
 yıl veya daha az süre kalan kadın hükümlüler,
@@ -3235,7 +3287,7 @@ da uyuşturucu veya uyarıcı madde kullanmak suçundan hükümlü olanlar ayrı
 tedavi ve rehabilitasyon programlarına katılma yükümlülüğüne tabi tutulur.
 
 (6) Hükümlünün;
-[46]
+[47]
 
 a) Ceza infaz kurumundan ayrıldıktan sonra, talebinde belirttiği
 denetimli serbestlik müdürlüğüne beş gün içinde müracaat etmemesi,
@@ -3267,7 +3319,7 @@ tarafından karar verilir.
 
 (8) Denetimli serbestlik müdürlüğüne müracaat etmesi gereken sürenin
 bitiminden itibaren iki gün geçmiş olmasına karşın müracaat etmeyenler ile (…)
-[47]
+[48]
 
 ceza infaz kurumuna iade kararı verilmesine rağmen iki gün içinde en yakın
 Cumhuriyet başsavcılığına teslim olmayan hükümlüler hakkında, 5237 sayılı Türk
@@ -3336,7 +3388,7 @@ kamuya yararlı işte çalıştığı günlerin dışındaki günlere karşılı
 kalmak üzere, adlî para cezasından çevrilen hapsin infazı ertelenemez ve bunun
 infazında koşullu salıverilme hükümleri uygulanmaz. Hapse çevrilmiş olmasına
 rağmen hak yoksunlukları bakımından esas alınacak olan adlî para cezasıdır.
-[48]
+[49]
 
 (10)
 (Mülga: 26/2/2008-5739/5 md.)
@@ -3346,7 +3398,7 @@ para cezasını tamamıyla karşılamamış olursa, geri kalan adlî para cezas�
 tahsili için ilâm, Cumhuriyet Başsavcılığınca mahallin en büyük mal memuruna
 verilir. Bu makamlarca 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
 Kanuna göre kalan adlî para cezası tahsil edilir.
-[49]
+[50]
 
 İKİNCİ
 BÖLÜM
@@ -3358,7 +3410,7 @@ Denetimli
 Serbestlik Tedbiri
 
 Koşullu salıverilme
-[50]
+[51]
 
 Madde 107-
 (1) Koşullu salıverilmeden yararlanabilmek için
@@ -3372,7 +3424,7 @@ salıverilmeden yararlanabilirler.
 (Ek cümleler:14/4/2020-7242/48 md.)
 
 Ancak, Türk Ceza Kanununun;
-[51]
+[52]
 
 a) Kasten öldürme suçlarından (madde 81, 82 ve 83) süreli hapis cezasına
 mahkûm olanlar,
@@ -3437,7 +3489,7 @@ cümle:14/4/2020-7242/48 md.)
 Koşullu salıverilme oranı üçte ikiden fazla
 olan suçlar bakımından ise tabi oldukları koşullu salıverilme oranı uygulanır.
 Ancak, bu süreler;
-[52]
+[53]
 
 a) Birden fazla ağırlaştırılmış müebbet hapis cezasına veya
 ağırlaştırılmış müebbet hapis cezası ile müebbet hapis cezasına mahkûmiyet
@@ -3459,10 +3511,16 @@ Yıldır.
 Bu fıkra hükümleri
 çocuklar hakkında uygulanmaz.
 
-(5) Koşullu salıverilme süresinin hesaplanmasında, hükümlünün onbeş
-yaşını dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün olarak
-dikkate alınır.
-[53]
+(5)
+(Değişik:8/8/2026-7593/7 md.)
+
+Türk Ceza
+Kanununun kasten öldürme suçları (madde 81, 82 ve 83), cinsel dokunulmazlığa
+karşı işlenen suçlar (madde 102 ve 103), uyuşturucu veya uyarıcı madde imal ve
+ticareti suçu (madde 188) ve suç işlemek amacıyla örgüt kurma suçu (madde 220)
+hariç olmak üzere, koşullu salıverilme süresinin hesaplanmasında, hükümlünün
+onbeş yaşını dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün
+olarak dikkate alınır.
 
 (6) Koşullu salıverilen hükümlünün tâbi tutulacağı denetim süresi,
 yukarıdaki fıkralara göre infaz kurumunda geçirilmesi gereken süre kadardır.
@@ -3548,14 +3606,14 @@ takdirde, ceza infaz edilmiş sayılır.
 
 (15)
 (Değişik: 20/7/2017-7035/25 md.)
-Hükümlü, geri kalan süre
-içinde işlediği kasıtlı bir suçtan dolayı hapis cezasına mahkûm edilirse ya da
-bağlı tutulduğu yükümlülükleri yerine getirmezse hükmü veren ilk derece
-mahkemesinin bulunduğu yer infaz hâkimliği, cezaların toplandığı hâller ile
-hükmün bölge adliye mahkemesi veya Yargıtay tarafından verilmiş olması hâlinde
-ise 101 inci maddenin ikinci fıkrasına göre belirlenen infaz hâkimliği
-tarafından koşullu salıverilme kararının geri alınmasına dosya üzerinden karar
-verilir. Bu kararlara karşı itiraz yolu açıktır.
+Hükümlü, geri kalan süre içinde
+işlediği kasıtlı bir suçtan dolayı hapis cezasına mahkûm edilirse ya da bağlı
+tutulduğu yükümlülükleri yerine getirmezse hükmü veren ilk derece mahkemesinin
+bulunduğu yer infaz hâkimliği, cezaların toplandığı hâller ile hükmün bölge
+adliye mahkemesi veya Yargıtay tarafından verilmiş olması hâlinde ise 101 inci
+maddenin ikinci fıkrasına göre belirlenen infaz hâkimliği tarafından koşullu
+salıverilme kararının geri alınmasına dosya üzerinden karar verilir. Bu
+kararlara karşı itiraz yolu açıktır.
 [59]
 
 (16) 5237 sayılı Türk Ceza Kanununun
@@ -3608,8 +3666,8 @@ birinci fıkradaki koşullu salıverilme süreleri uygulanır
 .
 (Ek cümle:4/6/2025-7550/14
 md.)
-Ancak, süreli hapis cezaları bakımından koşullu
-salıverilme oranı dörtte üç olarak uygulanır.
+Ancak, süreli hapis cezaları bakımından koşullu salıverilme
+oranı dörtte üç olarak uygulanır.
 
 (Ek
 cümle:14/4/2020-7242/49 md.)
@@ -3631,15 +3689,15 @@ verebilir. Denetim süresi en fazla beş yıla kadar uzatılabilir.
 (Ek: 18/6/2014-6545/82 md.)
 Cezanın infazı tamamlandıktan
 sonra devam eden denetim süresi içinde, bu madde hükümlerine göre kendilerine
-yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz
-hâkimi kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on
-beş günden az ve üç aydan fazla olamaz.
+yüklenen yükümlülüklere ve yasaklara aykırı hareket eden mükerrirler, infaz hâkimi
+kararı ile disiplin hapsine tabi tutulur. Disiplin hapsinin süresi on beş
+günden az ve üç aydan fazla olamaz.
 
 (8)
 (Ek: 18/6/2014-6545/82 md.)
 Çocuğa karşı işlenen bir suçtan
-dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına
-mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
+dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet
+hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanır.
 
 (9)
 (Ek: 18/6/2014-6545/82 md.)
@@ -3668,8 +3726,7 @@ etmekten yasaklanmak
 
 d) Mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak
 
-e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan
-yasaklanmak
+e) Çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan yasaklanmak
 
 f) Çocuklar hakkında bakım ve gözetim
 yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanmak
@@ -3786,9 +3843,9 @@ ilişkin kararını kaldırır.
 (Değişik:4/6/2025-7550/15 md.)
 
 Cezanın özel
-infaz usulüne göre çektirilmesine karar verilenler hakkında tabi oldukları
-infaz rejimine göre koşullu salıverilme ve denetimli serbestlik tedbiri
-uygulanarak cezanın infazı hükümleri uygulanır.
+infaz usulüne göre çektirilmesine karar verilenler hakkında tabi oldukları infaz
+rejimine göre koşullu salıverilme ve denetimli serbestlik tedbiri uygulanarak
+cezanın infazı hükümleri uygulanır.
 
 (6) Cezanın özel infaz usulüne göre çektirilmesi kararı, infaza
 başlandıktan sonra da verilebilir.
@@ -4163,12 +4220,12 @@ savunamayacak durumda bulunan kişiye karşı işlenen kasten yaralama ve netice
 sebebiyle ağırlaşmış yaralama suçları, neticesi sebebiyle ağırlaşmış yaralama
 suçu (madde 87, fıkra iki, bent d), işkence suçu (madde 94 ve 95), eziyet suçu
 (madde 96), cinsel dokunulmazlığa karşı işlenen suçlar (madde 102, 103, 104 ve
-105), özel hayata ve hayatın gizli alanına karşı suçlar (madde 132, 133, 134,
-135, 136, 137 ve 138), uyuşturucu veya uyarıcı madde imal ve ticareti suçu
-(madde 188) ve İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve
-Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991 tarihli ve 3713 sayılı
-Terörle Mücadele Kanunu kapsamına giren suçlar hariç olmak üzere, 105/A maddesinin
-birinci fıkrasında yer alan “bir yıl”lık süre, “üç yıl” olarak uygulanır.
+105), özel hayata ve hayatın gizli alanına karşı suçlar (madde 132, 133, 134, 135,
+136, 137 ve 138), uyuşturucu veya uyarıcı madde imal ve ticareti suçu (madde
+188) ve İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci
+Bölümünde tanımlanan suçlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle
+Mücadele Kanunu kapsamına giren suçlar hariç olmak üzere, 105/A maddesinin birinci
+fıkrasında yer alan “bir yıl”lık süre, “üç yıl” olarak uygulanır.
 
 (2) 30/3/2020 tarihine kadar işlenen suçlar bakımından, Türk Ceza
 Kanununun kasten öldürme suçları (madde 81, 82 ve 83), cinsel dokunulmazlığa
@@ -4746,6 +4803,12 @@ Geçici Madde 10
 
 25/12/2025
 
+7593
+
+11, 15, 107
+
+18/8/2026
+
 [1]
 
 2/7/2018 tarihli ve 700 sayılı
@@ -4754,37 +4817,46 @@ yer alan “, tüzük” ibareleri madde metninden çıkarılmıştır.
 
 [2]
 
-24/1/2013 tarihli ve 6411 sayılı
-Kanunun 3 üncü maddesi ile bu fıkrada yer alan “üçer aylık” ibaresi “birer
-yıllık” şeklinde değiştirilmiştir.
+8/8/2026 tarihli ve 7593 sayılı Kanunun 5 inci
+maddesiyle bu maddenin
+birinci
+fıkrasında yer alan “Çocuk tutukluların” ibaresi “Çocuk hükümlülerin veya
+tutukluların” şeklinde değiştirilmiş ve ikinci fıkrasında yer alan “çocuklar,”
+ibaresinden sonra gelmek üzere “suç türleri,” ibaresi eklenmiştir.
 
 [3]
+
+24/1/2013 tarihli ve 6411 sayılı Kanunun
+3 üncü maddesi ile bu fıkrada yer alan “üçer aylık” ibaresi “birer yıllık”
+şeklinde değiştirilmiştir.
+
+[4]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 19 uncu maddesiyle, bu fıkranın birinci cümlesine “itibaren”
 ibaresinden sonra gelmek üzere “bir yıl” ibaresi eklenmiştir.
 
-[4]
+[5]
 
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibaresi “engellilik”
 şeklinde değiştirilmiştir.
 
-[5]
+[6]
 
 18/6/2014 tarihli ve 6545 sayılı
 Kanunun 79 uncu maddesiyle, bu fıkrada yer alan “bakımından” ibaresinden sonra
 gelmek üzere “ağır ve somut” ibaresi eklenmiştir.
 
-[6]
+[7]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 20 nci maddesiyle, bu fıkraya “gelmesi veya” ibaresinden sonra gelmek
-üzere “hükümlünün eş veya çocuklarının sürekli hastalık veya malullükleri
-nedeniyle bakıma muhtaç olmaları ya da” ibaresi eklenmiş ve fıkrada yer alan
-“altı ayı” ibaresi “bir yılı” şeklinde değiştirilmiştir.
+üzere “hükümlünün eş veya çocuklarının sürekli hastalık veya malullükleri nedeniyle
+bakıma muhtaç olmaları ya da” ibaresi eklenmiş ve fıkrada yer alan “altı ayı”
+ibaresi “bir yılı” şeklinde değiştirilmiştir.
 
-[7]
+[8]
 
 1/7/2022 tarihli ve 7417 sayılı
 Kanunun 45 inci maddesiyle bu maddenin birinci fıkrasına “hükümlüler,”
@@ -4795,7 +4867,7 @@ iyileştirilmelerini temin etmek amacıyla” ibaresi eklenmiş, beşinci fıkra
 yer alan “hükümlüler,” ibaresi “hükümlülerden istekli olanlar,” şeklinde
 değiştirilmiştir.
 
-[8]
+[9]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 22 inci maddesiyle, bu maddeye dördüncü fıkradan sonra gelmek üzere
@@ -4804,19 +4876,19 @@ beşinci fıkrasına “esasları” ibaresinden sonra gelmek üzere “ile beş
 kapsamında çalıştırılacak hükümlülere uygulanmayacak kısıtlayıcı hükümler”
 ibaresi eklenmiştir.
 
-[9]
-
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
-
 [10]
+
+2/7/2018 tarihli ve 700 sayılı KHK’nin
+160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “Cumhurbaşkanınca
+çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
+
+[11]
 
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzük,” ibaresi madde
 metninden çıkarılmıştır.
 
-[11]
+[12]
 
 14/4/2020
 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın (d) bendine
@@ -4824,25 +4896,25 @@ tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın (d) bendine
 temizliğini” ibaresi eklenmiş ve aynı fıkranın (ı) bendinde yer alan “Kurum”
 ibaresi “Resmî kurumlardan, kurum” şeklinde değiştirilmiştir.
 
-[12]
+[13]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 26 ncı maddesiyle, bu bende “teşhir etmek” ibaresinden sonra gelmek
 üzere “ya da bulundurmak” ibaresi eklenmiştir.
 
-[13]
+[14]
 
 14/4/2020
 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “İznin
 ertelenmesi” ibaresinden sonra gelmek üzere “veya ziyaretlerin kapalı şekilde
 yaptırılması” ibaresi eklenmiş, aynı fıkrada yer alan “kadar ertelenmesidir.”
-ibaresi “kadar ertelenmesi veya kapalı ceza infaz kurumlarında açık
-ziyaretlerin altmış güne kadar kapalı şekilde yaptırılmasıdır.” şeklinde ve
-aynı fıkranın (e) bendinde yer alan “ve yeni gelenlere satmak.” ibaresi “veya
-satmak ya da maddi menfaat karşılığı diğer çocuklara kullandırmak.” şeklinde
+ibaresi “kadar ertelenmesi veya kapalı ceza infaz kurumlarında açık ziyaretlerin
+altmış güne kadar kapalı şekilde yaptırılmasıdır.” şeklinde ve aynı fıkranın
+(e) bendinde yer alan “ve yeni gelenlere satmak.” ibaresi “veya satmak ya da
+maddi menfaat karşılığı diğer çocuklara kullandırmak.” şeklinde
 değiştirilmiştir.
 
-[14]
+[15]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 26 ncı maddesiyle, bu fıkranın birinci cümlesine “altı ay” ibaresinden
@@ -4851,20 +4923,20 @@ fazla tekrarı hâlinde ise bir yıl” ibaresi ve aynı fıkranın (a) bendine
 “dışında” ibaresinden sonra gelmek üzere “başkasını neticesi sebebiyle
 ağırlaşmış şekilde yaralamak ya da” ibaresi eklenmiştir.
 
-[15]
+[16]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 27 nci maddesiyle, bu fıkrada yer alan “iki gün” ibaresi “beş gün”
 şeklinde değiştirilmiştir.
 
-[16]
+[17]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 28 inci maddesiyle, bu fıkrada yer alan “kaldırılması için gerekli süre
 içinde” ibaresi “infazı tamamlanıp kaldırılması için dördüncü fıkrada
 belirtilen süreler geçinceye kadar” şeklinde değiştirilmiştir.
 
-[17]
+[18]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 28 inci maddesiyle, bu fıkranın (a) bendine “Hücreye koyma”
@@ -4875,53 +4947,40 @@ uygulandığı hâllerde iki ay, üçüncü fıkrasının uygulandığı hâller
 süreyle ziyaretçi kabulünden yoksun bırakma cezası uygulanır.” şeklinde
 değiştirilmiştir.
 
-[18]
+[19]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 28 inci maddesiyle, bu fıkrada yer alan “Disiplin kurulu,” ibaresi
 “Çocuğun bulunduğu kurumun disiplin kurulu,” ve “vermiş olduğu cezayı” ibaresi
 “verilen disiplin cezasını” şeklinde değiştirilmiştir.
 
-[19]
+[20]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 29 uncu maddesiyle, (b) bendinde yer alan “iki” ibaresi madde metninden
 çıkarılmış, bende “vasisiyle” ibaresinden sonra gelmek üzere “ya da ana veya
 babasıyla birlikte kardeşiyle” ibaresi eklenmiştir.
 
-[20]
+[21]
 
 17/6/2021 tarihli ve 7328 sayılı
 Kanunun 6 ncı maddesiyle, bu fıkraya “Çocuk hükümlüler” ibaresinden sonra gelmek
 üzere “ile maddi durumunun yetersiz olduğunu belgelendiren hükümlüler” ibaresi
 eklenmiştir.
 
-[21]
+[22]
 
 24/1/2013 tarihli ve 6411 sayılı
 Kanunun 8 inci maddesi ile bu fıkrada yer alan “Nakil” ibaresi “Görevli
 nezaretinde yapılan nakiller” şeklinde değiştirilmiştir.
 
-[22]
+[23]
 
 3/10/2016 tarihli ve 676 sayılı
 KHK’nin 6 ncı maddesiyle, bu fıkradan sonra gelmek üzere (5), (6), (7), (8),
 (9), (10), (11) numaralı fıkralar eklenmiş ve mevcut (5) numaralı fıkra buna
 göre teselsül ettirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı
 Kanunun 6 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-[23]
-
-Anayasa Mahkemesinin 24/7/2019
-tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile, bu fıkrada yer alan “…ile
-beşinci fıkradaki suçlardan hükümlü olup, başka bir suçtan dolayı şüpheli veya
-sanık sıfatıyla avukatıyla görüşen hükümlüler…” bölümü; Kanunun 59 uncu
-maddesinin beş numaralı fıkrasının “…görüşmeler teknik cihazla sesli veya
-görüntülü olarak kaydedilebilir, hükümlü ile avukatın yaptığı görüşmeleri
-izlemek amacıyla görevli görüşmede hazır bulundurulabilir, hükümlünün avukatına
-veya avukatın hükümlüye verdiği belge veya belge örnekleri, dosyalar ve
-aralarındaki konuşmalara ilişkin tuttukları kayıtlara elkonulabilir…” bölümü
-yönünden iptal edilmiştir.
 
 [24]
 
@@ -4938,6 +4997,19 @@ yönünden iptal edilmiştir.
 
 [25]
 
+Anayasa Mahkemesinin 24/7/2019
+tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile, bu fıkrada yer alan “…ile
+beşinci fıkradaki suçlardan hükümlü olup, başka bir suçtan dolayı şüpheli veya
+sanık sıfatıyla avukatıyla görüşen hükümlüler…” bölümü; Kanunun 59 uncu
+maddesinin beş numaralı fıkrasının “…görüşmeler teknik cihazla sesli veya
+görüntülü olarak kaydedilebilir, hükümlü ile avukatın yaptığı görüşmeleri
+izlemek amacıyla görevli görüşmede hazır bulundurulabilir, hükümlünün avukatına
+veya avukatın hükümlüye verdiği belge veya belge örnekleri, dosyalar ve
+aralarındaki konuşmalara ilişkin tuttukları kayıtlara elkonulabilir…” bölümü
+yönünden iptal edilmiştir.
+
+[26]
+
 3/10/2016 tarihli ve 676 sayılı
 KHK’nin 6 ncı maddesiyle, bu maddeye (4) numaralı fıkradan sonra gelmek üzere
 (5), (6), (7), (8), (9), (10), (11) numaralı fıkralar eklenmiş ve mevcut (5)
@@ -4945,37 +5017,37 @@ numaralı fıkra buna göre teselsül ettirilmiş, daha sonra bu hüküm 1/2/201
 tarihli ve 7070 sayılı Kanunun 6 ncı maddesiyle aynen kabul edilerek
 kanunlaşmıştır.
 
-[26]
+[27]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin
 160 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
-[27]
+[28]
 
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 
-[28]
+[29]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 33 üncü maddesiyle, bu fıkraya “ağır hastalık” ibaresinden sonra gelmek
 üzere “, salgın hastalık” ibaresi eklenmiştir.
 
-[29]
+[30]
 
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 160 ıncı maddesiyle, bu maddede yer alan “tüzükte” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 
-[30]
+[31]
 
 17/6/2021 tarihli ve 7328 sayılı
 Kanunun 8 inci maddesiyle, bu fıkrada yer alan “bir saatten fazla” ibaresi “bir
 buçuk saatten fazla” şeklinde değiştirilmiştir.
 
-[31]
+[32]
 
 Bu madde başlığı “Heyetlerin ceza
 infaz kurumlarını ziyaretleri” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 28
@@ -4985,13 +5057,13 @@ bu maddenin başlığı ve birinci fıkrası iptal edilmiş ve 27/6/2013 tarihli
 6494 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı metne işlendiği
 şekilde yeniden düzenlenmiştir.
 
-[32]
+[33]
 
 2/7/2018 tarihli ve 700 sayılı
-KHK’nin 160 ıncı maddesiyle, bu madde ve fıkrada yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
+KHK’nin 160 ıncı maddesiyle, bu madde ve fıkrada yer alan “tüzükte” ibaresi “Cumhurbaşkanınca
+çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 
-[33]
+[34]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 37 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “5271 sayılı
@@ -4999,80 +5071,79 @@ Kanunun 250 nci maddesinin birinci fıkrasında yer alan” ibaresi “Terör ve
 faaliyeti çerçevesinde işlenen” ve “hâkim” ibaresi “sulh ceza hâkimi” şeklinde
 değiştirilmiştir.
 
-[34]
+[35]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 38 inci maddesiyle, bu fıkrada yer alan “beşte birini” ibaresi “onda
 birini” şeklinde değiştirilmiştir.
 
-[35]
+[36]
 
 17/6/2021 tarihli ve 7328 sayılı
 Kanunun 9 uncu maddesiyle, bu bentte yer alan “asgari bir ay arayla” ibaresi
 madde metninden çıkarılmıştır.
 
-[36]
+[37]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 38 inci maddesiyle, bu bentte yer alan “bir defaya” ibaresi “asgari bir
 ay arayla toplam iki defaya” şeklinde değiştirilmiştir.
 
-[37]
+[38]
 
 24/1/2013 tarihli ve 6411 sayılı
 Kanunun 11 inci maddesiyle bu fıkrada yer alan “yılda en çok üç kez olmak üzere
 her defasında” ibaresi “üç ayda bir,” şeklinde değiştirilmiştir.
 
-[38]
+[39]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 39 uncu maddesiyle, bu fıkrada yer alan “üç güne” ibaresi “yedi güne”
 şeklinde değiştirilmiştir.
 
-[39]
+[40]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 42 nci maddesiyle, bu fıkrada yer alan “mahkemeden” ibaresi “infaz
 hâkimliğinden” şeklinde değiştirilmiştir.
 
-[40]
+[41]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 43 üncü maddesiyle, bu fıkrada yer alan “mahkemeden” ibaresi “infaz
 hâkimliğinden” şeklinde değiştirilmiştir.
 
-[41]
+[42]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 44 üncü maddesiyle, bu fıkraya “mahkemeden” ibaresinden sonra gelmek
 üzere “veya infaz hâkimliğinden” ibaresi eklenmiştir.
 
-[42]
+[43]
 
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “Cumhurbaşkanınca
 çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 
-[43]
+[44]
 
 14/4/2020 tarihli ve 7242 sayılı
-Kanunun 45 inci maddesiyle, bu fıkraya “ücretsiz olarak” ibaresinden sonra
-gelmek üzere “iki saat çalışması karşılığı bir gün olmak üzere” ibaresi
-eklenmiştir.
+Kanunun 45 inci maddesiyle, bu fıkraya “ücretsiz olarak” ibaresinden sonra gelmek
+üzere “iki saat çalışması karşılığı bir gün olmak üzere” ibaresi eklenmiştir.
 
-[44]
+[45]
 
 Bu maddenin uygulanması ile
 ilgili olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile eklenen Geçici
 Madde 6’nın hükümlerine bakınız.
 
-[45]
+[46]
 
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri “engellilik”
 şeklinde değiştirilmiştir.
 
-[46]
+[47]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “üç” ibaresi “beş” ve “kapalı
@@ -5080,49 +5151,43 @@ ceza infaz kurumuna gönderilmesine,” ibaresi “açık ceza infaz kurumuna
 gönderilmesine, denetimli serbestlik müdürlüğünün bulunduğu yer” şeklinde
 değiştirilmiştir.
 
-[47]
+[48]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “kapalı” ibaresi madde metninden
 çıkarılmıştır.
 
-[48]
+[49]
 
 14/4/2020
 tarihli ve 7242 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “Adlî”
 ibaresi “16 ncı madde hükümleri saklı kalmak üzere, adlî” şeklinde
 değiştirilmiştir.
 
-[49]
+[50]
 
 18/6/2014 tarihli ve 6545 sayılı
 Kanunun 81 inci maddesiyle, bu fıkrada yer alan “İnfaz edilen hapsin”
 ibaresinden sonra gelmek üzere “veya kamuya yararlı işte çalışmanın” ibaresi
 eklenmiştir.
 
-[50]
+[51]
 
 Bu maddenin uygulanması ile ilgili
 olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile eklenen Geçici Madde
 6’nın hükümlerine bakınız.
 
-[51]
+[52]
 
 14/4/2020 tarihli ve 7242 sayılı
 Kanunun 48 inci maddesiyle, bu fıkrada yer alan “üçte ikisini” ibaresi
 “yarısını” şeklinde değiştirilmiştir.
 
-[52]
+[53]
 
 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci
 maddesiyle, bu fıkrada yer alan “dörtte üçünü” ibaresi “üçte ikisini” şeklinde
 değiştirilmiştir.
-
-[53]
-
-6/12/2006 tarihli ve 5560 sayılı
-Kanunun 28 inci maddesiyle, bu fıkrada yer alan "onsekiz" ibaresi,
-"onbeş" olarak değiştirilmiştir.
 
 [54]
 
