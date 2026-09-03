@@ -1,7 +1,7 @@
 # ADALET BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜ HAKKINDA KANUN (No. 2992)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/335510
-> Resmî Gazete: 1984-04-07 / 18365
+> Resmî Gazete: bilinmiyor / 18365
 > UYAP Mevzuat kimliği: 335510
 
 ---

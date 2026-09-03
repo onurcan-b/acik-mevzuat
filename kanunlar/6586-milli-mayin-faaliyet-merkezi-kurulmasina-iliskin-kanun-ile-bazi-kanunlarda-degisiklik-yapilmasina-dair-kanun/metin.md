@@ -1,7 +1,7 @@
 # MİLLÎ MAYIN FAALİYET MERKEZİ KURULMASINA İLİŞKİN KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN (No. 6586)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/335476
-> Resmî Gazete: 2015-02-03 / 29256
+> Resmî Gazete: bilinmiyor / 29256
 > UYAP Mevzuat kimliği: 335476
 
 ---
