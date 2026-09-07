@@ -1,7 +1,7 @@
 # TÜRKİYE ADALET AKADEMİSİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 34) (No. 34)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/340696
-> Resmî Gazete: 2019-05-02 / 30762
+> Resmî Gazete: bilinmiyor / 30762
 > UYAP Mevzuat kimliği: 340696
 
 ---
