@@ -5,7 +5,7 @@
   "accepted_date": "1956-01-25",
   "effective_status": "in_force",
   "official_gazette": {
-    "date": "1956-02-02",
+    "date": null,
     "number": "9223"
   },
   "source_url": "https://mevzuat.adalet.gov.tr/mevzuat/103339",
@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "103339",
   "source_type": "KANUN",
-  "content_sha256": "a9625fd35f71f7b50bc7dc9ac71cc3c0f755d10fc4f2bcfba63efad3ff1f8d1c",
+  "content_sha256": "2ba70f6a6f987345d214ef6ce41ad02da0de67b1b5e33e327587d74634357c42",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

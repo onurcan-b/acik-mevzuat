@@ -1,7 +1,7 @@
 # TÜRK ECZACILARI BİRLİĞİ KANUNU (No. 6643)
 
 > Resmî kaynak: https://mevzuat.adalet.gov.tr/mevzuat/103339
-> Resmî Gazete: 1956-02-02 / 9223
+> Resmî Gazete: bilinmiyor / 9223
 > UYAP Mevzuat kimliği: 103339
 
 ---
@@ -551,56 +551,12 @@ Evlatlık ile evlat edinenler.
 Haysiyet Divanının görev ve yetkileri:
 
 MADDE 30-
-(İptal: Anayasa
-Mahkemesi’nin 22/9/2021 tarihli ve E.: 2021/16, K.: 2021/62 sayılı Kararı ile.)
-(Başlığı ile Birlikte Yeniden Düzenleme: 1/7/2022-7417/63 md.)
-[5]
+(İptal: Anayasa Mahkemesi’nin 22/9/2021 tarihli ve E.: 2021/16, K.:
+2021/62 sayılı Kararı ile.) (Başlığı ile Birlikte Yeniden Düzenleme:
+1/7/2022-7417/63 md.)
 
-Haysiyet Divanı kayıt zorunluluğu bulunmasına rağmen odaya
-kayıt yaptırmayan veya bu Kanunun öngördüğü diğer yükümlülükleri yerine
-getirmeyenler ile evrakı kendisine tevdi edilen üyelerin meslek adap ve
-haysiyetine aykırı olan fiil ve hallerinin niteliğine ve ağırlık derecesine
-göre, fiil ile ceza arasında adil bir denge gözeterek aşağıdaki disiplin
-cezalarını verir:
-
-a) Yazılı ihtar: Eczacılık sanatının icrası sırasında veya
-kişilerle ilişkilerde daha özenli davranılması gerektiğinin yazı ile
-bildirilmesidir.
-
-b) Para cezası: Fiilin işlendiği tarihteki oda yıllık
-aidatının dört katından onbeş katına kadar verilecek para cezalarıdır.
-
-c) Geçici olarak sanat icrasından men cezası: Eczacılık
-sanatının icra edilmesinin üç günden yüz seksen güne kadar yasaklanmasıdır.
-
-ç) Oda bölgesinde sanat icrasından men cezası: Bir oda
-bölgesinde en az beş defa geçici olarak sanat icrasından men cezası alan veya
-birden fazla geçici olarak sanat icrasından men cezalarının toplamı yüz seksen
-gün olan eczacıların, o oda bölgesinde sürekli olarak sanat icrasından men
-edilmesidir.
-
-Oda haysiyet divanları, kendilerine intikal eden dosyaları
-en geç üç ay içerisinde karara bağlamak zorundadırlar.
-
-Disiplin cezası gerektiren fiil ve halleri işleyenler
-hakkında, bu fiil ve hallerin işlendiğinin öğrenildiği tarihten itibaren altı
-ay içinde soruşturmaya başlanılmamış ise bu suçlarla ilgili disiplin
-soruşturması yapılamaz ve ceza verilemez.
-
-Disiplin cezası gerektiren fiil ve hallerin işlendiği
-tarihten itibaren en geç sekiz yıl içinde disiplin cezası verilmemesi
-hallerinde ceza verme yetkisi zamanaşımına uğrar.
-
-Savunma alınmadan ceza verilemez. Savunma yazılı veya sözlü
-olarak da verilebilir. Hakkındaki iddia ve tespitleri içeren savunma isteme
-yazısının kendisine tebliğinden itibaren onbeş gün içinde geçerli mazereti
-olmaksızın yazılı veya kendisine bildirilen günde sözlü savunma vermeyen üye,
-savunma hakkından vazgeçmiş sayılır.
-
-Birinci fıkrada belirtilen disiplin
-cezalarını gerektiren fiil ve haller, disiplin soruşturmasına ilişkin usul ve
-esaslar ile disiplinle ilgili diğer hususlar Sağlık Bakanlığının uygun görüşü
-alınarak Birlikçe hazırlanacak yönetmelikle düzenlenir.
+(İptal: Anayasa Mahkemesinin 11/12/2025 tarihli ve E.:2025/189;
+K.:2025/259 sayılı Kararı ile.)
 
 Madde
 31 – (Değişik: 19/6/1963 - 255/1 md.)
@@ -705,7 +661,7 @@ Büyük
 kongrece Merkez Heyetinin hesaplarını, işlemlerini ve faaliyetlerini murakabe
 etmek üzere bu Kanunda yazılı usullere göre üç asil üç yedek murakıp seçilir.
 Murakıplar kendi aralarından bir başkan seçerler.
-[6]
+[5]
 
 Murakabe Heyeti yılda en az bir defa Merkez Heyetini
 murakabe ederek sonuçlarını bir rapor halinde Merkez Heyetine ve toplandığında
@@ -757,7 +713,7 @@ h) Kendi görev alanlarını
 ilgilendiren kanunların uygulanmasına yönelik yönetmelik taslaklarını
 hazırlayarak Büyük Kongrenin onayına sunmak, kabul edilenleri Resmi Gazetede
 yayınlatmak,
-[7]
+[6]
 
 i) Birlik merkezinde
 çalıştırılacak kimselerin adet ve ücretlerini belirlemek,
@@ -773,7 +729,7 @@ bastırmak ve bedeli karşılığında dağıtmak,
 
 l) Bu Kanun ve kanuna
 göre çıkarılan (…)
-7
+6
 yönetmelikler ile öngörülen diğer işleri yapmak,
 
 Yüksek haysiyet divanı:
@@ -786,7 +742,7 @@ büyük kongrece seçilen dokuz asıl ve dokuz yedek üyeden oluşur. Yüksek Ha
 Divanına seçilebilmek için Türkiye'de en az onbeş sene meslekte çalışmış olmak
 ve bu Kanunun 30 uncu maddesinde yazılı cezalardan herhangi birini almamış
 olmak gerekir.
-[8]
+[7]
 
 Divan Ankara'da Türk
 Eczacıları Birliği Merkez Heyetinde olağan olarak Haziran ve Ekim aylarında
@@ -882,7 +838,7 @@ Madde 51 –
 Büyük
 Kongre Eczacı Odaları umumi heyetlerince ve gizli rey ile seçilen mümessillerden
 teşekkül eder.
-[9]
+[8]
 
 (İkinci
 fıkra iptal: Anayasa Mahkemesinin 3/12/1991 tarihli ve E.1991/4,K.1991/45
@@ -970,7 +926,7 @@ istediği gündem maddesi de gündemde gösterilir.
 Kongrenin
 yapıldığı gün yirmibeş büyük kongre mümessili imzalı bir yazı ile gündeme yeni
 bir madde ilavesini isteyebilir.
-[10]
+[9]
 
 Vazifeleri
 şunlardır:
@@ -1151,7 +1107,7 @@ eczacı odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men
 kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını
 kırksekiz saat içerisinde açıklar, aksi halde, bu idari karar kendiliğinden
 yürürlükten kalkar.
-[11]
+[10]
 
 Ek
 Madde 2 – (Ek : 16/5/1983 - KHK 69/12 md.; Değiştirilerek kabul: 8/1/1985
@@ -1428,6 +1384,16 @@ başlayarak dokuz ay sonra
 
 5/7/2022
 
+Anayasa
+Mahkemesinin 11/12/2025 tarihli ve E.:2025/189; K.:2025/259 sayılı Kararı
+
+30
+
+yayımlanmasından
+başlayarak altı ay sonra
+
+(10/9/2026)
+
 [1]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 34
@@ -1453,22 +1419,20 @@ hükmün uygulanmasında Ek 2 nci maddeye bakınız.
 
 [5]
 
-Anayasa Mahkemesinin 11/12/2025 tarihli
-ve E.:2025/189; K.:2025/259 sayılı Kararı ile bu madde iptal edilmiştir.
-Kararın Resmî Gazete’de yayımlanmasından başlayarak altı ay sonra (10/9/2026)
-yürürlüğe gireceği hüküm altına alınmıştır.
-
-[6]
-
 Bu hükmün uygulanmasında Ek 2 nci maddeye
 bakınız.
 
-[7]
+[6]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 34
 üncü maddesiyle, 39 uncu maddenin (h) bendinde yer alan “kanun ve tüzüklerin”
 ibaresi “kanunların” şeklinde değiştirilmiş ve (l) bendinde yer alan “tüzük ve”
 ibaresi madde metninden çıkarılmıştır.
+
+[7]
+
+Bu hükmün uygulanmasında Ek 2 nci maddeye
+bakınız.
 
 [8]
 
@@ -1477,16 +1441,11 @@ bakınız.
 
 [9]
 
-Bu hükmün uygulanmasında Ek 2 nci maddeye
-bakınız.
-
-[10]
-
 Bu fıkra hükmü, birinci fıkrayı değiştiren
 8/1/1985 tarihli ve 3145 sayılı Kanunun 12 nci maddesiyle, birinci fıkranın iki
 fıkra halinde düzenlenmiş olması nedeniyle getirilmiştir.
 
-[11]
+[10]
 
 Bu
 fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 18 inci maddesiyle yedinci ve
