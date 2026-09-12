@@ -1139,19 +1139,12 @@ Birinci fıkra
 kapsamındaki sözleşmelerde altı ayı geçmemek üzere idarece bu maddeye göre süre
 uzatımı verilebilir.
 
-Bu madde
-kapsamında ek fiyat farkı ile süre uzatımı verilebilecek işleri, ek fiyat farkı
-hesaplama yöntemlerini, uygulama dönemini, başvuru sürelerini, süre uzatımına
-bağlı olarak yapılacak işlemler ile ek fiyat farkı ve süre uzatımına dair diğer
-hususlar dâhil bu maddenin uygulanmasına ilişkin esas ve usulleri, 8 inci
-maddeye göre belirlenen esas ve usuller de dikkate alınmak suretiyle tespite
-Cumhurbaşkanı yetkilidir.
-[11]
+(İptal üçüncü fıkra:Anayasa
+Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı ile)
 
-Geçici 5 inci
-maddenin altıncı ve yedinci fıkraları kapsamındaki yapım işleri sözleşmeleri
-için bu maddeye uygun olarak ilgili mevzuatında düzenleme yapılabilir.
-[12]
+(İptal dördüncü
+fıkra:Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.: 2025/163 sayılı
+Kararı ile)
 
 Yürürlük
 
@@ -1329,6 +1322,14 @@ Ek Madde 2
 
 22/5/2026
 
+Anayasa Mahkemesinin 22/7/2025 tarihli ve E.:
+2024/54, K.: 2025/163 sayılı Kararı
+
+Geçici Madde 7
+
+Kararın Resmî Gazete’de yayımlanmasından başlayarak
+dokuz ay sonra (9/9/2026)
+
 [1]
 20/11/2008 tarihli ve 5812 sayılı
 Kanunun 32 nci maddesiyle; bu fıkrada yer alan “Çerçeve sözleşme” ibaresi
@@ -1380,16 +1381,3 @@ kırkbeş gün” olarak değiştirilmiş ve metne işlenmiştir.
 2/7/2018 tarihli ve 703 sayılı
 Kanun Hükmünde Kararnamenin 214 üncü maddesiyle bu maddede yer alan “Bakanlar
 Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-[11]
-
-Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.:
-2025/163 sayılı Kararı ile bu fıkra iptal edilmiştir. Kararın Resmî Gazete’de
-yayımlanmasından başlayarak dokuz ay sonra (9/9/2026) yürürlüğe gireceği hüküm
-altına alınmıştır.
-
-[12]
-Anayasa Mahkemesinin
-22/7/2025 tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı ile bu fıkra iptal
-edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
-(9/9/2026) yürürlüğe gireceği hüküm altına alınmıştır.
