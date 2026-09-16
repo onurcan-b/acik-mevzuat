@@ -1832,15 +1832,20 @@ Yetki:
 
 Madde 36 –
 Cumhurbaşkanı
-indirim veya iade hakkını kısmen veya tamamen kaldırmaya veya yeniden koymaya ve
-bu şekilde indirim veya iade hakkı kısıtlanan mal veya hizmetleri belirlemeye,
-süresi içinde iadesi talep edilmeyen ve indirim yoluyla giderilmek
-üzere sonraki dönemlere devrolunan katma değer vergisinin gelir veya kurumlar vergisi
-matrahının tespitinde gider olarak yazılmasına imkân vermeye, iade talebinde bulunulabilecek
-asgari tutarı belirlemeye
+indirim (…)
+[91]
+hakkını kısmen
+veya tamamen kaldırmaya veya yeniden koymaya ve bu şekilde indirim (…)
+91
+hakkı kısıtlanan mal
+veya hizmetleri belirlemeye,
+süresi
+içinde iadesi talep edilmeyen ve indirim yoluyla giderilmek üzere sonraki dönemlere
+devrolunan katma değer vergisinin gelir veya kurumlar vergisi matrahının tespitinde
+gider olarak yazılmasına imkân vermeye, iade talebinde bulunulabilecek asgari tutarı
+belirlemeye
 
 yetkilidir.
-[91]
 [92]
 [93]
 [94]
@@ -4833,6 +4838,16 @@ izleyen ay başında
 
 (1/8/2026)
 
+Anayasa Mahkemesinin 22/7/2025
+tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı
+
+36
+
+Kararın
+Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
+
+(9/9/2026)
+
 [1]
 
 29/3/2018 tarihli ve 7104 sayılı Kanunun 29 uncu maddesiyle; 7104 sayılı
@@ -5464,6 +5479,13 @@ maddesiyle bu değişikliğin 1/1/2019 tarihinde yürürlüğe girmesi hüküm a
 alınmıştır.
 
 [91]
+Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.:
+2025/163 sayılı Kararı ile bu fıkrada yer alan “…indirim hakkını…” ibaresinin
+“…indirim veya iade hakkını…” şeklinde değiştirilmesinde bulunan “…veya iade…”
+ibaresi ile “…indirim hakkı…” ibaresinin “…indirim veya iade hakkı…” şeklinde
+değiştirilmesinde bulunan “…veya iade…” ibaresi iptal edilmiştir.
+
+[92]
 
 29/3/2018 tarihli ve 7104 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer
 alan “mal veya hizmetleri belirlemeye” ibaresinden sonra gelmek üzere “, süresi
@@ -5472,25 +5494,16 @@ dönemlere devrolunan katma değer vergisinin gelir veya kurumlar vergisi
 matrahının tespitinde gider olarak yazılmasına imkân vermeye, iade talebinde
 bulunulabilecek asgari tutarı belirlemeye” ibaresi eklenmiştir.
 
-[92]
+[93]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu fıkrada yer alan
 “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-[93]
+[94]
 
 27/12/2023 tarihli ve 7491 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer
 alan “indirim hakkını” ibaresi “indirim veya iade hakkını” ve “indirim hakkı”
 ibaresi “indirim veya iade hakkı” şeklinde değiştirilmiştir.
-
-[94]
-Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.:
-2025/163 sayılı Kararı ile bu fıkrada yer alan “…indirim hakkını…” ibaresinin
-“…indirim veya iade hakkını…” şeklinde değiştirilmesinde bulunan “…veya iade…”
-ibaresi ile “…indirim hakkı…” ibaresinin “…indirim veya iade hakkı…” şeklinde
-değiştirilmesinde bulunan “…veya iade…” ibaresi iptal edilmiştir. Kararın Resmî
-Gazete’de yayımlanmasından başlayarak dokuz ay sonra (9/9/2026) yürürlüğe
-gireceği hüküm altına alınmıştır.
 
 [95]
 
