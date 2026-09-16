@@ -577,26 +577,9 @@ ve yirmibirinci fıkralarına aykırı fiillerden dolayı haklarında
 kesinleşmiş mahkûmiyet kararı olanlara, bu Kanun kapsamında yürütülen
 faaliyetlere ilişkin hiçbir belge verilmez, verilmiş olanlar Tarım ve Orman
 Bakanlığınca iptal edilir.
-(Değişik ikinci cümle: 27/12/2023-7491/38
-md.)
-Bu Kanuna, 4250 sayılı Kanuna, 213 sayılı Kanunun 359 uncu maddesinin
-(d) fıkrası ile 5607 sayılı Kanunun 3 üncü maddesinin onuncu, onaltıncı,
-onyedinci, onsekizinci, yirminci ve yirmibirinci fıkralarına aykırı fiillerden
-soruşturma ve/veya kovuşturma başlatılması durumunda bu Kanun kapsamında
-yürütülen faaliyetlere ilişkin verilen belgeler, durumun Bakanlığa yargı
-merciince bir hafta içerisinde bildirilmesiyle veya sair suretlerle Bakanlıkça
-ıttıla edilmesi durumunda, belgenin düzenlendiği tesis veya
-işyeri dikkate alınarak askıya alınır. Askıya alma süresince söz
-konusu tesis veya işyeri için başkaca bir belge düzenlenmez. Tüzel kişilerin
-organ veya temsilcisi ya da organ veya temsilci olmamakla birlikte bu tüzel
-kişinin faaliyeti çerçevesinde görev üstlenen bir kişi tarafından tüzel kişinin
-yararına işlenmesi durumunda da askıya alma işlemi uygulanır. Bakanlıkça askıya
-alma işleminin kaldırılıp kaldırılmayacağı altı ayda bir değerlendirilir. Ancak
-kovuşturmaya yer olmadığına dair kararın kesinleşmesi üzerine ya da mahkûmiyet
-dışında bir hüküm veya hükmün açıklanmasının geri bırakılmasına karar verilmesi
-halinde kesinleşmesi beklenmeksizin Bakanlık tarafından askıya alma işlemi
-ortadan kaldırılır.
-[25]
+(İptal ikinci, üçüncü, dördüncü, beşinci ve
+altıncı cümleler: Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2024/54, K.: 2025/163
+sayılı Kararı ile.)
 
 Beşinci fıkranın
 (f), (g), (ı), (j), (n), (o), (p), (r), (s) ve (ş)
@@ -608,10 +591,10 @@ geçirilmesi kararını vermeye mahalli mülkî amirler, diğer bentlerde yazıl
 hakkında idarî para cezası vermeye Gıda, Tarım ve Hayvancılık Bakanlığı yetkilidir.
 Mahalli mülkî amirlerce uygulanan idarî yaptırımlar onbeş gün içinde Gıda, Tarım
 ve Hayvancılık Bakanlığına iletilir.
+[25]
 [26]
 [27]
 [28]
-[29]
 
 Bu Kanun hükümlerine göre verilen idarî yaptırım kararlarına karşı 6/1/1982
 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu hükümlerine göre kanun yoluna
@@ -675,7 +658,7 @@ değerleme oranına kadar, takvim yılı başından geçerli olmak üzere artır
 hangi hâllerde teminat aranılmayacağını ve uygulamaya ilişkin diğer usul ve
 esasları Hazine ve Maliye Bakanlığının görüşünü alarak belirlemeye Tarım ve
 Orman Bakanlığı yetkilidir.
-[30]
+[29]
 
 Bu
 Kanun kapsamında izin, uygunluk ve yetki belgesine tabi faaliyetlerde
@@ -734,8 +717,8 @@ tespitte kullanılan oranın yüzde elliye kadar artırılması ve 4250 sayılı
 İspirto ve İspirtolu İçkiler İnhisarı Kanunu ile bu Kanunun uygulanmasıyla
 ilgili diğer usul ve esaslar Gıda, Tarım ve Hayvancılık Bakanlığı tarafından
 çıkarılacak yönetmeliklerle,
+[30]
 [31]
-[32]
 
 düzenlenir.
 
@@ -787,7 +770,7 @@ ibaresi yürürlükten kaldırılmıştır.
 Ek Madde 1-
 
 (Ek: 1/7/2006-5538/16 md.; Değişik: 3/4/2008-5752/6 md.)
-[33]
+[32]
 
 Gıda, Tarım ve Hayvancılık Bakanlığı, bu Kanunun uygulamasında
 gerekli koordinasyonun sağlanması ve yasadışı faaliyetlerin önlenmesi amacıyla,
@@ -1186,7 +1169,7 @@ yürürlüğe gireceği hüküm altına alınmıştır.
 6 ncı maddenin onuncu fıkrası
 
 1/7/2020
-[34]
+[33]
 
 7255
 
@@ -1219,6 +1202,14 @@ yürürlüğe gireceği hüküm altına alınmıştır.
 8
 
 20/6/2026
+
+Anayasa Mahkemesinin 22/7/2025
+tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı
+
+8
+
+Kararın Resmî Gazete’de
+yayımlanmasından başlayarak dokuz ay sonra (9/9/2026)
 
 [1]
 Bu Kanunun adı “Tütün, Tütün Mamulleri, Tuz ve Alkol
@@ -1289,8 +1280,8 @@ eklenmiştir.
 [9]
 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde
 Kararnamenin 53 üncü maddesiyle, bu fıkrada yer alan “Gıda, Tarım ve
-Hayvancılık Bakanlığının önerisi üzerine Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
+Hayvancılık Bakanlığının önerisi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde değiştirilmiştir.
 
 [10]
 
@@ -1325,9 +1316,9 @@ Hayvancılık Bakanlığına” ; sekizinci fıkrasında yer alan “Kurumun” 
 “Gıda, Tarım ve Hayvancılık Bakanlığının” ; beşinci fıkrasının (a), (l) ve (m)
 bentleri ile dokuzuncu ve onikinci fıkralarında yer alan “Kurum” ibareleri
 “Gıda, Tarım ve Hayvancılık Bakanlığı” şeklinde; altıncı ve sekizinci
-fıkralarında yer alan “Kurumca” ibareleri “Gıda, Tarım ve Hayvancılık
-Bakanlığınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve
-7079 sayılı Kanunun 77 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+fıkralarında yer alan “Kurumca” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığınca”
+şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı
+Kanunun 77 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
 [14]
 28/11/2017 tarihli ve 7061 sayılı Kanunun 63 üncü
@@ -1376,8 +1367,8 @@ maddesi ile bu bentte yer alan, “izinsiz olarak veya Kurum düzenlemelerine
 aykırılık oluşturacak şekilde” ibaresi metinden çıkarılmıştır.
 
 [21]
-24/5/2013 tarihli ve 6487 sayılı Kanunun 6 ncı
-maddesiyle bu bentte yer alan “veya alkollü içkilerin” ibaresi madde metninden
+24/5/2013 tarihli ve 6487 sayılı Kanunun 6 ncı maddesiyle
+bu bentte yer alan “veya alkollü içkilerin” ibaresi madde metninden
 çıkarılmıştır.
 
 [22]
@@ -1403,30 +1394,23 @@ maddesiyle bu bende
 ibaresinden sonra gelmek üzere “ticari amaçla kullananlara,” ibaresi eklenmiştir.
 
 [25]
-Anayasa Mahkemesinin 22/7/2025 tarihli ve
-E.: 2024/54, K.: 2025/163 sayılı Kararı ile bu fıkranın ikinci, üçüncü,
-dördüncü, beşinci ve altıncı cümleleri iptal edilmiştir. Kararın Resmî
-Gazete’de yayımlanmasından başlayarak dokuz ay sonra (9/9/2026) yürürlüğe
-gireceği hüküm altına alınmıştır.
-
-[26]
 13/2/2011 tarihli ve 6111 sayılı Kanunun 175 inci
 maddesi ile bu fıkrada yer alan “ve (j)” ibaresinden sonra gelmek üzere “ile
 (o)” ibaresi eklenmiş; 28/11/2017 tarihli ve 7061 sayılı Kanunun 63 üncü
-maddesi ile bu fıkrada yer alan “(f), (g), (h), (ı) ve (j) ile (o)” ibaresi
-“(f), (g), (ı), (j) ve (o)” şeklinde değiştirilmiştir.
+maddesi ile bu fıkrada yer alan “(f), (g), (h), (ı) ve (j) ile (o)” ibaresi “(f),
+(g), (ı), (j) ve (o)” şeklinde değiştirilmiştir.
 
-[27]
+[26]
 28/10/2020 tarihli ve 7255 sayılı Kanunun 13 üncü
 maddesi ile bu fıkrada yer alan “(f), (g), (ı), (j) ve (o) bentlerinde” ibaresi
 “(f), (g), (h), (ı), (j), (n), (o) ve (p) bentlerinde” şeklinde değiştirilmiştir.
 
-[28]
+[27]
 30/11/2022 tarihli
 ve 7423 sayılı Kanunun 4 üncü maddesiyle bu fıkranın birinci cümlesinde yer
 alan “(o) ve (p)” ibaresi “(o), (p), (r) ve (s)” şeklinde değiştirilmiştir.
 
-[29]
+[28]
 
 11/6/2026 tarihli ve 7584 sayılı Kanunun 21 inci
 maddesiyle bu fıkranın
@@ -1435,7 +1419,7 @@ cümlesinde yer alan “(f), (g), (h), (ı), (j), (n), (o), (p), (r) ve (s)
 bentlerinde” ibaresi “(f), (g), (ı), (j), (n), (o), (p), (r), (s) ve (ş)
 bentlerinde” şeklinde değiştirilmiştir.
 
-[30]
+[29]
 
 Anayasa
 Mahkemesinin 8/10/2025 tarihli ve E.: 2024/218, K.: 2025/202 sayılı Kararı ile
@@ -1443,24 +1427,24 @@ bu fıkrada yer alan ”iadesi ile” ibaresi iptal edilmiştir. Bu Karar Resmî
 Gazete’de yayımlanmasından başlayarak dokuz ay sonra (20/10/2026) yürürlüğe
 girer.
 
-[31]
+[30]
 28/11/2017 tarihli ve 7061 sayılı Kanunun 64 üncü
 maddesi ile bu bentte yer alan “sigara fabrikalarının” ibaresi “tütün mamulleri,
 makaron ve yaprak sigara kâğıdı üretim tesislerinin” şeklinde değiştirilmiştir.
 
-[32]
+[31]
 20/11/2017 tarihli ve 696 sayılı KHK’nin 82 nci
 maddesiyle, bu bentte yer alan “Kurum” ibaresi “Gıda, Tarım ve Hayvancılık
 Bakanlığı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079
 sayılı Kanunun 77 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[33]
+[32]
 20/11/2017 tarihli ve 696 sayılı KHK’nin 82 nci
 maddesiyle, bu maddede yer alan “Kurum” ibaresi “Gıda, Tarım ve Hayvancılık
 Bakanlığı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079
 sayılı Kanunun 77 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
-[34]
+[33]
 16/5/2018 tarihli ve 7144 sayılı Kanunun 21 inci
 maddesiyle, bu tarih “1/7/2018” iken “1/7/2019” şeklinde ve 18/6/2020 tarihli
 ve 7247 sayılı Kanunun 17 nci maddesiyle “1/7/2020” şeklinde değiştirilmiştir.

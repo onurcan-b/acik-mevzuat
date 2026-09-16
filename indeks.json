@@ -1766,7 +1766,7 @@
       "type": "KANUN",
       "path": "kanunlar/3065-katma-deger-vergisi-kanunu",
       "source_mevzuat_id": "102965",
-      "content_sha256": "a657bf5274ca69301e8fe4f20dcc036a35cd44242e930b08afd49dfc157aa383",
+      "content_sha256": "d78659df7b1bb07ec8eefac1ba176e3ab5150be554b3a116bed53f9ff0b4a050",
       "fetch_status": "ok"
     },
     {
@@ -3863,7 +3863,7 @@
       "type": "KANUN",
       "path": "kanunlar/4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun",
       "source_mevzuat_id": "103109",
-      "content_sha256": "cd79b97763fcf049d29247aba60c7696be33310c582e38e7bf8a0110e38cd56a",
+      "content_sha256": "ff009872cd68fcd1015c75f936db156558bff36489d24a5b3a552b4f841311d7",
       "fetch_status": "ok"
     },
     {
@@ -4646,7 +4646,7 @@
       "type": "KANUN",
       "path": "kanunlar/5233-teror-ve-terorle-mucadeleden-dogan-zararlarin-karsilanmasi-hakkinda-kanun",
       "source_mevzuat_id": "103787",
-      "content_sha256": "0c588a91e79ad64727c99fc5f00e88ebc37cc2c6047f4cf895118b057f12de54",
+      "content_sha256": "eca26a9db22555b6e91dcdc7ebe874e8108a8303ddf6ccf9120ae1ac65bb4080",
       "fetch_status": "ok"
     },
     {
@@ -7746,15 +7746,6 @@
       "fetch_status": "ok"
     },
     {
-      "law_number": "7354",
-      "title": "ÖĞRETMENLİK MESLEK KANUNU",
-      "type": "KANUN",
-      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
-      "source_mevzuat_id": "102948",
-      "content_sha256": "bd2e3b16be8e6c5c25b5bc0abb247b8005edeb67cec9db535641d0a89edfa416",
-      "fetch_status": "ok"
-    },
-    {
       "law_number": "7381",
       "title": "NÜKLEER DÜZENLEME KANUNU",
       "type": "KANUN",
@@ -9651,6 +9642,15 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
+      "fetch_status": "ok"
+    },
+    {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "MULGA",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu",
+      "source_mevzuat_id": "335467",
+      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {

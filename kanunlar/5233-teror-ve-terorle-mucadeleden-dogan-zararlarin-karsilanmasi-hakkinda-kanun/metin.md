@@ -150,15 +150,16 @@ Madde 6-
 
 (Değişik: 28/12/2005 - 5442/3 md.)
 
-Zarar gören veya mirasçılarının veya yetkili temsilcilerinin zarar konusu
-olayın öğrenilmesinden itibaren altmış gün içinde, her hâlde olayın meydana
-gelmesinden itibaren bir yıl içinde zararın gerçekleştiği veya zarar konusu
-olayın meydana geldiği il valiliğine başvurmaları hâlinde gerekli işlemlere
-başlanır. Bu sürelerden sonra yapılacak başvurular kabul edilmez. Bu Kanun
-kapsamındaki yaralanma ve engelli hâle gelme durumlarında, yaralının hastaneye
-kabulünden hastaneden çıkışına kadar geçen süre, başvuru süresinin
-hesaplanmasında dikkate alınmaz.
+Zarar gören (…)
 [3]
+veya yetkili temsilcilerinin
+zarar konusu olayın öğrenilmesinden itibaren altmış gün içinde, her hâlde
+olayın meydana gelmesinden itibaren bir yıl içinde zararın gerçekleştiği veya
+zarar konusu olayın meydana geldiği il valiliğine başvurmaları hâlinde gerekli
+işlemlere başlanır. Bu sürelerden sonra yapılacak başvurular kabul edilmez. Bu
+Kanun kapsamındaki yaralanma ve engelli hâle gelme durumlarında, yaralının
+hastaneye kabulünden hastaneden çıkışına kadar geçen süre, başvuru süresinin
+hesaplanmasında dikkate alınmaz.
 [4]
 
 İlgili valilik dışında diğer valilikler, kaymakamlıklar, Türkiye Cumhuriyeti
@@ -695,6 +696,16 @@ seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tariht
 
 15/7/2020
 
+Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2024/116;
+K.: 2025/151 sayılı Kararı
+
+6
+
+Kararın Resmî Gazete’de
+yayımlanmasından başlayarak dokuz ay sonra
+
+(10/9/2026)
+
 [1]
 28/12/2005 tarihli ve 5442 sayılı Kanunun 2 nci
 maddesiyle; bu maddenin (c) ve (d) bentlerinde geçen "birer"
@@ -710,16 +721,15 @@ hüküm 1/2/2018 tarihli ve 7074 sayılı Kanunun 4 üncü maddesiyle aynen kabu
 edilerek kanunlaşmıştır.
 
 [3]
+
+Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2024/116; K.:
+2025/151 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…veya
+mirasçılarının…” ibaresi iptal edilmiştir.
+
+[4]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
 maddesiyle, bu fıkrada yer alan “sakatlanmalarda” ibaresi “engelli hâle gelme
 durumlarında” şeklinde değiştirilmiştir.
-
-[4]
-Anayasa Mahkemesinin 10/7/2025 tarihli ve E.:
-2024/116; K.: 2025/151 sayılı Kararı ile bu fıkranın birinci cümlesinde yer
-alan “…veya mirasçılarının…” ibaresi iptal edilmiştir. Kararın Resmî Gazete’de
-yayımlanmasından başlayarak dokuz ay sonra (10/9/2026) yürürlüğe gireceği hüküm
-altına alınmıştır.
 
 [5]
 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci
@@ -779,12 +789,12 @@ maddesinin ikinci fıkrasında yer alan “Bakanlar Kurulu” ibareleri
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
 [15]
-Bu madde gereğince yapılan başvuruların
-sonuçlandırılma süresi, 23/6/2017 tarihli ve 30105 sayılı Resmi Gazete’de
-yayımlanan 29/5/2017 tarihli ve 2017/10384 sayılı Bakanlar Kurulu Kararı Eki
-Kararın 1 inci maddesiyle, 23/6/2016 tarihli ve 29751 sayılı Resmi Gazete’de
-yayımlanan 6/6/2016 tarihli ve 2016/8889 sayılı Bakanlar Kurulu Kararı Eki
-Kararın 1 inci maddesiyle uzatılan sürenin bitiminden itibaren bir yıl
-uzatılmış olup daha sonra 5/6/2018 tarihli ve 30442 sayılı Resmi Gazete’de
-yayımlanan 14/5/2018 tarihli ve 2018/11774 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, bu sürenin bitiminden itibaren bir yıl uzatılmıştır.
+Bu madde gereğince yapılan başvuruların sonuçlandırılma
+süresi, 23/6/2017 tarihli ve 30105 sayılı Resmi Gazete’de yayımlanan 29/5/2017
+tarihli ve 2017/10384 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci
+maddesiyle, 23/6/2016 tarihli ve 29751 sayılı Resmi Gazete’de yayımlanan
+6/6/2016 tarihli ve 2016/8889 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci
+maddesiyle uzatılan sürenin bitiminden itibaren bir yıl uzatılmış olup daha
+sonra 5/6/2018 tarihli ve 30442 sayılı Resmi Gazete’de yayımlanan 14/5/2018
+tarihli ve 2018/11774 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci
+maddesiyle, bu sürenin bitiminden itibaren bir yıl uzatılmıştır.
