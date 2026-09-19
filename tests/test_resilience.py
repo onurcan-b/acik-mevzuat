@@ -89,6 +89,10 @@ class CatalogSafetyTest(unittest.TestCase):
 
 class DailyResilienceTest(unittest.TestCase):
     def setUp(self):
+        # Simüle edilen kesintiler GitHub'da gerçek servis uyarısı oluşturmasın.
+        for capture in (redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO())):
+            capture.__enter__()
+            self.addCleanup(capture.__exit__, None, None, None)
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
@@ -192,6 +196,28 @@ class DailyResilienceTest(unittest.TestCase):
         self.assertEqual(sync.STATE_PATH.read_bytes(), before_catalog)
         meta = sync.load_json(sync.LAWS_DIR / "4-deneme-4" / "ustveri.json", {})
         self.assertIsNone(meta["official_gazette"]["number"])
+
+    def test_distinct_official_ids_with_same_number_and_title_never_overwrite(self):
+        duplicate_title = {**self.docs[0], "mevzuatId": "99"}
+        original = sync.LAWS_DIR / "1-deneme-1"
+        before = (original / "ustveri.json").read_bytes()
+        with patch.object(sync, "list_documents", return_value=self.docs + [duplicate_title]), \
+             patch.object(sync, "get_document_text", return_value=(self.text, "text/plain")):
+            self.assertEqual(sync.mode_daily(self.args), 0)
+        by_id = sync.existing_by_id(sync.LAWS_DIR)
+        self.assertEqual(set(by_id), {"1", "2", "3", "4", "99"})
+        self.assertNotEqual(by_id["1"], by_id["99"])
+        self.assertEqual((original / "ustveri.json").read_bytes(), before)
+        self.assertEqual(sync.load_json(sync.INDEX_PATH, {})["documents_total"], 5)
+
+    def test_title_change_updates_existing_official_id_without_leaving_duplicate_directory(self):
+        renamed = {**self.docs[0], "mevzuatAdi": "Yeni başlık"}
+        with patch.object(sync, "get_document_text", return_value=(self.text, "text/plain")):
+            slug, fetched = sync.write_document(renamed, sync.LAWS_DIR, preserve_good_on_error=True)
+        self.assertTrue(fetched)
+        self.assertEqual(slug, "1-deneme-1")
+        self.assertEqual(len(list(sync.LAWS_DIR.glob("*/ustveri.json"))), 4)
+        self.assertEqual(sync.load_json(sync.LAWS_DIR / slug / "ustveri.json", {})["title"], "Yeni başlık")
 
     def test_main_uses_retry_exit_code_only_for_temporary_outage(self):
         for error, expected in [(sync.ApiUnavailableError("HTTP 503"), 75), (sync.ApiError("bad data"), 1)]:

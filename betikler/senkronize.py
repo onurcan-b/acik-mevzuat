@@ -473,8 +473,17 @@ def existing_by_id(root: Path = LAWS_DIR) -> dict[str, Path]:
 
 def write_document(item: dict[str, Any], out_laws: Path, *, preserve_good_on_error: bool) -> tuple[str, bool]:
     source_id = str(item["mevzuatId"])
-    slug = directory_name(item)
+    current = existing_by_id(out_laws).get(source_id)
+    # Başlık aynı olsa da resmî kimliği farklı kayıtlar ayrı tutulmalı.
+    # Mevcut kimliğin yolu, başlığı değiştiğinde de kararlı kalır.
+    slug = current.name if current else directory_name(item)
     target = out_laws / slug
+    if target.exists() and current is None:
+        suffix = f"-{slugify(source_id)}"
+        slug = f"{slug[:max(1, 145 - len(suffix))].rstrip('-')}{suffix}"
+        target = out_laws / slug
+        if target.exists():
+            raise ApiError(f"{source_id}: klasör başka bir kayda ait: {target.name}")
 
     try:
         text, _ = get_document_text(source_id)
@@ -484,7 +493,6 @@ def write_document(item: dict[str, Any], out_laws: Path, *, preserve_good_on_err
             # Servis kesintisinde yeni hata metni veya metadata yazma.
             raise
         if preserve_good_on_error:
-            current = existing_by_id(out_laws).get(source_id)
             if current:
                 previous = load_json(current / "ustveri.json", {})
                 if str(previous.get("retrieval_api") or "").startswith(BASE_URL) and "official-fetch-unavailable" not in (previous.get("tags") or []):

@@ -105,6 +105,7 @@ Ek API anahtarı veya repository secret'ı gerekmez.
 - Katalog beklenenden eksik veya bozuk dönerse çalışma başarısız olur; bu veri hataları yedek katalogla gizlenmez. Yinelenen sayfalar da taramayı durdurur.
 - İçerik servisi de kapalıysa mevcut metinler korunur; art arda üç geçici içerik hatasında çalışma durur. Workflow 60 saniye sonra bir kez daha dener. Servis hâlâ kapalıysa veri yayımlanmaz ve çalışma başarısız kalır.
 - Alınamayan içerikler başarılı kontrol sayılmaz. Eksik metinler sonraki backfill'e alınır; tamamlanamayan katalog değişiklikleri tekrar denenmek üzere korunur.
+- Aynı kanun numarası ve başlığına sahip farklı resmî kimlikler ayrı klasörlerde tutulur; mevcut kaydın yolu başlık değişikliklerinde korunur.
 - Her senkronizasyonda unit testler, metadata doğrulaması ve `git diff --check` çalışır.
 - `main` branch'i korumalıdır; otomatik veri güncellemeleri PR üzerinden merge edilir.
 
