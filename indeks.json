@@ -2,7 +2,7 @@
   "source": "https://mevzuat.adalet.gov.tr",
   "catalog_api": "https://bedesten.adalet.gov.tr/mevzuat/searchDocuments",
   "content_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent",
-  "documents_total": 1084,
+  "documents_total": 1085,
   "fetch_failures": 0,
   "documents": [
     {
@@ -9651,6 +9651,15 @@
       "path": "kanunlar/7338-veraset-ve-intikal-vergisi-kanununun-yururlukten-kaldirilmis-hukumleri",
       "source_mevzuat_id": "335246",
       "content_sha256": "9598065217794314328360f5b412a46f246fdeb28daa9a967c1ad14a1d5d0211",
+      "fetch_status": "ok"
+    },
+    {
+      "law_number": "7354",
+      "title": "ÖĞRETMENLİK MESLEK KANUNU",
+      "type": "MULGA",
+      "path": "kanunlar/7354-ogretmenlik-meslek-kanunu-335467",
+      "source_mevzuat_id": "335467",
+      "content_sha256": "35fae50bea9304529240aef8d69c06ab845885129db5498fc1b9acbad65e29a9",
       "fetch_status": "ok"
     },
     {
