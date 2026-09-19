@@ -171,6 +171,14 @@ Kod, parser ve veri modeli katkıları pull request ile yapılabilir. Otomatik �
 
 Ayrıntılar için [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
+## Hukuki dayanak
+
+Açık Mevzuat, resmen yayımlanan kanun metinlerinin yeniden kullanımında **5846 sayılı Fikir ve Sanat Eserleri Kanunu'nun 31. maddesine** dayanır. Bu madde, resmen yayımlanan veya ilan olunan kanunların çoğaltılmasını, yayılmasını ve işlenmesini serbest bırakır. Kanun metinlerini makine tarafından okunabilir biçimde sunmanın ve değişikliklerini arşivlemenin hukuki dayanağı bu serbestliktir. Kaynak: [FSEK m.31 — WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/22507).
+
+Proje, kamuya açık resmî mevzuat metinlerini kaynak bağlantılarıyla birlikte yayımlar. Senkronizasyon kodu şifre, CAPTCHA veya kimlik doğrulama engellerini aşmaz; istekler arasında bekler ve sınırlı yeniden deneme uygular. Özgün proje kodunun lisansı ile resmî kanun metinlerinin durumu aşağıda ayrı açıklanmıştır.
+
+Bu hukuki dayanak kanun metinlerinin yeniden kullanımına ilişkindir. API erişimi ve toplu indirme koşulları ayrıca değerlendirilmelidir; Bakanlığın otomatik erişime ilişkin açık kullanım koşulları henüz doğrulanmamıştır ve proje özel bir izin veya Bakanlık onayı bulunduğunu iddia etmez. FSEK'in veri tabanlarına ilişkin hükümleri de kanundaki istisnalarla birlikte değerlendirilir. Resmî kaynakların doğrulanması ve projenin kapsamı için [NOTICE.md](NOTICE.md) dosyasına bakınız.
+
 ## Lisans
 
 Bu depo özgün proje kodu ile resmî kanun metinlerini ayrı değerlendirir.
