@@ -16,7 +16,7 @@ Her gün GitHub Actions otomatik olarak:
 6. metadata ve test doğrulamalarını çalıştırır,
 7. gerçek bir veri değişikliği varsa otomatik bir veri PR'ı oluşturur, squash-merge eder ve çalışma branch'ini temizler.
 
-Böylece tüm corpus her gün gereksiz yere yeniden indirilmez; buna rağmen her kanun metni en geç yaklaşık bir hafta içinde yeniden doğrulanır. Git geçmişi, mevzuat sürümlerinin değişiklik arşividir.
+Böylece tüm corpus her gün gereksiz yere yeniden indirilmez; resmî servisler erişilebilir olduğu sürece yürürlükteki kanun metinleri yaklaşık bir hafta içinde yeniden doğrulanır. Git geçmişi, mevzuat sürümlerinin değişiklik arşividir.
 
 ## Veri yapısı
 
@@ -99,9 +99,12 @@ Ek API anahtarı veya repository secret'ı gerekmez.
 
 ## Güvenilirlik
 
-- Bedesten istekleri retry/backoff ve timeout ile yapılır.
+- Bedesten istekleri sınırlı retry/backoff ve timeout ile yapılır; HTTP 429/5xx yanıtlarında `Retry-After` dikkate alınır ve her yeniden deneme loglanır.
 - GitHub-hosted runner'larda askıda kalan keep-alive bağlantılarını azaltmak için resmî API istemcisi `Connection: close` kullanır.
-- Katalog beklenenden eksik dönerse çalışma başarısız olur; eksik katalog sessizce kabul edilmez.
+- Katalog servisi geçici olarak kullanılamıyorsa son doğrulanmış resmî katalogla içerik kontrolü sürer. Bu durumda katalog dosyası değiştirilmez, kayıt silinmez ve yeni/silinen kayıt tespitinin ertelendiği çalışma özetinde belirtilir.
+- Katalog beklenenden eksik veya bozuk dönerse çalışma başarısız olur; bu veri hataları yedek katalogla gizlenmez. Yinelenen sayfalar da taramayı durdurur.
+- İçerik servisi de kapalıysa mevcut metinler korunur; art arda üç geçici içerik hatasında çalışma durur. Workflow 60 saniye sonra bir kez daha dener. Servis hâlâ kapalıysa veri yayımlanmaz ve çalışma başarısız kalır.
+- Alınamayan içerikler başarılı kontrol sayılmaz. Eksik metinler sonraki backfill'e alınır; tamamlanamayan katalog değişiklikleri tekrar denenmek üzere korunur.
 - Her senkronizasyonda unit testler, metadata doğrulaması ve `git diff --check` çalışır.
 - `main` branch'i korumalıdır; otomatik veri güncellemeleri PR üzerinden merge edilir.
 
