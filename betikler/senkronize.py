@@ -17,13 +17,15 @@ import hashlib
 import html
 import io
 import json
+import os
 import random
 import re
 import shutil
 import sys
 import time
 import unicodedata
-from datetime import date, datetime
+from datetime import date, datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
@@ -65,6 +67,32 @@ class ApiError(RuntimeError):
     pass
 
 
+class ApiUnavailableError(ApiError):
+    """Geçici ağ/servis hatası; veri veya yetkilendirme hatası değildir."""
+
+
+def retry_delay(retry_after: str | None, attempt: int) -> float:
+    delay = min(2 ** (attempt + 1), 15)
+    if retry_after:
+        try:
+            delay = float(retry_after)
+        except ValueError:
+            try:
+                retry_at = parsedate_to_datetime(retry_after)
+                delay = (retry_at - datetime.now(timezone.utc)).total_seconds()
+            except (TypeError, ValueError, OverflowError):
+                pass
+    return max(0, min(delay, 60)) + random.uniform(0.2, 0.8)
+
+
+def job_summary(message: str) -> None:
+    print(message, flush=True)
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        with Path(summary_path).open("a", encoding="utf-8") as stream:
+            stream.write(message + "\n\n")
+
+
 def _pace() -> None:
     global LAST_REQUEST_AT
     elapsed = time.monotonic() - LAST_REQUEST_AT
@@ -87,6 +115,7 @@ def _post(
 
     last_error: Exception | None = None
     for attempt in range(attempts):
+        retry_after = None
         try:
             _pace()
             response = SESSION.post(
@@ -96,29 +125,33 @@ def _post(
             )
             LAST_REQUEST_AT = time.monotonic()
 
-            if response.status_code == 429:
+            if response.status_code == 429 or response.status_code >= 500:
                 retry_after = response.headers.get("Retry-After")
-                try:
-                    delay = float(retry_after) if retry_after else 2 ** (attempt + 1)
-                except ValueError:
-                    delay = 2 ** (attempt + 1)
-                time.sleep(min(delay, 30) + random.uniform(0.2, 0.8))
-                continue
-
-            if response.status_code >= 500:
-                raise ApiError(f"HTTP {response.status_code}")
+                raise ApiUnavailableError(f"HTTP {response.status_code}")
             response.raise_for_status()
             body = response.json()
+            if not isinstance(body, dict):
+                raise ApiError(f"{endpoint}: beklenmeyen JSON yanıtı")
             metadata = body.get("metadata") or {}
             if metadata.get("FMTY") not in (None, "SUCCESS"):
                 raise ApiError(metadata.get("FMTE") or f"API hatası: {metadata}")
             return body
-        except (requests.RequestException, ValueError, ApiError) as exc:
+        except requests.HTTPError as exc:
+            raise ApiError(f"{endpoint} başarısız: {exc}") from exc
+        except ValueError as exc:
+            raise ApiError(f"{endpoint}: geçersiz JSON yanıtı") from exc
+        except (requests.RequestException, ApiUnavailableError) as exc:
             last_error = exc
             if attempt + 1 >= attempts:
                 break
-            time.sleep(min(2 ** (attempt + 1), 15) + random.uniform(0.2, 0.8))
-    raise ApiError(f"{endpoint} başarısız: {last_error}")
+            delay = retry_delay(retry_after, attempt)
+            print(
+                f"RETRY {endpoint} {attempt + 1}/{attempts}: {exc}; "
+                f"{delay:.1f}s sonra yeniden denenecek",
+                file=sys.stderr, flush=True,
+            )
+            time.sleep(delay)
+    raise ApiUnavailableError(f"{endpoint} başarısız: {last_error}")
 
 
 def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
@@ -136,26 +169,37 @@ def _list_type(mevzuat_type: str, page_size: int = 20) -> list[dict[str, Any]]:
                 "mevzuatTurList": [mevzuat_type],
             },
             paging=True,
-            attempts=8,
-            timeout=(10, 60),
+            attempts=4,
+            timeout=(10, 30),
         )
         data = body.get("data") or {}
-        items = data.get("mevzuatList") or []
-        total = int(data.get("total") or total or 0)
+        if not isinstance(data, dict) or not isinstance(data.get("mevzuatList"), list):
+            raise ApiError(f"{mevzuat_type}: geçersiz katalog yanıtı")
+        items = data["mevzuatList"]
+        try:
+            reported_total = int(data["total"])
+        except (KeyError, TypeError, ValueError) as exc:
+            raise ApiError(f"{mevzuat_type}: katalog toplamı eksik/geçersiz") from exc
+        if reported_total < 0 or (page > 1 and reported_total != total):
+            raise ApiError(f"{mevzuat_type}: tarama sırasında katalog toplamı değişti")
+        total = reported_total
         if not items:
             break
+        previous_count = len(docs)
         for item in items:
             mevzuat_id = str(item.get("mevzuatId") or "").strip()
             if mevzuat_id:
                 clean = dict(item)
                 clean["_source_type"] = mevzuat_type
                 docs[mevzuat_id] = clean
+        if len(docs) == previous_count:
+            raise ApiError(f"{mevzuat_type}: katalog sayfası ilerlemiyor ({page})")
         print(f"Katalog {mevzuat_type}: {len(docs)}/{total or '?'}", flush=True)
         if total and len(docs) >= total:
             break
         page += 1
 
-    if total and len(docs) != total:
+    if len(docs) != total:
         raise ApiError(f"{mevzuat_type} katalog eksik: {len(docs)}/{total}")
     return list(docs.values())
 
@@ -216,6 +260,37 @@ def load_json(path: Path, default: Any) -> Any:
         return json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return default
+
+
+def cached_documents(types: list[str], min_documents: int) -> list[dict[str, Any]]:
+    """Yalnızca tamamlanmış, resmî kaynaklı katalog snapshot'ını kullan."""
+    state = load_json(STATE_PATH, {})
+    if not isinstance(state, dict):
+        raise ApiError("Yedek katalog geçersiz")
+    documents = state.get("documents")
+    if (
+        state.get("source") != PUBLIC_SITE
+        or state.get("catalog_api") != f"{BASE_URL}/searchDocuments"
+        or not isinstance(documents, list)
+        or state.get("documents_total") != len(documents)
+        or not set(types).issubset(set(state.get("types") or []))
+    ):
+        raise ApiError("Doğrulanmış resmî yedek katalog bulunamadı")
+    ids: set[str] = set()
+    restored = []
+    for item in documents:
+        if not isinstance(item, dict):
+            raise ApiError("Yedek katalog kaydı geçersiz")
+        sid = str(item.get("mevzuatId") or "").strip()
+        source_type = item.get("source_type")
+        if not sid or sid in ids or not item.get("mevzuatAdi") or source_type not in SUPPORTED_TYPES:
+            raise ApiError("Yedek katalogda eksik veya yinelenen kayıt")
+        ids.add(sid)
+        if source_type in types:
+            restored.append({**item, "_source_type": source_type})
+    if len(restored) < min_documents or set(types) != {d["_source_type"] for d in restored}:
+        raise ApiError(f"Yedek katalog eksik: {len(restored)} belge")
+    return restored
 
 
 def _decode_document(raw: str, mime_type: str) -> str:
@@ -405,6 +480,9 @@ def write_document(item: dict[str, Any], out_laws: Path, *, preserve_good_on_err
         text, _ = get_document_text(source_id)
         fetched = True
     except Exception as exc:
+        if preserve_good_on_error and isinstance(exc, ApiUnavailableError):
+            # Servis kesintisinde yeni hata metni veya metadata yazma.
+            raise
         if preserve_good_on_error:
             current = existing_by_id(out_laws).get(source_id)
             if current:
@@ -516,7 +594,18 @@ def mode_reindex(args: argparse.Namespace) -> int:
 
 
 def mode_daily(args: argparse.Namespace) -> int:
-    docs = list_documents(types_arg(args.types))
+    types = types_arg(args.types)
+    catalog_live = True
+    try:
+        docs = list_documents(types)
+    except ApiUnavailableError as exc:
+        docs = cached_documents(types, args.min_documents)
+        catalog_live = False
+        print(f"::warning title=Katalog servisi geçici olarak kapalı::{exc}", flush=True)
+        job_summary(
+            "Katalog güncellenemedi. Son doğrulanmış resmî katalogla yalnızca "
+            "içerik kontrolü yapılacak; yeni/silinen kayıt tespiti ertelendi."
+        )
     if len(docs) < args.min_documents:
         raise SystemExit(
             f"Güvenlik kontrolü: resmî katalog {len(docs)} belge döndürdü; "
@@ -540,8 +629,12 @@ def mode_daily(args: argparse.Namespace) -> int:
             if old is None or fingerprint(projected) != fingerprint(old):
                 changed.add(sid)
 
-    existing = existing_by_id()
-    missing = [sid for sid in current_map if sid not in existing]
+    existing = existing_by_id(LAWS_DIR)
+    missing = [
+        sid for sid in current_map
+        if sid not in existing
+        or "official-fetch-unavailable" in load_json(existing[sid] / "ustveri.json", {}).get("tags", [])
+    ]
     backfill = set(sorted(missing)[: args.max_backfill])
 
     day_bucket = date.today().toordinal() % args.rotation_buckets
@@ -560,20 +653,48 @@ def mode_daily(args: argparse.Namespace) -> int:
     )
 
     LAWS_DIR.mkdir(parents=True, exist_ok=True)
+    fetched_count = 0
+    failed_count = 0
+    consecutive_unavailable = 0
     for i, sid in enumerate(sorted(selected), 1):
-        write_document(current_map[sid], LAWS_DIR, preserve_good_on_error=True)
+        try:
+            _, fetched = write_document(current_map[sid], LAWS_DIR, preserve_good_on_error=True)
+            consecutive_unavailable = 0
+        except ApiUnavailableError as exc:
+            fetched = False
+            consecutive_unavailable += 1
+            print(f"KEEP [{sid}] geçici API hatası: {exc}", file=sys.stderr, flush=True)
+            if consecutive_unavailable >= 3:
+                raise ApiUnavailableError(
+                    "İçerik servisi art arda 3 kayıtta yanıt vermedi; "
+                    "güncelleme tamamlanmadı, veri yayımlanmayacak."
+                ) from exc
+        fetched_count += int(fetched)
+        failed_count += int(not fetched)
         print(f"Günlük içerik: {i}/{len(selected)}", flush=True)
 
-    removed_ids = set(previous_map) - set(current_map)
-    by_id = existing_by_id()
+    if selected and not fetched_count:
+        raise ApiError("Hiçbir içerik doğrulanamadı; güncelleme başarılı sayılmadı.")
+
+    removed_ids = (set(previous_map) - set(current_map)) if catalog_live else set()
+    by_id = existing_by_id(LAWS_DIR)
     for sid in sorted(removed_ids):
         directory = by_id.get(sid)
         if directory and directory.exists():
             shutil.rmtree(directory)
             print(f"Katalogdan kaldırıldı: {sid} ({directory.name})")
 
-    save_json(STATE_PATH, current_state)
+    # Başarısız katalog değişiklikleri sonraki çalışmada tekrar seçilsin.
+    if catalog_live and not failed_count:
+        save_json(STATE_PATH, current_state)
     save_json(INDEX_PATH, rebuild_index(LAWS_DIR))
+    if failed_count:
+        print(f"::warning title=Bazı içerikler ertelendi::{failed_count} kayıt alınamadı.", flush=True)
+    job_summary(
+        f"Katalog: {'canlı resmî servis' if catalog_live else 'son doğrulanmış kopya (katalog güncel değil)'}. "
+        f"Başarılı içerik kontrolü: {fetched_count}; ertelenen: {failed_count}; "
+        f"kaldırılan kayıt: {len(removed_ids)}."
+    )
     return 0
 
 
@@ -602,13 +723,20 @@ def main() -> int:
     if args.rotation_buckets <= 0:
         raise SystemExit("rotation-buckets pozitif olmalı")
 
-    if args.mode == "catalog":
-        return mode_catalog(args)
-    if args.mode == "shard":
-        return mode_shard(args)
-    if args.mode == "reindex":
-        return mode_reindex(args)
-    return mode_daily(args)
+    try:
+        if args.mode == "catalog":
+            return mode_catalog(args)
+        if args.mode == "shard":
+            return mode_shard(args)
+        if args.mode == "reindex":
+            return mode_reindex(args)
+        return mode_daily(args)
+    except ApiError as exc:
+        job_summary(f"Senkronizasyon tamamlanamadı: {exc}")
+        temporary = isinstance(exc, ApiUnavailableError)
+        level = "warning" if temporary else "error"
+        print(f"::{level} title=Senkronizasyon tamamlanamadı::{exc}", file=sys.stderr, flush=True)
+        return 75 if temporary else 1
 
 
 if __name__ == "__main__":

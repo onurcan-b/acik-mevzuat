@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/daily-sync.yml"
+      - "betikler/**"
+      - "requirements.txt"
   schedule:
     - cron: "30 7 * * *"
   workflow_dispatch:
@@ -58,14 +60,27 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Resmî katalog farkı + dönen içerik kontrolü
-        run: >-
-          python betikler/resmi_api.py
-          --mode daily
-          --types KANUN,MULGA
-          --delay 0.60
-          --min-documents 1000
-          --rotation-buckets 7
-          --max-backfill 20
+        shell: bash
+        run: |
+          for attempt in 1 2; do
+            if python -u betikler/resmi_api.py \
+              --mode daily \
+              --types KANUN,MULGA \
+              --delay 0.60 \
+              --min-documents 1000 \
+              --rotation-buckets 7 \
+              --max-backfill 20; then
+              exit 0
+            else
+              status=$?
+            fi
+            # Yalnızca geçici servis hatasını tekrar dene; veri hatasını gizleme.
+            if [ "$status" -ne 75 ] || [ "$attempt" -eq 2 ]; then
+              exit "$status"
+            fi
+            echo "::warning::Resmî servis kullanılamıyor; 60 saniye sonra son kez denenecek."
+            sleep 60
+          done
 
       - name: Metadata doğrulaması
         run: python betikler/dogrula.py
