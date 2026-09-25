@@ -447,7 +447,6 @@ Bakiye karar ve ilam harcının ödenmemiş olması, hükmün tebliğe çıkarı
 takibe konulmasına ve kanun yollarına başvurulmasına engel teşkil etmez.
 [8]
 [9]
-
 [10]
 
 b)
@@ -1020,11 +1019,10 @@ ipotekler ile bu konutların hak sahipleri adına tapuya tescili.
 [20]
 
 m)
-(Ek:
-14/7/2004-5226/20 md.)
-2863 sayılı Kültür ve Tabiat Varlıklarını Koruma
-Kanunu kapsamındaki tescilli taşınmaz kültür varlıklarının devir ve iktisabına
-ilişkin işlemler.
+(Ek: 14/7/2004-5226/20 md.)
+2863
+sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli
+taşınmaz kültür varlıklarının devir ve iktisabına ilişkin işlemler.
 
 n)
 (Ek:
@@ -1357,9 +1355,9 @@ alma ölçüleri:
 
 Madde
 75 –
-Konsolosluk harçları, (5) sayılı tarifede yazılı
-işlemlerden değer veya ağırlık ölçüsüne göre nispi işlemin nevi ve mahiyetine
-göre maktu esas üzerinden alınır.
+Konsolosluk harçları, (5) sayılı tarifede yazılı işlemlerden
+değer veya ağırlık ölçüsüne göre nispi işlemin nevi ve mahiyetine göre maktu
+esas üzerinden alınır.
 
 Harcın
 nisbeti:
@@ -1925,18 +1923,18 @@ tebliğ edilmez ve mayıs ayı içerisinde ödenir.
 
 (Ek fıkra: 3/4/2013-6456/16 md.)
 Elektrik üretimi lisans harçları her
-yıl kurumlar vergisi beyannamesi verme süresi içerisinde verilen bildirim
-üzerine, elektrik üretim faaliyetlerinden elde edilen gayrisafi iş hasılatı
-esas alınarak tahakkuk ettirilir, tahakkuk ettirilen harçlar ayrıca mükellefe
-tebliğ edilmez ve mayıs ayı içerisinde ödenir. Genel bütçe geliri olarak
-kaydedilen elektrik üretimi lisans harçlarından hidrolik kaynaklara dayalı
-elektrik üretim lisans harçlarının %90’ı, haziran ayının sonuna kadar, hidrolik
-kaynaklara dayalı elektrik üretimi yapan tesisin bulunduğu yerin il özel
-idaresine, il özel idaresi bulunmayan yerlerde büyükşehir belediyesine
-aktarılır. Hesaplanarak aktarılan bu tutarlar, 2/7/2008 tarihli ve 5779 sayılı
-İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay
-Verilmesi Hakkında Kanuna göre belediyelere ve il özel idarelerine ayrılacak
-payların hesabında matraha dâhil edilmez.
+yıl kurumlar vergisi beyannamesi verme süresi içerisinde verilen bildirim üzerine,
+elektrik üretim faaliyetlerinden elde edilen gayrisafi iş hasılatı esas
+alınarak tahakkuk ettirilir, tahakkuk ettirilen harçlar ayrıca mükellefe tebliğ
+edilmez ve mayıs ayı içerisinde ödenir. Genel bütçe geliri olarak kaydedilen
+elektrik üretimi lisans harçlarından hidrolik kaynaklara dayalı elektrik üretim
+lisans harçlarının %90’ı, haziran ayının sonuna kadar, hidrolik kaynaklara
+dayalı elektrik üretimi yapan tesisin bulunduğu yerin il özel idaresine, il
+özel idaresi bulunmayan yerlerde büyükşehir belediyesine aktarılır.
+Hesaplanarak aktarılan bu tutarlar, 2/7/2008 tarihli ve 5779 sayılı İl Özel
+İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi
+Hakkında Kanuna göre belediyelere ve il özel idarelerine ayrılacak payların hesabında
+matraha dâhil edilmez.
 
 DÖRDÜNCÜ BÖLÜM
 
@@ -2315,8 +2313,8 @@ Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları ile
 mahallin en büyük mal memurları her hal ve takdirde, harçları tahsile
 salahiyetli memurların hesaplarını teftiş ve kontrola yetkilidirler.
 
-Mahallin en büyük mal memuru tarafından kontrol
-memurlarına da bu hususta yetki verilebilir.
+Mahallin en büyük mal memuru tarafından kontrol memurlarına
+da bu hususta yetki verilebilir.
 
 DÖRDÜNCÜ BÖLÜM
 
@@ -2385,8 +2383,8 @@ yeni had, miktar ve nispetler tespit etmeye yetkilidir.
 [60]
 [61]
 
-Ek Madde 1-
-(Ek:25/12/2003 - 5035/33 md.; Değişik: 15/7/2016-6728/35 md.)
+Ek Madde 1- (Ek:25/12/2003 - 5035/33 md.; Değişik:
+15/7/2016-6728/35 md.)
 
 1. İhracat ve ihracata
 ilişkin olduğunun tevsiki kaydıyla aşağıda sayılan işlemler harçlardan
@@ -2630,12 +2628,11 @@ veya faaliyetlerin gerçekleşmediğinin tespit edildiği tarihi takip eden otuz
 gün içinde, bu durumu vergi dairesine bildirmeyen kuruluşlar harç ile ceza ve
 gecikme faizinin ödenmesinden ilgililerle birlikte müteselsilen sorumludurlar.
 
-6. Bu maddenin uygulanması
-bakımından; birinci ve ikinci fıkralarda yer alan döviz kazandırıcı
-faaliyetlere ilave olarak döviz kazandırıcı diğer faaliyetleri, belge
-kapsamında istisna uygulanacak işlem ve faaliyetlerin aşamaları ile diğer usul
-ve esasları belirlemeye Maliye Bakanlığı ile Ekonomi Bakanlığı birlikte
-yetkilidir.
+6. Bu maddenin uygulanması bakımından; birinci ve
+ikinci fıkralarda yer alan döviz kazandırıcı faaliyetlere ilave olarak döviz
+kazandırıcı diğer faaliyetleri, belge kapsamında istisna uygulanacak işlem ve
+faaliyetlerin aşamaları ile diğer usul ve esasları belirlemeye Maliye Bakanlığı
+ile Ekonomi Bakanlığı birlikte yetkilidir.
 
 BEŞİNCİ BÖLÜM
 
@@ -8221,27 +8218,27 @@ Tebliğ
 1, 2, 3, 4, 5, 6,
 7, 8, 9
 
-492
-SAYILI KANUNDA DEĞİŞİKLİK YAPAN MEVZUATIN
+492 SAYILI KANUNDA DEĞİŞİKLİK YAPAN MEVZUATIN
 
-VEYA
-ANAYASA MAHKEMESİ KARARLARININ
+VEYA ANAYASA MAHKEMESİ KARARLARININ
 
-YÜRÜRLÜĞE
-GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
+YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
 
-Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa
-Mahkemesi Kararının Numarası
+Değiştiren
+Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası
 
-492 sayılı Kanunun Değiştirilen Maddeleri
+492 sayılı Kanunun
+Değiştirilen Maddeleri
 
-Yürürlüğe Giriş Tarihi
+Yürürlüğe Giriş
+Tarihi
 
 903
 
 38, 59
 
-24/7/1967 tarihini takip eden bütçe yılı başında
+24/7/1967 tarihini takip
+eden bütçe yılı başında
 
 1137
 
@@ -8275,38 +8272,42 @@ Yürürlüğe Giriş Tarihi
 
 2345
 
-79, 1 Sayılı Tarife, 2 Sayılı Tarife, 3 Sayılı Tarife, 4
-Sayılı Tarife, 5 Sayılı Tarife, 6 Sayılı Tarife, 7 Sayılı Tarife, 8 Sayılı
-Tarife, 9 Sayılı Tarife
+79, 1 Sayılı Tarife, 2
+Sayılı Tarife, 3 Sayılı Tarife, 4 Sayılı Tarife, 5 Sayılı Tarife, 6 Sayılı
+Tarife, 7 Sayılı Tarife, 8 Sayılı Tarife, 9 Sayılı Tarife
 
-Harcın konusuna yeni giren yıllık harçlar ile miktarları
-artırılan yıllık harçlar 1/1/1981 tarihinde, sair hükümler 1/12/1980
+Harcın konusuna yeni
+giren yıllık harçlar ile miktarları artırılan yıllık harçlar 1/1/1981
+tarihinde, sair hükümler 1/12/1980
 
 2366
 
 13, 2 Sayılı Tarife
 
-1/1/1981 tarihinden geçerli olmak üzere 31/12/1980
+1/1/1981 tarihinden
+geçerli olmak üzere 31/12/1980
 
 2430
 
-13, 86, 123, 1 Sayılı Tarife, 5 Sayılı Tarife, 6 Sayılı
-Tarife, 8 Sayılı Tarife,
+13, 86, 123, 1 Sayılı
+Tarife, 5 Sayılı Tarife, 6 Sayılı Tarife, 8 Sayılı Tarife,
 
 1/4/1981
 
 2588
 
-1, 5, 52, 53, 54, 55, 56, 1 Sayılı Tarife, 3 Sayılı
-Tarife
+1, 5, 52, 53, 54, 55, 56,
+1 Sayılı Tarife, 3 Sayılı Tarife
 
-Bölge idare, idare ve vergi mahkemelerinin kurulup
-göreve başladıkları tarihte
+Bölge idare, idare ve
+vergi mahkemelerinin kurulup göreve başladıkları tarihte
 
-58, 59, 67, 69, 2 Sayılı Tarife, 4 Sayılı Tarife
+58, 59, 67, 69, 2 Sayılı
+Tarife, 4 Sayılı Tarife
 
-Emlak Vergisi 1980 genel beyan dönemini izleyen ilk
-genel beyan döneminin rastladığı bütçe yılının başında
+Emlak Vergisi 1980 genel
+beyan dönemini izleyen ilk genel beyan döneminin rastladığı bütçe yılının
+başında
 
 13, 79
 
@@ -8320,14 +8321,15 @@ genel beyan döneminin rastladığı bütçe yılının başında
 
 3239
 
-8 Sayılı Tarifeye Eklenen Telsiz Harçlarına İlişkin
-Hükümler (Yıllık harçlara ait hükümleri hariç)
+8 Sayılı Tarifeye Eklenen
+Telsiz Harçlarına İlişkin Hükümler (Yıllık harçlara ait hükümleri hariç)
 
-7/10/1983 tarihinden geçerli olmak üzere 11/12/1985
+7/10/1983 tarihinden
+geçerli olmak üzere 11/12/1985
 
-34, 59, 68, Mükerrer 69, 70, Mükerrer 138, 1 Sayılı
-Tarife, 4 Sayılı Tarife, 8 Sayılı Tarifeye Eklenen Kapalı Devre Televizyon
-Ruhsat Harçlarına İlişkin Hükümler, 9 Sayılı Tarife
+34, 59, 68, Mükerrer 69,
+70, Mükerrer 138, 1 Sayılı Tarife, 4 Sayılı Tarife, 8 Sayılı Tarifeye Eklenen
+Kapalı Devre Televizyon Ruhsat Harçlarına İlişkin Hükümler, 9 Sayılı Tarife
 
 1/1/1986
 
@@ -8341,7 +8343,8 @@ Ruhsat Harçlarına İlişkin Hükümler, 9 Sayılı Tarife
 
 7 Sayılı Tarife
 
-1/1/1989 tarihinden geçerli olmak üzere 10/12/1988
+1/1/1989 tarihinden
+geçerli olmak üzere 10/12/1988
 
 Mükerrer 138
 
@@ -8351,8 +8354,8 @@ Mükerrer 138
 
 43, Mükerrer 138
 
-1/1/1991 tarihinden itibaren elde edilen gelirlere
-uygulanmak üzere 1/1/1991
+1/1/1991 tarihinden
+itibaren elde edilen gelirlere uygulanmak üzere 1/1/1991
 
 3717
 
@@ -8384,7 +8387,8 @@ Mükerrer 138
 
 1/8/1998
 
-63, Mükerrer 138, 6 Sayılı Tarife, 8 Sayılı Tarife
+63, Mükerrer 138, 6 Sayılı
+Tarife, 8 Sayılı Tarife
 
 29/7/1998
 
@@ -8400,7 +8404,8 @@ Mükerrer 138
 
 4503
 
-Mükerrer 138, 8 Sayılı Tarife, 9 Sayılı Tarife
+Mükerrer 138, 8 Sayılı
+Tarife, 9 Sayılı Tarife
 
 5/2/2000
 
@@ -8414,20 +8419,21 @@ Mükerrer 138, 8 Sayılı Tarife, 9 Sayılı Tarife
 
 113
 
-31/12/2001 tarihinden geçerli olmak üzere 30/12/2001
+31/12/2001 tarihinden
+geçerli olmak üzere 30/12/2001
 
 74, 6 Sayılı
 Tarife
 
-Henüz tahsil edilmemiş ikamet tezkeresi harçları
-hakkında da uygulanmak üzere 30/12/2001
+Henüz tahsil edilmemiş
+ikamet tezkeresi harçları hakkında da uygulanmak üzere 30/12/2001
 
 4751
 
 63
 
-1/1/2002 tarihinden geçerli olmak üzere yayımı tarihi
-olan 9/4/2002
+1/1/2002 tarihinden
+geçerli olmak üzere yayımı tarihi olan 9/4/2002
 
 4761
 
@@ -8478,7 +8484,8 @@ Mükerrer 138, Ek
 Madde 1 ve 1 Sayılı Tarife, 2 Sayılı Tarife, 4 Sayılı Tarife, 6 Sayılı
 Tarife, 7 Sayılı Tarife, 8 Sayılı Tarife, 9 Sayılı Tarife
 
-1/1/2001 tarihinden geçerli olmak üzere 2/1/2004
+1/1/2001 tarihinden
+geçerli olmak üzere 2/1/2004
 
 5226
 
@@ -8488,17 +8495,17 @@ Tarife, 7 Sayılı Tarife, 8 Sayılı Tarife, 9 Sayılı Tarife
 
 5228
 
-8 Sayılı Tarifenin VI-15-(a) ve (b) bölümleri
+8 Sayılı Tarifenin
+VI-15-(a) ve (b) bölümleri
 
-1/1/2004 tarihinden geçerli olmak üzere 31/7/2004
+1/1/2004 tarihinden
+geçerli olmak üzere 31/7/2004
 
-88 ve 8 Sayılı
-Tarifenin diğer kısımları
+88 ve 8 Sayılı Tarifenin diğer kısımları
 
 31/7/2004
 
-9 sayılı Tarifenin
-İlgili bölümü
+9 sayılı Tarifenin İlgili bölümü
 
 1/1/2005
 
@@ -8516,10 +8523,12 @@ Tarifenin diğer kısımları
 
 5281
 
-13, 25, 55, 59, 63, 77, 93, 106, 112, 122, 123, 131,
-133, 137, Mükerrer Madde 138, 7 Sayılı Tarife, 9 Sayılı Tarife
+13, 25, 55, 59, 63, 77,
+93, 106, 112, 122, 123, 131, 133, 137, Mükerrer Madde 138, 7 Sayılı Tarife, 9
+Sayılı Tarife
 
-1/1/2005 tarihinden geçerli olmak üzere 31/12/2004
+1/1/2005 tarihinden
+geçerli olmak üzere 31/12/2004
 
 5582
 
@@ -8704,11 +8713,11 @@ ve (1), (2), (4) sayılı Tarifeler
 
 9/8/2016
 
-Ek 1 inci
-maddesinin (2) numaralı fıkrasının (n) ve (o) bendi hükümleri
+Ek 1 inci maddesinin (2) numaralı fıkrasının (n) ve
+(o) bendi hükümleri
 
-9/8/2016 tarihinden
-sonra yapılan proje ve işlere uygulanmak üzere yayımı tarihi olan 9/8/2016
+9/8/2016 tarihinden sonra yapılan proje ve işlere
+uygulanmak üzere yayımı tarihi olan 9/8/2016
 
 6735
 
@@ -8897,6 +8906,19 @@ Tarife
 
 1/1/2026
 
+Anayasa
+Mahkemesi’nin 8/10/2025
+tarihli
+ve E.: 2024/103,
+K.: 2025/201 sayılı Kararı
+
+28
+
+Kararın Resmî Gazete’de
+yayımlanmasından başlayarak dokuz ay sonra
+
+(24/9/2025)
+
 [1]
 
 Bu Kanunda, 22/2/2005
@@ -8987,15 +9009,12 @@ edilmiştir.
 
 [10]
 
-Anayasa
-Mahkemesi’nin 8/10/2025
+Anayasa Mahkemesi’nin 8/10/2025
 tarihli
-ve E.: 2024/103,
-K.: 2025/201 sayılı Kararı ile bu bendin birinci cümlesinde yer alan “kararın
-tebliğinden itibaren” ibaresi “davalısı harçtan muaf olmayan kamulaştırmasız el
-atma nedeniyle açılan tazminat davaları” yönünden iptal edilmiştir. Bu karar
-Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (24/9/2025)
-yürürlüğe girer.
+ve E.: 2024/103, K.: 2025/201 sayılı
+Kararı ile bu bendin birinci cümlesinde yer alan “kararın tebliğinden itibaren”
+ibaresi “davalısı harçtan muaf olmayan kamulaştırmasız el atma nedeniyle açılan
+tazminat davaları” yönünden iptal edilmiştir.
 
 [11]
 
@@ -9321,8 +9340,8 @@ bu
 
 maddenin başlığında yer
 alan “Yola elverişlilik belgesi” ibaresi “Liman çıkış belgesi” şeklinde,
-birinci fıkrasında yer alan “yola elverişlilik belgesi” ibaresi “liman çıkış
-belgesi” şeklinde
+birinci fıkrasında yer alan “yola elverişlilik belgesi” ibaresi “liman çıkış belgesi”
+şeklinde
 değiştirilmiştir.
 
 [42]
@@ -9565,8 +9584,8 @@ değiştirilmiş
 ve
 “
 uluslararası ihaleye çıkarılanların ihalesini kazanan veya” ibaresi
-ile aynı bendin (i) alt bendinde yer alan “uluslararası ihalelerde tamamı
-üzerinden, yabancı para ile finanse edilenlerde ise
+ile aynı bendin (i) alt bendinde yer alan “uluslararası ihalelerde tamamı üzerinden,
+yabancı para ile finanse edilenlerde ise
 ”
 ibaresi
 
@@ -9619,8 +9638,8 @@ Bu fıkradaki 31/12/1993
 tarihi, 26/12/1993 tarih ve 3946 sayılı Kanunun
 36
 ncı
-maddesi ile 31/12/1998 olarak, daha sonra;
-22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile de 31/12/2003 olarak
+maddesi ile 31/12/1998 olarak, daha sonra; 22/7/1998
+tarih ve 4369 sayılı Kanunun 81 inci maddesi ile de 31/12/2003 olarak
 değiştirilmiştir.
 
 [68]
@@ -9710,8 +9729,8 @@ Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye
 Bakanlığının (Gelir İdaresi Başkanlığı) 98 Seri Numaralı Harçlar Kanunu Genel
 Tebliği ile 1/1/2026 tarihinden itibaren uygulanacak maktu harç miktarları
 metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede
-değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme
-Cetveline bakınız.
+değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline
+bakınız.
 
 [78]
 
@@ -9752,8 +9771,8 @@ Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye
 Bakanlığının (Gelir İdaresi Başkanlığı) 98 Seri Numaralı Harçlar Kanunu Genel
 Tebliği ile 1/1/2026 tarihinden itibaren uygulanacak maktu harç miktarları
 metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede
-değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme
-Cetveline bakınız.
+değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline
+bakınız.
 
 [82]
 
@@ -9762,8 +9781,8 @@ Konsolosluklarımızın yapacağı işlemlerden, 1/1/2026 tarihinden itibaren
 alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları = 43,05 TL
 olarak belirlenmiş ve emsal sayının 1,000 olarak uygulanacağı Hazine ve Maliye
 Bakanlığının (Gelir İdaresi Başkanlığı) 31.12.2025 tarihli ve 33124 (5.
-Mükerrer) sayılı Resmî Gazete’de yayımlanan 99 Seri No’lu Tebliği
-ile hüküm altına alınmıştır.
+Mükerrer) sayılı Resmî Gazete’de yayımlanan 99
+Seri No’lu Tebliği ile hüküm altına alınmıştır.
 
 [83]
 
@@ -9968,12 +9987,11 @@ değiştirilmiştir.
 
 Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla
 getirilen miktarlar aynen bırakılmış olup, 31/12/2025 tarihli ve 33124 (5.
-Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye
-Bakanlığının (Gelir İdaresi Başkanlığı) 98 Seri Numaralı Harçlar Kanunu Genel
-Tebliği ile 1/1/2026 tarihinden itibaren uygulanacak maktu harç miktarları
-metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede
-değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme
-Cetveline bakınız.
+Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye Bakanlığının
+(Gelir İdaresi Başkanlığı) 98 Seri Numaralı Harçlar Kanunu Genel Tebliği ile
+1/1/2026 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez
+içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan
+mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
 
 [103]
 
