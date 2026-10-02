@@ -3962,7 +3962,7 @@
       "type": "KANUN",
       "path": "kanunlar/4760-ozel-tuketim-vergisi-kanunu",
       "source_mevzuat_id": "103107",
-      "content_sha256": "ce42fd305f6772de04578cd077bca46a94a65482d43bd9942c771ef69d2e1459",
+      "content_sha256": "9c6e82eddc2e39f33c1fe2947659ed28d655b73296832adfb64cd327ca66e939",
       "fetch_status": "ok"
     },
     {
@@ -6014,7 +6014,7 @@
       "type": "KANUN",
       "path": "kanunlar/6102-turk-ticaret-kanunu",
       "source_mevzuat_id": "103039",
-      "content_sha256": "84997c47d6df9310aaa17632847373d0ec8e434794241a083979665da85bea4a",
+      "content_sha256": "823e07f54e7efe8fbf6a6b953012e469f97c9edeed84872f13f62dc4fe6cb797",
       "fetch_status": "ok"
     },
     {

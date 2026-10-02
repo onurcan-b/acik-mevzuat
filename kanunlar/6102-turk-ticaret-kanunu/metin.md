@@ -20275,9 +20275,9 @@ elinde bulunduran kişi de o geminin maliki olarak tescil edilmesini isteyebilir
 Zilyetlik süresinin hesabı, kesilmesi ve durması Türk Borçlar Kanununun alacak zamanaşımına
 ilişkin hükümlerine tabidir.
 
-(3) Tescil ancak mahkeme kararıyla olur. Tescil davası,
-geminin kayıtlı olduğu veya kaydedilmesi gereken sicil müdürlüğüne karşı
-açılır. Mahkeme, ilgilileri, en fazla üç aylık bir süre belirleyerek
+(3) Tescil ancak mahkeme kararıyla olur. Tescil
+davası, geminin kayıtlı olduğu veya kaydedilmesi gereken sicil müdürlüğüne
+karşı açılır. Mahkeme, ilgilileri, en fazla üç aylık bir süre belirleyerek
 itirazlarını bildirmeye bir internet haber sitesi ve tirajı ellibinin üstünde
 olan ve yurt düzeyinde dağıtımı yapılan bir gazetede yapılacak ilanla çağırır.
 İtiraz edilmez veya itiraz reddolunursa tescile karar verilir.
@@ -27397,8 +27397,8 @@ MADDE 1385
 (1) İcra ve İflas Kanununun
 126 ncı maddesi uyarınca yapılacak ilan, bir internet haber sitesi ve tirajı
 ellibin üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden biriyle
-ve ayrıca yurt dışında dünya çapında dağıtımı yapılan denizcilikle ilgili günlük
-bir gazetede yayımlanır.
+ve ayrıca yurt dışında dünya çapında dağıtımı yapılan denizcilikle ilgili
+günlük bir gazetede yayımlanır.
 [105]
 
 (2) İlanda, ipotek alacaklısının rızasıyla alıcı tarafından
@@ -30548,10 +30548,10 @@ b) 559 sayılı Kanun Hükmünde Kararname gereğince sermaye
 artırımında bulunmayarak münfesih olan şirketlere yapılacak ihtarda; ortaklarından,
 yönetici veya denetçilerden ya da müdürlerinden tebliğ tarihinden itibaren iki ay
 içinde tasfiye memurunun bildirilmesi, aksi takdirde, bu madde hükümlerine göre
-ticaret sicili kayıtlarından unvanın silineceği, şirkete ait malvarlığının unvana
-ilişkin kaydın silindiği tarihten itibaren on yıl sonra Hazineye intikal edeceği
-ve bunun kesin olduğu açıkça yazılır.
+ticaret sicili kayıtlarından unvanın silineceği, (…)
 [113]
+
+açıkça yazılır.
 
 c) Bu fıkranın (b) bendinde belirtilen
 şirketler dışında kalan kapsam dâhilindeki diğer münfesih şirketler ile kooperatiflerden
@@ -30647,11 +30647,11 @@ müstesnadır.
 yayımlanacak olan ilanlardan ücret alınmaz.
 
 (15) Bu maddede düzenlenmeyen hususlarda ilgili kanun
-ve esas sözleşmelerde öngörülen usullere göre hareket edilir. Bu madde
-gereğince tasfiye edilmeksizin unvanı silinen şirket veya
-kooperatiflerin ortaya çıkabilecek malvarlığı, unvana ilişkin kaydın
-silindiği tarihten itibaren on yıl sonra Hazineye intikal eder. Hazine bu şirket
-ve kooperatiflerin borçlarından sorumlu tutulmaz. Tasfiye memurlarının
+ve esas sözleşmelerde öngörülen usullere göre hareket edilir.
+(İptal
+ikinci ve üçüncü cümle: Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2025/31,
+K.: 2025/183 sayılı Kararı ile.)
+Tasfiye memurlarının
 sorumlulukları konusunda, özel kanunlardaki sorumluluğa ilişkin
 hükümler saklı kalmak kaydıyla bu Kanun veya Kooperatifler Kanunu
 hükümleri uygulanır. Ticaret sicilinden kaydı silinen şirket veya
@@ -30664,7 +30664,6 @@ mahkemeye başvurarak şirket veya kooperatifin ihyasını isteyebilir.
 (Ek cümle:23/5/2024-7511/16 md.)
 (İptal cümle: Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2025/31, K.:
 2025/183 sayılı Kararı ile.)
-[115]
 
 (16) Gümrük ve Ticaret Bakanlığı bu maddenin uygulanmasına
 ilişkin düzenlemeleri yapmaya yetkilidir.
@@ -30724,16 +30723,16 @@ GEÇİCİ MADDE 13 –
 (Ek:16/4/2020-7244/12 md.)
 
 (1)
-(İptal cümle: Anayasa Mahkemesinin 1/6/2023
-tarihli ve E: 2020/56, K: 2023/108 sayılı Kararı ile.)
+(İptal cümle: Anayasa Mahkemesinin 1/6/2023 tarihli
+ve E: 2020/56, K: 2023/108 sayılı Kararı ile.)
 Devlet, il özel
 idaresi, belediye, köy ile diğer kamu tüzel kişilerinin ve sermayesinin yüzde
-ellisinden fazlası kamuya ait fonların, doğrudan veya dolaylı olarak sermayesinin
-yüzde ellisinden fazlasına sahip olduğu şirketler hakkında bu fıkra hükmü
-uygulanmaz. Bu fıkrada belirtilen süreyi üç ay uzatmaya ve kısaltmaya
-Cumhurbaşkanı yetkilidir
+ellisinden fazlası kamuya ait fonların, doğrudan veya dolaylı olarak
+sermayesinin yüzde ellisinden fazlasına sahip olduğu şirketler hakkında bu
+fıkra hükmü uygulanmaz. Bu fıkrada belirtilen süreyi üç ay uzatmaya ve
+kısaltmaya Cumhurbaşkanı yetkilidir
 .
-[116]
+[115]
 
 (2) Genel kurulca 2019 yılı hesap dönemine ilişkin kâr
 payı dağıtımı kararı alınmış ancak henüz pay sahiplerine ödeme yapılmamışsa veya
@@ -30742,7 +30741,7 @@ ilişkin ödemeler birinci fıkrada belirtilen sürenin sonuna kadar ertelenir.
 
 (3) Bu maddenin kapsamına giren sermaye şirketlerine
 ilişkin uygulamaya (…)
-[117]
+[116]
 
 dair usul ve esasları belirlemeye, Hazine ve Maliye Bakanlığının görüşünü almak
 suretiyle Ticaret Bakanlığı yetkilidir.
@@ -30768,12 +30767,11 @@ GEÇİCİ MADDE 15-
 (1) Sermayeleri en az sermaye tutarının altında olan
 anonim ve limited şirketler,
 sermayelerini 31/12/2026 tarihine kadar 332 nci ve 580 inci
-maddelerde öngörülen tutarlara yükseltirler, aksi halde infisah etmiş
-sayılırlar. Çıkarılmış sermayesi en az iki yüz elli bin Türk lirası olan
-kayıtlı sermaye sistemini kabul etmiş bulunan halka açık olmayan anonim
-şirketler ise başlangıç sermayeleri ile çıkarılmış sermayelerini anılan tarihe
-kadar beş yüz bin Türk lirasına yükseltmedikleri takdirde, bu sistemden çıkmış
-sayılırlar.
+maddelerde öngörülen tutarlara yükseltirler, aksi halde infisah etmiş sayılırlar.
+Çıkarılmış sermayesi en az iki yüz elli bin Türk lirası olan kayıtlı sermaye
+sistemini kabul etmiş bulunan halka açık olmayan anonim şirketler ise başlangıç
+sermayeleri ile çıkarılmış sermayelerini anılan tarihe kadar beş yüz bin Türk
+lirasına yükseltmedikleri takdirde, bu sistemden çıkmış sayılırlar.
 
 (2) Sermayenin 332 nci ve 580 inci
 maddelerde öngörülen tutarlara yükseltilmesi için yapılacak genel kurul
@@ -30784,7 +30782,7 @@ toplantılarında toplantı nisabı aranmaz, kararlar toplantıda mevcut oyları
 birer yıl olarak en çok iki defa uzatabilir.
 
 Yürürlük
-[118]
+[117]
 
 MADDE 1534
 -
@@ -30793,7 +30791,7 @@ MADDE 1534
 
 Kenar başlıkları metne
 dâhil olan bu Kanun 1/7/2012 tarihinde; (…)
-118
+117
 yürürlüğe girer. 1524
 üncü madde, bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl sonra yürürlüğe
 girer. Türk Ticaret Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun hükümleri
@@ -30822,7 +30820,7 @@ Tasarruf ve Yatırım Sistemi Kanununda tanımlanan emeklilik şirketleri,
 bakımından 1/1/2013 tarihinde yürürlüğe girer.
 
 (3) (…)
-118
+117
 bu maddenin ikinci fıkrasında
 sayılanlar dışında kalan her ölçüdeki gerçek ve tüzel kişi tacirler için yayımlanan
 ve yayımlanacak olan özel Türkiye Muhasebe Standartları 1/1/2013 tarihinde yürürlüğe
@@ -31115,6 +31113,20 @@ inci fıkra altıncı cümle
 
 23/12/2025
 
+Geçici
+Madde 7
+
+4
+üncü fıkra,
+
+15
+inci fıkra ikinci ve üçüncü cümle
+
+yayımlanmasından
+başlayarak dokuz ay
+
+(23/9/2026)
+
 Anayasa
 Mahkemesinin 3/6/2025 tarihli ve E.: 2024/208, K.: 2025/122 Sayılı Kararı
 
@@ -31153,10 +31165,10 @@ metne işlendiği şekilde değiştirilmiştir.
 
 [3]
 26/6/2012
-tarihli ve 6335 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci
-fıkrasında yer alan “doğan hukuk davaları” ibarelerinden sonra gelmek üzere “ve
-çekişmesiz yargı işleri” ibareleri ve “ticari dava” ibaresinden sonra gelmek
-üzere “ve ticari nitelikte çekişmesiz yargı işi” ibaresi eklenmiştir.
+tarihli ve 6335 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında
+yer alan “doğan hukuk davaları” ibarelerinden sonra gelmek üzere “ve çekişmesiz
+yargı işleri” ibareleri ve “ticari dava” ibaresinden sonra gelmek üzere “ve
+ticari nitelikte çekişmesiz yargı işi” ibaresi eklenmiştir.
 
 [4]
 22/7/2020 tarihli ve 7251 sayılı
@@ -31193,9 +31205,10 @@ belirlenir” şeklinde değiştirilmiştir.
 
 [10]
 26/6/2012 tarihli ve 6335 sayılı
-Kanunun 40 ıncı maddesiyle, bu maddenin ikinci fıkrasında yer alan “tüzükle” ibaresi
-“Kanunun 26 ncı maddesine göre çıkarılacak yönetmelikte”, üçüncü fıkrasında yer
-alan “yönetmelikle” ibaresi “tebliğle” şeklinde değiştirilmiştir.
+Kanunun 40 ıncı maddesiyle, bu maddenin ikinci fıkrasında yer alan “tüzükle”
+ibaresi “Kanunun 26 ncı maddesine göre çıkarılacak yönetmelikte”, üçüncü
+fıkrasında yer alan “yönetmelikle” ibaresi “tebliğle” şeklinde
+değiştirilmiştir.
 
 [11]
 15/8/2017 tarihli ve 694 sayılı
@@ -31212,9 +31225,9 @@ Ticaret Bakanlığınca hazırlanan ve Bakanlar Kurulunca çıkarılacak yönetm
 şeklinde değiştirilmiştir.
 
 [13]
-Anayasa Mahkemesinin 3/6/2025 tarihli
-ve E.: 2024/208, K.: 2025/122 sayılı Kararı ile bu maddede yer alan “…disiplin
-işleri…” ibaresi iptal edilmiştir.
+Anayasa Mahkemesinin 3/6/2025
+tarihli ve E.: 2024/208, K.: 2025/122 sayılı Kararı ile bu maddede yer alan
+“…disiplin işleri…” ibaresi iptal edilmiştir.
 
 [14]
 2/7/2018
@@ -31247,8 +31260,8 @@ ncı maddesine göre çıkarılacak yönetmelikte” şeklinde değiştirilmişt
 17/12/2025 tarihli ve
 33110 sayılı Resmî Gazete’de yayımlanan Ticaret Bakanlığının 6102 Sayılı Türk
 Ticaret Kanununa Göre 2026 Yılında Uygulanacak Olan İdari Para Cezalarına
-İlişkin Tebliği ile bu fıkradaki 1/1/2026 ile 31/12/2026 tarihleri arasında
-uygulanacak idari para cezası miktarı metne parantez içinde siyah puntolarla işlenmiştir.
+İlişkin Tebliği ile bu fıkradaki 1/1/2026 ile 31/12/2026 tarihleri arasında uygulanacak
+idari para cezası miktarı metne parantez içinde siyah puntolarla işlenmiştir.
 
 [19]
 2/7/2018 tarihli ve 700 sayılı
@@ -31266,8 +31279,7 @@ Cumhuriyet savcılığına” ibaresi “makamlara” şeklinde değiştirilmiş
 33110 sayılı Resmî Gazete’de yayımlanan Ticaret Bakanlığının 6102 Sayılı Türk
 Ticaret Kanununa Göre 2026 Yılında Uygulanacak Olan İdari Para Cezalarına
 İlişkin Tebliği ile bu bentteki 1/1/2026 ile 31/12/2026 tarihleri arasında
-uygulanacak idari para cezası miktarı metne parantez içinde siyah puntolarla
-işlenmiştir.
+uygulanacak idari para cezası miktarı metne parantez içinde siyah puntolarla işlenmiştir.
 
 [22]
 15/2/2018
@@ -31307,8 +31319,8 @@ Kanunun 40 ıncı maddesiyle, bu fıkrada yer alan “küçük” ibaresi “kü
 şeklinde değiştirilmiştir.
 
 [29]
-26/6/2012 tarihli ve 6335 sayılı
-Kanunun 40 ıncı maddesiyle, bu fıkrada yer alan “, 148 inci maddede yeralan birleşme
+26/6/2012 tarihli ve 6335 sayılı Kanunun
+40 ıncı maddesiyle, bu fıkrada yer alan “, 148 inci maddede yeralan birleşme
 sözleşmesini denetletme hakkı ile” ibaresi “ve” şeklinde değiştirilmiştir.
 
 [30]
@@ -31322,9 +31334,9 @@ Kanunun 40 ıncı maddesiyle, bu fıkrada yer alan “küçük” ibaresi “kü
 orta”şeklinde değiştirilmiştir.
 
 [32]
-26/6/2012 tarihli ve 6335 sayılı
-Kanunun 41 inci maddesiyle, bu fıkrada yer alan “tirajı ellibinin üstünde olan
-ve yurt düzeyinde dağıtımı yapılan en az üç gazetede” ibaresi madde metninden
+26/6/2012 tarihli ve 6335 sayılı Kanunun
+41 inci maddesiyle, bu fıkrada yer alan “tirajı ellibinin üstünde olan ve yurt
+düzeyinde dağıtımı yapılan en az üç gazetede” ibaresi madde metninden
 çıkarılmıştır.
 
 [33]
@@ -31382,10 +31394,10 @@ Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 7887 sayılı Cumhurbaşkanı Kararı ile bu fıkrada yer alan anonim şirketler için
 ellibin Türk Lirası olarak öngörülen en az esas sermaye tutarı ikiyüzellibin
 Türk Lirasına, kayıtlı sermaye sistemini kabul etmiş bulunan halka açık olmayan
-anonim şirketlerde yüzbin Türk Lirası olarak öngörülen en az başlangıç sermayesi
-tutarı beşyüzbin Türk Lirasına yükseltilmiştir. Söz konusu değişiklik daha
-sonra 26/11/2023 tarihli ve 32381 sayılı Resmî Gazete’de yayımlanan Düzeltme
-ile değiştirilerek düzeltilmiştir.
+anonim şirketlerde yüzbin Türk Lirası olarak öngörülen en az başlangıç
+sermayesi tutarı beşyüzbin Türk Lirasına yükseltilmiştir. Söz konusu değişiklik
+daha sonra 26/11/2023 tarihli ve 32381 sayılı Resmî Gazete’de yayımlanan
+Düzeltme ile değiştirilerek düzeltilmiştir.
 
 [43]
 15/7/2016
@@ -31394,8 +31406,8 @@ ibaresinden sonra gelmek üzere “veya ticaret sicili müdürü yahut yardımc�
 huzurunda imzaladığı” ibaresi eklenmiştir.
 
 [44]
-15/7/2016 tarihli ve 6728 sayılı
-Kanunun 73 üncü maddesiyle, bu fıkrada yer alan “kurucular beyanı” ibaresi yürürlükten
+15/7/2016 tarihli ve 6728 sayılı Kanunun
+73 üncü maddesiyle, bu fıkrada yer alan “kurucular beyanı” ibaresi yürürlükten
 kaldırılmıştır.
 
 [45]
@@ -31411,8 +31423,8 @@ imzalanması” ibaresi eklenmiştir.
 
 [47]
 26/6/2012 tarihli ve 6335 sayılı
-Kanunun 41 inci maddesiyle, bu fıkrada yer alan “,işlem denetçisi” ibaresi madde
-metninden çıkarılmıştır.
+Kanunun 41 inci maddesiyle, bu fıkrada yer alan “,işlem denetçisi” ibaresi
+madde metninden çıkarılmıştır.
 
 [48]
 15/7/2016 tarihli ve 6728 sayılı
@@ -31427,10 +31439,10 @@ ve yurt düzeyinde dağıtımı yapılan en az bir gazetede ilan eder;” ibares
 metninden çıkarılmıştır.
 
 [50]
-23/5/2024 tarihli 7511 sayılı Kanunun
-13 üncü maddesi ile bu fıkranın birinci cümlesinde yer alan “Yönetim kurulu her
-yıl üyeleri arasından” ibaresi “Yönetim kurulu, üyeleri arasından” şeklinde
-değiştirilmiştir.
+23/5/2024 tarihli 7511 sayılı
+Kanunun 13 üncü maddesi ile bu fıkranın birinci cümlesinde yer alan “Yönetim
+kurulu her yıl üyeleri arasından” ibaresi “Yönetim kurulu, üyeleri arasından”
+şeklinde değiştirilmiştir.
 
 [51]
 Bu maddenin “b) İflasın
@@ -31479,8 +31491,8 @@ Standartları Kurumu” şeklinde değiştirilmiştir.
 
 [58]
 26/6/2012 tarihli ve 6335 sayılı
-Kanunun 21 inci maddesiyle, bu fıkrada yer alan “bir bağımsız denetleme
-kuruluşu” ibaresi “bağımsız denetim yapmak üzere yetkilendirilen bir sermaye şirketi”
+Kanunun 21 inci maddesiyle, bu fıkrada yer alan “bir bağımsız denetleme kuruluşu”
+ibaresi “bağımsız denetim yapmak üzere yetkilendirilen bir sermaye şirketi”
 şeklinde değiştirilmiştir.
 
 [59]
@@ -31613,10 +31625,10 @@ huzurunda imzalanması” ibaresi eklenmiştir.
 
 [82]
 15/2/2018
-tarihli ve 7099 sayılı Kanunun 24 üncü maddesi ile bu fıkrada yer alan “kurucuların
-imzalarının noterce onaylanması veya şirket sözleşmesinin ticaret sicili müdürü
-yahut yardımcısı” ibaresi “kurucular tarafından ticaret sicili müdürlüğünde
-yetkilendirilmiş personelin” şeklinde değiştirilmiştir.
+tarihli ve 7099 sayılı Kanunun 24 üncü maddesi ile bu fıkrada yer alan
+“kurucuların imzalarının noterce onaylanması veya şirket sözleşmesinin ticaret
+sicili müdürü yahut yardımcısı” ibaresi “kurucular tarafından ticaret sicili
+müdürlüğünde yetkilendirilmiş personelin” şeklinde değiştirilmiştir.
 
 [83]
 
@@ -31722,7 +31734,8 @@ Kanunun 8 inci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan
 2/7/2018
 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 192 nci maddesiyle bu
 maddenin başlığı “E) Yönetmelik” şeklinde ve birinci fıkrasında yer alan “bir
-tüzük” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.
+tüzük” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde
+değiştirilmiştir.
 
 [101]
 2/7/2018 tarihli ve 700 sayılı
@@ -31758,8 +31771,8 @@ eklenmiştir.
 
 [106]
 25/4/2013 tarihli ve 6462 sayılı
-Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri “engellilik”
-şeklinde değiştirilmiştir.
+Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri
+“engellilik” şeklinde değiştirilmiştir.
 
 [107]
 26/6/2012 tarihli ve 6335 sayılı
@@ -31795,11 +31808,11 @@ iki yıl içinde” ibaresi “1/7/2015 tarihine kadar” olarak değiştirilmi�
 
 [113]
 
-Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2025/31, K.: 2025/183
-sayılı Kararı ile bu fıkrada yer alan “şirkete ait malvarlığının unvana ilişkin
-kaydın silindiği tarihten itibaren on yıl sonra Hazineye intikal edeceği ve
-bunun kesin olduğu” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de
-yayımlanmasından başlayarak dokuz ay (23/9/2026) sonra yürürlüğe girer.
+Anayasa Mahkemesinin
+10/9/2025 tarihli ve E.: 2025/31, K.: 2025/183 sayılı Kararı ile bu fıkrada yer
+alan “şirkete ait malvarlığının unvana ilişkin kaydın silindiği tarihten
+itibaren on yıl sonra Hazineye intikal edeceği ve bunun kesin olduğu” ibaresi
+iptal edilmiştir.
 
 [114]
 
@@ -31809,18 +31822,11 @@ cümlede yer alan “silinme tarihinden itibaren beş yıl içinde” ibaresi ip
 edilmiştir.
 
 [115]
-
-Anayasa Mahkemesinin 10/9/2025 tarihli
-ve E.: 2025/31, K.: 2025/183 sayılı Kararı ile bu fıkranın ikinci ve üçüncü
-cümleleri iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından
-başlayarak dokuz ay (23/9/2026) sonra yürürlüğe girer.
-
-[116]
 18/9/2020 tarihli ve 31248 sayılı
 Resmî Gazete’de yayımlanan 2948 sayılı Cumhurbaşkanı Kararı ile bu fıkrada
 belirtilen sürenin üç ay uzatılmasına karar verilmiştir.
 
-[117]
+[116]
 
 Anayasa
 Mahkemesinin 1/6/2023 Tarihli ve E: 2020/56, K: 2023/108 Sayılı Kararı ile bu
@@ -31828,7 +31834,7 @@ fıkrada
 yer alan "… istisnalar ile..." ibaresi
 iptal edilmiştir.
 
-[118]
+[117]
 26/6/2012 tarihli ve 6335 sayılı
 Kanunun 39 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “; geçici 2
 nci ve geçici 3 üncü maddeler ise bu Kanunun yayımı ile birlikte” ibaresi ile
