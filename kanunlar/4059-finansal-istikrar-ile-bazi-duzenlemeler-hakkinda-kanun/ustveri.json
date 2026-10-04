@@ -13,6 +13,6 @@
   "tags": [],
   "source_mevzuat_id": "103154",
   "source_type": "KANUN",
-  "content_sha256": "d163013aa9c3dc3a1e2f663e5fe965ee2cfcb440d834a7aa6f380c6d83d99fd4",
+  "content_sha256": "0f91ea6e6d60b5ba66e9871e659ab7e08a30863ec0138d51e568ca396bbd7316",
   "retrieval_api": "https://bedesten.adalet.gov.tr/mevzuat/getDocumentContent"
 }

@@ -2972,7 +2972,7 @@
       "type": "KANUN",
       "path": "kanunlar/4059-finansal-istikrar-ile-bazi-duzenlemeler-hakkinda-kanun",
       "source_mevzuat_id": "103154",
-      "content_sha256": "d163013aa9c3dc3a1e2f663e5fe965ee2cfcb440d834a7aa6f380c6d83d99fd4",
+      "content_sha256": "0f91ea6e6d60b5ba66e9871e659ab7e08a30863ec0138d51e568ca396bbd7316",
       "fetch_status": "ok"
     },
     {
@@ -6293,7 +6293,7 @@
       "type": "KANUN",
       "path": "kanunlar/6292-orman-koylulerinin-kalkinmalarinin-desteklenmesi-ve-hazine-adina-orman-sinirlari-disina-cikarilan-yerlerin-degerlendirilmesi-ile-hazi-103461",
       "source_mevzuat_id": "103461",
-      "content_sha256": "245f6fb66d937cb166e4b6e8ac74cf394aa296a27cab3de9b242be73dc56d7b7",
+      "content_sha256": "b73fe0a7133674bc7a3076359f51bb4ce846f1f74d2b9b1a0abc84499ba64062",
       "fetch_status": "ok"
     },
     {

@@ -636,11 +636,13 @@ parsel olarak satılması mümkün olmayan taşınmazlar paylı olarak, üzerind
 bina bulunan taşınmazlar ise kat mülkiyeti tesisi suretiyle, bunun mümkün olmaması
 hâlinde paylı olarak satılabilir.
 
-(4) Bu Kanun kapsamında kalan taşınmazlardan hak sahiplerine
-satılmaması, ilgililerine devredilmemesi veya iade edilmemesi gerektiği halde bu
-tasarruflara konu edilenlerden; satılanların satış bedeli kanuni faiziyle iade edilir,
-devir ve iade edilenler ise bedelsiz olarak geri alınır.
+(4) Bu Kanun kapsamında kalan taşınmazlardan (…)
 [6]
+,
+ilgililerine devredilmemesi veya iade edilmemesi gerektiği halde bu tasarruflara
+konu edilenlerden; (…)
+6
+, devir ve iade edilenler ise bedelsiz olarak geri alınır.
 
 (5) Hak sahibi bulunmayan taşınmazlar ile bu Kanun hükümlerine
 göre işlem yapılmak üzere hak sahipleri veya ilgilileri tarafından süresi içerisinde
@@ -1347,6 +1349,14 @@ Geçici Madde 10
 
 20/6/2026
 
+Anayasa Mahkemesinin 10/9/2025
+tarihli ve E.: 2024/144, K.: 2025/188 sayılı Kararı ile
+
+11
+
+yayımlanmasından
+başlayarak dokuz ay sonra (30/9/2026) yürürlüğe girer.
+
 [1]
 2/7/2018 tarihli ve 700 sayılı
 Kanun Hükmünde Kararnamenin 195 inci maddesiyle bu maddenin birinci fıkrasında
@@ -1367,12 +1377,12 @@ edenler de” ibaresi iptal edilmiştir.
 [3]
 6/3/2013 tarihli ve 6444 sayılı Kanunun 1
 inci maddesiyle bu fıkranın dördüncü cümlesinde yer alan “yüzde onu” ibaresi
-“tamamen ve münhasıran bilfiil tarımsal amaçlı olarak kullanılan ve üzerinde
-tarımsal amaçlı yapılar (mandıra, sera, ağıl, kümes vb.) ile sürekli ikamet
-amacıyla kullanılan konut hariç yapı bulunmayan yerler için yüzde onu, diğer
-yerler için yüzde yirmisi,” olarak, “üç yılda altı eşit taksitte” ibaresi “beş
-yılda on eşit taksitte” olarak ve “dört yılda sekiz eşit taksitte” ibaresi
-“altı yılda on iki eşit taksitte” olarak değiştirilmiştir.
+“tamamen ve münhasıran bilfiil tarımsal amaçlı olarak kullanılan ve üzerinde tarımsal
+amaçlı yapılar (mandıra, sera, ağıl, kümes vb.) ile sürekli ikamet amacıyla
+kullanılan konut hariç yapı bulunmayan yerler için yüzde onu, diğer yerler için
+yüzde yirmisi,” olarak, “üç yılda altı eşit taksitte” ibaresi “beş yılda on
+eşit taksitte” olarak ve “dört yılda sekiz eşit taksitte” ibaresi “altı yılda
+on iki eşit taksitte” olarak değiştirilmiştir.
 
 [4]
 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde
@@ -1388,17 +1398,14 @@ ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi
 
 [6]
 
-Anayasa Mahkemesinin 10/9/2025 tarihli ve E.:
-2024/144, K.: 2025/1
+Anayasa
+Mahkemesinin 10/9/2025 tarihli ve E.: 2024/144, K.: 2025/1
 88
 sayılı Kararı ile bu fıkrada yer alan
-“hak sahiplerine satılmaması” ve “satış bedeli kanuni
-faiziyle iade edilir,” ibareleri
-iptal
-edilmiştir. Bu Karar yayımlanmasından başlayarak dokuz ay sonra
-
-(30/9/2026)
-yürürlüğe girer.
+“hak sahiplerine
+satılmaması” ve “satılanların satış bedeli kanuni faiziyle iade edilir,”
+ibareleri
+iptal edilmiştir.
 
 [7]
 6/3/2013 tarihli ve 6444 sayılı Kanunun 2 nci
