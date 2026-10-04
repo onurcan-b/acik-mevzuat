@@ -85,11 +85,12 @@ durumunda uygulanacak kriz yönetim planlarının oluşturulması.
 Komite, görev alanı ile ilgili olarak kamu kurum ve kuruluşlarından her türlü
 veri ve bilgiyi talep edebilir.
 (Ek cümle:20/5/2021-7319/3 md.)
-Kamu
-kurum ve kuruluşları, talep edilen veri ve bilgiyi Komitenin belirleyeceği
-şekil ve süreler içerisinde vermekle yükümlüdür.
+
+(İptal
+cümle: Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2024/113, K.: 2025/177
+sayılı Kararı ile.)
+
 [10]
-[11]
 
 (5) Finansal sistemin bütününe
 sirayet edebilecek ölçüde olumsuz bir gelişmenin Komite tarafından tespiti hâlinde,
@@ -143,12 +144,9 @@ Komitesinin sekretarya hizmetleri, Hazine ve Maliye Bakanlığınca yürütülü
 Komitesinin ve Sekretaryanın çalışma usul ve esasları üyesi bulunan kurum ve
 kuruluşların görüşü alınarak Hazine ve Maliye Bakanlığı tarafından belirlenir.
 
-(7) Fiyat İstikrarı
-Komitesi, görev alanına giren konularla ilgili her türlü bilgi ve belgeyi, kamu
-kurum ve kuruluşlarından isteme yetkisine sahiptir. Kamu kurum ve kuruluşları,
-talep edilen bilgi ve belgeyi Fiyat İstikrarı Komitesinin belirleyeceği şekil
-ve süre içerisinde vermekle yükümlüdür.
-[12]
+(7)
+(İptal fıkra: 10/9/2025
+tarihli ve E.: 2024/113, K.: 2025/177 sayılı Kararı ile.)
 
 Madde 2 –
 (Mülga: 2/7/2018-KHK-703/16 md.)
@@ -176,11 +174,11 @@ DÖRDÜNCÜ KISIM
 Uzman Yardımcılığına, Uzmanlığa ve
 Yurt Dışı Teşkilatına Atanma,
 (…)
-[13]
+[11]
 
 Sözleşme ile
 Araştırma, Etüt ve Proje Yaptırma
-[14]
+[12]
 
 Madde 7 – (Değişik: 2/7/2018-KHK-703/16
 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212
@@ -201,7 +199,7 @@ md.)
 
 Ek
 Madde 1 – (Ek: 22/12/1997 - 4315/3 md.; Mülga: 11/10/2011-KHK-666/1 md.)
-[15]
+[13]
 
 Ek Madde 2 – (Mülga: 3/6/2011-KHK-637/38
 md.)
@@ -220,7 +218,7 @@ Merkez Bankası nezdindeki hesabına aktarılır. Bu tarihten sonra tarım satı
 ve birlikleri tarafından yapılacak kredi geri ödemeleri genel bütçeye gelir kaydedilmek
 üzere aynı hesaba aktarılır. Bu madde ile ilgili usul ve esaslar Cumhurbaşkanı kararı
 ile belirlenir.
-[16]
+[14]
 
 Finansal
 İstikrar Komitesi
@@ -293,7 +291,7 @@ Madde 12 – (Ek : 20/6/2001 - 4684/12 md.;
 
 Mülga:
 2/7/2018-KHK-703/16 md.)
-[17]
+[15]
 
 Geçici Madde
 
@@ -308,7 +306,7 @@ Geçici Madde
 -
 (Ek
 : 11/10/2011 - KHK - 662/68 md.; Mülga: 2/7/2018-KHK-703/16 md.)
-[18]
+[16]
 
 Geçici Madde
 
@@ -481,6 +479,14 @@ Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı
 
 4/6/2025
 
+Anayasa
+Mahkemesinin 10/9/2025 tarihli ve E.: 2024/113, K.: 2025/177 sayılı Kararı
+
+1, 1/A
+
+yayımlanmasından
+başlayarak dokuz ay sonra (30/9/2026)
+
 [1]
 Bu Kanunun, 18/6/1999 tarih ve 4389 sayılı Kanunla
 düzenlenen görev ve yetkilere ilişkin hükümleri, söz konusu Kanunun 25 inci
@@ -546,18 +552,6 @@ maddesiyle, bu fıkralarda yer alan “Finansal İstikrar ve Kalkınma Komitesi�
 ibareleri “Komite” şeklinde değiştirilmiştir.
 
 [11]
-
-Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2024/113,
-K.: 2025/177 sayılı Kararı ile bu fıkranın ikinci cümlesi iptal edilmiştir. Bu
-Karar yayımlanmasından başlayarak dokuz ay sonra (30/9/2026) yürürlüğe girer.
-
-[12]
-
-Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2024/113,
-K.: 2025/177 sayılı Kararı ile bu fıkra iptal edilmiştir. Bu Karar
-yayımlanmasından başlayarak dokuz ay sonra (30/9/2026) yürürlüğe girer.
-
-[13]
 3/6/2011 tarihli ve 637 sayılı KHK’nın 38 inci
 maddesi ile bu kısmın başlığında yer alan , “Dış Ticarette Standardizasyon
 Denetmenliği,” ibaresi yürürlükten kaldırılmış olup, daha sonra 666 sayılı KHK
@@ -565,29 +559,29 @@ ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi
 Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139,
 K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 
-[14]
+[12]
 2/7/2018 tarihli ve 703 sayılı KHK’nin 16 ncı
 maddesiyle bu madde başlığı “Sözleşmeli Personel ve Sözleşme ile Araştırma,
 Etüd ve Proje Yaptırma” iken, metne işlendiği şekilde değiştirilmiştir.
 
-[15]
+[13]
 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede
 yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de
 yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.:
 2012/205 sayılı Kararı ile iptal edilmiştir.
 
-[16]
+[14]
 2/7/2018 tarihli ve 703 sayılı KHK’nin 16 ncı
 maddesiyle, bu fıkrada yer alan “Hazine Müsteşarlığının bağlı olduğu Bakan ve
 Hazine Müsteşarlığı” ibaresi “Hazine ve Maliye Bakanlığı” şeklinde ve “Bakanlar
 Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-[17]
+[15]
 
 Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı
 Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.
 
-[18]
+[16]
 
 Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı
 Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.
