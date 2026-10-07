@@ -2464,6 +2464,7 @@ Madde
 Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak
 koşuluyla geçimi için diğer taraftan malî gücü oranında süresiz olarak nafaka
 isteyebilir.
+[16]
 
 Nafaka
 yükümlüsünün kusuru aranmaz.
@@ -2749,7 +2750,7 @@ müdahalesini isteyebilir.
 Aile
 konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu kütüğüne konutla
 ilgili gerekli şerhin verilmesini tapu müdürlüğünden isteyebilir.
-[16]
+[17]
 
 Aile
 konutu eşlerden biri tarafından kira ile sağlanmışsa, sözleşmenin tarafı
@@ -4177,13 +4178,13 @@ Madde
 Koca, davayı, doğumu ve baba olmadığını veya ananın gebe kaldığı sırada
 başka bir erkek ile cinsel ilişkide bulunduğunu öğrendiği tarihten başlayarak
 bir yıl, (…)
-[17]
+[18]
 içinde açmak zorundadır.
 
 Ana
 doğumdan, çocuk ise ergin olduğu tarihten başlayarak en geç bir yıl içinde dava
 açmak zorundadır.
-[18]
+[19]
 
 Gecikme
 haklı bir sebebe dayanıyorsa, bir yıllık süre bu sebebin ortadan kalktığı
@@ -4218,7 +4219,7 @@ davasını açabilir.
 Ergin
 olmayan çocuğa atanacak kayyım, atama kararının kendisine tebliğinden başlayarak
 bir yıl, (…)
-[19]
+[20]
 içinde soybağının reddi davasını açar.
 
 Kocanın
@@ -4417,7 +4418,7 @@ ilişkinin ortadan kalktığı tarihte işlemeye başlar.
 Bir
 yıllık süre geçtikten sonra gecikmeyi haklı kılan sebepler varsa, sebebin
 ortadan kalkmasından başlayarak bir ay içinde dava açılabilir.
-[20]
+[21]
 
 IV.
 Ananın malî hakları
@@ -4582,7 +4583,7 @@ muvafakatiyle ergin veya kısıtlı aşağıdaki hallerde evlât edinilebilir.
 1.
 Bedensel veya zihinsel engeli sebebiyle sürekli olarak yardıma muhtaç ve evlât
 edinen tarafından en az beş yıldan beri bakılıp gözetilmekte ise,
-[21]
+[22]
 
 2. Evlât edinen tarafından, küçükken en az beş yıl
 süreyle bakılıp gözetilmiş ve eğitilmiş ise,
@@ -4709,12 +4710,12 @@ Madde
 
 Dava hakkı, evlâtlık ilişkisinin kaldırılması
 sebebinin öğrenilmesinden başlayarak bir yıl (…)
-[22]
+[23]
 geçmekle düşer.
 
 F.
 Evlâtlık işlemlerinde aracılık
-[23]
+[24]
 
 Madde
 320-
@@ -4736,7 +4737,7 @@ Soyadı
 Madde
 321-
 Çocuk, ana ve baba evli ise ailenin; (…)
-[24]
+[25]
 soyadını taşır. Ancak, ana
 önceki evliliğinden dolayı çifte soyadı taşıyorsa çocuk onun bekârlık soyadını
 taşır.
@@ -5011,7 +5012,7 @@ ruhsal, ahlâkî ve toplumsal gelişimini sağlar ve korurlar.
 Ana ve baba çocuğa, özellikle bedensel ve zihinsel
 engelli olanlara, yetenek ve eğilimlerine uygun düşecek ölçüde, genel ve
 meslekî bir eğitim sağlarlar.
-[25]
+[26]
 
 III.
 Dinî eğitim
@@ -6006,7 +6007,7 @@ Madde
 Yaşlılığı, engelliliği, deneyimsizliği veya ağır hastalığı sebebiyle
 işlerini gerektiği gibi yönetemediğini ispat eden her ergin kısıtlanmasını
 isteyebilir.
-[26]
+[27]
 
 C.
 Usul
@@ -6131,7 +6132,7 @@ yaşını doldurmuş olanlar,
 engelleri
 veya sürekli hastalıkları sebebiyle bu görevi güçlükle yapabilecek
 olanlar,
-[27]
+[28]
 
 3.
 Dörtten çok çocuğun velisi olanlar,
@@ -6144,7 +6145,7 @@ Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üyeleri, Cumhurbaşkanı
 yardımcıları, bakanlar,
 
 hâkimlik ve savcılık mesleği mensupları.
-[28]
+[29]
 
 VI.
 Vasiliğe engel olan sebepler
@@ -6513,7 +6514,7 @@ ilgili kişiye adlî yardım sağlanır.
 fıkra:6/12/2019-7196/54 md.)
 Hâkim, ilgili kişiyi dinler, tahkikatı
 tamamlar ve gecikmeksizin en geç iki gün içinde kararını verir.
-[29]
+[30]
 
 İKİNCİ BÖLÜM
 
@@ -6564,7 +6565,7 @@ Vesayet altındaki kişinin menfaati gerektirirse değerli şeylerin dışındak
 taşınırlar, vesayet makamının vereceği talimat uyarınca, açık artırma ile
 satılır. Hâkim, özel durumları, taşınırın niteliğini veya değerinin azlığını
 göz önüne alarak pazarlıkla satışa da karar verebilir.
-[30]
+[31]
 
 Vesayet
 altındaki kişinin kendisi veya ailesi için özel bir değer taşıyan şeyler, zorunluluk
@@ -6620,7 +6621,7 @@ vesayet makamının bu iş için görevlendireceği bir kişi tarafından vasi d
 olduğu hâlde açık artırmayla yapılır ve ihale vesayet makamının onamasıyla
 tamam olur; onamaya ilişkin kararın ihale gününden başlayarak on gün içinde
 verilmesi gerekir.
-[31]
+[32]
 
 Ancak
 denetim makamı, istisnaî olarak özel durumları, taşınmazın niteliğini veya
@@ -8981,7 +8982,7 @@ Terekeye ait paraların faiz getirmek üzere Cumhurbaşkanınca çıkarılan
 yönetmelikte belirtilen bir bankaya yatırılması veya bu paralarla Devlet tahvili
 alınması ve yeterli güvencesi bulunmayan yatırımların güvenceli yatırımlara
 dönüştürülmesi,
-[32]
+[33]
 
 7.
 Terekede ticarethane, imalâthane veya başka bir işletme varsa, bunların olduğu
@@ -9073,7 +9074,7 @@ mahkemesince
 veya noterlikçe
 mirasçılık sıfatlarını gösteren bir belge
 verilir.
-[33]
+[34]
 
 Mirasçı
 atamaya veya vasiyete ilişkin ölüme bağlı tasarrufa mirasçılar veya başka
@@ -9261,7 +9262,7 @@ verilir.
 
 Tutanağın ve kütüğün nasıl tutulacağı Cumhurbaşkanınca
 çıkarılan yönetmelikle düzenlenir.
-[34]
+[35]
 
 II.
 Ret hakkının düşmesi
@@ -9426,7 +9427,7 @@ bildirmek zorundadırlar.
 
 Resmî
 defterin nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.
-[35]
+[36]
 
 II.
 İlân yoluyla çağrı
@@ -10188,7 +10189,7 @@ ve öğrenimini tamamlamamış olan veya
 engelliliği
 bulunan
 çocuklara, paylaşmada hakkaniyete uygun bir ödeme yapılır.
-[36]
+[37]
 
 E.
 Hediyeler ve evlenme giderleri
@@ -10827,7 +10828,7 @@ tesciline karar verilmesini isteyebilir.
 
 Aynı
 koşullar altında, maliki tapu kütüğünden anlaşılamayan veya yirmi yıl önce (…)
-[37]
+[38]
 hakkında gaiplik kararı
 verilmiş bir kimse adına kayıtlı bulunan taşınmazın tamamının veya bölünmesinde
 sakınca olmayan bir parçasının zilyedi de, o taşınmazın tamamı, bir parçası
@@ -10843,7 +10844,7 @@ konusu, mahkemece
 bir gazete ve bir internet haber sitesinde
 ve ayrıca
 taşınmazın bulunduğu yerde uygun araç ve aralıklarla en az üç defa ilân olunur.
-[38]
+[39]
 
 Son ilândan başlayarak üç ay içinde yukarıdaki
 koşulların gerçekleşmediğini ileri sürerek itiraz eden bulunmaz ya da itiraz
@@ -11162,7 +11163,7 @@ bildirilir.
 Önalım
 hakkı, satışın hak sahibine bildirildiği tarihin üzerinden üç ay ve her hâlde
 satışın üzerinden bir yıl geçmekle düşer.
-[39]
+[40]
 
 c.
 Kullanılması
@@ -12929,7 +12930,7 @@ Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının hangi y
 paralar üzerinden kurulabileceği Cumhurbaşkanınca
 
 belirlenir.
-[40]
+[41]
 
 2.
 Faiz
@@ -13824,7 +13825,7 @@ Madde
 913-
 İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca
 çıkarılan yönetmelikle belirlenir.
-[41]
+[42]
 
 4.
 Alacaklının belirlenmesi
@@ -14198,7 +14199,7 @@ fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz
 
 2.
 Ayrık durumlar
-[42]
+[43]
 
 Madde
 940-
@@ -14971,7 +14972,7 @@ Sicilin örneği, nasıl tutulacağı ve yardımcı siciller
 Cumhurbaşkanınca
 çıkarılan yönetmelikle
 belirlenir.
-[43]
+[44]
 
 2.
 Taşınmazların kaydedilmesi
@@ -15000,7 +15001,7 @@ koşullar ve usul
 Cumhurbaşkanınca çıkarılan yönetmelikle
 belirlenir. Süreklilik koşulunun gerçekleşmesi
 için hakkın süresiz veya en az otuz yıl süreli olması gerekir.
-[44]
+[45]
 
 Kat
 mülkiyetine konu olan bağımsız bölümlerin taşınmaz olarak kaydı, özel kanun
@@ -15033,7 +15034,7 @@ izler.
 Bir
 taşınmazın bölünmesi veya birden çok taşınmazın birleştirilmesi hâlinde
 uyulacak usul Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
-[45]
+[46]
 
 Kütüğün
 her sayfasındaki özel sütunlara şunlar tescil edilir:
@@ -15093,7 +15094,7 @@ plân esas alınır.
 
 Plânların
 nasıl hazırlanacağı Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
-[46]
+[47]
 
 II.
 Tapu sicilinin tutulması
@@ -15241,7 +15242,7 @@ Taşınmaz
 mülkiyetine ilişkin kamu hukuku kısıtlamalarının beyanlar sütununa yazılması ve
 bu sütuna yazılabilecek diğer hususlar Cumhurbaşkanınca çıkarılan yönetmelikle
 belirlenir.
-[47]
+[48]
 
 Özel
 kanun hükümleri saklıdır.
@@ -15321,7 +15322,7 @@ kaydın bir örneği isteyen ilgiliye verilir.
 Tescil
 ve terkin ile verilecek örneklerin şekli Cumhurbaşkanınca çıkarılan
 yönetmelikle belirlenir.
-[48]
+[49]
 
 2.
 Taşınmaz lehine irtifaklarda
@@ -15459,7 +15460,7 @@ eski tescilin terkini ve yeni bir tescilin yapılması biçiminde de olabilir.
 Tapu
 memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönetmelik
 uyarınca re'sen düzeltir.
-[49]
+[50]
 
 Yürürlükten
 kaldırılan kanun
@@ -15866,37 +15867,44 @@ Kanunun 19 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer ala
 “hâkim” ibarelerinden sonra gelmek üzere “veya noter” ibareleri eklenmiştir.
 
 [16]
+Anayasa Mahkemesinin 4/6/2026
+tarihli ve E.: 2025/156, K.: 2026/131 sayılı Kararı ile bu fıkrada yer alan “…süresiz
+olarak…” ibaresi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından
+başlayarak dokuz ay sonra (30/6/2027) yürürlüğe gireceği hüküm altına
+alınmıştır.
+
+[17]
 6/2/2014 tarihli ve 6518 sayılı
 Kanunun 44 üncü maddesiyle bu fıkrada yer alan “şerhin verilmesini” ibaresinden
 sonra gelmek üzere “tapu müdürlüğünden” ibaresi eklenmiştir.
 
-[17]
+[18]
 Anayasa Mahkemesi’nin 25/6/2009
 tarihli ve E.: 2008/30, K.: 2009/96 sayılı Kararı ile bu fıkrada yer alan “…her
 hâlde doğumdan başlayarak beş yıl…” ibaresi iptal edilmiştir.
 
-[18]
+[19]
 7/11/2024 tarihli ve 7531 sayılı
 Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Çocuk,” ibaresi “Ana doğumdan,
 çocuk ise” şeklinde değiştirilmiştir.
 
-[19]
+[20]
 Anayasa Mahkemesi’nin 10/10/2013
 tarihli ve E.: 2013/62, K.: 2013/115 sayılı Kararı ile bu fıkrada yer alan “...her
 hâlde doğumdan başlayarak beş yıl...” ibaresi, iptal edilmiştir.
 
-[20]
+[21]
 Anayasa Mahkemesi’nin 15/3/2012
 tarihli ve E.: 2011/116, K.: 2012/39 sayılı Kararı ile bu fıkra “çocuk”
 yönünden iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 21/7/2012
 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
 
-[21]
+[22]
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu bentte yer alan “özrü” ibaresi “engeli” şeklinde
 değiştirilmiştir.
 
-[22]
+[23]
 
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.:
 2012/35, K.: 2012/203 sayılı Kararı ile
@@ -15904,39 +15912,39 @@ b
 u maddede yer
 alan “…ve her hâlde evlât edinme işleminin üzerinden beş yıl…” ibaresi iptal edilmiştir.
 
-[23]
+[24]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulunca”
 ibaresi “Cumhurbaşkanınca” ve ikinci fıkrasında yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-[24]
+[25]
 Anayasa Mahkemesi’nin 2/7/2009
 tarihli ve E.: 2005/114, K.: 2009/105 sayılı Kararı ile; bu maddenin birinci
 cümlesinde yer alan “… evli değilse ananın …” ibaresi iptal edilmiştir.
 
-[25]
+[26]
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli”
 şeklinde değiştirilmiştir.
 
-[26]
+[27]
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlığı” ibaresi “engelliliği”
 şeklinde değiştirilmiştir.
 
-[27]
+[28]
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu bentte yer alan ““özürleri” ibaresi “engelleri” şeklinde
 değiştirilmiştir.
 
-[28]
+[29]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu bentte yer alan “ve Bakanlar Kurulu üyeleri”
 ibaresi “üyeleri, Cumhurbaşkanı yardımcıları, bakanlar,” şeklinde
 değiştirilmiştir.
 
-[29]
+[30]
 
 28/3/2023
 tarihli ve 7445 sayılı Kanunun 14 üncü maddesiyle bu fıkrada yer
@@ -15945,7 +15953,7 @@ alan
 ve gecikmeksizin” ibaresi “dinler, tahkikatı tamamlar ve gecikmeksizin en geç
 iki gün içinde” şeklinde değiştirilmiştir.
 
-[30]
+[31]
 16/7/2026 tarihli ve
 7589 sayılı Kanunun 11 inci maddesiyle
 yayımı tarihinden
@@ -15959,7 +15967,7 @@ yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
 düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı Resmî Gazete’ye
 bakınız.
 
-[31]
+[32]
 
 16/7/2026 tarihli ve
 7589 sayılı Kanunun 12 nci maddesiyle
@@ -15970,75 +15978,69 @@ düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek ol
 mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı Resmî
 Gazete’ye bakınız.
 
-[32]
+[33]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu bentte yer alan “tüzükte” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 
-[33]
+[34]
 31/3/2011
 tarihli ve 6217 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “sulh
 mahkemesince” ibaresinden sonra gelmek üzere “veya noterlikçe” ibaresi eklenmiştir.
 
-[34]
+[35]
 2/7/2018 tarihli ve 700 sayılı KHK’nin
 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi “Cumhurbaşkanınca
 çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-[35]
+[36]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-[36]
+[37]
 25/4/2013 tarihli ve 6462 sayılı
 Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlıkları” ibaresi
 “engelliliği” şeklinde değiştirilmiştir.
 
-[37]
+[38]
 Anayasa Mahkemesi’nin 17/3/2011
 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararı ile bu fıkrada yer alan “…
 ölmüş ya da…” ibaresi iptal edilmiştir.
 
-[38]
+[39]
 
 13/10/2022 tarihli ve 7418 sayılı Kanunun 28
 inci maddesiyle; bu fıkrada
 yer alan “gazeteyle bir
 defa” ibaresi “bir gazete ve bir internet haber sitesinde” şeklinde değiştirilmiştir.
 
-[39]
+[40]
 24/12/2025 tarihli ve 7571 sayılı
 Kanunun 35 inci maddesiyle bu fıkrada
 yer alan “iki yıl” ibaresi “bir
 yıl” şeklinde değiştirilmiştir.
 
-[40]
+[41]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
-[41]
+[42]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-[42]
+[43]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer
 alan “tüzükle” ibareleri “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde
 değiştirilmiştir.
 
-[43]
+[44]
 2/7/2018 tarihli ve 700 sayılı KHK’nin
 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi “Cumhurbaşkanınca
 çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
-[44]
-
-2/7/2018 tarihli ve 700
-sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [45]
 
@@ -16047,22 +16049,28 @@ sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” 
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [46]
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
-[47]
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
-[48]
 
 2/7/2018 tarihli ve 700
 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
+[47]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
+[48]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
 [49]
+
+2/7/2018 tarihli ve 700
+sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
+[50]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzük kuralları” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.
