@@ -6154,13 +6154,9 @@ Madde
 [121]
 
 1.
-Gümrük vergileri ile bunların ödenmelerine bağlı olarak tahsil edilmiş gecikme
-faizinin veya gecikme zammının geri verilmesinde, geri vermeye konu fazla
-tahsilatın yükümlüden kaynaklanması durumunda geri verme başvurusunun yapıldığı
-tarihten, diğer durumlarda ise tahsilat tarihinden geri verme kararının tebliğ
-edildiği tarihe kadar geçen süre için geri verilecek tutar üzerinden, aynı
-dönemde kanuni faiz oranında hesaplanan faiz ödenir.
-[122]
+
+(İptal fıkra: 22/7/2025 tarihli ve E.: 2023/165, K.: 2025/165 sayılı Kararı
+ile.)
 
 2.
 Geri verme kararının tebliğ edildiği tarihten itibaren dört ay içerisinde
@@ -6177,14 +6173,14 @@ uyarınca ödenmiş faizler yeniden tahsil edilir. Tahsil edilmeyen miktarlar
 tebliğ tarihinden itibaren onbeş gün içinde ödenir. Bu süre içinde ödenmeyenler
 için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine
 göre işlem yapılır.
-[123]
+[122]
 
 ONUNCU KISIM
 
 Diğer Hükümler
 
 BİRİNCİ BÖLÜM
-[124]
+[123]
 
 İşletmelerin Yükümlülükleri
 
@@ -6202,8 +6198,8 @@ eşyasını bedelsiz olarak sağlamak; limanlarda ve gümrük kapılarında güm
 gözetimine tabi eşya ve kişiler ile diğerlerinin birbirine karışmasını önlemeye
 yönelik her türlü fiziki yapıların sağlanması konusunda Gümrük Müsteşarlığının
 isteklerini yerine getirmek zorundadırlar.
+[124]
 [125]
-[126]
 
 2.
 Posta idareleri, 1 inci fıkrada sayılanların yanı sıra posta kolilerinin
@@ -6239,7 +6235,7 @@ bu Kanunun uygulanmasına ilişkin ikincil mevzuattaki görevlendirme usullerini
 kıyas yoluyla uygulayarak
 bu madde uyarınca belirlenen sözleşme bedeli karşılığında
 devredebilir.
-[127]
+[126]
 
 (Mülga son cümle:
 10/9/2014-6552/113 md.)
@@ -6325,7 +6321,7 @@ c)
 Posta idarelerinde yapılacak gümrük kontrolleri ve gümrük işlemleri nedeniyle
 gümrük memurlarına ödenecek olan ve Müsteşarlıkça belirlenen fazla çalışma
 ücretleri, posta idareleri tarafından gümrük veznesine yatırılır.
-[128]
+[127]
 
 İKİNCİ
 BÖLÜM
@@ -6366,7 +6362,7 @@ birimi hesabına yatırılmak koşuluyla kabul edilir. Fazla çalışma ücretin
 personel, bu suretle kendilerine verilecek işleri yapmakla görevlidir. Gümrük
 idare amirleri normal çalışma saatleri dışında verilecek hizmetleri düzenler ve
 kontrol eder.
-[129]
+[128]
 
 Normal çalışma saatleri
 içinde veya dışında olduğuna bakılmaksızın, çalışma ücretinin yatırılması
@@ -6405,12 +6401,12 @@ gereken ödemelerin Ankara Gümrük Muhasebe Birimi hesabına aktarılan tutarı
 aşması hâlinde, aradaki fark Maliye Bakanlığı tarafından personel giderlerini
 karşılama ödeneğinden Bakanlık bütçesine bu amaçla aktarılacak ödenekten
 karşılanır.
-[130]
+[129]
 
 (Değişik dördüncü
 fıkra: 18/6/2009-5911/52 md.) (Mülga birinci cümle: 11/10/2011-KHK-666/5 md.)
 (…)
-[131]
+[130]
 
 Bu madde kapsamında yapılan ödemeler 24/11/1994 tarihli ve 4046 sayılı
 Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesine göre ödenen fark
@@ -6421,7 +6417,7 @@ tazminatı hesabında dikkate alınır.
 
 Madde 222- (Mülga:
 11/10/2011-KHK-666/1 md.)
-[132]
+[131]
 
 İKİNCİ AYIRIM
 
@@ -6468,7 +6464,7 @@ Cumhurbaşkan
 veya kullanıma tabi tutulması faaliyetlerinin takip edilip
 sonuçlandırılmasında, posta idaresi ya da hızlı kargo taşımacılığı yapan
 şirketler dolaylı temsilci olarak yetkili kılınabilir.
-[133]
+[132]
 
 2.
 Devlet, belediye, il özel idareleri ve diğer kamu tüzel kişilerinin amir ve
@@ -6537,7 +6533,7 @@ Taksirli suçlar hariç olmak üzere; affa
 uğramış olsalar dahi, ağır hapis veya beş yıldan fazla hapis ya da kaçakçılık,
 zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni
 kötüye kullanma, dolanlı iflas, yalan yere şahadet, suç tasnii, iftira (…)
-[134]
+[133]
 
 ile resmi ihale ve alım satımlara fesat karıştırma, suçtan kaynaklanan
 malvarlığı değerlerini aklama, terörün finansmanı, Devlet sırlarını açığa
@@ -6562,7 +6558,7 @@ uzmanlık programı olan meslek yüksekokullarından mezun olmak,
 
 g)
 Staj amacıyla bir gümrük müşavirinin yanında bir yıl çalışmış olmak,
-[135]
+[134]
 
 h)
 Yapılan gümrük mevzuatı ve gümrüğe ilişkin iktisadi, ticari ve mali konuları
@@ -6593,7 +6589,7 @@ Madde
 iki yıl süre ile gümrük müşavir yardımcılığı yaparak, gümrük mevzuatı ve
 gümrüğe ilişkin iktisadi, ticari ve mali konuları kapsayan sınavda başarılı
 olan kişiler, gümrük müşavirliği yapmaya hak kazanır.
-[136]
+[135]
 
 2.
 a) Gümrük idaresinde on yıl çalışmış olup, bunun üç yılını şube müdürü, gümrük
@@ -6651,7 +6647,7 @@ kontrolör, stajyer kontrolör ve yetkili gümrük amir ve memurlarına gösterm
 bunların incelenmesine, denetlenmesine izin vermeye ve gerektiğinde yazılı
 istek üzerine bunları yukarıda belirtilen görevlilere ibraz etmeye
 mecburdurlar.
-[137]
+[136]
 
 ONBİRİNCİ KISIM
 
@@ -6696,7 +6692,7 @@ Madde
 232 –
 
 (Değişik: 18/6/2009-5911/58 md.)
-[138]
+[137]
 
 1.
 Bu Kısmın İkinci Bölüm hükümlerine göre gümrük vergileri ile birlikte alınması
@@ -6729,7 +6725,7 @@ Vergi Kaybına Neden Olan İşlemlere Uygulanacak Cezalar
 
 Madde
 234 – (Değişik: 18/6/2009-5911/60 md.)
-[139]
+[138]
 
 1.
 Serbest dolaşıma giriş rejimi veya kısmi muafiyet suretiyle geçici ithalat rejimine
@@ -6781,7 +6777,7 @@ cezası verilir.
 Yukarıda belirtilen aykırılıkların gümrük idaresince tespit edilmesinden önce
 beyan sahibince bildirilmesi durumunda söz konusu cezalar yüzde on nisbetinde
 uygulanır.
-[140]
+[139]
 
 4.
 Genel yönetim kapsamındaki kamu idareleri için yukarıda belirtilen cezalara
@@ -7002,13 +6998,13 @@ cezası verilir.
 
 Madde
 237
+[140]
 [141]
-[142]
 
 –
 1. 35/A ila 35/C
 madde hükümlerine göre (…)
-141
+140
 verilen özet beyan veya özet beyan
 olarak kullanılan ticari veya resmi belgelerdeki kayıtlı miktara göre noksan
 çıkan kapların mahrecinden yüklenmemiş veya yanlışlıkla başka yere çıkartılmış
@@ -7017,7 +7013,7 @@ idaresince belirlenecek süre içinde kanıtlanamadığı takdirde bu noksan kap
 ait eşyadan tarife pozisyonuna veya tarife pozisyonu tespit edilemiyor ise
 cinsine ve türüne göre tarifede dahil olduğu faslın en yüksek vergiye tabi
 pozisyonuna göre hesaplanacak gümrük vergileri kadar para cezası alınır.
-[143]
+[142]
 
 2.
 1 inci fıkraya göre ceza belirlenmesi mümkün olamıyorsa, noksan her kap için
@@ -7025,7 +7021,7 @@ pozisyonuna göre hesaplanacak gümrük vergileri kadar para cezası alınır.
 
 3. 35/A ila 35/C madde
 hükümlerine göre (…)
-141
+140
 verilen özet beyan veya özet beyan olarak kullanılan ticari
 veya resmi belgelerdeki kayıtlı miktara göre fazla çıkan kapların yanlışlıkla
 mahrecinden fazla olarak yüklenmiş olduğu gümrük idaresince belirlenecek süre
@@ -7034,7 +7030,7 @@ eşyaya el konularak
 mülkiyetinin kamuya geçirilmesine karar verilir, 177 ila 180 inci madde
 hükümlerine göre tasfiyeye tabi tutulur
 ve eşyanın CIF kıymeti kadar para cezası alınır.
-143
+142
 
 4.
 (Değişik:
@@ -7043,8 +7039,8 @@ Dökme gelen eşyada yüzde üçü aşmayacak şekilde eşya
 cinsi itibarıyla Cumhurbaşkanı kararı ile belirlenecek oranlardaki eksiklik ve
 fazlalıklar için takibat yapılmaz. Doğalgaz ürünlerinde boru hatları ile
 taşınarak ithal edilenler hariç bu oran %6’yı aşmayacak şekilde uygulanır.
+[143]
 [144]
-[145]
 
 5.
 (Ek:
@@ -7124,7 +7120,7 @@ para cezası verilir.
 2.
 
 (Ek:24/10/2019-7190/14 md.)
-[146]
+[145]
 
 Birinci fıkranın (c) ve (d) bentlerinde belirtilen eşyanın, yapılacak
 tebligat tarihinden itibaren altmış gün içinde gümrükçe onaylanmış başka bir
@@ -7157,7 +7153,7 @@ edenlerle, bu tür eşyayı gümrük işlemlerini yaptırmaksızın yurda sokanl
 çıkaranlar ile buna teşebbüs edenlerden, sözkonusu eşyanın ithalata konu olması
 halinde, CIF değerinin, ihracata konu olması halinde ise FOB değerinin onda
 biri oranında para cezası alınır.
-[147]
+[146]
 
 2.
 
@@ -7176,11 +7172,11 @@ Madde
 (Değişik: 18/6/2009-5911/63 md.)
 Bu
 Kanunda ayrı bir ceza tayin edilmiş haller saklı kalmak üzere, bu Kanuna (…)
-[148]
+[147]
 aykırı hareket edenlere
 söz konusu düzenlemelerde açıkça öngörülmüş olması kaydıyla altmış TL usulsüzlük
 cezası uygulanır.
-[149]
+[148]
 
 2.
 1 inci fıkrada belirtilen miktar, her yıl, bir önceki yıla ilişkin olarak 213
@@ -7205,12 +7201,12 @@ Yabancı limanlardan gelen veya Türkiye Gümrük Bölgesinden yabancı limanlar
 giden gemilerin geliş ve gidişlerinde yönetmelikle belirlenecek süreler
 içerisinde donatan veya işleten veya acentası tarafından gümrük idaresine bilgi
 verilmemesi,
-[150]
+[149]
 
 d)
 35/A maddesine göre özet beyan veya özet beyan olarak kullanılan ticari veya
 resmi belgenin süresi içinde verilmemesi,
-[151]
+[150]
 
 e)
 Türkiye Gümrük Bölgesinde karayoluyla transit eşya taşıyan taşıt araçlarının 91
@@ -7346,7 +7342,7 @@ değiştirmesi, yolda durması, başka gemilerle temas etmesi, gümrük gözetim
 yapılması için yol kesmemesi veya gümrük idaresi bulunmayan yerlere yanaşması
 ile yükü bulunmadığı durumlarda, yük almadığının veya yükünün başka bir limana çıkarıldığının
 veya avarya olduğunun kanıtlanamaması,
-[152]
+[151]
 
 b)
 Taşıt araçlarının 33 üncü ve 91 inci maddede belirtilen önceden belirlenmiş
@@ -7419,8 +7415,8 @@ bir gözlemci kimyagerin de ikinci tahlilde hazır bulunmasına izin verirler.
 
 Üç
 kimyagerden fazla kimyager bulunmayan gümrük laboratuarında yapılan tahlile
-itiraz edilmesi halinde, ikinci tahlil enaz iki kimyager bulunan en yakın
-gümrük idaresine ait laboratuarda yaptırılır.
+itiraz edilmesi halinde, ikinci tahlil enaz iki kimyager bulunan en yakın gümrük
+idaresine ait laboratuarda yaptırılır.
 
 (Mülga:
 18/6/2009-5911/67 md.)
@@ -7508,7 +7504,7 @@ indiriminden yararlanılamaz.
 Uzlaşma
 komisyonlarının başkan ve üyelerine, bu komisyonlardaki çalışmaları dolayısıyla
 verilecek ücret Cumhurbaşkanı kararıyla belirlenir.
-[153]
+[152]
 
 Madde
 245 – (Mülga: 18/6/2009-5911/68 md.)
@@ -7706,16 +7702,15 @@ kaçakçılık suçundan mahkumiyet kararı kesinleşen meslek mensuplarına, me
 çıkarma cezası verilir.
 
 4.
-Üç yıllık dönem içinde iki veya daha fazla disiplin cezasını gerektiren
-davranışta bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha
-ağır ceza uygulanabilir. Beş yıllık dönem içinde iki defa mesleki faaliyetten
-alıkoyma cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili
-yeniden işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır.
+Üç yıllık dönem içinde iki veya daha fazla disiplin cezasını gerektiren davranışta
+bulunan meslek mensubuna, her yeni suçu için bir öncekinden daha ağır ceza
+uygulanabilir. Beş yıllık dönem içinde iki defa mesleki faaliyetten alıkoyma
+cezası ile cezalandırılmasından sonra bu cezayı gerektiren fiili yeniden
+işleyen meslek mensupları hakkında meslekten çıkarma cezası uygulanır.
 
 Disiplin kurulları bir derece ağır veya bir derece hafif
 disiplin cezasının uygulanmasına karar verebilirler. Takibat ve hüküm tesisi,
-disiplin soruşturması yapılmasına ve disiplin cezası uygulanmasına engel
-değildir.
+disiplin soruşturması yapılmasına ve disiplin cezası uygulanmasına engel değildir.
 
 5.
 Meslek mensubu hakkında savunması alınmadan disiplin cezası verilemez. Yetkili
@@ -7840,8 +7835,8 @@ ulaşım araçları için bu fıkra kapsamında başvurular kabul edilmez.
 
 Birinci
 fıkrada belirtilen oran, bu maddenin yürürlüğe girdiği tarihten önce serbest
-dolaşıma giriş rejimine tabi tutularak ilk iktisabı gerçekleşmiş kara ulaşım
-araçları ile ilgili olarak, bu Kanunun 235 inci maddesi kapsamında el konularak
+dolaşıma giriş rejimine tabi tutularak ilk iktisabı gerçekleşmiş kara ulaşım araçları
+ile ilgili olarak, bu Kanunun 235 inci maddesi kapsamında el konularak
 mülkiyetin kamuya geçirilmesi kararı verilmesi gereken fiilin gümrük idaresince
 tespit edilmesinden önce ve birinci fıkrada belirtilen süre içinde
 kendiliğinden bildirilmesi durumunda %15 olarak uygulanır.
@@ -7987,7 +7982,7 @@ KHK/666
 221
 
 1/1/2012
-[154]
+[153]
 
 222
 
@@ -8148,6 +8143,15 @@ Mahkemesinin 26/3/2026 tarihli ve E.: 2025/269; K.: 2026/72 sayılı Kararı
 
 2/6/2026
 
+Anayasa
+Mahkemesinin 22/7/2025 tarihli ve E.: 2023/165, K.: 2025/165 sayılı Kararı
+ile
+.
+
+216
+
+yayımlanmasından başlayarak dokuz ay sonra (30/9/2026)
+
 [1]
 27/6/2000 tarihli ve 4587 sayılı Kanunun Geçici 2 nci
 maddesiyle bu Kanunda geçen "Avrupa Topluluğu " ibareleri
@@ -8231,8 +8235,8 @@ değiştirilmiş ve metne işlenmiştir.
 
 [15]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
-maddesiyle, beşinci fıkrasının (b) bendinde ve altıncı fıkrasının (b) bendinde
-yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+maddesiyle, beşinci fıkrasının (b) bendinde ve altıncı fıkrasının (b) bendinde yer
+alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
 [16]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
@@ -8253,8 +8257,8 @@ ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
 
 [19]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
-maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
-şeklinde değiştirilmiştir.
+maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde
+değiştirilmiştir.
 
 [20]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
@@ -8387,8 +8391,8 @@ maddesiyle, bu fıkralarda yer alan “Bakanlar Kurulu” ibareleri “Cumhurba�
 
 [45]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
-maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliğinden”
-ibaresi “Cumhurbaşkanlığından” şeklinde değiştirilmiştir.
+maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliğinden” ibaresi
+“Cumhurbaşkanlığından” şeklinde değiştirilmiştir.
 
 [46]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 13 üncü
@@ -8640,8 +8644,7 @@ imha,” ibaresi “eşyanın imhası”şeklinde değiştirilmiştir.
 
 [91]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
-maddesiyle; bu maddede yer alan “denetimlere” ibaresi “kontrollere” şeklinde
-değiştirilmiştir.
+maddesiyle; bu maddede yer alan “denetimlere” ibaresi “kontrollere” şeklinde değiştirilmiştir.
 
 [92]
 24/10/2019 tarihli ve 7190 sayılı Kanunun 3 üncü
@@ -8772,8 +8775,8 @@ ibareleri “başladığı” şeklinde, ikinci fıkrasında yer alan “doğdu�
 
 [114]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
-maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
-şeklinde değiştirilmiştir.
+maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde
+değiştirilmiştir.
 
 [115]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
@@ -8815,98 +8818,92 @@ Kanuna göre belirlenen tecil faizi” ibareleri “kanuni faiz” şeklinde ve 
 fıkrasında yer alan “üç” ibaresi “dört” şeklinde değiştirilmiştir.
 
 [122]
-
-Anayasa Mahkemesinin 22/7/2025 tarihli ve E.: 2023/165,
-K.: 2025/165 sayılı Kararı ile bu fıkra iptal edilmiştir. Bu Karar
-yayımlanmasından başlayarak dokuz ay sonra (30/9/2026) yürürlüğe girer.
-
-[123]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; bu maddede yer alan “on gün” ibaresi “onbeş gün” şeklinde
 değiştirilmiştir.
 
-[124]
+[123]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle bu bölüm başlığı “Liman ve Antrepo İşletmelerinin
 Yükümlülükleri”iken, metne işlendiği şekilde değiştirilmiştir.
 
-[125]
+[124]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; 218 inci maddenin birinci fıkrasında yer alan “denetim” ibaresi
 “kontrol” şeklinde değiştirilmiştir.
 
-[126]
+[125]
 10/9/2014 tarihli ve 6552 sayılı Kanunun 113 üncü
 maddesiyle, bu fıkrada yer alan “demirbaş eşya ile telefon ve diğer teknik
 donanımlarını” ibaresi “telefon ve büro eşyasını” şeklinde değiştirilmiştir.
 
-[127]
+[126]
 10/9/2014 tarihli ve 6552 sayılı Kanunun 113 üncü
 maddesiyle, bu fıkrada yer alan “uygulayarak” ibaresinden sonra gelmek üzere
 “bu madde uyarınca belirlenen sözleşme bedeli karşılığında” ibaresi
 eklenmiştir.
 
-[128]
+[127]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; bu bentte yer alan “denetimleri” ibaresi “kontrolleri” şeklinde
 değiştirilmiştir.
 
-[129]
+[128]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 52 nci
 maddesiyle; bu fıkrada yer alan “Başmüdür, müdür veya vekilleri” ibaresi
 “Gümrük idare amirleri” şeklinde değiştirilmiştir.
 
-[130]
+[129]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
 maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca”
 şeklinde değiştirilmiştir.
 
-[131]
+[130]
 Anayasa Mahkemesinin 27/12/2012 tarihli ve E.:
 2011/139, K.: 2012/205 sayılı Kararı ile bu cümleyi mülga eden 666 sayılı
 KHK’nın 5 inci maddesinin (j) fıkrası iptal edilmiş ve Kararın Resmi Gazete’de
 yayımlandığı 10/10/2013 tarihinden itibaren dokuz ay sonra yürürlüğe gireceği
 hüküm altına alınmıştır.
 
-[132]
+[131]
 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede
 yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de
 yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.:
 2012/205 sayılı Kararı ile iptal edilmiştir.
 
-[133]
+[132]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
 maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca”
 şeklinde değiştirilmiştir.
 
-[134]
+[133]
 
 Anayasa Mahkemesinin 8/10/2025 tarihli ve E.: 2025/136, K.: 2025/200 sayılı
 Kararı ile bu bentte yer alan “gibi yüz kızartıcı suçlar”ibaresi iptal
 edilmiştir.
 
-[135]
+[134]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 9 uncu
 maddesiyle, bu bentte yer alan “üç yıl” ibaresi “bir yıl” şeklinde
 değiştirilmiştir.
 
-[136]
+[135]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 9 uncu
 maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “iki yıl” şeklinde
 değiştirilmiştir.
 
-[137]
+[136]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; bu maddede yer alan “gümrük müfettişi, gümrük müfettiş yardımcısı,
 kontrolör,” ibaresi “gümrük müfettişi, gümrük müfettiş yardımcısı, kontrolör,
 stajyer kontrolör ve” şeklinde değiştirilmiştir.
 
-[138]
+[137]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 7 nci
 maddesiyle, bu maddeye birinci fıkradan sonra gelmek üzere ikinci fıkra
 eklenmeş ve mevcut ikinci fıkra üçüncü fıkra olarak teselsül ettirilmiştir.
 
-[139]
+[138]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 11 inci
 maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “gümrük
 vergisi” ibareleri “ithalat vergileri”, (b) bendinde yer alan “gümrük
@@ -8914,11 +8911,11 @@ vergisine” ibaresi “ithalat vergilerine”, (a), (b) ve (c) bentlerinde yer 
 “gümrük vergisinden” ibareleri “ithalat vergilerinden” şeklinde
 değiştirilmiştir.
 
-[140]
+[139]
 24/10/2019 tarihli ve 7190 sayılı Kanunun 11 inci
 maddesiyle bu fıkrada yer alan “onbeş” ibaresi “on” şeklinde değiştirilmiştir.
 
-[141]
+[140]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 14 üncü
 maddesiyle, bu maddenin birinci fıkrasında yer alan “gümrük vergisi” ibaresi
 “gümrük vergileri” şeklinde değiştirilmiş, birinci ve üçüncü fıkralarında yer
@@ -8928,71 +8925,71 @@ idaresine” ibareleri madde metninden çıkarılmış, üçüncü fıkrasında 
 kamuya geçirilmesine karar verilir, 177 ila 180 inci madde hükümlerine göre
 tasfiyeye tabi tutulur” şeklinde değiştirilmiştir.
 
-[142]
+[141]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 61 inci
 maddesiyle beşinci fıkra eklenmiş ve mevcut beşinci fıkra altıncı fıkra olarak
 teselsül ettirilmiştir.
 
-[143]
+[142]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 61 inci
 maddesiyle; bu fıkrada yer alan “42 ila 45 inci madde” ibaresi “35/A ila 35/C
 madde” olarak değiştirilmiştir.
 
-[144]
+[143]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
 maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
 şeklinde değiştirilmiştir.
 
-[145]
+[144]
 14/2/2019 tarihli ve 7164 sayılı Kanunun 29 uncu
 maddesiyle bu fıkrada yer alan “% 4’ü” ibaresi “%6’yı” şeklinde
 değiştirilmiştir.
 
-[146]
+[145]
 24/10/2019 tarihli ve 7190 sayılı Kanunun 14 üncü
 maddesiyle birinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar
 buna göre teselsül ettirilmiştir.
 
-[147]
+[146]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 16 ncı
 maddesiyle, bu fıkraya “1.” şeklinde fıkra numarası eklenmiştir.
 
-[148]
+[147]
 Anayasa Mahkemesinin 26/3/2026 tarihli ve E.:
 2025/269; K.: 2026/72 sayılı Kararı ile bu fıkrada yer alan “…
 ve bu Kanunda tanınan yetkilere dayanılarak
 çıkarılan ikincil düzenlemelerle getirilen hükümlere…” ibaresi iptal
 edilmiştir.
 
-[149]
+[148]
 17/12/2025 tarihli ve 33110 sayılı Resmi Gazete’de
 yayımlanan Ticaret Bakanlığının 217 seri numaralı Gümrük Genel Tebliği ile bu fıkrada
 yer alan usulsüzlük cezasının 1/1/2026 tarihinden itibaren 1.494,00 TL olarak
 uygulanacağı hüküm altına alınmıştır.
 
-[150]
+[149]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; bu bentte yer alan “gidişlerinden en az üç saat önce sahip veya
 acentası” ibaresi “gidişlerinde yönetmelikle belirlenecek süreler içerisinde
 donatan veya işleten veya acentası” şeklinde değiştirilmiştir.
 
-[151]
+[150]
 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci
 maddesiyle; bu bentte yer alan “42 nci maddeye” ibaresi “35/A maddesine” şeklinde
 değiştirilmiştir.
 
-[152]
+[151]
 28/3/2013 tarihli ve 6455 sayılı Kanunun 17 nci
 maddesiyle, bu bentte yer alan “yanaşması” ibaresinden sonra gelmek üzere “ile
 yükü bulunmadığı durumlarda, yük almadığının veya yükünün başka bir limana
 çıkarıldığının veya avarya olduğunun kanıtlanamaması” ibaresi eklenmiştir.
 
-[153]
+[152]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 126 ncı
 maddesiyle, bu fıkrada yer alan “Gümrük ve Ticaret Bakanlığının teklifi üzerine
 Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-[154]
+[153]
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.:
 2011/139, K.: 2012/205 sayılı Kararı ile 666 sayılı KHK’nin bu maddenin
 yürürlüğünü düzenleyen 8 inci maddesinin birinci fıkrasının (d) bendinde yer
