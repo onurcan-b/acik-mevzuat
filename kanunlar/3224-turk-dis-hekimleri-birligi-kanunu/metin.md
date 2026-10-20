@@ -959,8 +959,8 @@ tarafından verilen İlçe Seçim Kurulu mühürünü taşıyan ve adayları gö
 listedeki isimlerin karşısına seçilecek organın asıl üyeleri kadarı işaretlenip
 İlçe Seçim Kurulu mühürünü taşıyan zarflara konularak kullanılır. Bunların
 dışındaki kağıtlara yazılan veya seçilecek organı oluşturan üye sayısından
-fazla adayın işaretlendiği oy pusulaları ile mühürsüz zarflardan çıkan pusulalar
-geçersiz sayılır.
+fazla adayın işaretlendiği oy pusulaları ile mühürsüz zarflardan çıkan
+pusulalar geçersiz sayılır.
 
 Sayım
 ve döküm sırasında en fazla oy alanlar asıl üyeliklere diğerleri de aldıkları
@@ -1000,9 +1000,9 @@ sırasında Seçim Sandık Kurulu Başkanı ve üyelerine karşı işlenen suçl
 memurlarına karşı işlenmiş gibi cezalandırılır.
 
 Seçimlerin
-düzen içerisinde ve sağlıklı biçimde yürütülmesi amacıyla hakimin ve Seçim Sandık
-Kurulunun aldığı tedbirlere uymayanlara eylemlerinin ağırlığına göre bu Kanunda
-yazılı disiplin cezaları verilir.
+düzen içerisinde ve sağlıklı biçimde yürütülmesi amacıyla hakimin ve Seçim
+Sandık Kurulunun aldığı tedbirlere uymayanlara eylemlerinin ağırlığına göre bu
+Kanunda yazılı disiplin cezaları verilir.
 
 Oda ve Birliğin denetimi,
 organlarının görevlerine son verilmesi
@@ -1124,8 +1124,8 @@ Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.:
 
 Oda Yönetim
 Kurulları her yıl aralık ayı içinde, diş hekimlerinin uygulayacakları muayene
-ve tedavi ücretlerine ilişkin bir rehber tarife hazırlayarak Birlik Merkez Yönetim
-Kuruluna gönderirler.
+ve tedavi ücretlerine ilişkin bir rehber tarife hazırlayarak Birlik Merkez
+Yönetim Kuruluna gönderirler.
 
 Birlik Merkez Yönetim Kurulu, rehber tarife tekliflerini
 aynen veya gerekli gördüğü değişiklikleri yaparak tasdik eder ve bu tarifeleri
@@ -1183,55 +1183,12 @@ kayıtları ve sicil cüzdanlarındaki bilgi ve değişiklikleri Birliğe bildir
 
 Disiplin cezaları
 
-[7]
-
 Madde
 44
 –
-Diş hekimliği vakar ve onuruna veya meslek düzen ve geleneklerine uymayan fiil
-ve hareketlerde bulunanlar ile mesleğini gereği gibi uygulamayan veya kusurlu
-olarak uygulayan veyahut görevin gerektirdiği güveni sarsıcı davranışlarda
-bulunan meslek mensupları hakkında; fiil ve hareketin niteliği ve ağırlık
-derecesine göre aşağıdaki disiplin cezaları verilir.
 
-a)
-Uyarma; diş hekimine görevinde ve davranışlarında daha dikkatli davranması
-gerektiğinin yazı ile bildirilmesidir.
-
-b)
-Kınama; diş hekimine görevinde ve davranışlarında kusurlu sayıldığının yazı ile
-bildirilmesidir.
-
-c)
-Para cezası; bölgesinde o yıl uygulanan asgari muayene ücretinin on katından az
-elli katından fazla olmamak üzere verilecek para cezalarıdır.
-
-d) Oda bölgesinde bir aydan altı aya kadar serbest meslek
-uygulamasından alıkonmadır.
-
-e)
-Oda bölgesinde iki defa serbest meslek uygulamasından alıkonma cezası alanların
-Oda bölgesi içinde serbest meslek uygulamasından sürekli olarak alıkonmasıdır.
-
-Cezai
-takibat ve hüküm tesisi disiplin soruşturması yapılmasına ve disiplin cezası
-uygulanmasına engel değildir.
-
-Meslek
-mensubu hakkında savunma alınmadan disiplin cezası verilemez. Tebligata rağmen
-onbeş gün içinde savunmasını yapmayanlar savunma hakkından vazgeçmiş
-sayılırlar.
-
-Disiplin
-cezaları kesinleşme tarihinden itibaren uygulanır.
-
-Disiplin
-cezalarını gerektiren fiiller ve bu fiillere uygulanacak disiplin cezaları; bir
-derece ağır veya hafif disiplin cezalarının uygulanacağı haller; disiplin
-kovuşturması yapılması konusunda karar verecek merci; disiplin cezalarını
-vermeye yetkili merciler; disiplin cezalarına karşı yapılacak itirazın usul ve
-şartları; disiplin kurullarının çalışma usul ve esasları; disiplinle ilgili
-diğer işlemler Birlikçe düzenlenecek bir yönetmelikle gösterilir.
+(İptal: Anayasa Mahkemesinin 6/11/2025 tarihli ve E.: 2025/232; K.: 2025/216
+sayılı Kararı ile.)
 
 Ceza Hükümleri
 
@@ -1264,7 +1221,7 @@ dördüncü fıkrası ile
 42 nci maddesine
 uymayanlara mahallî mülkî amir tarafından bin Türk
 Lirası idarî para cezası verilir.
-[8]
+[7]
 
 Yönetmelik
 
@@ -1294,11 +1251,11 @@ Madde 1 –
 Bu Kanuna göre seçilmeye engel bir hali olmayan diş
 hekimleri, oda kurucusu olmak istedikleri takdirde, Kanunun yürürlük tarihinden
 itibaren üç ay içinde, mesleklerini icra etmekte oldukları illerin
-valiliklerine başvurarak birer kuruculuk belgesi alırlar. Üç ayın bitiminde
-valilikler kuruculuk belgesi verdikleri diş hekimlerinin listesini Bakanlığa
-gönderirler. Listelerin gönderilmesini takip eden bir ay içinde kurucu üyeler
-Bakanlığın tespit edeceği il merkezlerinde valilerin başkanlığında toplanarak
-beş diş hekiminden oluşan birer geçici yönetim kurulu seçerler.
+valiliklerine başvurarak birer kuruculuk belgesi alırlar. Üç ayın bitiminde valilikler
+kuruculuk belgesi verdikleri diş hekimlerinin listesini Bakanlığa gönderirler.
+Listelerin gönderilmesini takip eden bir ay içinde kurucu üyeler Bakanlığın
+tespit edeceği il merkezlerinde valilerin başkanlığında toplanarak beş diş
+hekiminden oluşan birer geçici yönetim kurulu seçerler.
 
 Bu
 Kanunun 4 üncü maddesinin birinci fıkrası kapsamına giren illerdeki geçici
@@ -1338,8 +1295,8 @@ Geçici Madde 4 –
 
 Odalar, bu Kanunun
 yürürlüğe girmesinden sonraki üç ay içinde Oda Genel Kurulunu toplayarak Birlik
-Genel Kurulu delegelerini seçerler. Seçilen delegelerin görev süresi bir sonraki
-Oda Genel Kuruluna kadardır.
+Genel Kurulu delegelerini seçerler. Seçilen delegelerin görev süresi bir
+sonraki Oda Genel Kuruluna kadardır.
 
 Yürürlük
 
@@ -1448,6 +1405,16 @@ başladığı tarihte (9/7/2018)
 
 5/12/2018
 
+Anayasa
+Mahkemesinin 6/11/2025 tarihli ve E.: 2025/232; K.: 2025/216 sayılı Kararı
+
+44
+
+yayımlanmasından
+başlayarak dokuz ay sonra
+
+(14/10/2026)
+
 [1]
 2/7/2018 tarihli ve 700 sayılı KHK’nin 100 üncü
 maddesiyle, bu fıkranın (d) bendinde yer alan “, tüzük ve yönetmeliklere”
@@ -1486,13 +1453,6 @@ maddesiyle bu madde başlığı “İkinci görev yasağı ve bildirim zorunlulu
 metne işlendiği şekilde değiştirilmiştir.
 
 [7]
-
-Anayasa Mahkemesinin 6/11/2025 tarihli ve
-E.: 2025/232; K.: 2025/216 sayılı Kararı ile bu madde iptal edilmiştir. Bu
-Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (14/10/2026)
-yürürlüğe girer.
-
-[8]
 15/11/2018 tarihli ve 7151 sayılı Kanunun 19 uncu
 maddesiyle bu maddede yer alan “42 nci maddesinin birinci ve dördüncü
 fıkralarındaki hükümlere” ibaresi “42 nci maddesine” şeklinde değiştirilmiştir.
