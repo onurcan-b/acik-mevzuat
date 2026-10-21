@@ -185,11 +185,9 @@ verilmesi amacıyla faaliyet gösterir.
 Millî Savunma Bakanı tarafından üç yıllığına atanır. Süresi biten Yabancı
 Diller Yüksekokulu Müdürü yeniden atanabilir.
 
-(3) Millî Savunma Üniversitesine bağlı
-olarak kurulan Yabancı Diller Yüksekokulunun teşkilatlanması, görev ve
-sorumlulukları, eğitim, öğretim, araştırma faaliyetleri ile öğretim elemanları
-ve öğrencileri ile ilgili esaslar çıkarılacak yönetmelikte düzenlenir.
-[3]
+(3)
+(İptal fıkra: Anayasa Mahkemesinin 8/10/2025
+tarihli ve E.: 2024/149, K.: 2025/194 sayılı Kararı ile.)
 
 Öğretim elemanlarının hakları
 
@@ -208,7 +206,7 @@ Milli Savunma Üniversitesine bağlı harp okulları, astsubay
 meslek yüksekokulları, Yabancı Diller Yüksekokulu ve enstitülerde atamalı veya görevli
 sivil öğretim elemanlarına almakta oldukları brüt üniversite ödeneğinin %30’u oranında
 ayrıca ödeme yapılır. Bu ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz.
-[4]
+[3]
 
 (2) Enstitülerde ve Yabancı Diller
 Yüksekokulunda görevli asker öğretim elemanlarının özlük haklarına ilişkin ödemelerde
@@ -220,7 +218,7 @@ hangisi fazla ise o ödenir. Öğretim elemanlarından 28/2/1982 tarihli ve 2629
 Kanundan istifade edenlerin, anılan Kanuna göre ödenen tazminatlarının, Türk Silahlı
 Kuvvetleri hizmet tazminatı ile üniversite ödeneğinden fazla olması halinde, tazminat
 ödemeleri 2629 sayılı Kanun hükümlerine göre ödenir.
-4
+3
 
 (3) Rektör, rektör yardımcıları, enstitü
 müdürleri ve Yabancı Diller Yüksekokulu Müdürüne ayrıca 2914 sayılı Yükseköğretim
@@ -228,7 +226,7 @@ Personel Kanununun 13 üncü maddesine göre idari görev ödeneği verilir. Bu 
 Türk Silahlı Kuvvetleri sosyal tesislerinden ve kamu konutlarından görevlendirildikleri
 kadro derecesindeki subaylar gibi istifade ederler, askeri personel ile aralarındaki
 protokol münasebetlerinin düzenlenmesinde de aynı esas uygulanır.
-4
+3
 
 (4) Haftalık okutulması mecburi ders yükü dışında,
 öğretim elemanlarına, Üniversite rektörlüğünce belirlenecek esaslar çerçevesinde,
@@ -471,7 +469,7 @@ tespit edilen personelin Türk Silahlı Kuvvetleri, Sağlık Bilimleri Üniversi
 diğer yükseköğretim kurumları ile Sağlık Bakanlığı ve bağlı kuruluşlarına devrine
 ilişkin usul ve esaslar ile devre ilişkin diğer hususları belirlemeye Cumhurbaşkanı
 yetkilidir.
-[5]
+[4]
 
 (2) Devredilen personelin atanacağı kadrolar,
 başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas
@@ -774,8 +772,18 @@ tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile
 
 1/7/2025
 
+Anayasa Mahkemesinin 8/10/2025
+tarihli ve E.: 2024/149, K.: 2025/194 sayılı Kararı
+
+7/A
+
+yayımlanmasından başlayarak dokuz
+ay sonra
+
+(16/10/2026)
+
 (I) SAYILI CETVEL
-[6]
+[5]
 
 Kadrosu
 
@@ -1083,13 +1091,6 @@ ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurba�
 
 [3]
 
-Anayasa Mahkemesinin 8/10/2025 tarihli ve E.: 2024/149, K.:
-2025/194 sayılı Kararı ile bu fıkra iptal edilmiştir. Kararın Resmî Gazete’de
-yayımlanmasından başlayarak dokuz ay sonra (16/10/2026) yürürlüğe gireceği
-hüküm altına alınmıştır.
-
-[4]
-
 12/6/2024
 tarihli ve 7517 sayılı Kanunun 55 inci maddesi ile birinci fıkrada yer alan
 “rektör yardımcıları ve enstitü müdürleri ile enstitülerde görevli öğretim
@@ -1102,12 +1103,12 @@ Diller Yüksekokulunda görevli” şeklinde, üçüncü fıkrada yer alan “re
 yardımcıları ve enstitü müdürlerine” ibaresi “rektör yardımcıları, enstitü
 müdürleri ve Yabancı Diller Yüksekokulu Müdürüne” şeklinde değiştirilmiştir.
 
-[5]
+[4]
 2/7/2018 tarihli ve 703 sayılı KHK’nin 160
 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
 şeklinde değiştirilmiştir.
 
-[6]
+[5]
 Bu cetveldeki bazı kadro unvanlarında yapılan
 değişiklikler için bu KHK’ye 7100 sayılı Kanunla eklenen Geçici Madde 2’ye
 bakınız.
