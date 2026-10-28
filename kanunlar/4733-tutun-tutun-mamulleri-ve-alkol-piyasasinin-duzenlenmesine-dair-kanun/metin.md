@@ -648,7 +648,9 @@ uncu maddesinin birinci fıkrasının (1), (2) ve (3) numaralı bentlerinde say�
 türden teminat almaya, mükelleflerin; faaliyet alanı, bu konuda yaptıkları
 faaliyete ilişkin süre, talep ettiği belge, işlem türü ve üretim kapasiteleri
 hususlarını birlikte veya ayrı ayrı dikkate alarak, teminatın;
-verilmesi gereken zamanı, türünü, tutarını, iadesi ile tamamlanmasına ilişkin
+verilmesi gereken zamanı, türünü, tutarını, (…)
+[29]
+tamamlanmasına ilişkin
 hususları belirlemeye, teminat tutarını izin belgelerinin türleri itibarıyla
 farklılaştırmaya, ilk defa işe başlayanlar ile faaliyetine devam edenler
 açısından farklı teminat tutarı belirlemeye, teminat tutarını sıfıra kadar
@@ -658,7 +660,6 @@ değerleme oranına kadar, takvim yılı başından geçerli olmak üzere artır
 hangi hâllerde teminat aranılmayacağını ve uygulamaya ilişkin diğer usul ve
 esasları Hazine ve Maliye Bakanlığının görüşünü alarak belirlemeye Tarım ve
 Orman Bakanlığı yetkilidir.
-[29]
 
 Bu
 Kanun kapsamında izin, uygunluk ve yetki belgesine tabi faaliyetlerde
@@ -840,12 +841,12 @@ Madde 7-
 
 (Ek: 20/11/2017-KHK-696/81 md.; Aynen kabul: 1/2/2018-7079/76 md.)
 
-Tütün ve Alkol Piyasası Düzenleme Kurumu bu
-maddenin yürürlüğe girdiği tarihte kapatılmıştır. Kapatılan Kurumun
-kullanılmayan ödenekleri iptal edilmiş sayılır. Kapatılan Kurumun gerekli her
-türlü bütçe ve muhasebe işlemleri ile ilgili tereddütleri gidermeye Maliye
-Bakanlığı yetkilidir. Kapatılan Kurumca yapılan işlemler, ilgili idarelerce
-yeni bir işlem yapılıncaya kadar geçerliliğini korur.
+Tütün ve Alkol Piyasası Düzenleme Kurumu bu maddenin
+yürürlüğe girdiği tarihte kapatılmıştır. Kapatılan Kurumun kullanılmayan
+ödenekleri iptal edilmiş sayılır. Kapatılan Kurumun gerekli her türlü bütçe ve
+muhasebe işlemleri ile ilgili tereddütleri gidermeye Maliye Bakanlığı
+yetkilidir. Kapatılan Kurumca yapılan işlemler, ilgili idarelerce yeni bir
+işlem yapılıncaya kadar geçerliliğini korur.
 
 Bu maddenin yürürlüğe girdiği
 tarihte kapatılan Kuruma ait;
@@ -863,14 +864,15 @@ elinde bulunan nakit ve benzeri değerler aynı tarih itibarıyla genel bütçey
 kaydedilmek üzere Gıda, Tarım ve Hayvancılık Bakanlığı merkez muhasebe birimi hesabına
 aktarılır.
 
-Kapatılan Kurumun mülkiyetinde bulunan taşınmazlar tapuda resen Hazine
-adına tescil edilerek tahsis amacında kullanılmak üzere Gıda, Tarım ve Hayvancılık
-Bakanlığına tahsis edilebilir.
+Kapatılan
+Kurumun mülkiyetinde bulunan taşınmazlar tapuda resen Hazine adına tescil edilerek
+tahsis amacında kullanılmak üzere Gıda, Tarım ve Hayvancılık Bakanlığına tahsis
+edilebilir.
 
 Kapatılan Kurum tarafından yapılmış olan sözleşmelere,
-
-ilgili idare halef olur. Kurumun taraf olduğu davalar ve icra takiplerinde
-devir durumuna göre ilgili idare kendiliğinden taraf sıfatını kazanır.
+ilgili idare halef
+olur. Kurumun taraf olduğu davalar ve icra takiplerinde devir durumuna göre ilgili
+idare kendiliğinden taraf sıfatını kazanır.
 
 Bu madde uyarınca yapılacak devre ilişkin işlemler harçlardan
 ve bu işlemlerle ilgili olarak düzenlenecek k
@@ -886,8 +888,8 @@ uygulanmasına devam olunur.
 
 Geçici Madde 8-
 
-(Ek:
-20/11/2017-KHK-696/81 md.; Aynen kabul: 1/2/2018-7079/76 md.)
+(Ek: 20/11/2017-KHK-696/81 md.;
+Aynen kabul: 1/2/2018-7079/76 md.)
 
 Bu maddenin yürürlüğe girdiği tarihte Tütün ve Alkol Piyasası Düzenleme Kurumunda
 görev yapmakta olan personelden;
@@ -1211,16 +1213,26 @@ tarihli ve E.: 2024/54, K.: 2025/163 sayılı Kararı
 Kararın Resmî Gazete’de
 yayımlanmasından başlayarak dokuz ay sonra (9/9/2026)
 
+Anayasa Mahkemesinin 8/10/2025
+tarihli ve E.: 2024/218, K.: 2025/202 sayılı Kararı
+
+8/A
+
+Yayımlanmasından başlayarak dokuz
+ay sonra
+
+(20/10/2026)
+
 [1]
 Bu Kanunun adı “Tütün, Tütün Mamulleri, Tuz ve Alkol
 İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması İle Tütün ve Tütün
 Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233
-Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun” iken,
-3/4/2008 tarihli ve 5752 sayılı Kanunun 6 ncı maddesiyle Tütün Ve Alkol
-Piyasası Düzenleme Kurumu Teşkilat Ve Görevleri Hakkında Kanun şeklinde, daha
-sonra 20/11/2017 tarihli ve 696 sayılı KHK’nin 76 ncı maddesiyle metne
-işlendiği şekilde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079
-sayılı Kanunun 71 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun” iken, 3/4/2008
+tarihli ve 5752 sayılı Kanunun 6 ncı maddesiyle Tütün Ve Alkol Piyasası
+Düzenleme Kurumu Teşkilat Ve Görevleri Hakkında Kanun şeklinde, daha sonra
+20/11/2017 tarihli ve 696 sayılı KHK’nin 76 ncı maddesiyle metne işlendiği
+şekilde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı
+Kanunun 71 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 
 [2]
 20/11/2017 tarihli ve 696 sayılı KHK’nin 77 nci
@@ -1421,11 +1433,9 @@ bentlerinde” şeklinde değiştirilmiştir.
 
 [29]
 
-Anayasa
-Mahkemesinin 8/10/2025 tarihli ve E.: 2024/218, K.: 2025/202 sayılı Kararı ile
-bu fıkrada yer alan ”iadesi ile” ibaresi iptal edilmiştir. Bu Karar Resmî
-Gazete’de yayımlanmasından başlayarak dokuz ay sonra (20/10/2026) yürürlüğe
-girer.
+Anayasa Mahkemesinin 8/10/2025 tarihli ve E.:
+2024/218, K.: 2025/202 sayılı Kararı ile bu fıkrada yer alan ”iadesi ile”
+ibaresi iptal edilmiştir.
 
 [30]
 28/11/2017 tarihli ve 7061 sayılı Kanunun 64 üncü
