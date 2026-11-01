@@ -612,9 +612,9 @@ md.)
 (1) Bakanlık, meslek
 kuruluşlarının ve iştiraklerinin her türlü iş, işlem, faaliyet ve hesaplarını
 müfettişler ve kontrolörler aracılığıyla gerektiğinde ve en geç üç yılda bir
-zorunlu olarak denetleme yetkisini haizdir. Meslek kuruluşları denetim
-esnasında her türlü bilgiyi vermek ve belgeyi göstermekle yükümlüdür.
-[5]
+zorunlu olarak denetleme yetkisini haizdir.
+(İptal ikinci cümle: Anayasa
+Mahkemesinin 10/9/2025 tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile.)
 
 (2) Meslek kuruluşlarının
 organ üyeleri ile personeli, görevlerini yerine getirirken görevleriyle ilgili
@@ -623,16 +623,16 @@ hükmündeki evrak, senet ve sair varlıkları ile muhasebe ve muamelata ilişki
 her çeşit defter ve evrak ile ilgili olarak işledikleri suçlardan dolayı kamu
 görevlisi gibi cezalandırılırlar.
 
-(3) Birinci fıkrada
-belirtilen yükümlülüklerini yerine getirmeyen veya ikinci fıkrada belirtilen
-suçlardan dolayı haklarında kovuşturmaya başlanan ya da yapılan denetim
-bakımından görevi başında kalması sakıncalı görülen meslek kuruluşunun
-personeli Bakanlık müfettişinin teklifi üzerine üç ay süre ile Bakanlık
-tarafından geçici olarak görevden uzaklaştırılabilir. Gerekli görülmesi hâlinde
-bir defaya mahsus olmak üzere bu süre Bakanlık tarafından üç ay daha
-uzatılabilir. Görevden uzaklaştırılan personele, uzaklaştırma süresi boyunca
-yapılacak ödemelerin üçte ikisi ödenir.
-[6]
+(3) (…)
+[5]
+ikinci
+fıkrada belirtilen suçlardan dolayı haklarında kovuşturmaya başlanan ya da
+yapılan denetim bakımından görevi başında kalması sakıncalı görülen meslek
+kuruluşunun personeli Bakanlık müfettişinin teklifi üzerine üç ay süre ile
+Bakanlık tarafından geçici olarak görevden uzaklaştırılabilir. Gerekli
+görülmesi hâlinde bir defaya mahsus olmak üzere bu süre Bakanlık tarafından üç
+ay daha uzatılabilir. Görevden uzaklaştırılan personele, uzaklaştırma süresi
+boyunca yapılacak ödemelerin üçte ikisi ödenir.
 
 (4) Bu madde kapsamında görevden
 uzaklaştırılanlar; denetim sırasında veya denetimin tamamlanmasından sonra
@@ -1024,10 +1024,12 @@ md.)
 
 (1) Turist rehberliği
 niteliğindeki hizmet, faaliyet ve bunlara yönelik sözleşmeler, turist
-rehberlerinin disiplin, sicil ve çalışma kartlarına ilişkin hususlar ile
-meslekte uzmanlığa yönelik kurs, seminer ve eğitim programları birlik
-tarafından çıkarılan yönetmelik ile düzenlenir.
-[7]
+rehberlerinin (…)
+[6]
+
+sicil ve çalışma kartlarına ilişkin hususlar ile meslekte uzmanlığa yönelik
+kurs, seminer ve eğitim programları birlik tarafından çıkarılan yönetmelik ile
+düzenlenir.
 
 (2) Bakanlığın meslek
 kuruluşları üzerindeki idari ve mali denetimine ilişkin usul ve esaslar ile bu
@@ -1198,6 +1200,13 @@ Madde 6
 
 27/4/2024
 
+Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2024/125, K.:
+2025/178 sayılı Kararı
+
+9, 12
+
+yayımlanmasından başlayarak dokuz ay sonra (20/10/2026)
+
 [1]
 
 17/4/2024 tarihli ve 7500 sayılı Kanunun 3 üncü maddesi ile bu alt bentte yer
@@ -1230,22 +1239,13 @@ en geç üç gün içinde Cumhuriyet savcılığına bildirilir” ibaresi madde
 
 [5]
 
-Anayasa Mahkemesinin 10/9/2025
-tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile bu fıkranın ikinci
-cümlesi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak
-dokuz ay sonra (20/10/2026) yürürlüğe girer.
+Anayasa
+Mahkemesinin 10/9/2025 tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile
+bu fıkrada yer alan “Birinci fıkrada belirtilen yükümlülüklerini yerine
+getirmeyen veya” ibaresi iptal edilmiştir.
 
 [6]
 
-Anayasa Mahkemesinin 10/9/2025
-tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile bu fıkrada yer alan
-“Birinci fıkrada belirtilen yükümlülüklerini yerine getirmeyen veya” ibaresi
-iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay
-sonra (20/10/2026) yürürlüğe girer.
-
-[7]
-
-Anayasa Mahkemesinin 10/9/2025
-tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile bu fıkrada yer alan
-“disiplin,” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından
-başlayarak dokuz ay sonra (20/10/2026) yürürlüğe girer.
+Anayasa
+Mahkemesinin 10/9/2025 tarihli ve E.: 2024/125, K.: 2025/178 sayılı Kararı ile
+bu fıkrada yer alan “disiplin,” ibaresi iptal edilmiştir.
