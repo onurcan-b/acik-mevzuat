@@ -2097,7 +2097,7 @@ Zorunlu depozito uygulamasına tabi
 tutulan ürünlerin üreticileri, ithalatçıları ve piyasaya sürenleri ile depozito
 kapsamındaki ürünleri tüketicilere/kullanıcılara sunan toptan ya da perakende
 satış birimleri; depozito sisteminin kurulması, işletilmesi ve izlenmesine
-yönelik idari, mali ve istem yükümlülüklerini yerine getirmek zorundadırlar.
+yönelik idari, mali ve teknik yükümlülüklerini yerine getirmek zorundadırlar.
 
 Poşet ücreti:
 
@@ -2363,12 +2363,13 @@ GERİ
 KAZANIM KATILIM PAYI TUTARI
 [52]
 
-Ürün Cinsi
+Ürün
+Cinsi
 
 Tutar
 
-Plastik poşet (Plastik
-alışveriş torbaları)
+Plastik poşet (Plastik alışveriş
+torbaları)
 
 15 kr./adet
 (107 kr./adet)
@@ -2376,21 +2377,20 @@ alışveriş torbaları)
 
 Lastik (Binek araç)
 
-2
-TL/adet
-(33 TL/adet)
+2 TL/adet
+(33
+TL/adet)
 53
 
-Lastik (Otobüs, kamyon,
-kamyonet, yükleyici ve kazıcı lastikleri ve diğerleri)
+Lastik (Otobüs, kamyon, kamyonet,
+yükleyici ve kazıcı lastikleri ve diğerleri)
 
-4
-TL/adet
-(70 TL/adet)
+4 TL/adet
+(70
+TL/adet)
 53
 
-Lastik (İş makinası
-lastikleri)
+Lastik (İş makinası lastikleri)
 
 10 TL/adet
 (170 TL/adet)
@@ -2399,20 +2399,17 @@ lastikleri)
 Dolgu lastikler
 
 5 TL/adet
-(80
-TL/adet)
+(80 TL/adet)
 53
 
-Akümülatör (Kurşun
-asitli olanlar)
+Akümülatör (Kurşun asitli olanlar)
 
 20 kr./kg
-(330
-kr/kg)
+(330 kr/kg)
 53
 
-Akümülatör (Nikel
-kadmiyumlu olanlar)
+Akümülatör (Nikel kadmiyumlu
+olanlar)
 
 50 kr./ kg
 (800 kr/kg)
@@ -2430,8 +2427,7 @@ Akümülatör (Diğerleri)
 (33 TL/kg)
 53
 
-Alkali silindirik
-piller
+Alkali silindirik piller
 
 2 TL/kg
 (33 TL/kg)
@@ -2443,8 +2439,8 @@ Alkali düğme piller
 (53 TL/kg)
 53
 
-Düğme piller çinko-hava
-ve gümüş oksitli
+Düğme piller çinko-hava ve gümüş
+oksitli
 
 10 TL/kg
 (170 TL/kg)
@@ -2463,15 +2459,14 @@ silindirik şarjlı ve primer pil çeşitleri (Araç bataryaları hariç)
 (80 TL/kg)
 53
 
-Otomotiv pilleri
-(Kurşun içerenler hariç)
+Otomotiv pilleri (Kurşun içerenler
+hariç)
 
 15 TL/kg
 (250 TL/kg)
 53
 
-Lityum içeren araç
-bataryaları
+Lityum içeren araç bataryaları
 
 15 TL/kg
 (250 TL/kg)
@@ -2486,65 +2481,60 @@ Diğer şarjlı piller
 Madeni yağ
 
 50 kr./kg
-(800
-kr/kg)
+(800 kr/kg)
 53
 
 Bitkisel yağ
 
 10 kr./kg
-(170
-kr/kg)
+(170 kr/kg)
 
 53
 
-Elektrikli ve elektronik
-eşya: Televizyon/Monitör
-
-20
-kr./kg
-(330 kr/kg)
-53
-
-Elektrikli
-ve elektronik eşya: Bilişim telekomünikasyon ekipmanları (Televizyon ve
-monitörler hariç)
-
-20
-kr./kg
-(330 kr/kg)
-53
-
-Elektrikli ve elektronik
-eşya: Aydınlatma ekipmanları
-
-10 kr./adet
-(170 kr/adet)
-53
-
-Elektrikli ve elektronik
-eşya: Küçük ev aletleri ve diğerleri
+Elektrikli ve elektronik eşya: Televizyon/Monitör
 
 20 kr./kg
 (330
 kr/kg)
 53
 
-Elektrikli
-ve elektronik eşya: Beyaz eşyalar (Buzdolabı/Soğutucular/ İklimlendirme
-cihazları hariç)
+Elektrikli ve
+elektronik eşya: Bilişim telekomünikasyon ekipmanları (Televizyon ve
+monitörler hariç)
 
-25 kr./kg
-(430
+20 kr./kg
+(330
 kr/kg)
 53
 
-Elektrikli
-ve elektronik eşya: Buzdolabı/Soğutucular/İklimlendirme cihazları
+Elektrikli ve elektronik eşya: Aydınlatma
+ekipmanları
 
-30
-kr./kg
-(530 kr/kg)
+10 kr./adet
+(170 kr/adet)
+53
+
+Elektrikli ve elektronik eşya: Küçük
+ev aletleri ve diğerleri
+
+20 kr./kg
+(330 kr/kg)
+53
+
+Elektrikli ve
+elektronik eşya: Beyaz eşyalar (Buzdolabı/Soğutucular/ İklimlendirme
+cihazları hariç)
+
+25 kr./kg
+(430 kr/kg)
+53
+
+Elektrikli ve
+elektronik eşya: Buzdolabı/Soğutucular/İklimlendirme cihazları
+
+30 kr./kg
+(530
+kr/kg)
 53
 
 İlaç
@@ -2972,9 +2962,9 @@ metne işlendiği şekilde değiştirilmiştir.
 29/11/2018 tarihli ve 7153 sayılı Kanunun 2 nci
 maddesiyle bu fıkranın (1) numaralı bendinde yer alan “İnşaat” ibaresi “Yapı”
 şeklinde, “inşaat” ibaresi “yapı” şeklinde, (2) numaralı bendinde yer alan
-“yapı kullanma ruhsatı” ibaresi “yapı kullanma izin belgesi” şeklinde, (3)
-numaralı bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “yapı kullanma
-veya” ibaresi “yapı kullanma izni veya” şeklinde değiştirilmiştir.
+“yapı kullanma ruhsatı” ibaresi “yapı kullanma izin belgesi” şeklinde, (3) numaralı
+bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “yapı kullanma veya”
+ibaresi “yapı kullanma izni veya” şeklinde değiştirilmiştir.
 
 [15]
 24/12/2020 tarihli ve 7261 sayılı Kanunun 13 üncü
@@ -3107,8 +3097,8 @@ maddesiyle bu bentte yer alan “çevre yönetim birimini kurmayanlara” ibares
 “çevre yönetimi hizmeti almayanlardan; çevre yönetim birimini kurmayanlara ya
 da çevre danışmanlık firmalarından hizmet almayanlara” şeklinde, “çevre
 görevlisi bulundurmayanlara ya da Bakanlıkça yetkilendirilmiş firmalardan
-hizmet almayanlara” ibaresi “çevre mühendisi veya Bakanlıkça yetkilendirilen
-kişiyi bulundurmayanlara” şeklinde değiştirilmiştir.
+hizmet almayanlara” ibaresi “çevre mühendisi veya Bakanlıkça yetkilendirilen kişiyi
+bulundurmayanlara” şeklinde değiştirilmiştir.
 
 [36]
 
@@ -3170,8 +3160,7 @@ Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibare
 10/6/2022 tarihli ve 7410 sayılı Kanunun 6 ncı
 maddesiyle bu fıkraya “indirim uygulamaya” ibaresinden sonra gelmek üzere “ve
 ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara,
-yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya” ibaresi
-eklenmiştir.
+yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya” ibaresi eklenmiştir.
 
 [46]
 Bu madde başlığı "İdari makamlara başvurma:"
