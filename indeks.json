@@ -1451,7 +1451,7 @@
       "type": "KANUN",
       "path": "kanunlar/2872-cevre-kanunu",
       "source_mevzuat_id": "103047",
-      "content_sha256": "12ee758534666889a22a38bebbd25632984a451c78105a717569c65ff116e427",
+      "content_sha256": "8c91b9c6264e44d55f822391b80c86f8e1d206a53cd0c927878e29d82f982b01",
       "fetch_status": "ok"
     },
     {
@@ -4466,7 +4466,7 @@
       "type": "KANUN",
       "path": "kanunlar/5102-yuksek-ogrenim-ogrencilerine-burs-kredi-verilmesine-iliskin-kanun",
       "source_mevzuat_id": "103750",
-      "content_sha256": "2ec1e7d920d402911df544403c33e46298caa826513649be0bfd3af72e4f23eb",
+      "content_sha256": "1cfec58467d687a30e926949698e3133402da958d999c0a6c4d64d844f7d1f40",
       "fetch_status": "ok"
     },
     {
@@ -5996,7 +5996,7 @@
       "type": "KANUN",
       "path": "kanunlar/6100-hukuk-muhakemeleri-kanunu",
       "source_mevzuat_id": "103103",
-      "content_sha256": "c70b416a38ba6ecedb8664485a941ae5c03b2150fe99482727ed6e2d0a95556c",
+      "content_sha256": "b056d794a8b8c37ffe3b85dc37c99d939dce5fe4f59983bc5d2efdf57cd4f11f",
       "fetch_status": "ok"
     },
     {

@@ -686,10 +686,9 @@ amacıyla yapıldığı açıkça anlaşılıyorsa.
 hâllerde ret talebi, toplu mahkemelerde reddedilen hâkimin müzakereye katılmasıyla;
 tek hâkimli mahkemelerde ise reddedilen hâkimin kendisi tarafından geri çevrilir.
 
-(3) İlk
-derece mahkemesinin bu kararlarına karşı istinaf yoluna, bölge adliye mahkemesi
-hukuk dairelerinin başkan ve üyeleri hakkındaki kararlarına karşı da temyiz yoluna
-ancak hükümle birlikte başvurulabilir.
+(3) İlk derece mahkemesinin bu kararlarına karşı istinaf yoluna,
+bölge adliye mahkemesi hukuk dairelerinin başkan ve üyeleri hakkındaki kararlarına
+karşı da temyiz yoluna ancak hükümle birlikte başvurulabilir.
 
 Ret
 talebinin incelenmesi
@@ -753,12 +752,12 @@ hükmü uygulanmaz. Bölge adliye mahkemesinin
 bu husustaki kararları kesindir.
 [7]
 
-(3) Ret
-talebinin reddine ilişkin merci kararının bölge adliye mahkemesince uygun bulunmayarak
-kaldırılması veya ret talebinin kabulüne ilişkin merci kararının bölge adliye mahkemesince
-uygun bulunması hâlinde, ret sebebinin doğduğu tarihten itibaren reddedilen hâkimce
-yapılmış olan ve ret talebinde bulunan tarafça itiraz edilen esasa etkili işlemler,
-davaya daha sonra bakacak hâkim tarafından iptal olunur.
+(3) Ret talebinin reddine ilişkin merci kararının bölge adliye
+mahkemesince uygun bulunmayarak kaldırılması veya ret talebinin kabulüne ilişkin
+merci kararının bölge adliye mahkemesince uygun bulunması hâlinde, ret sebebinin
+doğduğu tarihten itibaren reddedilen hâkimce yapılmış olan ve ret talebinde bulunan
+tarafça itiraz edilen esasa etkili işlemler, davaya daha sonra bakacak hâkim tarafından
+iptal olunur.
 
 Ret
 talebine ilişkin kararların temyizi
@@ -768,19 +767,19 @@ MADDE 44-
 kapalı bulunan dava ve işlerde, bölge adliye mahkemesi başkan ve üyelerinin reddine
 ilişkin bölge adliye mahkemesi kararları kesindir.
 
-(2) Esas
-hüküm bakımından temyiz yolu açık bulunan dava ve işlerde ise ret talebi hakkındaki
-karar, (…) tebliği tarihinden itibaren iki hafta içinde temyiz edilebilir. Bu hâlde
-347 nci madde hükmü uygulanmaz. Yargıtayın bu husustaki kararı kesindir
+(2) Esas hüküm bakımından temyiz yolu açık bulunan dava ve işlerde
+ise ret talebi hakkındaki karar, (…) tebliği tarihinden itibaren iki hafta içinde
+temyiz edilebilir. Bu hâlde 347 nci madde hükmü uygulanmaz. Yargıtayın bu husustaki
+kararı kesindir
 .
 [8]
 
-(3) Bölge
-adliye mahkemesi hâkiminin reddine ilişkin talebin reddi konusundaki kararın temyizi
-üzerine Yargıtayca bozulması veya ret talebinin kabulüne ilişkin kararın Yargıtayca
-onanması hâlinde, ret sebebinin doğduğu tarihten itibaren reddedilen hâkimce yapılmış
-olan ve ret talebinde bulunan tarafça itiraz edilen esasa ilişkin işlemler, davaya
-daha sonra bakacak olan bölge adliye mahkemesi tarafından iptal olunur.
+(3) Bölge adliye mahkemesi hâkiminin reddine ilişkin talebin reddi
+konusundaki kararın temyizi üzerine Yargıtayca bozulması veya ret talebinin kabulüne
+ilişkin kararın Yargıtayca onanması hâlinde, ret sebebinin doğduğu tarihten itibaren
+reddedilen hâkimce yapılmış olan ve ret talebinde bulunan tarafça itiraz edilen
+esasa ilişkin işlemler, davaya daha sonra bakacak olan bölge adliye mahkemesi tarafından
+iptal olunur.
 
 Zabıt
 kâtibinin yasaklılığı ve reddi
@@ -1846,13 +1845,12 @@ Davanın Açılması
 
 Davanın açılma zamanı
 
-MADDE
-118-
-(1) Dava, dava dilekçesinin kaydedildiği tarihte açılmış sayılır. Dava
-dilekçesine davalı sayısı kadar örnek eklenir.
+MADDE 118-
+(1) Dava, dava dilekçesinin kaydedildiği tarihte
+açılmış sayılır. Dava dilekçesine davalı sayısı kadar örnek eklenir.
 
-(2)
-Dava dilekçesinin kaydına ilişkin usul ve esaslar yönetmelikte belirlenir.
+(2) Dava dilekçesinin kaydına ilişkin usul ve esaslar yönetmelikte
+belirlenir.
 
 Dava
 dilekçesinin içeriği
@@ -2984,20 +2982,20 @@ taraflara tahkikatın tümü hakkında açıklama yapabilmeleri için söz verir
 tahkikatın tümü hakkındaki açıklamalarından sonra, tahkikatı gerektiren bir husus
 kalmadığını görürse, tahkikatın bittiğini taraflara tefhim eder.
 
-Toplu mahkemelerde tahkikatın
-sona ermesi
+Toplu mahkemelerde
+tahkikatın sona ermesi
 
 MADDE 185-
 (1) Toplu mahkemelerde, tahkikatı yapmakla
 görevlendirilen hâkim, tahkikatın tamamlandığı kanaatine varırsa, tarafların davanın
 tümü hakkında açıklama yapabilmeleri için dosyayı mahkeme başkanına verir.
 
-(2) Toplu mahkeme, gerçeğin ortaya çıkması için gerekli
-görürse tahkikat için görevlendirilen hâkim tarafından dinlenen tanıkları ve bilirkişiyi
-tekrar çağırıp dinleyebileceği gibi, davanın maddi vakıaları hakkında gösterilen
-ve mahkemeye verilememiş veya getirtilmemiş olan delillerin verilmesini veya getirtilmesini
-de kararlaştırabilir. Kurul, eksik gördüğü tahkikatı kendisi tamamlayabileceği gibi
-hâkimlerden birine de verebilir.
+(2) Toplu mahkeme, gerçeğin ortaya
+çıkması için gerekli görürse tahkikat için görevlendirilen hâkim tarafından dinlenen
+tanıkları ve bilirkişiyi tekrar çağırıp dinleyebileceği gibi, davanın maddi vakıaları
+hakkında gösterilen ve mahkemeye verilememiş veya getirtilmemiş olan delillerin
+verilmesini veya getirtilmesini de kararlaştırabilir. Kurul, eksik gördüğü tahkikatı
+kendisi tamamlayabileceği gibi hâkimlerden birine de verebilir.
 
 (3)
 
@@ -5617,56 +5615,49 @@ BİRİNCİ BÖLÜM
 
 İstinaf
 
-İstinaf
-yoluna başvurulabilen kararlar
+İstinaf yoluna başvurulabilen kararlar
 [44]
 
 MADDE 341-
 (1)
-
 (Değişik:22/7/2020-7251/34 md.)
-İlk derece mahkemelerinin aşağıdaki kararlarına
-karşı istinaf yoluna başvurulabilir:
+İlk derece mahkemelerinin
+aşağıdaki kararlarına karşı istinaf yoluna başvurulabilir:
 
 a) Nihai kararlar.
 
-b) İhtiyati tedbir ve
-ihtiyati haciz taleplerinin reddi kararları, karşı tarafın yüzüne karşı verilen
-ihtiyati tedbir ve ihtiyati haciz kararları, karşı tarafın yokluğunda verilen ihtiyati
-tedbir ve ihtiyati haciz kararlarına karşı yapılan itiraz üzerine verilen kararlar.
+b) İhtiyati tedbir ve ihtiyati haciz taleplerinin reddi kararları, karşı tarafın
+yüzüne karşı verilen ihtiyati tedbir ve ihtiyati haciz kararları, karşı tarafın
+yokluğunda verilen ihtiyati tedbir ve ihtiyati haciz kararlarına karşı yapılan itiraz
+üzerine verilen kararlar.
 
-(2)
-Miktar veya değeri üç bin Türk Lirasını geçmeyen malvarlığı davalarına ilişkin
-kararlar kesindir.
-(Ek cümle: 24/11/2016-6763/41 md.)
-Ancak manevi tazminat davalarında verilen kararlara karşı, miktar
-veya değere bakılmaksızın istinaf yoluna başvurulabilir.
+(2) Miktar veya değeri üç bin Türk Lirasını geçmeyen
+malvarlığı davalarına ilişkin kararlar kesindir.
+(Ek cümle: 24/11/2016-6763/41
+md.)
+Ancak manevi tazminat davalarında verilen kararlara
+karşı, miktar veya değere bakılmaksızın istinaf yoluna başvurulabilir.
 [45]
 
-(3)
-Alacağın bir kısmının dava edilmiş olması durumunda
-üç
-bin
-Türk Liralık
+(3) Alacağın bir kısmının dava edilmiş olması durumunda
+üç bin
 
+Türk Liralık
 kesinlik sınırı alacağın tamamına göre belirlenir.
 
-(4)
-Alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul edilmeyen
-bölümü
+(4) Alacağın tamamının dava edilmiş olması durumunda, kararda
+asıl talebinin kabul edilmeyen bölümü
 üç bin
 Türk Lirasını
-geçmeyen taraf, istinaf yoluna
-başvuramaz.
+geçmeyen
+taraf, istinaf yoluna başvuramaz.
 
-(5)
-İlk derece mahkemelerinin diğer kanunlarda temyiz edilebileceği veya haklarında
-Yargıtaya başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin görev
-alanına giren dava ve işlere ilişkin nihai kararlarına karşı, bölge adliye mahkemelerine
-başvurulabilir.
+(5) İlk derece mahkemelerinin diğer kanunlarda temyiz edilebileceği
+veya haklarında Yargıtaya başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin
+görev alanına giren dava ve işlere ilişkin nihai kararlarına karşı, bölge adliye
+mahkemelerine başvurulabilir.
 
-İstinaf
-dilekçesi
+İstinaf dilekçesi
 
 MADDE 342-
 (1) İstinaf yoluna başvurma, dilekçeyle
@@ -5824,8 +5815,7 @@ anlaşılırsa, bölge adliye mahkemesince, 329 uncu madde hükümleri uygulanı
 
 Ön inceleme
 
-MADDE
-352- (Değişik: 20/7/2017-7035/28 md.)
+MADDE 352- (Değişik: 20/7/2017-7035/28 md.)
 
 (1) Bölge adliye mahkemesi hukuk dairesince dosya üzerinde
 yapılacak ön inceleme sonunda aşağıdaki durumlardan birinin tespiti hâlinde öncelikle
@@ -5845,450 +5835,397 @@ d) Başvuru sebeplerinin veya gerekçesinin hiç gösterilmemesi
 (2) Ön inceleme heyetçe veya görevlendirilecek bir üye
 tarafından yapılır ve ön inceleme sonunda karar heyetçe verilir.
 
-(3)
-Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
+(3) Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
 
 Duruşma yapılmadan verilecek kararlar
 [48]
 
-MADDE
-353-
-(1) Ön inceleme sonunda dosyada eksiklik bulunmadığı anlaşılırsa;
+MADDE 353-
+(1) Ön inceleme sonunda dosyada eksiklik bulunmadığı
+anlaşılırsa;
 
-a)
-Aşağıdaki durumlarda bölge adliye mahkemesi, esası incelemeden kararın kaldırılmasına
-ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye veya kendi yargı
-çevresinde uygun göreceği başka bir yer mahkemesine ya da görevli ve yetkili mahkemeye
-gönderilmesine duruşma yapmadan kesin olarak karar verir:
+a) Aşağıdaki durumlarda bölge adliye mahkemesi, esası incelemeden
+kararın kaldırılmasına ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye
+veya kendi yargı çevresinde uygun göreceği başka bir yer mahkemesine ya da görevli
+ve yetkili mahkemeye gönderilmesine duruşma yapmadan kesin olarak karar verir:
 
-1)
-Davaya bakması yasak olan hâkimin karar vermiş olması.
+1) Davaya bakması yasak olan hâkimin karar vermiş olması.
 
-2)
-İleri sürülen haklı ret talebine rağmen reddedilen hâkimin davaya bakmış olması.
+2) İleri sürülen haklı ret talebine rağmen reddedilen hâkimin
+davaya bakmış olması.
 
-3)
-Mahkemenin görevli ve yetkili olmasına rağmen görevsizlik veya yetkisizlik kararı
-vermiş olması veya mahkemenin görevli ya da yetkili olmamasına rağmen davaya bakmış
-bulunması (…)
+3) Mahkemenin görevli ve yetkili olmasına rağmen görevsizlik veya
+yetkisizlik kararı vermiş olması veya mahkemenin görevli ya da yetkili olmamasına
+rağmen davaya bakmış bulunması (…)
 48
 
-4)
-Diğer dava şartlarına aykırılık bulunması.
+4) Diğer dava şartlarına aykırılık bulunması.
 
-5)
-Mahkemece usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına,
-davaların birleştirilmesine veya ayrılmasına, (…)
+5) Mahkemece usule aykırı olarak davanın veya karşı davanın açılmamış
+sayılmasına, davaların birleştirilmesine veya ayrılmasına, (…)
 48
 karar verilmiş olması.
 
 6)
-
 (Değişik:22/7/2020-7251/35 md.)
-Mahkemece, uyuşmazlığın çözümünde etkili
-olabilecek ölçüde önemli delillerin toplanmamış veya değerlendirilmemiş olması ya
-da talebin önemli bir kısmı hakkında karar verilmemiş olması.
+Mahkemece, uyuşmazlığın
+çözümünde etkili olabilecek ölçüde önemli delillerin toplanmamış veya değerlendirilmemiş
+olması ya da talebin önemli bir kısmı hakkında karar verilmemiş olması.
 
-b)
-Aşağıdaki durumlarda davanın esasıyla ilgili olarak;
+b) Aşağıdaki durumlarda davanın esasıyla ilgili olarak;
 
-1)
-İncelenen mahkeme kararının usul veya esas yönünden hukuka uygun olduğu anlaşıldığı
-takdirde başvurunun esastan reddine,
+1) İncelenen mahkeme kararının usul veya esas yönünden hukuka
+uygun olduğu anlaşıldığı takdirde başvurunun esastan reddine,
 
-2)
-Yargılamada eksiklik bulunmamakla beraber, kanunun olaya uygulanmasında hata edilip
-de yeniden yargılama yapılmasına ihtiyaç duyulmadığı takdirde veya kararın gerekçesinde
-hata edilmiş ise düzelterek yeniden esas hakkında,
+2) Yargılamada eksiklik bulunmamakla beraber, kanunun olaya uygulanmasında
+hata edilip de yeniden yargılama yapılmasına ihtiyaç duyulmadığı takdirde veya kararın
+gerekçesinde hata edilmiş ise düzelterek yeniden esas hakkında,
 
-3)
-Yargılamada bulunan eksiklikler duruşma yapılmaksızın tamamlanacak nitelikte ise
-bunların tamamlanmasından sonra başvurunun esastan reddine veya yeniden esas hakkında,
+3) Yargılamada bulunan eksiklikler duruşma yapılmaksızın tamamlanacak
+nitelikte ise bunların tamamlanmasından sonra başvurunun esastan reddine veya yeniden
+esas hakkında,
 [49]
 
 duruşma yapılmadan karar verilir.
 
 İnceleme
 
-MADDE
-354-
-(1) Bölge adliye mahkemesi hukuk dairesince inceleme, davanın özelliğine
-göre heyetçe veya görevlendirilecek bir üye tarafından yapılır.
+MADDE 354-
+(1) Bölge adliye mahkemesi hukuk dairesince
+inceleme, davanın özelliğine göre heyetçe veya görevlendirilecek bir üye tarafından
+yapılır.
 
-(2)
-İnceleme sırasında gereken hâllerde başka bir bölge adliye mahkemesi veya ilk derece
-mahkemesi istinabe edilebilir.
+(2) İnceleme sırasında gereken hâllerde başka bir bölge adliye
+mahkemesi veya ilk derece mahkemesi istinabe edilebilir.
 
 İncelemenin kapsamı
 
 MADDE 355-
-(1) İnceleme, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır.
-Ancak, bölge adliye mahkemesi kamu düzenine aykırılık gördüğü takdirde bunu resen
-gözetir.
+(1) İnceleme, istinaf dilekçesinde belirtilen sebeplerle
+sınırlı olarak yapılır. Ancak, bölge adliye mahkemesi kamu düzenine aykırılık gördüğü
+takdirde bunu resen gözetir.
 
 Duruşma yapılması ve karar verilmesi
 [50]
 
-MADDE
-356-
-(1) 353 üncü maddede belirtilen hâller dışında inceleme, duruşmalı olarak
-yapılır. Bu durumda duruşma günü taraflara tebliğ edilir.
+MADDE 356-
+(1) 353 üncü maddede belirtilen hâller dışında
+inceleme, duruşmalı olarak yapılır. Bu durumda duruşma günü taraflara tebliğ edilir.
 
 (2)
-
 (Ek:22/7/2020-7251/36 md.)
-Duruşma sonunda bölge adliye mahkemesi istinaf
-başvurusunu esastan reddetmek veya ilk derece mahkemesi hükmünü kaldırarak yeniden
-hüküm kurmak dâhil gerekli kararları verir.
+Duruşma sonunda bölge adliye
+mahkemesi istinaf başvurusunu esastan reddetmek veya ilk derece mahkemesi hükmünü
+kaldırarak yeniden hüküm kurmak dâhil gerekli kararları verir.
 
 Yapılamayacak işlemler
 
-MADDE
-357-
-(1) Bölge adliye mahkemesi hukuk dairelerinde karşı dava açılamaz, davaya
-müdahale talebinde bulunulamaz, davanın ıslahı ve 166 ncı maddenin birinci fıkrası
-hükmü saklı kalmak üzere davaların birleştirilmesi istenemez, bölge adliye mahkemesince
-resen göz önünde tutulacaklar dışında, ilk derece mahkemesinde ileri sürülmeyen
-iddia ve savunmalar dinlenemez, yeni delillere dayanılamaz.
+MADDE 357-
+(1) Bölge adliye mahkemesi hukuk dairelerinde
+karşı dava açılamaz, davaya müdahale talebinde bulunulamaz, davanın ıslahı ve 166
+ncı maddenin birinci fıkrası hükmü saklı kalmak üzere davaların birleştirilmesi
+istenemez, bölge adliye mahkemesince resen göz önünde tutulacaklar dışında, ilk
+derece mahkemesinde ileri sürülmeyen iddia ve savunmalar dinlenemez, yeni delillere
+dayanılamaz.
 
-(2)
-Bölge adliye mahkemeleri için yetki sözleşmesi yapılamaz.
+(2) Bölge adliye mahkemeleri için yetki sözleşmesi yapılamaz.
 
-(3)
-İlk derece mahkemesinde usulüne uygun olarak gösterildiği hâlde incelenmeden reddedilen
-veya mücbir bir sebeple gösterilmesine olanak bulunmayan deliller bölge adliye mahkemesince
-incelenebilir.
+(3) İlk derece mahkemesinde usulüne uygun olarak gösterildiği
+hâlde incelenmeden reddedilen veya mücbir bir sebeple gösterilmesine olanak bulunmayan
+deliller bölge adliye mahkemesince incelenebilir.
 
 Duruşmaya gelinmemesi ve giderlerin ödenmemesi
 
 MADDE 358-
-(1) Duruşmalı olarak incelenen işlerde taraflara çıkartılan davetiyelerde,
-duruşmada hazır bulunmadıkları takdirde tahkikatın yokluklarında yapılarak karar
-verileceği hususu ile başvuran tarafa çıkartılacak davetiyede, ayrıca, yapılacak
-tahkikatla ilgili olarak bölge adliye mahkemesince belirlenen gideri, iki haftadan
-az olmamak üzere verilecek kesin süre içinde avans olarak yatırması gerektiği açıkça
-belirtilir.
+(1) Duruşmalı olarak incelenen işlerde taraflara çıkartılan
+davetiyelerde, duruşmada hazır bulunmadıkları takdirde tahkikatın yokluklarında
+yapılarak karar verileceği hususu ile başvuran tarafa çıkartılacak davetiyede, ayrıca,
+yapılacak tahkikatla ilgili olarak bölge adliye mahkemesince belirlenen gideri,
+iki haftadan az olmamak üzere verilecek kesin süre içinde avans olarak yatırması
+gerektiği açıkça belirtilir.
 [51]
 
-(2)
-Başvuran, kabul edilebilir bir mazerete dayanarak duruşmaya gelemediğini bildirdiği
-takdirde, yeni bir duruşma günü tayin edilerek taraflara bildirilir.
+(2) Başvuran, kabul edilebilir bir mazerete dayanarak duruşmaya
+gelemediğini bildirdiği takdirde, yeni bir duruşma günü tayin edilerek taraflara
+bildirilir.
 
 (3)
-
 (Değişik:22/7/2020-7251/37 md.)
-Belirlenen giderin, verilen kesin süre içinde
-yatırılmış olması kaydıyla, taraflar mazeretsiz olarak duruşmaya katılmadıkları
-takdirde tahkikat yokluklarında yapılarak karar verilir. Belirlenen gider, süresi
-içinde yatırılmadığı takdirde, dosyanın mevcut durumuna göre karar verilir. Şu kadar
-ki, öngörülen tahkikat yapılmaksızın karar verilmesine olanak bulunmayan hâllerde
-başvuru reddedilir.
+Belirlenen giderin,
+verilen kesin süre içinde yatırılmış olması kaydıyla, taraflar mazeretsiz olarak
+duruşmaya katılmadıkları takdirde tahkikat yokluklarında yapılarak karar verilir.
+Belirlenen gider, süresi içinde yatırılmadığı takdirde, dosyanın mevcut durumuna
+göre karar verilir. Şu kadar ki, öngörülen tahkikat yapılmaksızın karar verilmesine
+olanak bulunmayan hâllerde başvuru reddedilir.
 
 Karar ve tebliği
 [52]
 [53]
 
-MADDE
-359-
+MADDE 359-
 (1) Karar aşağıdaki hususları içerir:
 
-a)
-Kararı veren bölge adliye mahkemesi hukuk dairesi ile başkan, üyeler ve zabıt kâtibinin
-ad ve soyadları, sicil numaraları.
+a) Kararı veren bölge adliye mahkemesi hukuk dairesi ile başkan,
+üyeler ve zabıt kâtibinin ad ve soyadları, sicil numaraları.
 
-b)
-Tarafların ve davaya ilk derece mahkemesinde müdahil olarak katılanların kimlikleri
-ile Türkiye Cumhuriyeti kimlik numarası, varsa kanuni temsilci ve vekillerinin adı,
-soyadı ve adresleri.
+b) Tarafların ve davaya ilk derece mahkemesinde müdahil olarak
+katılanların kimlikleri ile Türkiye Cumhuriyeti kimlik numarası, varsa kanuni temsilci
+ve vekillerinin adı, soyadı ve adresleri.
 
-c)
-Tarafların iddia ve savunmalarının özeti.
+c) Tarafların iddia ve savunmalarının özeti.
 
-ç)
-İlk derece mahkemesi kararının özeti.
+ç) İlk derece mahkemesi kararının özeti.
 
-d)
-İleri sürülen istinaf sebepleri.
+d) İleri sürülen istinaf sebepleri.
 
-e)
-Taraflar arasında uyuşmazlık konusu olan veya olmayan hususlarla bunlara ilişkin
-delillerin tartışması, ret ve üstün tutma sebepleri, sabit görülen vakıalarla bunlardan
-çıkarılan sonuç ve hukuki sebep.
+e) Taraflar arasında uyuşmazlık konusu olan veya olmayan hususlarla
+bunlara ilişkin delillerin tartışması, ret ve üstün tutma sebepleri, sabit görülen
+vakıalarla bunlardan çıkarılan sonuç ve hukuki sebep.
 
-f)
-Hüküm sonucu ile varsa kanun yolu ve süresi.
+f) Hüküm sonucu ile varsa kanun yolu ve süresi.
 
-g)
-Kararın verildiği tarih, başkan ve üyeler ile zabıt kâtibinin imzaları.
+g) Kararın verildiği tarih, başkan ve üyeler ile zabıt kâtibinin
+imzaları.
 
-ğ)
-Gerekçeli kararın yazıldığı tarihi.
+ğ) Gerekçeli kararın yazıldığı tarihi.
 
-(2)
-Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden
-her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların,
-sıra numarası altında, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi
-gereklidir.
+(2) Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar
+edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen
+borç ve tanınan hakların, sıra numarası altında, açık, şüphe ve tereddüt uyandırmayacak
+şekilde gösterilmesi gereklidir.
 
 (3)
-
 (Ek:22/7/2020-7251/38 md.)
-Bölge adliye mahkemesi, başvurunun esastan reddi
-kararında, ileri sürülen istinaf sebeplerini özetlemek ve ret sebeplerini açıklamak
-kaydıyla, kararın hukuk kurallarına uygunluk gerekçesini göstermekle yetinebilir.
+Bölge adliye mahkemesi,
+başvurunun esastan reddi kararında, ileri sürülen istinaf sebeplerini özetlemek
+ve ret sebeplerini açıklamak kaydıyla, kararın hukuk kurallarına uygunluk gerekçesini
+göstermekle yetinebilir.
 
 (4)
-(Ek: 20/7/2017-7035/30 md.)
-Temyizi kabil
-olmayan kararlar, ilk derece mahkemesi tarafından; temyizi kabil olan kararlar ise
-bölge adliye mahkemesi tarafından resen tebliğe çıkarılır.
+(Ek: 20/7/2017-7035/30
+md.)
+Temyizi kabil olmayan kararlar, ilk derece mahkemesi tarafından; temyizi
+kabil olan kararlar ise bölge adliye mahkemesi tarafından resen tebliğe çıkarılır.
 
 Uygulanacak diğer hükümler
 
-MADDE
-360-
+MADDE 360-
 (1) Bu
 Bölümde
-aksine
-hüküm bulunmayan hâllerde, ilk derece mahkemesinde uygulanan yargılama usulü, bölge
-adliye mahkemesinde de uygulanır.
+aksine hüküm bulunmayan hâllerde,
+ilk derece mahkemesinde uygulanan yargılama usulü, bölge adliye mahkemesinde de
+uygulanır.
 
 İKİNCİ
 BÖLÜM
 
 Temyiz
 
-Temyiz
-edilebilen kararlar
+Temyiz edilebilen kararlar
 [54]
 
-MADDE
-361-
-(1) Bölge adliye mahkemesi hukuk dairelerinden verilen temyizi kabil nihai
-kararlar ile hakem kararlarının iptali talebi üzerine verilen kararlara karşı tebliğ
-tarihinden itibaren iki hafta
+MADDE 361-
+(1) Bölge adliye mahkemesi hukuk dairelerinden
+verilen temyizi kabil nihai kararlar ile hakem kararlarının iptali talebi üzerine
+verilen kararlara karşı tebliğ tarihinden itibaren iki hafta
 
-içinde temyiz
-yoluna başvurulabilir.
+içinde temyiz yoluna başvurulabilir.
 [55]
 
-(2)
-Davada haklı çıkmış olan taraf da hukuki yararı bulunmak şartıyla temyiz yoluna
-başvurabilir.
+(2) Davada haklı çıkmış olan taraf da hukuki yararı bulunmak şartıyla
+temyiz yoluna başvurabilir.
 
 Temyiz edilemeyen kararlar
 [56]
 
-MADDE
-362-
-(1) Bölge adliye mahkemelerinin aşağıdaki kararları hakkında temyiz yoluna
-başvurulamaz:
+MADDE 362-
+(1) Bölge adliye mahkemelerinin aşağıdaki kararları
+hakkında temyiz yoluna başvurulamaz:
 
-a)
-Miktar veya değeri
+a) Miktar veya değeri
 kırk bin
 Türk Lirasını (bu tutar dâhil)
-geçmeyen
-davalara ilişkin kararlar.
+
+geçmeyen davalara ilişkin kararlar.
 [57]
 [58]
 
 b)
 
-Kira ilişkisinden doğan ve miktar veya değeri
-itibarıyla temyiz edilebilen alacak davaları ile kira ilişkisinden doğan diğer davalardan
-üç aylık kira tutarı temyiz sınırının üzerinde olanlar hariç olmak üzere 4 üncü
-maddede gösterilen davalar ile (23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan
-doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin
-görevine girdiği belirtilen davalarla ilgili kararlar.
+Kira ilişkisinden
+doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları ile kira
+ilişkisinden doğan diğer davalardan üç aylık kira tutarı temyiz sınırının üzerinde
+olanlar hariç olmak üzere 4 üncü maddede gösterilen davalar ile (23/6/1965 tarihli
+ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar
+hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla
+ilgili kararlar.
 
 [59]
 [60]
 
 c)
-
 (Değişik:22/7/2020-7251/39 md.)
-Yargı çevresi içinde bulunan ilk derece mahkemelerinin
-görev ve yetkisi hakkında verilen kararlar ile yargı yeri belirlenmesine ilişkin
-kararlar.
+Yargı çevresi içinde
+bulunan ilk derece mahkemelerinin görev ve yetkisi hakkında verilen kararlar ile
+yargı yeri belirlenmesine ilişkin kararlar.
 
-ç)
-Çekişmesiz yargı işlerinde verilen kararlar.
+ç) Çekişmesiz yargı işlerinde verilen kararlar.
 
-d)
-Soybağına ilişkin sonuçlar doğuran davalar hariç olmak üzere, nüfus kayıtlarının
-düzeltilmesine ilişkin davalarla ilgili kararlar.
+d) Soybağına ilişkin sonuçlar doğuran davalar hariç olmak üzere,
+nüfus kayıtlarının düzeltilmesine ilişkin davalarla ilgili kararlar.
 
-e)
-Yargı çevresi içindeki ilk derece mahkemeleri hâkimlerinin davayı görmeye hukuki
-veya fiilî engellerinin çıkması hâlinde, davanın o yargı çevresi içindeki başka
-bir mahkemeye nakline ilişkin kararlar.
+e) Yargı çevresi içindeki ilk derece mahkemeleri hâkimlerinin
+davayı görmeye hukuki veya fiilî engellerinin çıkması hâlinde, davanın o yargı çevresi
+içindeki başka bir mahkemeye nakline ilişkin kararlar.
 
-f)
-Geçici hukuki korumalar hakkında verilen kararlar.
+f) Geçici hukuki korumalar hakkında verilen kararlar.
 
 g)
-
 (Ek:22/7/2020-7251/39 md.)
-353 üncü maddenin birinci fıkrasının (a) bendi
-kapsamında verilen kararlar.
+353 üncü maddenin birinci
+fıkrasının (a) bendi kapsamında verilen kararlar.
 
-(2)
-Birinci fıkranın (a) bendindeki kararlarda alacağın bir kısmının dava edilmiş olması
-durumunda,
+(2) Birinci fıkranın (a) bendindeki kararlarda alacağın bir kısmının
+dava edilmiş olması durumunda,
 kırk bin
-Türk Liralık kesinlik sınırı
-alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş olması hâlinde,
-kararda asıl talebinin kabul edilmeyen bölümü
+Türk Liralık
+kesinlik sınırı alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş
+olması hâlinde, kararda asıl talebinin kabul edilmeyen bölümü
 kırk bin
-
-Türk Lirasını geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf temyiz yoluna
-başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı temyiz
-edebilir.
+Türk Lirasını geçmeyen tarafın temyiz hakkı
+yoktur. Ancak, karşı taraf temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği
+cevap dilekçesiyle kararı temyiz edebilir.
 
 (3)
 (Ek:16/7/2026-7589/25 md.)
 
-Bölge
-adliye mahkemesinin yaptığı inceleme sonucunda istinaf başvurusunun kısmen veya
-tamamen kabul edilerek yeniden esas hakkında verilen kararın kabul edilen ya da
-reddedilen kısmının, miktar veya değeri itibarıyla 341 inci maddenin ikinci
-fıkrasında düzenlenen parasal sınırın üzerinde olması halinde temyiz
-edilebilir. Şu kadar ki;
+Bölge adliye mahkemesinin yaptığı inceleme sonucunda istinaf
+başvurusunun kısmen veya tamamen kabul edilerek yeniden esas hakkında verilen
+kararın kabul edilen ya da reddedilen kısmının, miktar veya değeri itibarıyla
+341 inci maddenin ikinci fıkrasında düzenlenen parasal sınırın üzerinde olması
+halinde temyiz edilebilir. Şu kadar ki;
 
-a) Miktar veya değeri itibarıyla birinci fıkrada belirtilen temyiz
-sınırının altında kalan bölge adliye mahkemesinin yeniden esas hakkında verdiği
-karar ile ilk derece mahkemesi kararı arasındaki farkın, miktar veya değeri
-itibarıyla 341 inci maddenin ikinci fıkrasında belirtilen parasal sınırı
-geçmemesi halinde bu karara karşı temyiz yoluna başvurulamaz.
+a) Miktar veya değeri itibarıyla birinci
+fıkrada belirtilen temyiz sınırının altında kalan bölge adliye mahkemesinin
+yeniden esas hakkında verdiği karar ile ilk derece mahkemesi kararı arasındaki
+farkın, miktar veya değeri itibarıyla 341 inci maddenin ikinci fıkrasında
+belirtilen parasal sınırı geçmemesi halinde bu karara karşı temyiz yoluna
+başvurulamaz.
 
-b) Miktar veya değeri itibarıyla birinci fıkrada belirtilen temyiz
-sınırının altında kalan bölge adliye mahkemesinin yeniden esas hakkında verdiği
-kararın, sadece yargılama gideri veya vekâlet ücretine ilişkin olması halinde
-bu karara karşı temyiz yoluna başvurulamaz.
+b) Miktar veya değeri itibarıyla birinci
+fıkrada belirtilen temyiz sınırının altında kalan bölge adliye mahkemesinin yeniden
+esas hakkında verdiği kararın, sadece yargılama gideri veya vekâlet ücretine
+ilişkin olması halinde bu karara karşı temyiz yoluna başvurulamaz.
 
 Kanun yararına temyiz
 
-MADDE
-363-
+MADDE 363-
 (1)
 (Değişik: 20/7/2017-7035/33 md.)
-İlk derece mahkemelerinin kesin
-olarak verdikleri kararlar ile istinaf incelemesinden geçmeden kesinleşmiş bulunan
-kararlarına ve bölge adliye mahkemesi hukuk dairelerinin ilk derece mahkemesi sıfatıyla
-kesin olarak verdikleri kararlar ile yine bu sıfatla verdikleri ve temyiz incelemesinden
-geçmeden kesinleşmiş bulunan kararlarına karşı, yürürlükteki hukuka aykırı bulunduğu
-ileri sürülerek Adalet Bakanlığı veya Yargıtay Cumhuriyet Başsavcılığı tarafından
-kanun yararına temyiz yoluna başvurulur.
+İlk
+derece mahkemelerinin kesin olarak verdikleri kararlar ile istinaf incelemesinden
+geçmeden kesinleşmiş bulunan kararlarına ve bölge adliye mahkemesi hukuk dairelerinin
+ilk derece mahkemesi sıfatıyla kesin olarak verdikleri kararlar ile yine bu sıfatla
+verdikleri ve temyiz incelemesinden geçmeden kesinleşmiş bulunan kararlarına karşı,
+yürürlükteki hukuka aykırı bulunduğu ileri sürülerek Adalet Bakanlığı veya Yargıtay
+Cumhuriyet Başsavcılığı tarafından kanun yararına temyiz yoluna başvurulur.
 
-(2)
-Temyiz talebi Yargıtayca yerinde görüldüğü takdirde, karar kanun yararına bozulur.
-Bu bozma, kararın hukuki sonuçlarını ortadan kaldırmaz.
+(2) Temyiz talebi Yargıtayca yerinde görüldüğü takdirde, karar
+kanun yararına bozulur. Bu bozma, kararın hukuki sonuçlarını ortadan kaldırmaz.
 
 (3) Bozma kararının bir örneği
 Adalet Bakanlığına gönderilir ve Bakanlıkça Resmî Gazetede yayımlanır.
 
 Temyiz dilekçesi
 
-MADDE
-364-
-(1) Temyiz, dilekçe ile yapılır ve dilekçeye, karşı tarafın sayısı kadar
-örnek eklenir.
+MADDE 364-
+(1) Temyiz, dilekçe ile yapılır ve dilekçeye,
+karşı tarafın sayısı kadar örnek eklenir.
 
-(2)
-Temyiz dilekçesinde aşağıdaki hususlar bulunur:
+(2) Temyiz dilekçesinde aşağıdaki hususlar bulunur:
 
-a)
-Temyiz eden ile karşı tarafın davadaki sıfatları, adı, soyadı, Türkiye Cumhuriyeti
-kimlik numarası ve adresleri.
+a) Temyiz eden ile karşı tarafın davadaki sıfatları, adı, soyadı,
+Türkiye Cumhuriyeti kimlik numarası ve adresleri.
 
-b)
-Bunların varsa kanuni temsilci ve vekillerinin adı, soyadı ve adresleri.
+b) Bunların varsa kanuni temsilci ve vekillerinin adı, soyadı
+ve adresleri.
 
-c)
-Temyiz edilen kararın hangi bölge adliye mahkemesi hukuk dairesinden verilmiş olduğu,
-tarihi ve sayısı.
+c) Temyiz edilen kararın hangi bölge adliye mahkemesi hukuk dairesinden
+verilmiş olduğu, tarihi ve sayısı.
 
-ç) Yargıtayın bozma kararı üzerine, bozmaya uygun olarak
-ilk derece mahkemesince verilen yeni kararın veya direnme kararına karşı temyizde
-direnme kararının, hangi mahkemeye ait olduğu, tarihi ve sayısı.
+ç) Yargıtayın bozma kararı
+üzerine, bozmaya uygun olarak ilk derece mahkemesince verilen yeni kararın veya
+direnme kararına karşı temyizde direnme kararının, hangi mahkemeye ait olduğu, tarihi
+ve sayısı.
 
-d)
-İlamın temyiz edene tebliğ edildiği tarih.
+d) İlamın temyiz edene tebliğ edildiği tarih.
 
-e)
-Kararın özeti.
+e) Kararın özeti.
 
-f)
-Temyiz sebepleri ve gerekçesi.
+f) Temyiz sebepleri ve gerekçesi.
 
-g)
-Duruşma istenmesi hâlinde bu istek.
+g) Duruşma istenmesi hâlinde bu istek.
 
-ğ)
-Temyiz edenin veya varsa kanuni temsilci yahut vekilinin imzası.
+ğ) Temyiz edenin veya varsa kanuni temsilci yahut vekilinin imzası.
 
-(3) Temyiz dilekçesinin, temyiz edenin kimliği ve imzasıyla
-temyiz olunan kararı yeteri kadar belli edecek kayıtları taşıması hâlinde, diğer
-şartlar bulunmasa bile reddolunmayıp temyiz incelemesi yapılır.
+(3) Temyiz dilekçesinin, temyiz
+edenin kimliği ve imzasıyla temyiz olunan kararı yeteri kadar belli edecek kayıtları
+taşıması hâlinde, diğer şartlar bulunmasa bile reddolunmayıp temyiz incelemesi yapılır.
 
 Temyiz dilekçesinin verilmesi
 
 MADDE 365-
-(1) Temyiz dilekçesi, kararı veren bölge adliye mahkemesi hukuk dairesine
-veya Yargıtayın bozması üzerine hüküm veren ilk derece mahkemesine yahut temyiz
-edenin bulunduğu yer bölge adliye mahkemesi hukuk dairesine veya ilk derece mahkemesine
-verilebilir.
+(1) Temyiz dilekçesi, kararı veren bölge adliye mahkemesi
+hukuk dairesine veya Yargıtayın bozması üzerine hüküm veren ilk derece mahkemesine
+yahut temyiz edenin bulunduğu yer bölge adliye mahkemesi hukuk dairesine veya ilk
+derece mahkemesine verilebilir.
 
-(2)
-Temyiz dilekçesi, kararı veren mahkemeden başka bir mahkemeye verilmişse temyiz
-defterine kaydolunur ve durum derhâl kararı temyiz edilen mahkemeye bildirilir.
+(2) Temyiz dilekçesi, kararı veren mahkemeden başka bir mahkemeye
+verilmişse temyiz defterine kaydolunur ve durum derhâl kararı temyiz edilen mahkemeye
+bildirilir.
 
-(3)
-Temyiz edene ücretsiz bir alındı belgesi verilir.
+(3) Temyiz edene ücretsiz bir alındı belgesi verilir.
 
 Kıyas yoluyla uygulanacak hükümler
 
-MADDE
-366-
-(1) Bu Kanunun istinaf yolu ile ilgili 343 ilâ 349 ve 352 nci
+MADDE 366-
+(1) Bu Kanunun istinaf yolu ile ilgili 343 ilâ
+349 ve 352 nci
 
-maddeleri
-hükümleri, temyizde de kıyas yoluyla uygulanır.
+maddeleri hükümleri, temyizde de kıyas yoluyla uygulanır.
 
 Temyizin icraya etkisi
 
-MADDE
-367-
-(1) Temyiz, kararın icrasını durdurmaz. İcra ve İflas Kanununun icranın
-geri bırakılmasıyla ilgili 36 ncı maddesi hükmü saklıdır. Nafaka kararlarında icranın
-geri bırakılmasına karar verilemez.
+MADDE 367-
+(1) Temyiz, kararın icrasını durdurmaz. İcra
+ve İflas Kanununun icranın geri bırakılmasıyla ilgili 36 ncı maddesi hükmü saklıdır.
+Nafaka kararlarında icranın geri bırakılmasına karar verilemez.
 
-(2)
-Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni haklara ilişkin kararlar
-kesinleşmedikçe yerine getirilemez.
+(2) Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni
+haklara ilişkin kararlar kesinleşmedikçe yerine getirilemez.
 
 Kötüniyetle temyiz
 
 MADDE 368-
-(1) Temyiz talebinin kötüniyetle yapıldığı anlaşılırsa Yargıtayca 329 uncu
+(1) Temyiz talebinin kötüniyetle yapıldığı anlaşılırsa
+Yargıtayca 329 uncu
 
 madde hükümleri uygulanır.
 
 Temyiz incelemesi ve duruşma
 
-MADDE
-369-
-(1) Yargıtay, tarafların ileri sürdükleri temyiz sebepleriyle bağlı olmayıp,
-kanunun açık hükmüne aykırı gördüğü diğer hususları da inceleyebilir.
+MADDE 369-
+(1) Yargıtay, tarafların ileri sürdükleri temyiz
+sebepleriyle bağlı olmayıp, kanunun açık hükmüne aykırı gördüğü diğer hususları
+da inceleyebilir.
 
-(2) Yargıtay temyiz incelemesini dosya üzerinde yapar.
-Ancak, tüzel kişiliğin feshine veya genel kurul kararlarının iptaline, evlenmenin
-butlanına veya iptaline, boşanma veya ayrılığa, velayete, soybağına ve kısıtlamaya
-ilişkin davalarla miktar veya değeri altmışbin Türk Lirasını aşan alacak ve ayın
-davalarında taraflardan biri temyiz veya cevap dilekçesinde duruşma yapılmasını
-talep etmiş ise Yargıtayca bir gün belli edilerek taraflara usulen davetiye gönderilir.
-Tebliğ tarihi ile duruşma günü arasında en az iki hafta
+(2) Yargıtay temyiz incelemesini
+dosya üzerinde yapar. Ancak, tüzel kişiliğin feshine veya genel kurul kararlarının
+iptaline, evlenmenin butlanına veya iptaline, boşanma veya ayrılığa, velayete, soybağına
+ve kısıtlamaya ilişkin davalarla miktar veya değeri altmışbin Türk Lirasını aşan
+alacak ve ayın davalarında taraflardan biri temyiz veya cevap dilekçesinde duruşma
+yapılmasını talep etmiş ise Yargıtayca bir gün belli edilerek taraflara usulen davetiye
+gönderilir. Tebliğ tarihi ile duruşma günü arasında en az iki hafta
 
 bulunması gerekir; taraflar gelmişlerse bu süreye
 bakılmaz. Tebligat gideri verilmemişse duruşma talebi dikkate alınmaz. Duruşma giderinin
@@ -6298,48 +6235,42 @@ duruşma isteyene yazılı olarak bildirilir. Verilen süre içinde giderler tam
 takdirde, Yargıtay incelemesini dosya üzerinde yapar.
 [61]
 
-(3)
-Altmışbin Türk Liralık duruşma sınırının belirlenmesinde 362 nci maddenin ikinci
-fıkrası
+(3) Altmışbin Türk Liralık duruşma sınırının belirlenmesinde 362
+nci maddenin ikinci fıkrası
 
 kıyas yoluyla uygulanır.
 61
 
-(4)
-Yargıtay, ikinci fıkra hükmü ile bağlı olmaksızın, bilgi almak üzere resen de duruşma
-yapılmasına karar verebilir.
+(4) Yargıtay, ikinci fıkra hükmü ile bağlı olmaksızın, bilgi almak
+üzere resen de duruşma yapılmasına karar verebilir.
 
-(5)
-Duruşma günü belli edilen hâllerde Yargıtay, tarafları veya gelen tarafı dinledikten
-sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde inceleme yaparak kararını
-verir.
+(5) Duruşma günü belli edilen hâllerde Yargıtay, tarafları veya
+gelen tarafı dinledikten sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde
+inceleme yaparak kararını verir.
 
-(6)
-Duruşma günü kararı verilemeyen işlerin en geç bir ay içinde karara bağlanması zorunludur.
+(6) Duruşma günü kararı verilemeyen işlerin en geç bir ay içinde
+karara bağlanması zorunludur.
 
-(7)
-Kanunda ivedi olduğu bildirilen dava ve işlere ait temyiz incelemesi öncelikle yapılır.
+(7) Kanunda ivedi olduğu bildirilen dava ve işlere ait temyiz
+incelemesi öncelikle yapılır.
 
 Onama kararları
 
-MADDE
-370-
-(1) Yargıtay, onama kararında, onadığı kararın hukuk kurallarına uygunluk
-gerekçesini göstermek zorundadır.
+MADDE 370-
+(1) Yargıtay, onama kararında, onadığı kararın
+hukuk kurallarına uygunluk gerekçesini göstermek zorundadır.
 
 (2)
-
 (Değişik: 31/3/2011-6217/29 md.)
-Temyiz olunan kararın, esas yönünden kanuna
-uygun olup da kanunun olaya uygulanmasında hata edilmiş olmasından dolayı bozulması
-gerektiği ve kanuna uymayan husus hakkında yeniden yargılama yapılmasına ihtiyaç
-duyulmadığı takdirde Yargıtay, kararı düzelterek onayabilir. Esas yönünden kanuna
-uygun olmayan kararlar ile hâkimin takdir yetkisi kapsamında karara bağladığı edalar
-hakkında bu fıkra hükmü uygulanmaz.
+Temyiz olunan kararın,
+esas yönünden kanuna uygun olup da kanunun olaya uygulanmasında hata edilmiş olmasından
+dolayı bozulması gerektiği ve kanuna uymayan husus hakkında yeniden yargılama yapılmasına
+ihtiyaç duyulmadığı takdirde Yargıtay, kararı düzelterek onayabilir. Esas yönünden
+kanuna uygun olmayan kararlar ile hâkimin takdir yetkisi kapsamında karara bağladığı
+edalar hakkında bu fıkra hükmü uygulanmaz.
 
-(3)
-Tarafların kimliklerine ait yanlışlıklarla, yazı, hesap veya diğer açık ifade yanlışlıkları
-hakkında da bu hüküm uygulanır.
+(3) Tarafların kimliklerine ait yanlışlıklarla, yazı, hesap veya
+diğer açık ifade yanlışlıkları hakkında da bu hüküm uygulanır.
 
 (4) Karar,
 usule ve kanuna uygun olup da gösterilen gerekçe doğru bulunmazsa, gerekçe değiştirilerek
@@ -6347,37 +6278,33 @@ ve düzeltilerek onanır.
 
 Bozma sebepleri
 
-MADDE
-371-
+MADDE 371-
 (1)
 
-Yargıtay, aşağıda belirtilen sebeplerden dolayı gerekçe göstererek
-temyiz olunan kararı kısmen veya tamamen bozar:
+Yargıtay, aşağıda belirtilen sebeplerden
+dolayı gerekçe göstererek temyiz olunan kararı kısmen veya tamamen bozar:
 
-a)
-Hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanmış olması.
+a) Hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanmış
+olması.
 
-b)
-Dava şartlarına aykırılık bulunması.
+b) Dava şartlarına aykırılık bulunması.
 
-c) Taraflardan birinin davasını ispat için dayandığı
-delillerin kanuni bir sebep olmaksızın kabul edilmemesi.
+c) Taraflardan birinin davasını
+ispat için dayandığı delillerin kanuni bir sebep olmaksızın kabul edilmemesi.
 
-ç)
-Karara etki eden yargılama hatası veya eksiklikleri bulunması.
+ç) Karara etki eden yargılama hatası veya eksiklikleri bulunması.
 
 Yargıtay kararlarının tebliği
 
-MADDE
-372-
+MADDE 372-
 (1)
 
-Yargıtayın bozma kararları ile onama kararları mahkeme yazı
-işleri müdürü tarafından derhâl taraflara tebliğ edilir.
+Yargıtayın bozma kararları ile onama
+kararları mahkeme yazı işleri müdürü tarafından derhâl taraflara tebliğ edilir.
 
-(2)
-Tebliğ giderleri, temyiz dilekçesiyle birlikte, temyiz talebinde bulunandan peşin
-olarak alınır. Bu giderlerin ödenmemesi hâlinde 344 üncü madde hükmü uygulanır.
+(2) Tebliğ giderleri, temyiz dilekçesiyle birlikte, temyiz talebinde
+bulunandan peşin olarak alınır. Bu giderlerin ödenmemesi hâlinde 344 üncü madde
+hükmü uygulanır.
 
 Bozmaya uyma veya direnme
 [62]
@@ -6385,43 +6312,38 @@ Bozmaya uyma veya direnme
 MADDE 373-
 (1)
 
-Yargıtay ilgili dairesinin tamamen veya kısmen bozma kararı, başvurunun
-bölge adliye mahkemesi tarafından esastan reddi kararına ilişkin ise bölge adliye
-mahkemesi kararı kaldırılarak dosya, kararı veren ilk derece mahkemesine veya uygun
-görülecek diğer bir ilk derece mahkemesine, kararın bir örneği de bölge adliye mahkemesine
-gönderilir.
+Yargıtay ilgili dairesinin tamamen veya
+kısmen bozma kararı, başvurunun bölge adliye mahkemesi tarafından esastan reddi
+kararına ilişkin ise bölge adliye mahkemesi kararı kaldırılarak dosya, kararı veren
+ilk derece mahkemesine veya uygun görülecek diğer bir ilk derece mahkemesine, kararın
+bir örneği de bölge adliye mahkemesine gönderilir.
 
-(2)
-Bölge adliye mahkemesinin düzelterek veya yeniden esas hakkında verdiği karar Yargıtayca
-tamamen veya kısmen bozulduğu takdirde dosya, kararı veren bölge adliye mahkemesi
-veya uygun görülen diğer bir bölge adliye mahkemesine gönderilir.
+(2) Bölge adliye mahkemesinin düzelterek veya yeniden esas hakkında
+verdiği karar Yargıtayca tamamen veya kısmen bozulduğu takdirde dosya, kararı veren
+bölge adliye mahkemesi veya uygun görülen diğer bir bölge adliye mahkemesine gönderilir.
 
-(3)
-Bölge adliye mahkemesi, 344 üncü
+(3) Bölge adliye mahkemesi, 344 üncü
 
-madde uyarınca peşin alınmış olan gideri
-kullanmak suretiyle, kendiliğinden tarafları duruşmaya davet edip dinledikten sonra
-Yargıtayın bozma kararına uyulup uyulmayacağına karar verir.
+madde uyarınca peşin
+alınmış olan gideri kullanmak suretiyle, kendiliğinden tarafları duruşmaya davet
+edip dinledikten sonra Yargıtayın bozma kararına uyulup uyulmayacağına karar verir.
 
-(4)
-Yargıtayın bozma kararı üzerine ilk derece mahkemesince bozmaya uygun olarak karar
-verildiği takdirde, bu karara karşı temyiz yoluna başvurulabilir.
+(4) Yargıtayın bozma kararı üzerine ilk derece mahkemesince bozmaya
+uygun olarak karar verildiği takdirde, bu karara karşı temyiz yoluna başvurulabilir.
 
-(5)
-İlk derece mahkemesi veya bölge adliye mahkemesi kararında direnirse, bu kararın
-temyiz edilmesi durumunda inceleme,
-kararına direnilen
-dairece yapılır. Direnme kararı öncelikle incelenir. Daire, direnme kararını yerinde
-görürse kararını düzeltir; görmezse dosyayı Yargıtay Hukuk Genel Kuruluna gönderir.
+(5) İlk derece mahkemesi veya bölge adliye mahkemesi kararında
+direnirse, bu kararın temyiz edilmesi durumunda inceleme,
+kararına direnilen dairece yapılır. Direnme kararı öncelikle
+incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı
+Yargıtay Hukuk Genel Kuruluna gönderir.
 [63]
 
 (6)
-
 (Ek: 17/4/2013-6460/1 md.)
-Davanın esastan reddi veya kabulünü içeren bozmaya
-uyularak tesis olunan kararın önceki bozmayı ortadan kaldıracak şekilde yeniden
-bozulması üzerine alt mahkemece verilen kararın temyiz incelemesi, her hâlde Yargıtay
-Hukuk Genel Kurulunca yapılır.
+Davanın esastan reddi veya
+kabulünü içeren bozmaya uyularak tesis olunan kararın önceki bozmayı ortadan kaldıracak
+şekilde yeniden bozulması üzerine alt mahkemece verilen kararın temyiz incelemesi,
+her hâlde Yargıtay Hukuk Genel Kurulunca yapılır.
 
 (7) Hukuk Genel Kurulunun
 verdiği karara uymak zorunludur.
@@ -7338,549 +7260,494 @@ KISIM
 
 Tahkim
 
-Uygulanma
-alanı
+Uygulanma alanı
 
-MADDE
-407-
-(1) Bu Kısımda yer alan hükümler, 21/6/2001 tarihli ve 4686 sayılı
+MADDE 407-
+(1) Bu Kısımda yer alan hükümler, 21/6/2001
+tarihli ve 4686 sayılı
 
-Milletlerarası
-Tahkim Kanununun tanımladığı anlamda yabancılık unsuru içermeyen ve tahkim yerinin
-Türkiye olarak belirlendiği uyuşmazlıklar hakkında uygulanır.
+Milletlerarası Tahkim Kanununun tanımladığı anlamda
+yabancılık unsuru içermeyen ve tahkim yerinin Türkiye olarak belirlendiği uyuşmazlıklar
+hakkında uygulanır.
 
 Tahkime elverişlilik
 
-MADDE
-408-
-(1) Taşınmaz mallar üzerindeki ayni haklardan veya iki tarafın iradelerine
-tabi olmayan işlerden kaynaklanan uyuşmazlıklar tahkime elverişli değildir.
+MADDE 408-
+(1) Taşınmaz mallar üzerindeki ayni haklardan
+veya iki tarafın iradelerine tabi olmayan işlerden kaynaklanan uyuşmazlıklar tahkime
+elverişli değildir.
 
 İtiraz hakkından feragat
 
 MADDE 409
-- (1) Tarafların aksini kararlaştırabilecekleri bir hükme veya tahkim sözleşmesine
-uyulmaz ise ilgili taraf bu aykırılığa itiraz edebilir. İlgili taraf, aykırılığı
-öğrendiği tarihten itibaren iki hafta
+- (1) Tarafların aksini kararlaştırabilecekleri bir
+hükme veya tahkim sözleşmesine uyulmaz ise ilgili taraf bu aykırılığa itiraz edebilir.
+İlgili taraf, aykırılığı öğrendiği tarihten itibaren iki hafta
 
-veya
-hakemlerin bu konuda kararlaştırdıkları süre içinde itiraz etmeden tahkime devam
-ederse, itiraz hakkından feragat etmiş sayılır.
+veya hakemlerin bu konuda kararlaştırdıkları süre
+içinde itiraz etmeden tahkime devam ederse, itiraz hakkından feragat etmiş sayılır.
 
-Tahkimde
-görevli ve yetkili mahkeme
+Tahkimde görevli ve yetkili mahkeme
 
-MADDE
-410-
+MADDE 410-
 (1)
 (Değişik: 28/2/2018-7101/57 md.)
-Tahkim yargılamasında, mahkeme
-tarafından yapılacağı belirtilen işlerde görevli ve yetkili mahkeme, konusuna göre
-tahkim yeri asliye hukuk veya asliye ticaret mahkemesidir. Tahkim yeri belirlenmemiş
-ise görevli mahkeme, konusuna göre asliye hukuk veya asliye ticaret mahkemesi, yetkili
-mahkeme ise davalının Türkiye’deki yerleşim yeri, oturduğu yer veya işyeri mahkemesidir.
+Tahkim
+yargılamasında, mahkeme tarafından yapılacağı belirtilen işlerde görevli ve yetkili
+mahkeme, konusuna göre tahkim yeri asliye hukuk veya asliye ticaret mahkemesidir.
+Tahkim yeri belirlenmemiş ise görevli mahkeme, konusuna göre asliye hukuk veya asliye
+ticaret mahkemesi, yetkili mahkeme ise davalının Türkiye’deki yerleşim yeri, oturduğu
+yer veya işyeri mahkemesidir.
 
 Mahkemenin yardımı
 
-MADDE
-411-
-(1) Tahkim yargılamasına mahkemelerin yardımı, bu Kısımda açıkça izin verilmiş
-olan hâllerde mümkündür.
+MADDE 411-
+(1) Tahkim yargılamasına mahkemelerin yardımı,
+bu Kısımda açıkça izin verilmiş olan hâllerde mümkündür.
 
 Tahkim sözleşmesinin tanımı ve şekli
 
-MADDE
-412-
-(1) Tahkim sözleşmesi, tarafların, sözleşme veya sözleşme dışı bir hukuki
-ilişkiden doğmuş veya doğabilecek uyuşmazlıkların tamamı veya bir kısmının çözümünün
-hakem veya hakem kuruluna bırakılması hususunda yaptıkları anlaşmadır.
+MADDE 412-
+(1) Tahkim sözleşmesi, tarafların, sözleşme
+veya sözleşme dışı bir hukuki ilişkiden doğmuş veya doğabilecek uyuşmazlıkların
+tamamı veya bir kısmının çözümünün hakem veya hakem kuruluna bırakılması hususunda
+yaptıkları anlaşmadır.
 
-(2)
-Tahkim sözleşmesi, taraflar arasındaki sözleşmenin bir şartı veya ayrı bir sözleşme
-şeklinde yapılabilir.
+(2) Tahkim sözleşmesi, taraflar arasındaki sözleşmenin bir şartı
+veya ayrı bir sözleşme şeklinde yapılabilir.
 
-(3)
-Tahkim sözleşmesi yazılı şekilde yapılır. Yazılı şekil şartının yerine getirilmiş
-sayılması için, tahkim sözleşmesinin taraflarca imzalanmış yazılı bir belgeye veya
-taraflar arasında teati edilen mektup, telgraf, teleks, faks gibi bir iletişim aracına
-veya elektronik ortama geçirilmiş olması ya da dava dilekçesinde yazılı bir tahkim
-sözleşmesinin varlığının iddia edilmesine davalının verdiği cevap dilekçesinde itiraz
-edilmemiş olması yeterlidir. Asıl sözleşmenin bir parçası hâline getirilmek amacıyla
-tahkim şartı içeren bir belgeye yollama yapılması hâlinde de tahkim sözleşmesi yapılmış
-sayılır.
+(3) Tahkim sözleşmesi yazılı şekilde yapılır. Yazılı şekil şartının
+yerine getirilmiş sayılması için, tahkim sözleşmesinin taraflarca imzalanmış yazılı
+bir belgeye veya taraflar arasında teati edilen mektup, telgraf, teleks, faks gibi
+bir iletişim aracına veya elektronik ortama geçirilmiş olması ya da dava dilekçesinde
+yazılı bir tahkim sözleşmesinin varlığının iddia edilmesine davalının verdiği cevap
+dilekçesinde itiraz edilmemiş olması yeterlidir. Asıl sözleşmenin bir parçası hâline
+getirilmek amacıyla tahkim şartı içeren bir belgeye yollama yapılması hâlinde de
+tahkim sözleşmesi yapılmış sayılır.
 
-(4)
-Tahkim sözleşmesine karşı, asıl sözleşmenin geçerli olmadığı veya tahkim sözleşmesinin
-henüz doğmamış olan bir uyuşmazlığa ilişkin olduğu itirazında bulunulamaz.
+(4) Tahkim sözleşmesine karşı, asıl sözleşmenin geçerli olmadığı
+veya tahkim sözleşmesinin henüz doğmamış olan bir uyuşmazlığa ilişkin olduğu itirazında
+bulunulamaz.
 
-(5)
-Yargılama sırasında tarafların tahkim yoluna başvurma konusunda anlaşmaları hâlinde,
-dava dosyası mahkemece ilgili hakem veya hakem kuruluna gönderilir.
+(5) Yargılama sırasında tarafların tahkim yoluna başvurma konusunda
+anlaşmaları hâlinde, dava dosyası mahkemece ilgili hakem veya hakem kuruluna gönderilir.
 
-Tahkim
-itirazı
+Tahkim itirazı
 
 MADDE 413-
 (1)
 
-Tahkim sözleşmesinin konusunu oluşturan bir uyuşmazlığın çözümü
-için mahkemede dava açılmışsa, karşı taraf tahkim ilk itirazında bulunabilir. Bu
-durumda tahkim sözleşmesi hükümsüz, tesirsiz veya uygulanması imkânsız değil ise
-mahkeme tahkim itirazını kabul eder ve davayı usulden reddeder.
+Tahkim sözleşmesinin konusunu oluşturan
+bir uyuşmazlığın çözümü için mahkemede dava açılmışsa, karşı taraf tahkim ilk itirazında
+bulunabilir. Bu durumda tahkim sözleşmesi hükümsüz, tesirsiz veya uygulanması imkânsız
+değil ise mahkeme tahkim itirazını kabul eder ve davayı usulden reddeder.
 
-(2)
-Tahkim itirazının ileri sürülmesi, tahkim yargılamasına engel değildir.
+(2) Tahkim itirazının ileri sürülmesi, tahkim yargılamasına engel
+değildir.
 
 İhtiyati tedbir ve delil tespiti
 
-MADDE
-414-
+MADDE 414-
 (1)
 
-Aksi kararlaştırılmadıkça, tahkim yargılaması sırasında hakem
-veya hakem kurulu, taraflardan birinin talebi üzerine, bir ihtiyati tedbirin alınmasına
-veya delil tespitine karar verebilir. Hakem veya hakem kurulu, ihtiyati tedbir kararı
-vermeyi, uygun bir teminat verilmesine bağlı kılabilir.
+Aksi kararlaştırılmadıkça, tahkim
+yargılaması sırasında hakem veya hakem kurulu, taraflardan birinin talebi üzerine,
+bir ihtiyati tedbirin alınmasına veya delil tespitine karar verebilir. Hakem veya
+hakem kurulu, ihtiyati tedbir kararı vermeyi, uygun bir teminat verilmesine bağlı
+kılabilir.
 
-(2)
-Mahkeme hakem veya hakem kurulunca verilen tedbir kararının, geçerli bir tahkim
-sözleşmesinin var olması kaydıyla taraflardan birinin talebi üzerine icra edilebilirliğine
-karar verir.
+(2) Mahkeme hakem veya hakem kurulunca verilen tedbir kararının,
+geçerli bir tahkim sözleşmesinin var olması kaydıyla taraflardan birinin talebi
+üzerine icra edilebilirliğine karar verir.
 
-(3)
-Hakem veya hakem kurulunun ya da taraflarca görevlendirilecek bir başka kişinin
-zamanında veya etkin olarak hareket edemeyecek olduğu hâllerde, taraflardan biri
-ihtiyati tedbir veya delil tespiti için mahkemeye başvurabilir. Bu hâller mevcut
-değil ise mahkemeye başvuru, sadece hakem veya hakem kurulundan alınacak izne veya
-tarafların bu konudaki yazılı sözleşmesine dayanılarak yapılır.
+(3) Hakem veya hakem kurulunun ya da taraflarca görevlendirilecek
+bir başka kişinin zamanında veya etkin olarak hareket edemeyecek olduğu hâllerde,
+taraflardan biri ihtiyati tedbir veya delil tespiti için mahkemeye başvurabilir.
+Bu hâller mevcut değil ise mahkemeye başvuru, sadece hakem veya hakem kurulundan
+alınacak izne veya tarafların bu konudaki yazılı sözleşmesine dayanılarak yapılır.
 
-(4)
-Tahkim yargılaması öncesi veya tahkim yargılaması sırasında taraflardan birinin
-talebi üzerine mahkemece verilen ihtiyati tedbir kararı, aksine karar verilmedikçe,
-hakem veya hakem kurulu kararının icra edilebilir hâle gelmesiyle ya da davanın
-hakem veya hakem kurulu tarafından reddedilmesi hâlinde kendiliğinden ortadan kalkar.
+(4) Tahkim yargılaması öncesi veya tahkim yargılaması sırasında
+taraflardan birinin talebi üzerine mahkemece verilen ihtiyati tedbir kararı, aksine
+karar verilmedikçe, hakem veya hakem kurulu kararının icra edilebilir hâle gelmesiyle
+ya da davanın hakem veya hakem kurulu tarafından reddedilmesi hâlinde kendiliğinden
+ortadan kalkar.
 
-(5)
-Mahkemenin verdiği ihtiyati tedbir kararı, hakem veya hakem kurulu tarafından değiştirilebilir
-veya ortadan kaldırılabilir.
+(5) Mahkemenin verdiği ihtiyati tedbir kararı, hakem veya hakem
+kurulu tarafından değiştirilebilir veya ortadan kaldırılabilir.
 
 Hakem sayısı
 
-MADDE
-415-
-(1) Taraflar, hakemin sayısını belirlemekte serbesttir. Ancak, bu sayı
-tek olmalıdır.
+MADDE 415-
+(1) Taraflar, hakemin sayısını belirlemekte
+serbesttir. Ancak, bu sayı tek olmalıdır.
 
-(2)
-Hakemlerin sayısı taraflarca kararlaştırılmamışsa üç hakem seçilir.
+(2) Hakemlerin sayısı taraflarca kararlaştırılmamışsa üç hakem
+seçilir.
 
 Hakemlerin seçimi
 
-MADDE
-416
-- (1) Taraflar, hakem veya hakemlerin seçim usulünü kararlaştırmakta serbesttir.
-Taraflarca aksi kararlaştırılmamışsa hakem seçiminde aşağıdaki usul uygulanır:
+MADDE 416
+- (1) Taraflar, hakem veya hakemlerin seçim usulünü
+kararlaştırmakta serbesttir. Taraflarca aksi kararlaştırılmamışsa hakem seçiminde
+aşağıdaki usul uygulanır:
 
-a)
-Ancak gerçek kişiler hakem seçilebilir.
+a) Ancak gerçek kişiler hakem seçilebilir.
 
-b)
-Tek hakem seçilecek ise ve taraflar hakem seçiminde anlaşamazlarsa hakem, taraflardan
-birinin talebi üzerine mahkeme tarafından seçilir.
+b) Tek hakem seçilecek ise ve taraflar hakem seçiminde anlaşamazlarsa
+hakem, taraflardan birinin talebi üzerine mahkeme tarafından seçilir.
 
-c) Üç hakem seçilecek ise taraflardan her biri bir
-hakem seçer; bu şekilde seçilen iki hakem üçüncü hakemi belirler. Taraflardan biri,
-diğer tarafın bu yoldaki talebinin kendisine ulaşmasından itibaren bir ay içinde
-hakemini seçmezse veya tarafların seçtiği iki hakem seçilmelerinden sonraki bir
-ay içinde üçüncü hakemi belirlemezlerse, taraflardan birinin talebi üzerine mahkeme
-tarafından hakem seçimi yapılır. Üçüncü hakem, başkan olarak görev yapar.
+c) Üç hakem seçilecek ise taraflardan
+her biri bir hakem seçer; bu şekilde seçilen iki hakem üçüncü hakemi belirler. Taraflardan
+biri, diğer tarafın bu yoldaki talebinin kendisine ulaşmasından itibaren bir ay
+içinde hakemini seçmezse veya tarafların seçtiği iki hakem seçilmelerinden sonraki
+bir ay içinde üçüncü hakemi belirlemezlerse, taraflardan birinin talebi üzerine
+mahkeme tarafından hakem seçimi yapılır. Üçüncü hakem, başkan olarak görev yapar.
 
-ç)
-Üçten fazla hakem seçilecek ise son hakemi seçecek olan hakemler yukarıdaki bentte
-belirtilen usule göre taraflarca eşit sayıda belirlenir.
+ç) Üçten fazla hakem seçilecek ise son hakemi seçecek olan hakemler
+yukarıdaki bentte belirtilen usule göre taraflarca eşit sayıda belirlenir.
 
-d)
-Hakemin birden fazla kişiden oluşması hâlinde en az birinin kendi alanında beş yıl
-ve daha fazla kıdeme sahip bir hukukçu olması şarttır.
+d) Hakemin birden fazla kişiden oluşması hâlinde en az birinin
+kendi alanında beş yıl ve daha fazla kıdeme sahip bir hukukçu olması şarttır.
 
-(2)
-Hakemlerin seçim usulünü kararlaştırmış olmalarına rağmen;
+(2) Hakemlerin seçim usulünü kararlaştırmış olmalarına rağmen;
 
-a)
-Taraflardan biri sözleşmeye uymazsa,
+a) Taraflardan biri sözleşmeye uymazsa,
 
-b)
-Kararlaştırılmış olan usule göre tarafların veya taraflarca seçilen hakemlerin hakem
-seçimi konusunda birlikte karar vermeleri gerektiği hâlde, taraflar ya da hakemler
-bu konuda anlaşamazlarsa,
+b) Kararlaştırılmış olan usule göre tarafların veya taraflarca
+seçilen hakemlerin hakem seçimi konusunda birlikte karar vermeleri gerektiği hâlde,
+taraflar ya da hakemler bu konuda anlaşamazlarsa,
 
-c)
-Hakem seçimi ile yetkilendirilen üçüncü kişi, kurum veya kuruluş, hakemi ya da hakem
-kurulunu seçmezse,
+c) Hakem seçimi ile yetkilendirilen üçüncü kişi, kurum veya kuruluş,
+hakemi ya da hakem kurulunu seçmezse,
 
-hakem
-veya hakem kurulunun seçimi, taraflardan birinin talebi üzerine mahkeme tarafından
-yapılır. Mahkemenin, gerektiğinde tarafları dinledikten sonra bu fıkra hükümlerine
-göre verdiği kararlara karşı kanun yoluna başvurulamaz. Mahkeme, hakem seçiminde
-tarafların sözleşmesini ve hakemlerin bağımsız ve tarafsız olması ilkelerini göz
-önünde bulundurur. Üçten fazla hakem seçilecek hâllerde de aynı usul uygulanır.
+hakem veya hakem kurulunun seçimi, taraflardan birinin talebi
+üzerine mahkeme tarafından yapılır. Mahkemenin, gerektiğinde tarafları dinledikten
+sonra bu fıkra hükümlerine göre verdiği kararlara karşı kanun yoluna başvurulamaz.
+Mahkeme, hakem seçiminde tarafların sözleşmesini ve hakemlerin bağımsız ve tarafsız
+olması ilkelerini göz önünde bulundurur. Üçten fazla hakem seçilecek hâllerde de
+aynı usul uygulanır.
 [68]
 
 Ret sebepleri
 
-MADDE
-417
-- (1) Kendisine hakemlik önerilen kimse, bu görevi kabul etmeden önce tarafsızlık
-ve bağımsızlığından şüphe edilmeyi haklı gösteren durum ve koşulları
+MADDE 417
+- (1) Kendisine hakemlik önerilen kimse, bu görevi
+kabul etmeden önce tarafsızlık ve bağımsızlığından şüphe edilmeyi haklı gösteren
+durum ve koşulları
 
-açıklamak zorundadır. Taraflar önceden bilgilendirilmemiş
-oldukları takdirde hakem, daha sonra ortaya çıkan durumları da gecikmeksizin taraflara
-bildirir.
+açıklamak zorundadır.
+Taraflar önceden bilgilendirilmemiş oldukları takdirde hakem, daha sonra ortaya
+çıkan durumları da gecikmeksizin taraflara bildirir.
 
-(2) Hakem, taraflarca kararlaştırılan niteliklere sahip
-olmadığı, taraflarca kararlaştırılan tahkim usulünde öngörülen bir ret sebebi mevcut
-bulunduğu veya tarafsızlığından şüphe edilmeyi haklı gösteren durum ve koşullar
-gerçekleştiği takdirde reddedilebilir. Taraflardan birisinin kendisinin atadığı
-veya atanmasına katıldığı hakemi reddetmesi, yalnızca hakemin atanma tarihinden
+(2) Hakem, taraflarca kararlaştırılan
+niteliklere sahip olmadığı, taraflarca kararlaştırılan tahkim usulünde öngörülen
+bir ret sebebi mevcut bulunduğu veya tarafsızlığından şüphe edilmeyi haklı gösteren
+durum ve koşullar gerçekleştiği takdirde reddedilebilir. Taraflardan birisinin kendisinin
+atadığı veya atanmasına katıldığı hakemi reddetmesi, yalnızca hakemin atanma tarihinden
 sonra öğrenilen ret sebeplerine dayanılarak yapılabilir.
 
 Hakemin reddi usulü
 
-MADDE
-418
-- (1) Taraflar, hakemin reddi usulünü serbestçe kararlaştırabilirler.
+MADDE 418
+- (1) Taraflar, hakemin reddi usulünü serbestçe
+kararlaştırabilirler.
 
-(2)
-Hakemi reddetmek isteyen taraf, hakemin veya hakem kurulunun seçiminden ya da hakemin
-reddi talebinde bulunabileceği bir durumun ortaya çıktığını öğrendiği tarihten itibaren
-iki hafta içinde ret talebinde bulunabilir ve bu talebini karşı tarafa yazılı olarak
-bildirir. Reddedilen hakem kendiliğinden çekilmez veya diğer taraf reddi kabul etmez
-ise ret hakkında, hakem kurulunca karar verilir.
+(2) Hakemi reddetmek isteyen taraf, hakemin veya hakem kurulunun
+seçiminden ya da hakemin reddi talebinde bulunabileceği bir durumun ortaya çıktığını
+öğrendiği tarihten itibaren iki hafta içinde ret talebinde bulunabilir ve bu talebini
+karşı tarafa yazılı olarak bildirir. Reddedilen hakem kendiliğinden çekilmez veya
+diğer taraf reddi kabul etmez ise ret hakkında, hakem kurulunca karar verilir.
 
-(3)
-Hakem kurulundan bir veya birden çok hakemin reddini isteyen taraf, ret talebini
-ve gerekçesini hakem kuruluna bildirir. Ret talebinin kabul edilmediğini öğrenen
-taraf, bu tarihten itibaren karara karşı bir ay içinde mahkemeye başvurarak bu kararın
-kaldırılmasını ve hakem veya hakemlerin reddine ilişkin talep hakkında karar verilmesini
-isteyebilir.
+(3) Hakem kurulundan bir veya birden çok hakemin reddini isteyen
+taraf, ret talebini ve gerekçesini hakem kuruluna bildirir. Ret talebinin kabul
+edilmediğini öğrenen taraf, bu tarihten itibaren karara karşı bir ay içinde mahkemeye
+başvurarak bu kararın kaldırılmasını ve hakem veya hakemlerin reddine ilişkin talep
+hakkında karar verilmesini isteyebilir.
 
-(4)
-Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan kaldıracak
-sayıda hakemin reddi için ancak mahkemeye başvurulabilir. Mahkemenin bu fıkra uyarınca
-vereceği kararlara karşı kanun yoluna başvurulamaz.
+(4) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu
+ortadan kaldıracak sayıda hakemin reddi için ancak mahkemeye başvurulabilir. Mahkemenin
+bu fıkra uyarınca vereceği kararlara karşı kanun yoluna başvurulamaz.
 [69]
 
-(5)
-Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan kaldıracak
-sayıda hakemin ret talebini mahkemenin kabul etmesi hâlinde tahkim sona erer. Ancak
-tahkim sözleşmesinde hakem veya hakemlerin isimleri belirlenmemişse yeniden hakem
-seçimi yoluna gidilir.
+(5) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu
+ortadan kaldıracak sayıda hakemin ret talebini mahkemenin kabul etmesi hâlinde tahkim
+sona erer. Ancak tahkim sözleşmesinde hakem veya hakemlerin isimleri belirlenmemişse
+yeniden hakem seçimi yoluna gidilir.
 
-Hakemlerin
-sorumluluğu
+Hakemlerin sorumluluğu
 
-MADDE
-419
-- (1) Taraflarca aksi kararlaştırılmamışsa, tahkim yargılamasında görevi
-kabul eden hakem, haklı bir neden olmaksızın görevini yerine getirmekten kaçındığı
-takdirde, tarafların bu nedenle uğradığı zararı gidermekle yükümlüdür.
+MADDE 419
+- (1) Taraflarca aksi kararlaştırılmamışsa, tahkim
+yargılamasında görevi kabul eden hakem, haklı bir neden olmaksızın görevini yerine
+getirmekten kaçındığı takdirde, tarafların bu nedenle uğradığı zararı gidermekle
+yükümlüdür.
 
 Görevin yerine getirilememesi
 
-MADDE
-420
-- (1) Bir hakem, hukuki veya fiilî sebeplerle görevini hiç ya da zamanında
-yerine getiremediği takdirde hakemlik görevi, çekilme veya tarafların bu yönde anlaşmaları
-suretiyle sona erer.
+MADDE 420
+- (1) Bir hakem, hukuki veya fiilî sebeplerle
+görevini hiç ya da zamanında yerine getiremediği takdirde hakemlik görevi, çekilme
+veya tarafların bu yönde anlaşmaları suretiyle sona erer.
 
-(2)
-Taraflardan her biri, hakemin çekilmesini gerektiren sebeplerin varlığı konusunda
-aralarında uyuşmazlık olursa, mahkemeden hakemin yetkisinin sona erdirilmesi konusunda
-karar verilmesini isteyebilir. Mahkemenin vereceği karar kesindir.
+(2) Taraflardan her biri, hakemin çekilmesini gerektiren sebeplerin
+varlığı konusunda aralarında uyuşmazlık olursa, mahkemeden hakemin yetkisinin sona
+erdirilmesi konusunda karar verilmesini isteyebilir. Mahkemenin vereceği karar kesindir.
 
-(3)
-Hakemin görevinden çekilmesi veya diğer tarafın hakemin yetkisinin sona ermesine
-muvafakat etmesi, hakemin ret sebeplerinin varlığının kabulü anlamına gelmez.
+(3) Hakemin görevinden çekilmesi veya diğer tarafın hakemin yetkisinin
+sona ermesine muvafakat etmesi, hakemin ret sebeplerinin varlığının kabulü anlamına
+gelmez.
 
 Yeni hakem seçilmesi
 
-MADDE
-421
-- (1) Hakemlerden birinin görevi herhangi bir sebeple sona ererse, onun yerine
-seçimindeki usul uygulanarak yeni bir hakem seçilir.
+MADDE 421
+- (1) Hakemlerden birinin görevi herhangi bir
+sebeple sona ererse, onun yerine seçimindeki usul uygulanarak yeni bir hakem seçilir.
 
-(2)
-Bir veya birden çok hakemin değiştirilmesi için geçen süre tahkim süresinden sayılmaz.
+(2) Bir veya birden çok hakemin değiştirilmesi için geçen süre
+tahkim süresinden sayılmaz.
 
-(3)
-Tahkim sözleşmesinde hakemin veya hakem kurulunu oluşturan hakemlerin ad ve soyadları
-belirtilmiş ise hakemin, hakem kurulunun ya da kurulun karar çoğunluğunu ortadan
-kaldıracak sayıda hakemin görevinin herhangi bir sebeple sona ermesi hâlinde, tahkim
-de sona erer.
+(3) Tahkim sözleşmesinde hakemin veya hakem kurulunu oluşturan
+hakemlerin ad ve soyadları belirtilmiş ise hakemin, hakem kurulunun ya da kurulun
+karar çoğunluğunu ortadan kaldıracak sayıda hakemin görevinin herhangi bir sebeple
+sona ermesi hâlinde, tahkim de sona erer.
 
-Hakemin kendi yetkisi hakkında karar vermesi
+Hakemin kendi yetkisi hakkında karar
+vermesi
 
 MADDE 422
-- (1) Hakem veya hakem kurulu, tahkim sözleşmesinin mevcut veya geçerli olup
-olmadığına ilişkin itirazlar da dâhil olmak üzere, kendi yetkisi hakkında karar
-verebilir. Bu karar verilirken, bir sözleşmede yer alan tahkim şartı, sözleşmenin
-diğer hükümlerinden bağımsız olarak değerlendirilir. Hakem veya hakem kurulunun
-asıl sözleşmenin hükümsüzlüğüne karar vermesi, tahkim sözleşmesinin kendiliğinden
-hükümsüzlüğü sonucunu doğurmaz.
+- (1) Hakem veya hakem kurulu, tahkim sözleşmesinin
+mevcut veya geçerli olup olmadığına ilişkin itirazlar da dâhil olmak üzere, kendi
+yetkisi hakkında karar verebilir. Bu karar verilirken, bir sözleşmede yer alan tahkim
+şartı, sözleşmenin diğer hükümlerinden bağımsız olarak değerlendirilir. Hakem veya
+hakem kurulunun asıl sözleşmenin hükümsüzlüğüne karar vermesi, tahkim sözleşmesinin
+kendiliğinden hükümsüzlüğü sonucunu doğurmaz.
 
-(2)
-Hakem veya hakem kurulunun yetkisizliğine ilişkin itiraz, en geç cevap dilekçesinde
-yapılır. Tarafların hakemleri bizzat seçmiş veya hakem seçimine katılmış olmaları,
-hakem veya hakem kurulunun yetkisine itiraz etme haklarını ortadan kaldırmaz.
+(2) Hakem veya hakem kurulunun yetkisizliğine ilişkin itiraz,
+en geç cevap dilekçesinde yapılır. Tarafların hakemleri bizzat seçmiş veya hakem
+seçimine katılmış olmaları, hakem veya hakem kurulunun yetkisine itiraz etme haklarını
+ortadan kaldırmaz.
 
-(3)
-Hakem veya hakem kurulunun yetkisini aştığına ilişkin itiraz derhâl ileri sürülmelidir.
+(3) Hakem veya hakem kurulunun yetkisini aştığına ilişkin itiraz
+derhâl ileri sürülmelidir.
 
-(4)
-Hakem veya hakem kurulu, yukarıda belirtilen her iki hâlde de gecikmenin haklı sebebe
-dayandığı sonucuna varırsa, süresinde ileri sürülmeyen itirazı kabul edebilir.
+(4) Hakem veya hakem kurulu, yukarıda belirtilen her iki hâlde
+de gecikmenin haklı sebebe dayandığı sonucuna varırsa, süresinde ileri sürülmeyen
+itirazı kabul edebilir.
 
 (5) Hakem veya hakem kurulu,
 yetkisizlik itirazını, ön sorun şeklinde inceler ve karara bağlar; yetkili olduğuna
 karar verirse, tahkim yargılamasını sürdürür ve davayı karara bağlar.
 
-Tarafların eşitliği ve hukuki dinlenilme hakkı
+Tarafların eşitliği ve hukuki dinlenilme
+hakkı
 
-MADDE
-423-
-(1) Taraflar, tahkim yargılamasında eşit hak ve yetkiye sahiptirler. Taraflara
-hukuki dinlenilme hakkını kullanma imkânı tanınır.
+MADDE 423-
+(1) Taraflar, tahkim yargılamasında eşit hak
+ve yetkiye sahiptirler. Taraflara hukuki dinlenilme hakkını kullanma imkânı tanınır.
 
 Yargılama usulünün belirlenmesi
 
-MADDE
-424-
-(1) Taraflar, hakem veya hakem kurulunun uygulayacağı yargılama usulüne
-ilişkin kuralları, bu Kısmın emredici hükümleri saklı kalmak kaydıyla, serbestçe
-kararlaştırabilir ya da tahkim kurallarına yollama yaparak belirleyebilirler. Taraflar
-arasında böyle bir sözleşme yoksa hakem veya hakem kurulu, tahkim yargılamasını,
+MADDE 424-
+(1) Taraflar, hakem veya hakem kurulunun uygulayacağı
+yargılama usulüne ilişkin kuralları, bu Kısmın emredici hükümleri saklı kalmak kaydıyla,
+serbestçe kararlaştırabilir ya da tahkim kurallarına yollama yaparak belirleyebilirler.
+Taraflar arasında böyle bir sözleşme yoksa hakem veya hakem kurulu, tahkim yargılamasını,
 bu Kısmın hükümlerini gözeterek uygun bulduğu bir şekilde yürütür.
 
 Tahkim yeri
 
-MADDE
-425-
-(1) Tahkim yeri, taraflarca veya onların seçtiği bir tahkim kurumunca serbestçe
-kararlaştırılır. Bu konuda bir anlaşma yoksa tahkim yeri, hakem veya hakem kurulunca
-olayın özelliklerine göre belirlenir.
+MADDE 425-
+(1) Tahkim yeri, taraflarca veya onların seçtiği
+bir tahkim kurumunca serbestçe kararlaştırılır. Bu konuda bir anlaşma yoksa tahkim
+yeri, hakem veya hakem kurulunca olayın özelliklerine göre belirlenir.
 
-(2)
-Hakem veya hakem kurulu, tahkim yargılamasının gerektirdiği durumlarda önceden taraflara
-bildirmek kaydıyla bir başka yerde de toplanabilir; duruşma, keşif gibi benzeri
-işlemleri de yapabilir.
+(2) Hakem veya hakem kurulu, tahkim yargılamasının gerektirdiği
+durumlarda önceden taraflara bildirmek kaydıyla bir başka yerde de toplanabilir;
+duruşma, keşif gibi benzeri işlemleri de yapabilir.
 
 Dava tarihi
 
-MADDE
-426-
+MADDE 426-
 (1)
 
-Taraflar aksini kararlaştırmadıkça tahkim davası, hakemlerin
-seçimi için mahkemeye veya tarafların sözleşmesine göre hakem seçecek olan kişi,
-kurum veya kuruluşa başvurulduğu ve eğer sözleşmeye göre hakemlerin seçimi iki tarafa
-ait ise davacının hakemini seçip kendi hakemini seçmesini diğer tarafa bildirdiği;
-sözleşmede hakem veya hakem kurulunu oluşturan hakemlerin ad ve soyadları belirtilmiş
-ise uyuşmazlığın tahkim yoluyla çözülmesi talebinin karşı tarafça alındığı tarihte
-açılmış sayılır.
+Taraflar aksini kararlaştırmadıkça
+tahkim davası, hakemlerin seçimi için mahkemeye veya tarafların sözleşmesine göre
+hakem seçecek olan kişi, kurum veya kuruluşa başvurulduğu ve eğer sözleşmeye göre
+hakemlerin seçimi iki tarafa ait ise davacının hakemini seçip kendi hakemini seçmesini
+diğer tarafa bildirdiği; sözleşmede hakem veya hakem kurulunu oluşturan hakemlerin
+ad ve soyadları belirtilmiş ise uyuşmazlığın tahkim yoluyla çözülmesi talebinin
+karşı tarafça alındığı tarihte açılmış sayılır.
 
-(2)
-Taraflardan biri, mahkemeden ihtiyati tedbir veya ihtiyati haciz kararı almış ise
-iki hafta içinde tahkim davasını açmak zorundadır. Aksi hâlde ihtiyati tedbir veya
-ihtiyati haciz kendiliğinden ortadan kalkar.
+(2) Taraflardan biri, mahkemeden ihtiyati tedbir veya ihtiyati
+haciz kararı almış ise iki hafta içinde tahkim davasını açmak zorundadır. Aksi hâlde
+ihtiyati tedbir veya ihtiyati haciz kendiliğinden ortadan kalkar.
 
 Tahkim süresi
 
-MADDE
-427
-- (1) Taraflar aksini kararlaştırmadıkça, bir hakemin görev yapacağı davalarda
-hakemin seçildiği, birden çok hakemin görev yapacağı davalarda ise hakem kurulunun
-ilk toplantı tutanağının düzenlendiği tarihten itibaren bir yıl içinde, hakem veya
-hakem kurulunca esas hakkında karar verilir.
+MADDE 427
+- (1) Taraflar aksini kararlaştırmadıkça, bir
+hakemin görev yapacağı davalarda hakemin seçildiği, birden çok hakemin görev yapacağı
+davalarda ise hakem kurulunun ilk toplantı tutanağının düzenlendiği tarihten itibaren
+bir yıl içinde, hakem veya hakem kurulunca esas hakkında karar verilir.
 
-(2)
-Tahkim süresi, tarafların anlaşmasıyla; anlaşamamaları hâlinde ise taraflardan birinin
-başvurusu üzerine mahkemece uzatılabilir. Mahkemenin, bu konudaki kararı kesindir.
+(2) Tahkim süresi, tarafların anlaşmasıyla; anlaşamamaları hâlinde
+ise taraflardan birinin başvurusu üzerine mahkemece uzatılabilir. Mahkemenin, bu
+konudaki kararı kesindir.
 
-Dava
-ve cevap dilekçesi
+Dava ve cevap dilekçesi
 
-MADDE
-428
-- (1) Taraflarca kararlaştırılan veya hakem tarafından belirlenecek süre
-içinde, davacı tahkim şartını veya sözleşmesiyle birlikte varsa esas sözleşme ile
-iddiasını dayandırdığı vakıaları ve talebini; davalı ise savunmasını ve dayandığı
-vakıaları dilekçeyle hakem veya hakem kuruluna sunar.
+MADDE 428
+- (1) Taraflarca kararlaştırılan veya hakem tarafından
+belirlenecek süre içinde, davacı tahkim şartını veya sözleşmesiyle birlikte varsa
+esas sözleşme ile iddiasını dayandırdığı vakıaları ve talebini; davalı ise savunmasını
+ve dayandığı vakıaları dilekçeyle hakem veya hakem kuruluna sunar.
 
-(2)
-Taraflar dilekçelerine yazılı delillerini ekleyebilir ve ileride sunacakları delilleri
-gösterebilirler.
+(2) Taraflar dilekçelerine yazılı delillerini ekleyebilir ve ileride
+sunacakları delilleri gösterebilirler.
 
-(3)
-Taraflar, aksini kararlaştırmış olmadıkça, tahkim yargılaması sırasında iddia veya
-savunmalarını değiştirebilir veya genişletebilirler. Ancak, hakem veya hakem kurulu,
-bu işlemin gecikerek yapılmış olduğunu veya diğer taraf için haksız bir şekilde
-büyük zorluk yarattığını ve diğer durum ve koşulları
+(3) Taraflar, aksini kararlaştırmış olmadıkça, tahkim yargılaması
+sırasında iddia veya savunmalarını değiştirebilir veya genişletebilirler. Ancak,
+hakem veya hakem kurulu, bu işlemin gecikerek yapılmış olduğunu veya diğer taraf
+için haksız bir şekilde büyük zorluk yarattığını ve diğer durum ve koşulları
 
-dikkate alarak, böyle bir değişiklik veya genişletmeye izin vermeyebilir.
-İddia veya savunma tahkim sözleşmesinin kapsamı dışına çıkacak şekilde değiştirilemez
-veya genişletilemez.
+dikkate alarak, böyle bir değişiklik veya genişletmeye
+izin vermeyebilir. İddia veya savunma tahkim sözleşmesinin kapsamı dışına çıkacak
+şekilde değiştirilemez veya genişletilemez.
 
-Duruşma yapılması veya dosya üzerinden inceleme
+Duruşma yapılması veya dosya üzerinden
+inceleme
 
-MADDE
-429-
-(1) Hakem veya hakem kurulu, delillerin ikamesi, sözlü beyanlarda bulunulması
-veya bilirkişiden açıklama istenmesi gibi sebeplerle duruşma yapılmasına karar verebileceği
-gibi; yargılamanın dosya üzerinden yürütülmesine de karar verebilir. Taraflar, aksini
-kararlaştırmadıkça, hakem veya hakem kurulu, taraflardan birinin talebi üzerine
-yargılamanın uygun aşamasında duruşma yapılmasına karar verir.
+MADDE 429-
+(1) Hakem veya hakem kurulu, delillerin ikamesi,
+sözlü beyanlarda bulunulması veya bilirkişiden açıklama istenmesi gibi sebeplerle
+duruşma yapılmasına karar verebileceği gibi; yargılamanın dosya üzerinden yürütülmesine
+de karar verebilir. Taraflar, aksini kararlaştırmadıkça, hakem veya hakem kurulu,
+taraflardan birinin talebi üzerine yargılamanın uygun aşamasında duruşma yapılmasına
+karar verir.
 
-(2)
-Hakem veya hakem kurulu, dava ile ilgili her türlü keşif tarihini, bilirkişi incelemesini
-veya diğer delillerin incelenmesi için yapacağı toplantı ve duruşmalar ile tarafların
-gelmemeleri hâlinde bunun sonuçlarını uygun bir süre önce taraflara bildirir.
+(2) Hakem veya hakem kurulu, dava ile ilgili her türlü keşif tarihini,
+bilirkişi incelemesini veya diğer delillerin incelenmesi için yapacağı toplantı
+ve duruşmalar ile tarafların gelmemeleri hâlinde bunun sonuçlarını uygun bir süre
+önce taraflara bildirir.
 
-(3)
-Hakem veya hakem kuruluna verilen dilekçeler, bilgiler ve diğer belgeler taraflara
-bildirilir.
+(3) Hakem veya hakem kuruluna verilen dilekçeler, bilgiler ve
+diğer belgeler taraflara bildirilir.
 
 Taraflardan birinin yargılamaya katılmaması
 
-MADDE
-430
-- (1) Taraflardan birinin yargılamaya katılmaması hâlinde aşağıdaki hükümler
-uygulanır:
+MADDE 430
+- (1) Taraflardan birinin yargılamaya katılmaması
+hâlinde aşağıdaki hükümler uygulanır:
 
-a)
-Davacı, geçerli bir neden göstermeksizin dava dilekçesini süresi içinde vermezse;
-dava dilekçesi usulüne uygun değilse ve eksiklik hakem veya hakem kurulunca belirlenecek
-süre içinde giderilmezse, hakem veya hakem kurulu tahkim yargılamasına son verir.
+a) Davacı, geçerli bir neden göstermeksizin dava dilekçesini süresi
+içinde vermezse; dava dilekçesi usulüne uygun değilse ve eksiklik hakem veya hakem
+kurulunca belirlenecek süre içinde giderilmezse, hakem veya hakem kurulu tahkim
+yargılamasına son verir.
 
-b)
-Davalı, cevap dilekçesini vermezse; bu durum davacının iddialarının ikrarı veya
-davanın kabulü olarak değerlendirilmeyip yargılamaya devam edilir.
+b) Davalı, cevap dilekçesini vermezse; bu durum davacının iddialarının
+ikrarı veya davanın kabulü olarak değerlendirilmeyip yargılamaya devam edilir.
 
-c) Taraflardan biri, geçerli bir neden göstermeksizin
-duruşmaya katılmaz veya delillerini sunmaktan kaçınırsa; hakem veya hakem kurulu,
-tahkim yargılamasına devam ederek mevcut delillere göre karar verebilir.
+c) Taraflardan biri, geçerli
+bir neden göstermeksizin duruşmaya katılmaz veya delillerini sunmaktan kaçınırsa;
+hakem veya hakem kurulu, tahkim yargılamasına devam ederek mevcut delillere göre
+karar verebilir.
 
-Hakem
-veya hakem kurulunca bilirkişi seçimi
+Hakem veya hakem kurulunca bilirkişi seçimi
 
-MADDE
-431-
+MADDE 431-
 (1) Hakem veya hakem kurulu;
 
-a) Belirlediği konular hakkında rapor vermek üzere
-bir veya birden çok bilirkişi seçimine
+a) Belirlediği konular hakkında
+rapor vermek üzere bir veya birden çok bilirkişi seçimine
 ,
 
-b)
-Tarafların bilirkişiye gerekli açıklamaları yapmalarına, ilgili belge ve bilgileri
-vermelerine,
+b) Tarafların bilirkişiye gerekli açıklamaları yapmalarına, ilgili
+belge ve bilgileri vermelerine,
 
-c)
-Keşif yapılmasına,
+c) Keşif yapılmasına,
 
-karar
-verebilir.
+karar verebilir.
 
-(2)
-Aksi kararlaştırılmadıkça, taraflardan birinin talebi veya hakem ya da hakem kurulunun
-gerekli görmesi üzerine bilirkişiler, yazılı veya sözlü raporlarını vermelerinden
-sonra çağrılacakları duruşmaya katılırlar. Bu duruşmada taraflar, bilirkişilere
-soru sorabilir ve uyuşmazlık konusunda kendi seçtikleri özel bilirkişileri dinletebilirler.
+(2) Aksi kararlaştırılmadıkça, taraflardan birinin talebi veya
+hakem ya da hakem kurulunun gerekli görmesi üzerine bilirkişiler, yazılı veya sözlü
+raporlarını vermelerinden sonra çağrılacakları duruşmaya katılırlar. Bu duruşmada
+taraflar, bilirkişilere soru sorabilir ve uyuşmazlık konusunda kendi seçtikleri
+özel bilirkişileri dinletebilirler.
 
 Delillerin toplanması
 
-MADDE
-432
-- (1) Taraflardan biri, hakem veya hakem kurulunun onayı ile delillerin toplanmasında
-mahkemeden yardım isteyebilir.
+MADDE 432
+- (1) Taraflardan biri, hakem veya hakem kurulunun
+onayı ile delillerin toplanmasında mahkemeden yardım isteyebilir.
 
 Hakem kurulunun karar vermesi
 
-MADDE
-433-
+MADDE 433-
 (1)
 
-Taraflarca aksi kararlaştırılmamışsa, hakem kurulu oy çokluğuyla
-da karar verebilir.
+Taraflarca aksi kararlaştırılmamışsa,
+hakem kurulu oy çokluğuyla da karar verebilir.
 
-(2)
-Taraflar veya hakem kurulunun diğer üyeleri yetki vermişlerse, hakem kurulu başkanı,
-yargılama usulü ile ilgili belirli konularda tek başına karar verebilir.
+(2) Taraflar veya hakem kurulunun diğer üyeleri yetki vermişlerse,
+hakem kurulu başkanı, yargılama usulü ile ilgili belirli konularda tek başına karar
+verebilir.
 
-(3)
-Hakem veya hakem kurulu, ancak tarafların açıkça yetkili kılmış olmaları şartıyla
-hakkaniyet ve nasafet kurallarına göre veya dostane çözüm yoluyla karar verebilir.
+(3) Hakem veya hakem kurulu, ancak tarafların açıkça yetkili kılmış
+olmaları şartıyla hakkaniyet ve nasafet kurallarına göre veya dostane çözüm yoluyla
+karar verebilir.
 
 Sulh
 
-MADDE
-434
-- (1) Tahkim yargılaması sırasında taraflar uyuşmazlık konusunda sulh olurlarsa,
-tahkim yargılamasına son verilir. Tarafların talebi, ahlâka veya kamu düzenine aykırı
-değilse ya da tahkime elverişli olan bir konuya ilişkin ise sulh, hakem kararı olarak
-tespit edilir.
+MADDE 434
+- (1) Tahkim yargılaması sırasında taraflar uyuşmazlık
+konusunda sulh olurlarsa, tahkim yargılamasına son verilir. Tarafların talebi, ahlâka
+veya kamu düzenine aykırı değilse ya da tahkime elverişli olan bir konuya ilişkin
+ise sulh, hakem kararı olarak tespit edilir.
 
 Tahkim yargılamasının sona ermesi
 
 MADDE 435
-- (1) Tahkim yargılaması, nihai hakem kararının verilmesi veya aşağıdaki
-hâllerden birinin gerçekleşmesi ile sona erer:
+- (1) Tahkim yargılaması, nihai hakem kararının verilmesi
+veya aşağıdaki hâllerden birinin gerçekleşmesi ile sona erer:
 
-a)
-Davalının itirazı üzerine hakem veya hakem kurulunun uyuşmazlığın kesin olarak çözümünde
-davalının hukuki yararı bulunduğunu kabul etmesi hâli hariç, davacı davasını geri
-alırsa.
+a) Davalının itirazı üzerine hakem veya hakem kurulunun uyuşmazlığın
+kesin olarak çözümünde davalının hukuki yararı bulunduğunu kabul etmesi hâli hariç,
+davacı davasını geri alırsa.
 
-b)
-Taraflar, yargılamanın sona erdirilmesi konusunda anlaşırlarsa.
+b) Taraflar, yargılamanın sona erdirilmesi konusunda anlaşırlarsa.
 
-c)
-Hakem veya hakem kurulu, başka bir sebeple yargılamanın sürdürülmesini gereksiz
-veya imkânsız bulursa.
+c) Hakem veya hakem kurulu, başka bir sebeple yargılamanın sürdürülmesini
+gereksiz veya imkânsız bulursa.
 
-ç)
-427 nci maddenin ikinci fıkrası
+ç) 427 nci maddenin ikinci fıkrası
 
-uyarınca tahkim süresinin uzatılmasına ilişkin
-talep mahkemece reddedilirse.
+uyarınca tahkim süresinin
+uzatılmasına ilişkin talep mahkemece reddedilirse.
 
-d)
-Taraflarca kararın oybirliğiyle verilmesinin öngörülmesine rağmen, hakem kurulu
-oybirliğiyle karar veremezse.
+d) Taraflarca kararın oybirliğiyle verilmesinin öngörülmesine
+rağmen, hakem kurulu oybirliğiyle karar veremezse.
 
-e)
-442 nci maddenin ikinci fıkrası
+e) 442 nci maddenin ikinci fıkrası
 
-uyarınca yargılama giderleri için avans yatırılmazsa.
+uyarınca yargılama giderleri
+için avans yatırılmazsa.
 
-(2)
-437 nci
+(2) 437 nci
 
-madde hükmü saklı kalmak üzere, hakem veya hakem kurulunun yetkisi,
-yargılamanın sona ermesiyle ortadan kalkar.
+madde hükmü saklı kalmak üzere, hakem veya
+hakem kurulunun yetkisi, yargılamanın sona ermesiyle ortadan kalkar.
 
 Hakem kararının şekli, içeriği ve saklanması
 
-MADDE
-436-
+MADDE 436-
 (1)
 
 Hakem kararlarında;
 
-a)
-Kararı veren hakem veya hakem kurulu üyelerinin ad ve soyadları,
+a) Kararı veren hakem veya hakem kurulu üyelerinin ad ve soyadları,
 
-b) Tarafların ve varsa temsilcileri ile vekillerinin
-ad ve soyadları, unvanları ve adresleri,
+b) Tarafların ve varsa temsilcileri
+ile vekillerinin ad ve soyadları, unvanları ve adresleri,
 
 c) Kararın dayandığı hukuki
 sebepler ile gerekçesi,
@@ -7888,156 +7755,135 @@ sebepler ile gerekçesi,
 ç) Bir sıra numarası altında
 açık ve kesin bir biçimde taraflara yüklenen hak ve borçlar ile yargılama giderleri,
 
-d)
-Karara karşı iptal davası açılabileceği ve süresi,
+d) Karara karşı iptal davası açılabileceği ve süresi,
 
-e)
-Tahkim yeri ve kararın tarihi,
+e) Tahkim yeri ve kararın tarihi,
 
-f)
-Kararı veren hakem veya hakem kurulu üyelerinin tamamı veya çoğunluğunun imzaları
-ve karara eklenmiş ise karşı oy yazısı,
+f) Kararı veren hakem veya hakem kurulu üyelerinin tamamı veya
+çoğunluğunun imzaları ve karara eklenmiş ise karşı oy yazısı,
 
 gösterilir.
 
-(2)
-Aksi kararlaştırılmadıkça, hakem veya hakem kurulu kısmi kararlar verebilir.
+(2) Aksi kararlaştırılmadıkça, hakem veya hakem kurulu kısmi kararlar
+verebilir.
 
 (3)
-
 (Değişik:22/7/2020-7251/45 md.)
-Hakem kararı; hakem, hakem kurulu başkanı
-veya ilgili tahkim kurumu tarafından taraflara bildirilir. Ayrıca kararın aslı dosya
-ile birlikte mahkemeye gönderilir ve mahkemece saklanır.
+Hakem kararı; hakem,
+hakem kurulu başkanı veya ilgili tahkim kurumu tarafından taraflara bildirilir.
+Ayrıca kararın aslı dosya ile birlikte mahkemeye gönderilir ve mahkemece saklanır.
 
-Hakem kararının tavzihi, düzeltilmesi ve tamamlanması
+Hakem kararının tavzihi, düzeltilmesi
+ve tamamlanması
 
-MADDE
-437
-- (1) Evvelce daha farklı bir süre öngörülmemişse, taraflardan her biri,
-hakem kararının kendisine bildirilmesinden itibaren iki hafta
+MADDE 437
+- (1) Evvelce daha farklı bir süre öngörülmemişse,
+taraflardan her biri, hakem kararının kendisine bildirilmesinden itibaren iki hafta
 
 içinde, karşı tarafa da bilgi vermek kaydıyla, hakem
 veya hakem kuruluna başvurarak;
 
-a)
-Hakem kararında bulunan hesap, yazı ve benzeri maddi hataların düzeltilmesini,
+a) Hakem kararında bulunan hesap, yazı ve benzeri maddi hataların
+düzeltilmesini,
 
-b)
-Karara ilişkin belirli bir konunun veya kararın bir bölümünün tavzihini,
+b) Karara ilişkin belirli bir konunun veya kararın bir bölümünün
+tavzihini,
 
 isteyebilir.
 
-(2)
-Karşı tarafın görüşünü alan hakem veya hakem kurulu, bu talebi haklı bulursa, talep
-tarihinden itibaren bir ay içinde kararındaki maddi hatayı düzeltir veya kararın
-tavzihini yapar. İcap ederse, bu süre hakem veya hakem kurulunca uzatılabilir.
+(2) Karşı tarafın görüşünü alan hakem veya hakem kurulu, bu talebi
+haklı bulursa, talep tarihinden itibaren bir ay içinde kararındaki maddi hatayı
+düzeltir veya kararın tavzihini yapar. İcap ederse, bu süre hakem veya hakem kurulunca
+uzatılabilir.
 
-(3)
-Hakem veya hakem kurulu, karardaki maddi hataları karar tarihini izleyen iki hafta
-içinde kendiliğinden de düzeltebilir.
+(3) Hakem veya hakem kurulu, karardaki maddi hataları karar tarihini
+izleyen iki hafta içinde kendiliğinden de düzeltebilir.
 
-(4)
-Taraflardan her biri, hakem kararının kendilerine bildirilmesinden itibaren bir
-ay içinde, karşı tarafa da bilgi vermek kaydıyla, yargılama sırasında ileri sürülmüş
-olmasına rağmen karara bağlanmamış konularda tamamlayıcı hakem kararı verilmesini
-isteyebilir. Hakem veya hakem kurulu, talebi haklı bulursa, tamamlayıcı hakem kararını
-bir ay içinde verir. İcap ederse, bu süre hakem veya hakem kurulunca en fazla bir
-ay
+(4) Taraflardan her biri, hakem kararının kendilerine bildirilmesinden
+itibaren bir ay içinde, karşı tarafa da bilgi vermek kaydıyla, yargılama sırasında
+ileri sürülmüş olmasına rağmen karara bağlanmamış konularda tamamlayıcı hakem kararı
+verilmesini isteyebilir. Hakem veya hakem kurulu, talebi haklı bulursa, tamamlayıcı
+hakem kararını bir ay içinde verir. İcap ederse, bu süre hakem veya hakem kurulunca
+en fazla bir ay
 
 uzatılabilir.
 
-(5)
-Düzeltme, tavzih ve tamamlama kararları, taraflara bildirilir ve hakem kararının
-bir parçasını oluşturur.
+(5) Düzeltme, tavzih ve tamamlama kararları, taraflara bildirilir
+ve hakem kararının bir parçasını oluşturur.
 
 Tebligat
 
-MADDE
-438
-- (1) Taraflarca aksi kararlaştırılmadıkça tebligat, 11/2/1959 tarihli ve
-7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
+MADDE 438
+- (1) Taraflarca aksi kararlaştırılmadıkça tebligat,
+11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
 
 İptal davası
 [70]
 
-MADDE
-439-
-(1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal davası,
-tahkim yeri bölge adliye mahkemesinde açılır; öncelikle ve ivedilikle görülür.
+MADDE 439-
+(1) Hakem kararına karşı yalnızca iptal davası
+açılabilir. İptal davası, tahkim yeri bölge adliye mahkemesinde açılır; öncelikle
+ve ivedilikle görülür.
 
-(2) a) Tahkim sözleşmesinin taraflarından birinin ehliyetsiz
-ya da tahkim sözleşmesinin geçersiz olduğu,
+(2) a) Tahkim sözleşmesinin
+taraflarından birinin ehliyetsiz ya da tahkim sözleşmesinin geçersiz olduğu,
 
-b)
-Hakem veya hakem kurulunun seçiminde, sözleşmede belirlenen veya bu Kısımda öngörülen
-usule uyulmadığı,
+b) Hakem veya hakem kurulunun seçiminde, sözleşmede belirlenen
+veya bu Kısımda öngörülen usule uyulmadığı,
 
-c)
-Kararın, tahkim süresi içinde verilmediği,
+c) Kararın, tahkim süresi içinde verilmediği,
 
-ç)
-Hakem veya hakem kurulunun, hukuka aykırı olarak yetkili veya yetkisiz olduğuna
-karar verdiği,
+ç) Hakem veya hakem kurulunun, hukuka aykırı olarak yetkili veya
+yetkisiz olduğuna karar verdiği,
 
-d)
-Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar verdiği
-veya talebin tamamı hakkında karar vermediği ya da yetkisini aştığı,
+d) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan
+bir konuda karar verdiği veya talebin tamamı hakkında karar vermediği ya da yetkisini
+aştığı,
 
-e)
-Tahkim yargılamasının, usul açısından sözleşmede veya bu yönde bir sözleşme bulunmaması
-hâlinde, bu Kısımda yer alan hükümlere uygun olarak yürütülmediği ve bu durumun
-kararın esasına etkili olduğu,
+e) Tahkim yargılamasının, usul açısından sözleşmede veya bu yönde
+bir sözleşme bulunmaması hâlinde, bu Kısımda yer alan hükümlere uygun olarak yürütülmediği
+ve bu durumun kararın esasına etkili olduğu,
 
-f)
-Tarafların eşitliği ilkesi ve hukuki dinlenilme hakkına riayet edilmediği,
+f) Tarafların eşitliği ilkesi ve hukuki dinlenilme hakkına riayet
+edilmediği,
 
-g)
-Hakem veya hakem kurulu kararına konu uyuşmazlığın Türk hukukuna göre tahkime elverişli
-olmadığı,
+g) Hakem veya hakem kurulu kararına konu uyuşmazlığın Türk hukukuna
+göre tahkime elverişli olmadığı,
 
-ğ)
-Kararın kamu düzenine aykırı olduğu,
+ğ) Kararın kamu düzenine aykırı olduğu,
 
-tespit
-edilirse, hakem kararları iptal edilebilir.
+tespit edilirse, hakem kararları iptal edilebilir.
 
-(3)
-Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar verdiği
-iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında olan konuların,
-tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde,
-hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları içeren bölümü
-iptal edilebilir.
+(3) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan
+bir konuda karar verdiği iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında
+olan konuların, tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün
+olduğu takdirde, hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları
+içeren bölümü iptal edilebilir.
 
-(4)
-İptal davası, bir ay içinde açılabilir. Bu süre, hakem kararının veya tavzih, düzeltme
-ya da tamamlama kararının taraflara bildirildiği tarihten itibaren işlemeye başlar.
-Hakem kararına karşı iptal davası açılması kararın icrasını durdurmaz. Ancak taraflardan
-birinin talebi üzerine hükmolunan para veya eşyanın değerini karşılayacak bir teminat
-gösterilmek şartı ile kararın icrası durdurulabilir.
+(4) İptal davası, bir ay içinde açılabilir. Bu süre, hakem kararının
+veya tavzih, düzeltme ya da tamamlama kararının taraflara bildirildiği tarihten
+itibaren işlemeye başlar. Hakem kararına karşı iptal davası açılması kararın icrasını
+durdurmaz. Ancak taraflardan birinin talebi üzerine hükmolunan para veya eşyanın
+değerini karşılayacak bir teminat gösterilmek şartı ile kararın icrası durdurulabilir.
 
-(5)
-İptal talebi, davaya bakan bölge adliye mahkemesi aksine karar vermedikçe, dosya
-üzerinden incelenerek karara bağlanır.
+(5) İptal talebi, davaya bakan bölge adliye mahkemesi aksine karar
+vermedikçe, dosya üzerinden incelenerek karara bağlanır.
 
-(6)
-İptal davası hakkında verilen kararlara karşı temyiz yoluna başvurulabilir. Temyiz
-incelemesi, bu maddede yer alan iptal sebepleriyle sınırlı olarak, öncelikle ve
-ivedilikle karara bağlanır. Temyiz, kararın icrasını durdurmaz.
+(6) İptal davası hakkında verilen kararlara karşı temyiz yoluna
+başvurulabilir. Temyiz incelemesi, bu maddede yer alan iptal sebepleriyle sınırlı
+olarak, öncelikle ve ivedilikle karara bağlanır. Temyiz, kararın icrasını durdurmaz.
 
-(7)
-İptal davasının kabulü hâlinde, kabul kararı temyiz edilmezse veya ikinci fıkranın
-(b), (c), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı sebebiyle kabulü hâlinde,
-taraflar aksini kararlaştırmamışlarsa hakemleri ve tahkim süresini yeniden belirleyebilirler.
-Taraflar isterlerse eski hakemleri tayin edebilirler.
+(7) İptal davasının kabulü hâlinde, kabul kararı temyiz edilmezse
+veya ikinci fıkranın (b), (c), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı
+sebebiyle kabulü hâlinde, taraflar aksini kararlaştırmamışlarsa hakemleri ve tahkim
+süresini yeniden belirleyebilirler. Taraflar isterlerse eski hakemleri tayin edebilirler.
 
 Hakem ücreti
 
-MADDE
-440-
-(1) Taraflarca aksi kararlaştırılmamışsa, hakemlerin ücreti, dava konusu
-alacağın miktarı, uyuşmazlığın niteliği ve tahkim yargılamasının süresi dikkate
-alınarak, hakem veya hakem kurulu ile taraflar arasında kararlaştırılır.
+MADDE 440-
+(1) Taraflarca aksi kararlaştırılmamışsa, hakemlerin
+ücreti, dava konusu alacağın miktarı, uyuşmazlığın niteliği ve tahkim yargılamasının
+süresi dikkate alınarak, hakem veya hakem kurulu ile taraflar arasında kararlaştırılır.
 
 (2) Taraflar, hakem veya hakem kurulunun ücretini yerleşmiş
 kurallara veya kurumsal tahkim kurallarına yollama yaparak da belirleyebilirler.
@@ -8176,44 +8022,42 @@ yer almaz.
 
 Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.
 
-Diğer kanunlardaki yargılama usulü ile ilgili hükümler
+Diğer kanunlardaki yargılama usulü ile
+ilgili hükümler
 
-MADDE
-447-
+MADDE 447-
 (1)
 
-Diğer kanunların sözlü yahut seri yargılama usulüne atıf yaptığı
-hâllerde, bu Kanunun basit yargılama usulü ile ilgili hükümleri uygulanır.
+Diğer kanunların sözlü yahut seri
+yargılama usulüne atıf yaptığı hâllerde, bu Kanunun basit yargılama usulü ile ilgili
+hükümleri uygulanır.
 
-(2) Mevzuatta, yürürlükten kaldırılan 18/6/1927 tarihli
-ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununa yapılan yollamalar, Hukuk Muhakemeleri
-Kanununun bu hükümlerin karşılığını oluşturan maddelerine yapılmış sayılır.
+(2) Mevzuatta, yürürlükten
+kaldırılan 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununa yapılan
+yollamalar, Hukuk Muhakemeleri Kanununun bu hükümlerin karşılığını oluşturan maddelerine
+yapılmış sayılır.
 
 Zaman bakımından uygulanma
 
-MADDE
-448-
-(1) Bu Kanun hükümleri, tamamlanmış işlemleri etkilememek kaydıyla derhâl
-uygulanır.
+MADDE 448-
+(1) Bu Kanun hükümleri, tamamlanmış işlemleri
+etkilememek kaydıyla derhâl uygulanır.
 
 Yönetmelik
 
-MADDE
-449-
+MADDE 449-
 (1)
 
-Bu Kanunun uygulanmasıyla ilgili yönetmelikler, Adalet Bakanlığı
-tarafından Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde çıkarılır.
-Yeni yönetmelikler çıkarılıncaya kadar, mevcut yönetmeliklerin bu Kanuna aykırı
-olmayan hükümlerinin uygulanmasına devam olunur.
+Bu Kanunun uygulanmasıyla ilgili
+yönetmelikler, Adalet Bakanlığı tarafından Kanunun yürürlüğe girdiği tarihten itibaren
+altı ay içinde çıkarılır. Yeni yönetmelikler çıkarılıncaya kadar, mevcut yönetmeliklerin
+bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 
-Yürürlükten
-kaldırılan hükümler
+Yürürlükten kaldırılan hükümler
 
-MADDE
-450-
-(1) 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu ek
-ve değişiklikleri ile birlikte tümüyle yürürlükten kaldırılmıştır.
+MADDE 450-
+(1) 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü
+Muhakemeleri Kanunu ek ve değişiklikleri ile birlikte tümüyle yürürlükten kaldırılmıştır.
 
 Parasal sınırların artırılması
 
@@ -8234,8 +8078,8 @@ Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları 
 md.)
 
 200 üncü ve 201 inci maddelerdeki parasal
-sınırların uygulanmasında hukuki işlemin yapıldığı, 341 inci, 362 nci ve 369 uncu
-maddelerdeki parasal sınırların uygulanmasında davanın açıldığı tarihteki
+sınırların uygulanmasında hukuki işlemin yapıldığı, 341 inci, 362 nci ve 369
+uncu maddelerdeki parasal sınırların uygulanmasında davanın açıldığı tarihteki
 miktar esas alınır.
 
 (3)
@@ -8245,18 +8089,18 @@ miktar esas alınır.
 md.)
 
 GEÇİCİ MADDE 1-
-(1) Bu Kanunun yargı yolu ve göreve
-ilişkin hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan davalarda
-uygulanmaz.
+(1) Bu Kanunun yargı
+yolu ve göreve ilişkin hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış
+olan davalarda uygulanmaz.
 
-(2) Bu Kanunun, senetle ispat, istinaf ve temyiz ile temyizde
-duruşma yapılmasına ilişkin parasal sınırlarla ilgili hükümleri Kanunun yürürlüğe
-girmesinden önceki tarihte açılmış olan dava ve işlerde uygulanmaz.
+(2) Bu Kanunun, senetle ispat, istinaf ve
+temyiz ile temyizde duruşma yapılmasına ilişkin parasal sınırlarla ilgili hükümleri
+Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan dava ve işlerde uygulanmaz.
 
 GEÇİCİ MADDE 2-
-(1) 1086 sayılı Kanunun yürürlükte
-olduğu dönemde usulüne uygun olarak düzenlenmiş bulunan senetler, bu Kanunun yürürlüğe
-girdiği tarihten sonra da geçerliliklerini korur.
+(1) 1086 sayılı Kanunun
+yürürlükte olduğu dönemde usulüne uygun olarak düzenlenmiş bulunan senetler, bu
+Kanunun yürürlüğe girdiği tarihten sonra da geçerliliklerini korur.
 
 GEÇİCİ MADDE 3
 –
@@ -8308,17 +8152,16 @@ Hukuk Genel Kuruluna gönderir.
 
 Yürürlük
 
-MADDE
-451-
+MADDE 451-
 (1) Bu Kanun 1/10/2011 tarihinde yürürlüğe girer.
 
 Yürütme
 
-MADDE
-452-
+MADDE 452-
 (1)
 
-Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Bu Kanun hükümlerini Bakanlar Kurulu
+yürütür.
 
 12/1/2011 TARİHLİ ve 6100 SAYILI KANUNA
 İŞLENEMEYEN HÜKÜMLER
@@ -8626,13 +8469,22 @@ yayımı tarihinden itibaren üç ay sonra
 
 (31/10/2026)
 
+Anayasa Mahkemesinin 8/10/2025
+tarihli ve E.: 2025/124, K.: 2025/203 sayılı Kararı ile
+
+362
+
+Yayımlanmasından
+başlayarak dokuz ay sonra
+
+(20/10/2026)
+
 [1]
 Anayasa Mahkemesi’nin 10/2/2016
-tarihli ve E:2015/96, K:2016/9 sayılı Kararı ile, bu maddenin birinci
-fıkrasının birinci cümlesinde yer alan “…bu karar verildiği anda kesin ise bu
-tarihten…” ibaresi iptal edilmiş olup, kararın Resmi Gazete’de yayımlandığı
-23/2/2016 tarihinden başlayarak dokuz ay sonra yürürlüğe girmesi hüküm altına
-alınmıştır.
+tarihli ve E:2015/96, K:2016/9 sayılı Kararı ile, bu maddenin birinci fıkrasının
+birinci cümlesinde yer alan “…bu karar verildiği anda kesin ise bu tarihten…”
+ibaresi iptal edilmiş olup, kararın Resmi Gazete’de yayımlandığı 23/2/2016
+tarihinden başlayarak dokuz ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 
 [2]
 22/7/2020
@@ -8728,10 +8580,10 @@ aydınlatarak sulhe veya arabuluculuğa” şeklinde değiştirilmiştir.
 22/7/2020 tarihli ve 7251 sayılı
 Kanunun 16 ncı maddesiyle, birinci fıkraya “tahkikat” ibaresinden sonra gelmek
 üzere “ve sözlü yargılama” ibaresi ile ikinci fıkraya “itiraz edemeyecekleri”
-ibaresinden sonra gelmek üzere “, tahkikatın sona erdiği duruşmada sözlü yargılamaya
-geçileceği, sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara
-ayrıca davetiye gönderilmeyeceği ve 150 nci madde hükmü saklı kalmak kaydıyla,
-yokluklarında hüküm verileceği” ibaresi eklenmiştir.
+ibaresinden sonra gelmek üzere “, tahkikatın sona erdiği duruşmada sözlü
+yargılamaya geçileceği, sözlü yargılama için duruşmanın ertelenmesi hâlinde
+taraflara ayrıca davetiye gönderilmeyeceği ve 150 nci madde hükmü saklı kalmak
+kaydıyla, yokluklarında hüküm verileceği” ibaresi eklenmiştir.
 
 [18]
 
@@ -8740,13 +8592,13 @@ yokluklarında hüküm verileceği” ibaresi eklenmiştir.
 yayımı tarihinden
 itibaren üç ay sonra (31/10/2026)
 yürürlüğe girmek üzere bu maddeye
+üçüncü fıkradan sonra
+gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 
-üçüncü
-fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül
-ettirilmiştir.
-Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine
-işlenecek olup mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı
-Resmî Gazete’ye bakınız.
+Söz
+konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek
+olup mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı Resmî
+Gazete’ye bakınız.
 
 [19]
 25/4/2013 tarihli ve 6462 sayılı
@@ -8783,9 +8635,9 @@ ibraz etmemesi” şeklinde değiştirilmiştir.
 
 [25]
 25/4/2013 tarihli ve 6462 sayılı
-Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “özürlülerin”
-ibaresi “engellilerin”, birinci fıkrasında yer alan “özürlü” ibaresi “engelli”
-şeklinde değiştirilmiştir.
+Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “özürlülerin” ibaresi
+“engellilerin”, birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde
+değiştirilmiştir.
 
 [26]
 2/7/2018 tarihli ve 700 sayılı
@@ -8812,14 +8664,13 @@ ve 7078 sayılı Kanunun 156 ncı maddesiyle aynen kabul edilerek kanunlaşmış
 
 [30]
 3/11/2016 tarihli ve 6754 sayılı
-Kanunun 51 inci maddesiyle bu fıkrada yer alan “uygulanır” ibaresinden sonra
-gelmek üzere “ve durum bilirkişilik bölge kuruluna bildirilir” ibaresi
-eklenmiştir.
+Kanunun 51 inci maddesiyle bu fıkrada yer alan “uygulanır” ibaresinden sonra gelmek
+üzere “ve durum bilirkişilik bölge kuruluna bildirilir” ibaresi eklenmiştir.
 
 [31]
 3/11/2016 tarihli ve 6754 sayılı
-Kanunun 52 nci maddesiyle bu fıkrada yer alan “bilirkişilere,” ibaresinden sonra
-gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu yer” ibaresi
+Kanunun 52 nci maddesiyle bu fıkrada yer alan “bilirkişilere,” ibaresinden
+sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu yer” ibaresi
 eklenmiştir.
 
 [32]
@@ -8848,8 +8699,8 @@ eklenmiştir.
 [36]
 22/7/2020 tarihli ve 7251 sayılı
 Kanunun 31 inci maddesiyle, bu fıkrada yer alan “davalıya, bir defaya mahsus”
-ibaresi “davalıya, cevap süresinin bitiminden itibaren işlemeye başlamak, bir
-defaya mahsus olmak” şeklinde değiştirilmiştir.
+ibaresi “davalıya, cevap süresinin bitiminden itibaren işlemeye başlamak, bir defaya
+mahsus olmak” şeklinde değiştirilmiştir.
 
 [37]
 7/6/2012 tarihli ve 6325 sayılı
@@ -8857,9 +8708,9 @@ Kanunun 35 inci maddesiyle, bu fıkrada yer alan “tarafları sulhe” ibaresin
 sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
 
 [38]
-22/7/2020 tarihli ve 7251 sayılı
-Kanunun 32 nci maddesiyle, bu bentte yer alan “Celse” ibaresi “Başvurma”
-şeklinde değiştirilmiştir.
+22/7/2020 tarihli ve 7251 sayılı Kanunun
+32 nci maddesiyle, bu bentte yer alan “Celse” ibaresi “Başvurma” şeklinde
+değiştirilmiştir.
 
 [39]
 
@@ -8967,11 +8818,11 @@ değiştirilmiştir.
 
 [57]
 
-Anayasa Mahkemesinin 8/10/2025 tarihli ve E.: 2025/124, K.: 2025/203
-sayılı Kararı ile bu bent “kamulaştırma bedelinin tespitine ilişkin davalar”
+Anayasa Mahkemesinin
+8/10/2025 tarihli ve E.: 2025/124, K.: 2025/203 sayılı Kararı ile bu bent
+“kamulaştırma bedelinin tespitine ilişkin davalar”
 
-yönünden iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından
-başlayarak dokuz ay sonra (20/10/2026) yürürlüğe girer.
+yönünden iptal edilmiştir.
 
 [58]
 
@@ -9012,10 +8863,10 @@ dosyayı Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiş
 
 [64]
 25/7/2018 tarihli ve 7145 sayılı
-Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş olması” ibaresinden
-sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
-yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda
-düşme kararı verilmesi” ibaresi eklenmiştir.
+Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş olması”
+ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları
+Mahkemesine yapılan başvuru hakkında dostane çözüm ya da tek taraflı
+deklarasyon sonucunda düşme kararı verilmesi” ibaresi eklenmiştir.
 
 [65]
 
@@ -9050,9 +8901,9 @@ yoluna” şeklinde değiştirilmiştir.
 
 [70]
 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer alan “tahkim yerindeki
-mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde, beşinci
-fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde
+Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer alan “tahkim
+yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
+beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde
 değiştirilmiş ve yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),”
 ibaresi eklenmiştir.
 
