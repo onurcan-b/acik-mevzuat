@@ -1383,7 +1383,7 @@ Kurşunsuz benzin 95 oktan
 
 2,3765
 
-7,9000
+11,3600
 47
 48
 
@@ -1403,7 +1403,7 @@ Kurşunsuz benzin 95 oktan
 
 2,3765
 
-7,9000
+11,3600
 47
 48
 
@@ -1422,7 +1422,7 @@ Diğerleri
 
 2,3765
 
-7,9000
+11,3600
 47
 48
 
@@ -1441,7 +1441,7 @@ Kurşunsuz benzin 98 oktan
 
 2,4985
 
-8,9000
+12,3600
 47
 49
 
@@ -1461,7 +1461,7 @@ Kurşunsuz benzin 98 oktan
 
 2,4985
 
-8,9000
+12,3600
 47
 49
 
@@ -1480,7 +1480,7 @@ Diğerleri
 
 2,4985
 
-8,9000
+12,3600
 47
 49
 
@@ -1551,7 +1551,7 @@ Motorin
 
 1,7945
 
-6,0000
+9,0000
 [50]
 
 Litre
@@ -1703,7 +1703,7 @@ Motorin
 
 1,7945
 
-6,0000
+9,0000
 50
 
 Litre
@@ -3502,8 +3502,7 @@ motoru olan pedal yardımlı, iki, üç ve dört tekerlekli taşıtlar
 
 8711.60.90.00.11
 
-Motor
-gücü 20 kW’ı geçenler
+Motor gücü 20 kW’ı geçenler
 
 37
 
@@ -3512,8 +3511,7 @@ gücü 20 kW’ı geçenler
 
 8711.60.90.00.12
 
-Motor
-gücü 20 kW’ı geçmeyenler
+Motor gücü 20 kW’ı geçmeyenler
 
 22
 
@@ -3583,8 +3581,7 @@ kapsama dahil değildir.
 
 (Değişik: 21/3/2018-7103/56 md.)
 
-G.T.İ.P.
-NO
+G.T.İ.P. NO
 
 Mal İsmi
 
@@ -3594,29 +3591,26 @@ Vergi Oranı
 
 Asgari
 
-Maktu Vergi
-Tutarı
+Maktu Vergi Tutarı
 
 (TL)
 
-Uygulanacak
-Vergi Oranı
+Uygulanacak Vergi Oranı
 
 (%)
 
-Uygulanacak
-Asgari Maktu Vergi Tutarı
+Uygulanacak Asgari Maktu Vergi Tutarı
 
 (TL)
 
 20.09
 
-Meyva suları (üzüm şırası dahil) ve sebze suları (fermente
-edilmemiş ve alkol katılmamış), ilave şeker veya diğer tatlandırıcı maddeler katılmış
-olsun olmasın
-(Yalnız ambalajlanmış olanlar ve/veya toptan teslime konu
-edilenler) (Sebze suları ve Türk Gıda Kodeksine göre % 100 meyve suyu sayılanlar
-hariç)
+Meyva suları (üzüm
+şırası dahil) ve sebze suları (fermente edilmemiş ve alkol katılmamış), ilave
+şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın
+(Yalnız ambalajlanmış
+olanlar ve/veya toptan teslime konu edilenler) (Sebze suları ve Türk Gıda Kodeksine
+göre % 100 meyve suyu sayılanlar hariç)
 
 10
 
@@ -3630,15 +3624,15 @@ hariç)
 
 22.02
 
-Sular (mineral sular ve gazlı sular dahil) (ilave şeker
-veya diğer tatlandırıcı maddeler katılmış veya aromalandırılmış) ve alkolsüz diğer
-içecekler (20.09 pozisyonundaki meyve ve sebze suları hariç)
-(Yalnız ambalajlanmış
-olanlar ve/veya toptan teslime konu edilenler) (Doğal mineralli doğal maden suyu
-ile üretilmiş, tatlandırılmış, aromalandırılmış meyveli gazlı içecekler; şalgam
-suyu; Türk Gıda Kodeksine göre çeşnili ve aromalı/aromalandırılmış içme sütleri,
-bebek ve devam sütleri sayılanlar ile 2202.10.00.00.11, 2202.10.00.00.12, 2202.10.00.00.13,
-2202.91.00.00.00 hariç)
+Sular (mineral
+sular ve gazlı sular dahil) (ilave şeker veya diğer tatlandırıcı maddeler katılmış
+veya aromalandırılmış) ve alkolsüz diğer içecekler (20.09 pozisyonundaki meyve
+ve sebze suları hariç)
+(Yalnız ambalajlanmış olanlar ve/veya toptan teslime
+konu edilenler) (Doğal mineralli doğal maden suyu ile üretilmiş, tatlandırılmış,
+aromalandırılmış meyveli gazlı içecekler; şalgam suyu; Türk Gıda Kodeksine göre
+çeşnili ve aromalı/aromalandırılmış içme sütleri, bebek ve devam sütleri sayılanlar
+ile 2202.10.00.00.11, 2202.10.00.00.12, 2202.10.00.00.13, 2202.91.00.00.00 hariç)
 [62]
 
 10
@@ -3695,8 +3689,7 @@ Kolalı gazozlar
 
 2202.91.00.00.00
 
-Alkolsüz
-biralar
+Alkolsüz biralar
 
 10
 
@@ -3710,8 +3703,7 @@ biralar
 
 2203.00
 
-Malttan üretilen
-biralar
+Malttan üretilen biralar
 
 63,3
 
@@ -3725,14 +3717,13 @@ biralar
 
 22.04
 
-Taze üzüm
-şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası
+Taze üzüm şarabı (kuvvetlendirilmiş
+şaraplar dahil); üzüm şırası
 
-(20.09 pozisyonunda
-yer alanlar hariç)
+(20.09 pozisyonunda yer alanlar hariç)
 
-(2204.10 köpüklü
-şaraplar ve 2204.30 diğer üzüm şıraları hariç)
+(2204.10 köpüklü şaraplar ve 2204.30
+diğer üzüm şıraları hariç)
 
 63,3
 
@@ -3760,8 +3751,8 @@ Köpüklü şaraplar
 
 22.05
 
-Vermut ve
-diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış)
+Vermut ve diğer taze üzüm şarapları
+(bitkiler veya kokulu maddelerle aromalandırılmış)
 (2205.10.10.00.00, 2205.10.90.00.12
 hariç)
 
@@ -3777,8 +3768,8 @@ hariç)
 
 2205.10.10.00.00
 
-Alkol derecesi
-hacim itibariyle %18 veya daha az olanlar
+Alkol derecesi hacim itibariyle %18
+veya daha az olanlar
 
 275,6
 
@@ -3792,8 +3783,8 @@ hacim itibariyle %18 veya daha az olanlar
 
 2205.10.90.00.12
 
-Alkol derecesi
-hacim itibariyle %22 ve fazla olanlar
+Alkol derecesi hacim itibariyle %22
+ve fazla olanlar
 
 275,6
 
@@ -3808,10 +3799,10 @@ hacim itibariyle %22 ve fazla olanlar
 
 2206.00
 
-Fermente
-edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı, sake gibi), tarifenin
-başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları
-ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları
+Fermente edilmiş diğer içecekler (elma
+şarabı, armut şarabı, bal şarabı, sake gibi), tarifenin başka yerinde belirtilmeyen
+veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş
+içeceklerle alkolsüz içeceklerin karışımları
 
 275,6
 
@@ -3825,10 +3816,11 @@ ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları
 
 2207.20
 
-Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş
-etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler
-[Alkol derecesi
-ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç]
+Alkol derecesi
+ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen
+diğer alkollü içkiler
+[Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş
+etil alkol hariç]
 
 275,6
 
@@ -3842,9 +3834,9 @@ ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç]
 
 22.08
 
-Alkol derecesi
-hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım
-yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler
+Alkol derecesi hacim itibariyle %80’den
+az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü
+içkiler, likörler ve diğer alkollü içecekler
 [(2208.90.91; 2208.90.99) Alkol derecesi
 hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol hariç,
 (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)]
@@ -3861,8 +3853,8 @@ hacim itibariyle %80’den az olan tağyir (denatüre) edilmemiş etil alkol har
 
 2208.20
 
-Üzüm şarabı
-veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler
+Üzüm şarabı veya üzüm cibresinin damıtılması
+yolu ile elde edilen alkollü içkiler
 
 275,6
 
@@ -3906,9 +3898,10 @@ hariç)
 
 2208.60.91.00.00
 
-Muhtevası
-2 litreyi geçmeyen kaplarda olanlar
-(Alkol derecesi hacim itibariyle %45.4’den fazla olanlar)
+Muhtevası 2 litreyi geçmeyen kaplarda
+olanlar
+(Alkol derecesi
+hacim itibariyle %45.4’den fazla olanlar)
 
 275,6
 
@@ -3922,9 +3915,10 @@ Muhtevası
 
 2208.60.99.00.00
 
-Muhtevası
-2 litreyi geçen kaplarda olanlar
-(Alkol derecesi hacim itibariyle %45.4’den fazla olanlar)
+Muhtevası 2 litreyi geçen kaplarda olanlar
+
+(Alkol derecesi hacim
+itibariyle %45.4’den fazla olanlar)
 
 275,6
 
@@ -3953,9 +3947,8 @@ Likörler
 2208.90
 
 Diğerleri
-
-(2208.90.48.00.11,
-2208.90.71.00.11 hariç)
+(2208.90.48.00.11, 2208.90.71.00.11
+hariç)
 
 275,6
 
@@ -4003,8 +3996,7 @@ olanlar)
 
 (Değişik: 21/3/2018-7103/56 md.)
 
-G.T.İ.P.
-NO
+G.T.İ.P. NO
 
 Mal İsmi
 
@@ -4012,27 +4004,28 @@ Vergi Oranı
 
 (%)
 
-Asgari Maktu
-Vergi Tutarı
+Asgari Maktu Vergi Tutarı
 
 (TL)
 
-Uygulanacak Vergi Oranı
+Uygulanacak Vergi
+Oranı
 
 (%)
 
-Uygulanacak Asgari Maktu Vergi Tutarı
+Uygulanacak Asgari
+Maktu Vergi Tutarı
 
 (TL)
 
-Uygulanacak Maktu Vergi Tutarı
+Uygulanacak Maktu
+Vergi Tutarı
 
 (TL)
 
 2402.10.00.00.11
 
-Tütün içeren
-purolar
+Tütün içeren purolar
 
 65,25
 
@@ -4049,8 +4042,7 @@ purolar
 
 2402.10.00.00.12
 
-Uçları açık
-purolar
+Uçları açık purolar
 
 65,25
 
@@ -4084,8 +4076,7 @@ Sigarillolar
 
 2402.20
 
-Tütün içeren
-sigaralar
+Tütün içeren sigaralar
 
 65,25
 
@@ -4107,8 +4098,8 @@ Diğerleri
 (Tütün yerine geçen maddelerden
 yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar)
 
--Tütün yerine
-geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar
+-Tütün yerine geçen maddelerden yapılmış
+purolar, uçları açık purolar ve sigarillolar
 
 65,25
 
@@ -4123,7 +4114,8 @@ geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar
 2,6909
 61
 
--Tütün yerine geçen maddelerden yapılmış sigaralar
+-Tütün yerine
+geçen maddelerden yapılmış sigaralar
 
 65,25
 
@@ -4140,8 +4132,9 @@ geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar
 
 24.03
 
-Diğer mamul tütün ve mamul tütün yerine geçen maddeler;
-“homojenize” veya yeniden tertip edilmiş tütün; tütün hülasa ve esansları
+Diğer mamul
+tütün ve mamul tütün yerine geçen maddeler; “homojenize” veya yeniden tertip
+edilmiş tütün; tütün hülasa ve esansları
 
 (2403.11.00.00.00,
 2403.19.10.00.19, 2403.19.90.00.19, 2403.91.00.00.00, 2403.99.10.00.00,
@@ -4162,8 +4155,8 @@ Diğer mamul tütün ve mamul tütün yerine geçen maddeler;
 
 2403.11.00.00.00
 
-Bu faslın 1 nolu alt pozisyon notunda belirtilen
-nargile tütünleri
+Bu faslın 1
+nolu alt pozisyon notunda belirtilen nargile tütünleri
 
 65,25
 
@@ -4200,8 +4193,8 @@ ambalajlarda olanlar)
 2403.19.90.00.19
 
 Diğerleri
-(Net muhtevası 500 gr.ı geçen
-ambalajlarda olanlar)
+(Net muhtevası
+500 gr.ı geçen ambalajlarda olanlar)
 
 65,25
 
@@ -4218,8 +4211,7 @@ ambalajlarda olanlar)
 
 2403.99.10.00.00
 
-Enfiye
-ve çiğnemeye mahsus tütün
+Enfiye ve çiğnemeye mahsus tütün
 
 65,25
 
@@ -4236,8 +4228,7 @@ ve çiğnemeye mahsus tütün
 
 4813.10.00.80.00
 
-Diğerleri
-(Makaron)
+Diğerleri (Makaron)
 
 65,25
 
@@ -4812,9 +4803,9 @@ cihazları)
 
 8517.69.90.90.24
 
-Alıcısı bulunan verici halk bandı (CB)
-ve 49 MHz alçak güçlü (100 miliwatt dan küçük) telsiz cihazları ve diğer amatör
-telsiz cihazları
+Alıcısı bulunan verici halk
+bandı (CB) ve 49 MHz alçak güçlü (100 miliwatt dan küçük) telsiz cihazları ve
+diğer amatör telsiz cihazları
 
 20
 
@@ -4898,7 +4889,8 @@ okuma sistemleri için diskler
 
 8523.41.90.00.00
 
-(Kayıt yapılmamış optik mesnetler)
+(Kayıt yapılmamış optik
+mesnetler)
 
 Diğerleri
 
@@ -4910,10 +4902,11 @@ Diğerleri
 
 (Diğer optik mesnetler)
 
-Dijital çok yönlü diskler (DVD)
+Dijital çok yönlü
+diskler (DVD)
 
-(Ses veya
-görüntü dışındaki fenomenleri tekrar vermeye mahsus olanlar, sadece sesi
+(Ses
+veya görüntü dışındaki fenomenleri tekrar vermeye mahsus olanlar, sadece sesi
 tekrar vermeye mahsus olanlar, otomatik bilgi işlem makinası vasıtasıyla
 işlenebilen ya da kullanıcıya etkileşim sağlayabilen, bir makinada okunabilir
 ikili formda kayıtlı görüntü, ses, bilgi ve komutların gösterimlerini tekrar
