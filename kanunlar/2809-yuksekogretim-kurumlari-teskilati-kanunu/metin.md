@@ -3469,26 +3469,30 @@ eğitim ve araştırma bilimleri ile sağlık merkezi, lojmanlar, misafirhaneler
 her türlü tesisin kurulması ve işletilmesiyle ilgili ücretler dâhil her türlü giderler
 ile okullarda burslu okuyacak öğrencilere sağlanacak burslar;
 
-a) TOBB Ekonomi ve Teknoloji Üniversitesi ve Üniversitenin
+a)
+TOBB Ekonomi ve Teknoloji Üniversitesi ve Üniversitenin
 kampüslerinde
-bulunan okulların tüm personelinin ücretlerinden,
-bu Kanunun yürürlüğe girdiği tarihi takip eden aybaşından itibaren
+
+bulunan okulların tüm personelinin ücretlerinden, bu Kanunun yürürlüğe girdiği tarihi
+takip eden aybaşından itibaren
 yirmibeş
-yıl süre ile kesilecek gelir vergisi tutarının özel
-bir hesaba aktarılmasıyla oluşan kaynaktan,
+yıl süre ile kesilecek
+gelir vergisi tutarının özel bir hesaba aktarılmasıyla oluşan kaynaktan,
 
-b) Burssuz öğrencilerden alınacak eğitim ücretlerinden,
+b)
+Burssuz öğrencilerden alınacak eğitim ücretlerinden,
 
-c) TOBB Ekonomi ve Teknoloji Üniversitesinin temin veya kabul
-edeceği diğer gelir kaynakları ile bağışlardan,
+c)
+TOBB Ekonomi ve Teknoloji Üniversitesinin temin veya kabul edeceği diğer gelir kaynakları
+ile bağışlardan,
 
 karşılanır
 . (a)
-bendinde
-belirtilen
-özel hesabın oluşturulması, kullanımı ve denetimine ilişkin usul
-ve esaslar, Maliye ve Milli Eğitim bakanlıkları ile TOBB Ekonomi ve Teknoloji Üniversitesince
-birlikte hazırlanacak yönetmelikle düzenlenir.
+bendinde belirtilen
+
+özel hesabın oluşturulması, kullanımı ve denetimine ilişkin usul ve esaslar, Maliye
+ve Milli Eğitim bakanlıkları ile TOBB Ekonomi ve Teknoloji Üniversitesince birlikte
+hazırlanacak yönetmelikle düzenlenir.
 
 Kırşehir Ahi Evran Üniversitesi:
 [119]
@@ -5129,32 +5133,43 @@ Madde 109 –
 
 (Ek: 19/2/2009-5839/2 md.)
 
-Gaziantep’te İpek Kültür ve Eğitim Vakfı tarafından 2547 sayılı
-Yükseköğretim Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi
-olmak üzere, kamu tüzel kişiliğine sahip Zirve Üniversitesi adıyla bir vakıf üniversitesi
-kurulmuştur.
+Gaziantep’te
+İpek Kültür ve Eğitim Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
+yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine
+sahip Zirve Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
 
-Bu Üniversite, Rektörlüğe bağlı olarak;
+Bu
+Üniversite, Rektörlüğe bağlı olarak;
 
-a) Fen-Edebiyat Fakültesinden,
+a)
+Fen-Edebiyat Fakültesinden,
 
-b) Mühendislik Fakültesinden,
+b)
+Mühendislik Fakültesinden,
 
-c) Mimarlık ve Tasarım Fakültesinden,
+c)
+Mimarlık ve Tasarım Fakültesinden,
 
-ç) İktisadi ve İdari Bilimler Fakültesinden,
+ç)
+İktisadi ve İdari Bilimler Fakültesinden,
 
-d) İletişim Fakültesinden,
+d)
+İletişim Fakültesinden,
 
-e) Hukuk Fakültesinden,
+e)
+Hukuk Fakültesinden,
 
-f) Eğitim Fakültesinden,
+f)
+Eğitim Fakültesinden,
 
-g) Meslek Yüksekokulundan,
+g)
+Meslek Yüksekokulundan,
 
-ğ) Sosyal Bilimler Enstitüsünden,
+ğ)
+Sosyal Bilimler Enstitüsünden,
 
-h) Fen Bilimleri Enstitüsünden,
+h)
+Fen Bilimleri Enstitüsünden,
 
 oluşur
 .
@@ -8182,44 +8197,39 @@ Mevzuatta Adana Bilim ve Teknoloji Üniversitesine
 yapılan atıflar Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesine yapılmış
 sayılır.
 
-İstanbul Galata
-Üniversitesi:
+İstanbul Galata Üniversitesi:
 [293]
 
-Ek Madde 201
-–
+Ek Madde 201 –
 
 (Ek:30/5/2019-7176/2 md.)
 
-İstanbul’da Bulut Eğitim Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun
-vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel
-kişiliğine sahip İstanbul Galata Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
+İstanbul’da Bulut
+Eğitim Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf yükseköğretim
+kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine sahip İstanbul
+Galata Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
 
-Bu Üniversite, Rektörlüğe
-bağlı olarak;
+Bu Üniversite, Rektörlüğe bağlı olarak;
 
-a) Diş Hekimliği
-Fakültesinden,
+a) Diş Hekimliği Fakültesinden,
 
-b) Sanat ve Sosyal
-Bilimler Fakültesinden,
+b) Sanat ve Sosyal Bilimler Fakültesinden,
 
-c) Spor Bilimleri
-Fakültesinden,
+c) Spor Bilimleri Fakültesinden,
 
 ç) Meslek Yüksekokulundan,
 
-d) Lisansüstü Eğitim
-Enstitüsünden,
+d) Lisansüstü Eğitim Enstitüsünden,
 
 oluşur
 .
 
-Ek Madde 202-
-(Ek:25/3/2020-7226/14 md.)
+Ek Madde 202- (Ek:25/3/2020-7226/14
+md.)
 
-Mevzuatta Semerkand Bilim ve Medeniyet Üniversitesine yapılan atıflar İstanbul
-Sağlık ve Teknoloji Üniversitesine yapılmış sayılır.
+Mevzuatta Semerkand
+Bilim ve Medeniyet Üniversitesine yapılan atıflar İstanbul Sağlık ve Teknoloji Üniversitesine
+yapılmış sayılır.
 
 Ankara Bilim Üniversitesi:
 [294]
@@ -10953,6 +10963,13 @@ Ek Madde
 
 9/8/2026
 
+11937
+
+Ek Madde
+20, Ek Madde 59, Ek Madde 78, Ek Madde 124, Ek Madde 192
+
+31/10/2026
+
 [1]
 
 18/10/2016 tarihli ve 6749 sayılı Kanun ile kapatılan üniversiteler için
@@ -10961,9 +10978,8 @@ Ek Madde
 [2]
 
 Bu Kanunun adı “Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun
-Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun” iken, 15/12/1999
-tarihli ve 4488 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
+Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun” iken, 15/12/1999 tarihli
+ve 4488 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 [3]
 
@@ -10999,8 +11015,8 @@ sayılı Bakanlar Kurulu Kararı ile Sağlık Eğitim Fakültesinin adı Sağlı
 Bilimleri Fakültesi olarak değiştirilmiştir.
 
 b)
-23/9/1997 tarihli ve 97/9977 sayılı Bakanlar Kurulu Kararı ile Sağlık
-Hizmetleri Yüksekokulu kurulmuştur.
+23/9/1997 tarihli ve 97/9977 sayılı Bakanlar Kurulu Kararı ile Sağlık Hizmetleri
+Yüksekokulu kurulmuştur.
 
 c)
 2/5/2001 tarihli ve 2001/2553 sayılı Bakanlar Kurulu Kararı ile Ziraat
@@ -11231,8 +11247,7 @@ Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu kapatılmı
 
 ö)
 4/8/2022 tarihli ve 31913 sayılı Resmî Gazete’de yayımlanan 5919 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi
-kurulmuştur.
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi kurulmuştur.
 
 p) 14/7/2025
 tarihli ve 32956 sayılı Resmî Gazete’de yayımlanan 10073 sayılı Cumhurbaşkanı
@@ -11329,9 +11344,8 @@ bağlı olan Su Ürünleri Fakültesinin adı Su Bilimleri Fakültesi olarak
 değiştirilmiştir.
 
 p)
-4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi
-kurulmuştur.
+4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi kurulmuştur.
 
 r)
 2/6/2021 tarihli ve 31499 sayılı Resmî Gazete’de yayımlanan 4055 sayılı
@@ -11472,8 +11486,8 @@ Kurulu Kararı ile Enstitünün adı Orta Doğu ve İslam Ülkeleri Araştırmal
 Enstitüsü olarak değiştirilmiştir.
 
 d)
-3/2/2006 tarihli ve 2006/10044 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
+3/2/2006 tarihli ve 2006/10044 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
 e)
 8/1/2007 tarihli ve 2007/11549 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -11500,9 +11514,8 @@ h)
 bünyesinde yer alan Hemşirelik Yüksekokulu ile İstanbul Zeynep Kamil Sağlık
 Yüksekokulu kapatılmıştır.
 
-ı) 11/3/2013 tarihli ve 2013/4459 sayılı Bakanlar
-Kurulu Kararı ile Rektörlüğe bağlı olarak Uygulamalı Bilimler Yüksekokulu
-kurulmuştur.
+ı) 11/3/2013 tarihli ve 2013/4459 sayılı Bakanlar Kurulu
+Kararı ile Rektörlüğe bağlı olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 i) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar
 Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuş ve
@@ -11513,10 +11526,10 @@ Kurulu Kararı Eki Karar ile Rektörlüğe bağlı olarak Fransa’nın Strazbur
 şehrinde İslami İlimler-İlahiyat alanında akademik birim kurulması
 kararlaştırılmıştır.
 
-k)
-4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olan Avrupa Birliği Enstitüsünün adı Avrupa Araştırmaları Enstitüsü
-olarak değiştirilmiştir.
+k) 4/6/2018
+tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan
+Avrupa Birliği Enstitüsünün adı Avrupa Araştırmaları Enstitüsü olarak
+değiştirilmiştir.
 
 l)
 1/10/2018 tarihli ve 142 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
@@ -11670,8 +11683,8 @@ bağlı olarak Moda ve Tasarım Yüksekokulu kurulmuştur.
 
 f)
 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Hemşirelik Yüksekokulu kapatılmış ve Üniversiteye bağlı
-olarak Hemşirelik Fakültesi kurulmuştur.
+bünyesinde yer alan Hemşirelik Yüksekokulu kapatılmış ve Üniversiteye bağlı olarak
+Hemşirelik Fakültesi kurulmuştur.
 
 g)
 16/3/2012 tarihli ve 2012/2972 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -11684,10 +11697,9 @@ Mimarlık Fakültesi olarak değiştirilmiş; Rektörlüğe bağlı olarak Spor 
 Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor
 Yüksekokulu kapatılmıştır.
 
-h)
-7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Birgivi İslami İlimler
-Fakültesi kurulmuştur.
+h) 7/12/2018
+tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı
+ile Rektörlüğe bağlı olarak Birgivi İslami İlimler Fakültesi kurulmuştur.
 
 ı )
 25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’de yayımlanan 1157 sayılı
@@ -11799,9 +11811,9 @@ l)
 Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan Sağlık Bilimleri
 Fakültesi kapatılmıştır.
 
-m) 6/2/2021 tarihli ve 31387 sayılı Resmî
-Gazete’de yayımlanan 3518 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
-yer alan Reha Midilli Foça Turizm Fakültesinin adı Turizm Fakültesi olarak
+m) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de
+yayımlanan 3518 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan
+Reha Midilli Foça Turizm Fakültesinin adı Turizm Fakültesi olarak
 değiştirilmiştir.
 
 n) 6/2/2021 tarihli ve 31387 sayılı Resmî
@@ -11899,8 +11911,8 @@ bağlı olarak Roman Dili ve Kültürü Araştırmaları Enstitüsü kurulmuştu
 
 m)
 4/7/2016 tarihli ve 2016/9007 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Keşan Sağlık Yüksekokulunun adı Keşan Hakkı Yörük Sağlık
-Yüksekokulu olarak değiştirilmiştir.
+bünyesinde yer alan Keşan Sağlık Yüksekokulunun adı Keşan Hakkı Yörük Sağlık Yüksekokulu
+olarak değiştirilmiştir.
 
 n)
 25/12/2019 tarihli ve 30989 sayılı Resmi Gazete’de yayımlanan 1911 sayılı
@@ -12146,11 +12158,10 @@ bağlı olarak Sivil Havacılık Yüksekokulu kurulmuştur.
 
 ü) 15/3/2013 tarihli ve 2013/4480 sayılı Bakanlar
 Kurulu Kararı ile Rektörlük bünyesinde yer alan Seydişehir Ahmet Cengiz
-Mühendislik Fakültesi, Seydişehir Meslek Yüksekokulu, Seydişehir Sağlık
-Hizmetleri Meslek Yüksekokulu, Ereğli Mühendislik ve Doğa Bilimleri Fakültesi,
-Ereğli Eğitim Fakültesi ile Konya Ereğli Kemal Akman Meslek Yüksekokulunun
-bağlantısı değiştirilerek Necmettin Erbakan Üniversitesi Rektörlüğüne
-bağlanmıştır.
+Mühendislik Fakültesi, Seydişehir Meslek Yüksekokulu, Seydişehir Sağlık Hizmetleri
+Meslek Yüksekokulu, Ereğli Mühendislik ve Doğa Bilimleri Fakültesi, Ereğli
+Eğitim Fakültesi ile Konya Ereğli Kemal Akman Meslek Yüksekokulunun bağlantısı
+değiştirilerek Necmettin Erbakan Üniversitesi Rektörlüğüne bağlanmıştır.
 
 v)
 22/4/2013 tarihli ve 2013/4657 sayılı Bakanlar Kurulu Kararı ile Rektörlük
@@ -12192,8 +12203,8 @@ Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe 
 Sanat ve Tasarım Fakültesinin adı “Mimarlık ve Tasarım Fakültesi” olarak
 değiştirilmiştir.
 
-ff)
-6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı Cumhurbaşkanı
+ff) 6/2/2021
+tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı Cumhurbaşkanı
 Kararı ile Rektörlüğe bağlı olarak Selçuklu Araştırmaları Enstitüsü
 kurulmuştur.
 
@@ -12407,8 +12418,8 @@ olarak değiştirilmiş ve Rektörlüğe bağlı olarak Mimarlık Fakültesi kur
 
 n)
 2/8/2019 tarihli ve 30850 sayılı Resmî Gazete’ de yayımlanan 1385 sayılı
-Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan Sivil Havacılık
-Yüksekokulu kapatılmıştır.
+Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan Sivil Havacılık Yüksekokulu
+kapatılmıştır.
 
 o)
 9/5/2020 tarihli ve 31122 sayılı Resmî Gazete’de yayımlanan 2504 sayılı
@@ -12448,8 +12459,8 @@ bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
 d)
 2547 sayılı Kanunun 7 nci maddesine dayanılarak Erciyes Üniversitesine bağlı
-olarak kurulan Sivil Havacılık Meslek Yüksekokulu; 26/4/2000 tarihli ve
-2000/617 sayılı Bakanlar Kurulu Kararı ile Sivil Havacılık Yüksekokuluna dönüştürülmüştür.
+olarak kurulan Sivil Havacılık Meslek Yüksekokulu; 26/4/2000 tarihli ve 2000/617
+sayılı Bakanlar Kurulu Kararı ile Sivil Havacılık Yüksekokuluna dönüştürülmüştür.
 
 e)
 22/12/2001 tarihli ve 2001/3552 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -12840,9 +12851,9 @@ o)
 25/1/2012 tarihli ve 2012/2750 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Deniz Bilimleri ve Teknolojisi Enstitüsü kurulmuştur.
 
-ö)
-5/3/2012 tarihli ve 2012/2908 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
-olarak Adli Bilimler Enstitüsü kurulmuştur.
+ö) 5/3/2012
+tarihli ve 2012/2908 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Adli Bilimler Enstitüsü kurulmuştur.
 
 p) 4/3/2022 tarihli ve 31768 sayılı Resmi
 Gazete’de yayımlanan 5252 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
@@ -12875,17 +12886,17 @@ d)
 bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
 e)
-7/8/2006 tarihli ve 2006/10912 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Hukuk Fakültesi kurulmuştur.
+7/8/2006 tarihli ve 2006/10912 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Hukuk Fakültesi kurulmuştur.
 
 f)
 21/7/2008 tarihli ve 2008/13955 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Oltu Yer Bilimleri Fakültesi kurulmuştur.
 
 g)
-17/9/2008 tarihli ve 2008/14169 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde bulunan Fen-Edebiyat Fakültesi kapatılmış ve Rektörlüğe bağlı olarak
-Fen Fakültesi ve Edebiyat Fakültesi kurulmuştur.
+17/9/2008 tarihli ve 2008/14169 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde
+bulunan Fen-Edebiyat Fakültesi kapatılmış ve Rektörlüğe bağlı olarak Fen
+Fakültesi ve Edebiyat Fakültesi kurulmuştur.
 
 ğ)
 25/2/2009 tarihli ve 2009/14727 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -12919,8 +12930,8 @@ bünyesinde bulunan Turizm İşletmeciliği ve Otelcilik Yüksekokulu kapatılm�
 
 m)
 16/2/2015 tarihli ve 2015/7308 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde bulunan Beden Eğitimi ve Spor Yüksekokulu kapatılmış ve Rektörlüğe
-bağlı olarak Spor Bilimleri Fakültesi kurulmuştur.
+bünyesinde bulunan Beden Eğitimi ve Spor Yüksekokulu kapatılmış ve Rektörlüğe bağlı
+olarak Spor Bilimleri Fakültesi kurulmuştur.
 
 n)
 16/2/2015 tarihli ve 2015/7312 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -12992,9 +13003,9 @@ g)
 bünyesinde yer alan Darende İlahiyat Fakültesinin adı İlahiyat Fakültesi olarak
 değiştirilmiştir.
 
-ğ)
-7/9/2011 tarihli ve 2011/2211 sayılı Bakanlar Kurulu Kararıyla Rektörlüğe bağlı
-olarak Karaciğer Nakli Enstitüsü kurulmuştur.
+ğ) 7/9/2011
+tarihli ve 2011/2211 sayılı Bakanlar Kurulu Kararıyla Rektörlüğe bağlı olarak
+Karaciğer Nakli Enstitüsü kurulmuştur.
 
 h)
 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -13290,8 +13301,8 @@ d)
 olarak Adıyaman İlinde Mesleki ve Teknik Eğitim Fakültesi kurulmuştur.
 
 e)
-26/12/2003 tarihli ve 2003/6685 sayılı Bakanlar Kurulu Kararıyla Rektörlüğe
-bağlı olarak Yabancı Diller Yüksek Okulu kurulmuştur.
+26/12/2003 tarihli ve 2003/6685 sayılı Bakanlar Kurulu Kararıyla Rektörlüğe bağlı
+olarak Yabancı Diller Yüksek Okulu kurulmuştur.
 
 f)
 5/10/2006 tarihli ve 2006/11087 ve 2006/11088 sayılı Bakanlar Kurulu
@@ -13555,10 +13566,10 @@ g)
 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
 
-ğ)
-25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer
-alan Şanlıurfa Sağlık Yüksekokulu kapatılmıştır.
+ğ) 25/1/2016
+tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Sağlık Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Şanlıurfa
+Sağlık Yüksekokulu kapatılmıştır.
 
 h)
 4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -13580,9 +13591,9 @@ Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan Turizm ve Otel
 
 k) 16/5/2025
 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı
-Kararı ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş,
-Rektörlük bünyesinde bulunan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü
-ve Sosyal Bilimler Enstitüsü kapatılmıştır.
+Kararı ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük
+bünyesinde bulunan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ve
+Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 [52]
 
@@ -13836,10 +13847,10 @@ yayımlanan 9724 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde ye
 ve Toplum Bilimleri Fakültesinin adı Teoman Duralı İnsan ve Toplum Bilimleri
 Fakültesi olarak değiştirilmiştir.
 
-p) 1/7/2025 tarihli ve 32943 sayılı Resmî
-Gazete’de yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
-olarak Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden
-Eğitimi ve Spor Yüksekokulu kapatılmıştır.
+p) 1/7/2025 tarihli ve 32943 sayılı Resmî Gazete’de
+yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor
+Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve
+Spor Yüksekokulu kapatılmıştır.
 
 [57]
 
@@ -14006,8 +14017,8 @@ bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş ve Üniversite bünyesind
 alan Denizli Sağlık Yüksekokulu kapatılmıştır.
 
 i)
-29/2/2016 tarihli ve 2016/8567 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak İslami İlimler Enstitüsü kurulmuştur.
+29/2/2016 tarihli ve 2016/8567 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak İslami İlimler Enstitüsü kurulmuştur.
 
 j) 4/7/2016 tarihli ve 2016/9007 sayılı Bakanlar
 Kurulu ile Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
@@ -14025,10 +14036,10 @@ Fizyoterapi ve Rehabilitasyon Fakültesi kurulmuş, Rektörlük bünyesinde yer 
 Fizik Tedavi ve Rehabilitasyon Yüksekokulu kapatılmıştır.
 
 m)
-26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi
-ve Fen Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Fen- Edebiyat
-Fakültesi kapatılmıştır.
+26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen
+Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Fen- Edebiyat Fakültesi
+kapatılmıştır.
 
 [61]
 
@@ -14347,8 +14358,8 @@ d) 25/6/2012 tarihli ve
 Fakültesi ile İşletme Fakültesi kurulmuştur.
 
 e) 13/8/2012 tarihli ve
-2012/3638 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş
-Hekimliği Fakültesi kurulmuştur.
+2012/3638 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
 
 f) 25/1/2016 tarihli ve
 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık
@@ -14374,9 +14385,9 @@ Enstitüsü ile İnsan ve Toplum Bilimleri Fakültesi kurulmuş, Rektörlük
 bünyesinde yer alan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü, Sosyal
 Bilimler Enstitüsü ve Fen-Edebiyat Fakültesi kapatılmıştır.
 
-i) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477
-sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Mühendislik Fakültesinin
-adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
+i) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477 sayılı
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Mühendislik Fakültesinin adı
+Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
 
 j) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785
 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
@@ -14413,8 +14424,8 @@ e) 4/4/2011 tarihli ve
 Bilimleri Enstitüsü ve Gerede Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 f) 16/12/2011 tarihli ve
-2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Teknoloji
-Fakültesi kurulmuştur.
+2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Teknoloji Fakültesi
+kurulmuştur.
 
 g) 5/3/2012 tarihli ve
 2012/2908 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim
@@ -14445,8 +14456,8 @@ j) 18/4/2019 tarihli ve
 Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuştur.
 
 k) 18/4/2019 tarihli ve
-30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
+30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
 
 l ) 4/3/2020 tarihli ve
 31058 sayılı Resmî Gazete’ de yayımlanan 2222 sayılı Cumhurbaşkanı Kararı ile
@@ -14606,9 +14617,9 @@ j)
 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Havacılık ve Uzay Bilimleri Fakültesi kurulmuştur.
 
-k)
-13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sandıklı Uygulamalı Bilimler Yüksekokulu kurulmuştur.
+k) 13/6/2016
+tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Sandıklı Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 l) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar
 Kurulu Kararı ile Üniversiteye bağlı olarak Dinar Uygulamalı Bilimler
@@ -14645,8 +14656,8 @@ Uzay Bilimleri Fakültesi kurulmuştur.
 
 b) 4/8/2023 tarihli ve
 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük
-bünyesinde yer alan Fen Bilimleri Enstitüsü ile Sosyal Bilimler Enstitüsü kapatılmıştır.
+Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde
+yer alan Fen Bilimleri Enstitüsü ile Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 [74]
 
@@ -14717,6 +14728,11 @@ k)
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Sarıkamış Spor Bilimleri
 Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Sarıkamış Beden Eğitimi ve
 Spor Yüksekokulu kapatılmıştır.
+
+l) 30/10/2026
+tarihli ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı
+Kararı ile Rektörlük bünyesinde yer alan Diş Hekimliği Fakültesinin adı İsmail
+Aytemiz Diş Hekimliği Fakültesi olarak değiştirilmiştir.
 
 [76]
 a) 9/9/1997 tarihli ve 97/9930 sayılı Bakanlar Kurulu Kararı ile
@@ -14944,8 +14960,8 @@ bağlı olarak Eğitim Fakültesi, Güzel Sanatlar Fakültesi ve Beden Eğitimi 
 Spor Yüksekokulu kurulmuştur.
 
 b)
-9/9/2005 tarihli ve 2005/9465 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
+9/9/2005 tarihli ve 2005/9465 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 c)
 24/5/2006 tarihli ve 2006/10493 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -14982,9 +14998,8 @@ h)
 bağlı olarak Mimarlık Fakültesi kurulmuştur.
 
 ı)
-14/11/2016 tarihli ve 2016/9528 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı İlahiyat Fakültesinin adı İslami İlimler Fakültesi olarak
-değiştirilmiştir.
+14/11/2016 tarihli ve 2016/9528 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+İlahiyat Fakültesinin adı İslami İlimler Fakültesi olarak değiştirilmiştir.
 
 i)
 9/1/2019 tarihli ve 576 sayılı Cumhurbaşkanı Kararı ile Üniversiteye bağlı
@@ -15031,9 +15046,8 @@ a) 31/3/1994 tarihli ve 94/5564 sayılı Bakanlar Kurulu Kararı ile Üniversite
 bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
 
 b)
-4/7/1995 tarihli ve 95/7044 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak İktisadi ve İdari Bilimler Fakültesi ile Tıp Fakültesi
-kurulmuştur.
+4/7/1995 tarihli ve 95/7044 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak İktisadi ve İdari Bilimler Fakültesi ile Tıp Fakültesi kurulmuştur.
 
 c)
 26/9/1997 tarihli ve 97/10050 sayılı Bakanlar Kurulu Kararı ile Zile Turizm
@@ -15117,8 +15131,8 @@ kapatılmıştır.
 r)
 4/10/2019 tarihli ve 30908 sayılı sayılı Resmî Gazete’ de yayımlanan 1614
 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
-Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor
-Yüksekokulu kapatılmıştır.
+Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
+kapatılmıştır.
 
 s)
 25/12/2019 tarihli ve 30989 sayılı Resmi Gazete’de yayımlanan 1911 sayılı
@@ -15167,8 +15181,7 @@ Yüksekokulu kurulmuştur.
 bağlı olarak Yabancı Diller Yüksekokulu kurulmuş; 27/2/2006 tarihli ve
 2006/10121 sayılı Bakanlar Kurulu Kararı ile bu Yüksekokulun adı Sıtkı Koçman
 Yabancı Diller Yüksekokulu olarak, daha sonra da 26/1/2015 tarihli ve 2015/7227
-sayılı Bakanlar Kurulu Kararı ile Yabancı Diller Yüksekokulu olarak
-değiştirilmiştir.
+sayılı Bakanlar Kurulu Kararı ile Yabancı Diller Yüksekokulu olarak değiştirilmiştir.
 
 d)
 14/5/2007 tarihli ve 2007/12149 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -15231,8 +15244,7 @@ olarak Fethiye Sağlık Bilimleri Fakültesi kurulmuştur.
 
 o)
 27/12/2016 tarihli ve 2016/9717 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olan İlahiyat Fakültesinin adı İslami İlimler Fakültesi olarak
-değiştirilmiştir.
+bağlı olan İlahiyat Fakültesinin adı İslami İlimler Fakültesi olarak değiştirilmiştir.
 
 ö)
 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -15265,8 +15277,8 @@ bağlı olarak Güzel Sanatlar Fakültesi ile Eğitim Fakültesi kurulmuştur.
 
 ç)
 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Göksun Uygulamalı Bilimler Yüksekokulu ile Yabancı Diller
-Yüksekokulu kurulmuştur.
+bağlı olarak Göksun Uygulamalı Bilimler Yüksekokulu ile Yabancı Diller Yüksekokulu
+kurulmuştur.
 
 d)
 2/1/2012 tarihli ve 2012/2658 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -15364,14 +15376,13 @@ Mühendislik ve Mimarlık Fakültesi olarak değiştirilmiştir.
 
 i) 4/8/2023 tarihli ve 32669 sayılı Resmî
 Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan
-Mühendislik ve Mimarlık Fakültesinin adı Mühendislik ve Doğa Bilimleri
-Fakültesi olarak değiştirilmiştir.
+Mühendislik ve Mimarlık Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi
+olarak değiştirilmiştir.
 
 [89]
 Bazı üniversitelere bağlı olarak kurulan sağlık yüksekokullarıyla
 ilgili olarak 2/11/1996 tarihli ve 22805 sayılı Resmî Gazete’de yayımlanan
-10/10/1996 tarihli ve 96/8655 sayılı Bakanlar Kurulu Kararı eki listeye
-bakınız.
+10/10/1996 tarihli ve 96/8655 sayılı Bakanlar Kurulu Kararı eki listeye bakınız.
 
 [90]
 
@@ -15435,9 +15446,8 @@ alan Eskişehir Sağlık Yüksekokulu kapatılmıştır.
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
 
 i)
-14/2/2019 tarihli ve 30686 sayılı Resmi Gazete’de yayımlanan 755 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Metalurji Enstitüsü
-kapatılmıştır.
+14/2/2019 tarihli ve 30686 sayılı Resmi Gazete’de yayımlanan 755 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olan Metalurji Enstitüsü kapatılmıştır.
 
 j)
 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı
@@ -15811,9 +15821,9 @@ Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 [104]
 
-a) 8/4/1999 tarihli ve 99/12735 sayılı Bakanlar Kurulu Kararı ile
-Üniversiteye bağlı olarak Fen Bilimleri Enstitüsü, Sosyal Bilimler Enstitüsü ve
-Sağlık Bilimleri Enstitüsü kurulmuştur.
+a) 8/4/1999 tarihli ve 99/12735 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
+bağlı olarak Fen Bilimleri Enstitüsü, Sosyal Bilimler Enstitüsü ve Sağlık
+Bilimleri Enstitüsü kurulmuştur.
 
 b) 1/8/2003 tarihli ve 2003/6033 sayılı Bakanlar
 Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik-Mimarlık Fakültesi
@@ -15830,8 +15840,8 @@ bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilim
 Fakültesi olarak değiştirilmiştir.
 
 d)
-8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Sağlık Bilimleri Yüksekokulu kurulmuştur.
+8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak Sağlık Bilimleri Yüksekokulu kurulmuştur.
 
 e)
 6/6/2013 tarihli ve 2013/4929 sayılı Bakanlar Kurulu Kararı ile Rektörlük
@@ -16379,9 +16389,9 @@ Rektörlüğü bünyesinde yer alan Tıp Fakültesi Kastamonu Üniversitesi
 Rektörlüğüne bağlanmıştır.
 
 ı)
-25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sağlık Bilimleri Fakültesi ile Veteriner Fakültesi kurulmuş ve
-Rektörlük bünyesinde yer alan Fazıl Boyner Sağlık Yüksekokulu kapatılmıştır.
+25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Sağlık Bilimleri Fakültesi ile Veteriner Fakültesi kurulmuş ve Rektörlük
+bünyesinde yer alan Fazıl Boyner Sağlık Yüksekokulu kapatılmıştır.
 
 i)
 26/3/2018 tarihli ve 2018/11592 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -16456,17 +16466,17 @@ bağlı olarak İlahiyat Fakültesi kurulmuştur.
 
 ğ)
 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Sanat ve Tasarım Fakültesinin adı Sanat, Tasarım ve
-Mimarlık Fakültesi şeklinde değiştirilmiştir.
+bünyesinde yer alan Sanat ve Tasarım Fakültesinin adı Sanat, Tasarım ve Mimarlık
+Fakültesi şeklinde değiştirilmiştir.
 
-h) 25/1/2016
-tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
-Spor Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Beden
-Eğitimi ve Spor Yüksekokulu kapatılmıştır.
+h)
+25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
+bağlı olarak Spor Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan
+Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
 
-ı)
-26/9/2016 tarihli ve 2016/9270 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Güzel Sanatlar Enstitüsü kurulmuştur.
+ı) 26/9/2016
+tarihli ve 2016/9270 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak Güzel Sanatlar Enstitüsü kurulmuştur.
 
 i)
 14/11/2016 tarihli ve 2016/9539 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -16561,9 +16571,9 @@ bağlı olarak Bucak Teknoloji Fakültesi kurulmuştur.
 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Gölhisar Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
-i)
-3/7/2017 tarihli ve 2017/10549 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
+i) 3/7/2017
+tarihli ve 2017/10549 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Diş Hekimliği Fakültesi kurulmuştur.
 
 j)
 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı
@@ -16592,6 +16602,11 @@ n) 1/7/2025 tarihli ve 32943 sayılı Resmî
 Gazete’de yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
 olarak Tıp Fakültesi kurulmuştur.
 
+o)
+30/10/2026 tarihli ve 33416 sayılı Resmî
+Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
+olarak Tarım ve Hayvancılık Teknolojileri Estitüsü kurulmuştur.
+
 [126]
 
 a) 19/9/2007 tarihli ve 2007/12631 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -16606,9 +16621,9 @@ bağlı olarak İlahiyat Fakültesi kurulmuş, 25/3/2013 tarihli ve 2013/4496 sa
 Bakanlar Kurulu Kararı ile bu fakültenin adı İslami İlimler Fakültesi olarak
 değiştirilmiştir.
 
-ç)
-16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
+ç) 16/4/2012
+tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 d)
 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -16656,8 +16671,8 @@ Gazete’de yayımlanan 2704 sayılı Cumhurbaşkanı Kararının 3 üncü madde
 Rektörlüğe bağlı olan Ziraat ve Doğa Bilimleri Fakültesinin adı Ziraat
 Fakültesi olarak değiştirilmiştir.
 
-l) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de
-yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan
+l) 4/8/2023 tarihli ve 32669 sayılı Resmî
+Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan
 Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak
 değiştirilmiştir.
 
@@ -16854,9 +16869,8 @@ Diş Hekimliği Fakültesi kurulmuştur.
 
 h)
 16/2/2015 tarihli ve 2015/7329 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Kemaliye Hacı Ali Akın Turizm ve Otelcilik Yüksekokulunun
-adı Kemaliye Hacı Ali Akın Uygulamalı Bilimler Yüksekokulu olarak
-değiştirilmiştir.
+bünyesinde yer alan Kemaliye Hacı Ali Akın Turizm ve Otelcilik Yüksekokulunun adı
+Kemaliye Hacı Ali Akın Uygulamalı Bilimler Yüksekokulu olarak değiştirilmiştir.
 
 ı)
 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -16868,14 +16882,14 @@ i)
 bünyesinde yer alan Sivil Havacılık Yüksekokulunun adı Ali Cavit Çelebioğlu
 Sivil Havacılık Yüksekokulu olarak değiştirilmiştir.
 
-j) 14/5/2018
-tarihli ve 2018/12001 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
-Güzel Sanatlar Fakültesi kurulmuştur.
+j)
+14/5/2018 tarihli ve 2018/12001 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
+bağlı olarak Güzel Sanatlar Fakültesi kurulmuştur.
 
 k)
 1/5/2021 tarihli ve 31471 sayılı Resmî Gazete’de yayımlanan 3940 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi
-kurulmuş ve Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuş
+ve Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
 kapatılmıştır.
 
 l)
@@ -16909,9 +16923,9 @@ Yüksekokulu kurulmuştur.
 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
 bağlı olarak Mimarlık ve Tasarım Fakültesi ile İletişim Fakültesi kurulmuştur.
 
-d)
-5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak İslami İlimler Fakültesi kurulmuştur.
+d) 5/7/2012
+tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak İslami İlimler Fakültesi kurulmuştur.
 
 e)
 25/7/2012 tarihli ve 2012/3527 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -16945,14 +16959,13 @@ Rektörlüğüne bağlı olarak Şereflikoçhisar Uygulamalı Bilimler Fakültes
 kurulması kararlaştırılmıştır.
 
 i)
-6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi
-kurulmuştur.
+6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulmuştur.
 
 j)
 10/2/2025 tarihli ve 32809 sayılı Resmî Gazete’de yayımlanan 9513 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Bilgisayar ve Bilişim Bilimleri
-Fakültesi kurulmuştur.
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Bilgisayar ve Bilişim
+Bilimleri Fakültesi kurulmuştur.
 
 k)
 7/3/2026 tarihli ve 33189 sayılı Resmî Gazete’ de
@@ -17109,10 +17122,10 @@ f)
 26/11/2012 tarihli ve 2012/3980 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Akdağmadeni Sağlık Yüksekokulu kurulmuştur.
 
-g)
-5/2/2014 tarihli ve 2014/5922 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde bulunan Turizm İşletmeciliği ve Otelcilik Yüksekokulu kapatılmış ve
-Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuştur.
+g) 5/2/2014
+tarihli ve 2014/5922 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde
+bulunan Turizm İşletmeciliği ve Otelcilik Yüksekokulu kapatılmış ve Rektörlüğe
+bağlı olarak Turizm Fakültesi kurulmuştur.
 
 ğ)
 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -17140,14 +17153,14 @@ bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
 
 k)
 30/6/2020 tarihli ve 31171 sayılı Resmî Gazete’de yayımlanan 2704 sayılı
-Cumhurbaşkanı Kararının 1 inci maddesiyle, Rektörlüğe bağlı olarak Diş
-Hekimliği Fakültesi kurulmuştur.
+Cumhurbaşkanı Kararının 1 inci maddesiyle, Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
 
 l)
 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü
-kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü, Sosyal
-Bilimler Enstitüsü ve Sağlık Bilimleri Enstitüsü kapatılmıştır.
+kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü, Sosyal Bilimler
+Enstitüsü ve Sağlık Bilimleri Enstitüsü kapatılmıştır.
 
 [142]
 
@@ -17233,8 +17246,8 @@ b)
 bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
 
 c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar
-Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi ile Turizm
-İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
+Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi ile Turizm İşletmeciliği
+ve Otelcilik Yüksekokulu kurulmuştur.
 
 ç)
 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -17329,8 +17342,8 @@ bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.
 
 a) 4/2/2008 tarihli ve 2008/13559 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Sağlık Yüksekokulu kurulmuş; 30/10/2017 tarihli ve 2017/11320
-sayılı Bakanlar Kurulu Kararı ile bu yüksekokul kapatılmış ve aynı Karar ile
-Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuştur.
+sayılı Bakanlar Kurulu Kararı ile bu yüksekokul kapatılmış ve aynı Karar ile Rektörlüğe
+bağlı olarak Sağlık Bilimleri Fakültesi kurulmuştur.
 
 b)
 14/7/2009 tarihli ve 2009/15278 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -17384,8 +17397,7 @@ ve Rektörlük bünyesinde yer alan Sivil Havacılık Yüksekokulu kapatılmış
 g)
 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477 sayılı
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi
-kurulmuş, Rektörlük bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu
-kapatılmıştır.
+kurulmuş, Rektörlük bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
 
 [148]
 
@@ -17583,10 +17595,9 @@ Gazete’de yayımlanan 967 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe b
 Diş Hekimliği Fakültesinin adı Ahmet Keleşoğlu Diş Hekimliği Fakültesi olarak
 değiştirilmiştir.
 
-ı)
-25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’de yayımlanan 1157 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu
-kurulmuştur.
+ı) 25/6/2019
+tarihli ve 30812 sayılı Resmî Gazete’de yayımlanan 1157 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
 i)
 21/8/2020 tarihli ve 31220 sayılı Resmi Gazete’de yayımlanan 2843 sayılı
@@ -17636,8 +17647,8 @@ bağlı olarak Patnos Sosyal Hizmetler Yüksekokulu kurulmuştur.
 
 e)
 6/6/2013 tarihli ve 2013/4900 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Patnos Doğa Bilimleri ve Mühendislik Fakültesinin adı
-Patnos Sultan Alparslan Doğa Bilimleri ve Mühendislik Fakültesi olarak
+bünyesinde yer alan Patnos Doğa Bilimleri ve Mühendislik Fakültesinin adı Patnos
+Sultan Alparslan Doğa Bilimleri ve Mühendislik Fakültesi olarak
 değiştirilmiştir.
 
 f)
@@ -17664,16 +17675,22 @@ Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakülte
 kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
 kapatılmıştır.
 
-i)
-20/11/2021 tarihli ve 31665 sayılı Resmî Gazete’de yayımlanan 4821 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi
-kurulmuş, Rektörlük bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
+i) 20/11/2021
+tarihli ve 31665 sayılı Resmî Gazete’de yayımlanan 4821 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş,
+Rektörlük bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
 
 j)
 20/9/2024 tarihli ve 32668 sayılı Resmî Gazete’de yayımlanan 8991 sayılı
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Mühendislik ve Mimarlık
 Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Patnos Sultan Alparslan Doğa
 Bilimleri ve Mühendislik Fakültesi kapatılmıştır.
+
+k)
+30/10/2026 tarihli ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi
+kurulmuş ve Rektörlüğe bağlı olan İslami İlimler Fakültesinin adı İlahiyat
+Fakültesi olarak değiştirilmiştir.
 
 [157]
 
@@ -17746,9 +17763,9 @@ d)
 5/2/2014 tarihli ve 2014/5921 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
-e)
-25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Sağlık Bilimleri Enstitüsü ile Turizm İşletmeciliği ve Otelcilik
+e) 25/5/2015
+tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak Sağlık Bilimleri Enstitüsü ile Turizm İşletmeciliği ve Otelcilik
 Yüksekokulu kurulmuştur.
 
 f)
@@ -17810,9 +17827,9 @@ g)
 29/3/2012 tarihli ve 2012/3055 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak İlahiyat Fakültesi kurulmuştur.
 
-ğ) 6/6/2013
-tarihli ve 2013/4947 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
-Spor Bilimleri ve Teknolojisi Yüksekokulu kurulmuştur.
+ğ)
+6/6/2013 tarihli ve 2013/4947 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
+bağlı olarak Spor Bilimleri ve Teknolojisi Yüksekokulu kurulmuştur.
 
 h)
 6/6/2013 tarihli ve 2013/4960 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -18050,8 +18067,8 @@ bağlı olarak Ilgaz Turizm ve Otelcilik Yüksekokulu kurulmuştur.
 
 e)
 4/7/2016 tarihli ve 2016/9007 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan
-Sağlık Yüksekokulu kapatılmıştır.
+bağlı olarak Sağlık Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer
+alan Sağlık Yüksekokulu kapatılmıştır.
 
 f)
 28/11/2016 tarihli ve 2016/9578 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -18086,9 +18103,9 @@ j) 28/6/2024 tarihli ve 32586 sayılı Resmî
 Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
 olarak Lisansüstü Eğitim Enstitüsü kurulmuştur.
 
-k) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de
-yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan
-Sağlık Bilimleri Enstitüsü kapatılmıştır.
+k) 28/6/2024 tarihli ve 32586 sayılı Resmî
+Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
+yer alan Sağlık Bilimleri Enstitüsü kapatılmıştır.
 
 l) 28/6/2024 tarihli ve 32586 sayılı Resmî
 Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
@@ -18128,9 +18145,9 @@ bağlı olarak Sanat ve Tasarım Fakültesi kurulmuştur.
 bağlı olarak Beden Eğitimi ve Spor Yüksekokulu ile Sağlık Bilimleri Fakültesi
 kurulmuş ve Üniversite bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
 
-d)
-24/7/2017 tarihli ve 2017/10708 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Uygulamalı Bilimler Yüksekokulu ve İşletme Fakültesi kurulmuştur.
+d) 24/7/2017
+tarihli ve 2017/10708 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Uygulamalı Bilimler Yüksekokulu ve İşletme Fakültesi kurulmuştur.
 
 f)
 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı
@@ -18139,10 +18156,10 @@ Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri
 Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 e)
-4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi ve
-Turizm Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor
-Yüksekokulu ile Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
+4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi ve Turizm Fakültesi
+kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu ile
+Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
 
 [165]
 
@@ -18163,8 +18180,7 @@ bağlı olarak Güzel Sanatlar ve Tasarım Fakültesi kurulmuştur.
 
 c)
 6/6/2013 tarihli ve 2013/4927 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak İslami İlimler Fakültesi ile Uygulamalı Bilimler Yüksekokulu
-kurulmuştur.
+bağlı olarak İslami İlimler Fakültesi ile Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 ç)
 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -18219,8 +18235,8 @@ Fakültesi olarak değiştirilmiştir.
 
 [167]
 
-a) 28/7/2010 tarihli ve 2010/780 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
+a) 28/7/2010 tarihli ve 2010/780 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
 
 b)
 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -18290,8 +18306,7 @@ Yabancı Diller Yüksekokulu kurulmuştur.
 
 c)
 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Mühendislik Fakültesi ve Uygulamalı Bilimler Yüksekokulu
-kurulmuştur.
+bağlı olarak Mühendislik Fakültesi ve Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 
 ç)
 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -18343,9 +18358,9 @@ b)
 12/11/2012 tarihli ve 2012/3961 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
 bağlı olarak İlahiyat Fakültesi kurulmuştur.
 
-c)
-11/3/2013 tarihli ve 2013/4459 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sağlık Yüksekokulu kurulmuştur.
+c) 11/3/2013
+tarihli ve 2013/4459 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Sağlık Yüksekokulu kurulmuştur.
 
 ç)
 29/4/2013 tarihli ve 2013/4716 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
@@ -18426,8 +18441,7 @@ alan Sağlık Yüksekokulu kapatılmıştır.
 
 h)
 2/8/2019 tarihli ve 30850 sayılı Resmî Gazete’ de yayımlanan 1385 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Kıraat İlmi Enstitüsü
-kurulmuştur.
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Kıraat İlmi Enstitüsü kurulmuştur.
 
 ı)
 21/5/2021 tarihli ve 31487 sayılı Resmî Gazete’de yayımlanan 4000 sayılı
@@ -18607,8 +18621,8 @@ Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Yük- sekokulu kurulmu�
 bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
 
 d)
-2/7/2013 tarihli ve 2013/5072 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak İslami İlimler Fakültesi kurulmuştur.
+2/7/2013 tarihli ve 2013/5072 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak İslami İlimler Fakültesi kurulmuştur.
 
 e)
 30/9/2013 tarihli ve 2013/5479 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -18722,9 +18736,9 @@ b)
 27/9/2010 tarihli ve 2010/937 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Edebiyat Fakültesi kurulmuştur.
 
-c)
-4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
-bağlı olarak Fen Fakültesi kurulmuştur.
+c) 4/4/2011
+tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı
+olarak Fen Fakültesi kurulmuştur.
 
 ç)
 25/1/2012 tarihli ve 2012/2772 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -18861,8 +18875,8 @@ bağlı olarak Uygulamalı Bilimler Yüksekokulu kurulmuştur.
 ğ)
 21/5/2021 tarihli ve 31487 sayılı Resmî Gazete’ de yayımlanan 4000 sayılı
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü
-kurulmuş, Rektörlük bünyesinde yer alan Sosyal Bilimler Enstitüsü ve Fen
-Bilimleri Enstitüsü kapatılmıştır.
+kurulmuş, Rektörlük bünyesinde yer alan Sosyal Bilimler Enstitüsü ve Fen Bilimleri
+Enstitüsü kapatılmıştır.
 
 h)
 20/9/2024 tarihli ve 32668 sayılı Resmî Gazete’de yayımlanan 8991 sayılı
@@ -18910,7 +18924,8 @@ bağlı olarak İktisadi ve İdari Bilimler Fakültesi kurulmuştur.
 
 c)
 14/11/2011 tarihli ve 2011/2471 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Beden Eğitimi ve Spor Yüksekokulu ile Güzel Sanatlar Fakültesi kurulmuştur.
+bağlı olarak Beden Eğitimi ve Spor Yüksekokulu ile Güzel Sanatlar Fakültesi
+kurulmuştur.
 
 ç) 29/4/2013 tarihli ve 2013/4716 sayılı Bakanlar
 Kurulu Kararı ile Üniversiteye bağlı olarak Turizm Fakültesi kurulmuştur.
@@ -18966,8 +18981,8 @@ c)
 bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulmuştur.
 
 ç)
-4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Güzel Sanatlar Fakültesi kurulmuştur.
+4/6/2018 tarihli ve 2018/11959 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Güzel Sanatlar Fakültesi kurulmuştur.
 
 d)
 25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’de yayımlanan 1157 sayılı
@@ -18995,8 +19010,8 @@ başlığında ve birinci fıkrasında yer alan “Tunceli Üniversitesi” ibar
 a) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
 bağlı olarak Edebiyat Fakültesi kurulmuştur.
 
-b) 8/4/2010 tarihli ve 2010/367 sayılı Bakanlar
-Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Yüksekokulu kurulmuştur.
+b) 8/4/2010 tarihli ve 2010/367 sayılı Bakanlar Kurulu
+Kararı ile Rektörlüğe bağlı olarak Sağlık Yüksekokulu kurulmuştur.
 
 c) 13/8/2012 tarihli ve 2012/3638 sayılı Bakanlar
 Kurulu Kararı ile Üniversiteye bağlı olarak İletişim Fakültesi ile Güzel
@@ -19008,8 +19023,7 @@ Spor Bilimleri Fakültesi kurulmuştur.
 
 d)
 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi
-kurulmuştur.
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuştur.
 
 e)
 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı
@@ -19022,8 +19036,8 @@ kurulmuştur.
 
 g) 4/10/2019
 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı
-Kararı ile Rektörlük bünyesinde yer alan Sosyal Bilimler Enstitüsü ve Fen Bilimleri
-Enstitüsü kapatılmıştır.
+Kararı ile Rektörlük bünyesinde yer alan Sosyal Bilimler Enstitüsü ve Fen
+Bilimleri Enstitüsü kapatılmıştır.
 
 ğ)
 11/11/2019 tarihli ve 30945 sayılı Resmî Gazete’de
@@ -19066,10 +19080,10 @@ yayımlanan 3518 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olar
 Fakültesi ve Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer
 alan Fen Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
 
-f)
-18/9/2025 tarihli ve 33021 sayılı Resmî Gazete’ de yayımlanan 10415 sayılı
-Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan İslami İlimler
-Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
+f) 18/9/2025
+tarihli ve 33021 sayılı Resmî Gazete’ de yayımlanan 10415 sayılı Cumhurbaşkanı
+Kararı ile Rektörlük bünyesinde yer alan İslami İlimler Fakültesinin adı
+İlahiyat Fakültesi olarak değiştirilmiştir.
 
 [187]
 
@@ -19147,9 +19161,9 @@ olup, daha sonra 667 sayılı KHK’nin 18/10/2016 tarihli ve 6749 sayılı Kanu
 değiştirilerek kabul edilmesinden dolayı bu hüküm kanunlaşmıştır.
 
 [190]
-a) 11/3/2010 tarihli ve 2010/256 sayılı Bakanlar Kurulu Kararı ile
-Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve
-Mimarlık Fakültesi olarak değiştirilmiştir.
+a) 11/3/2010 tarihli ve 2010/256 sayılı Bakanlar Kurulu Kararı ile Rektörlük
+bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Mimarlık
+Fakültesi olarak değiştirilmiştir.
 
 b)
 31/1/2011 tarihli ve 2011/1396 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -19176,8 +19190,8 @@ bünyesinde bulunan İktisadi ve İdari Bilimler Fakültesinin adı İktisadi, �
 ve Sosyal Bilimler Fakültesi olarak değiştirilmiştir.
 
 b)
-14/5/2012 tarihli ve 2012/3220 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
-olarak Sağlık Bilimleri Enstitüsü kurulmuştur.
+14/5/2012 tarihli ve 2012/3220 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
+bağlı olarak Sağlık Bilimleri Enstitüsü kurulmuştur.
 
 c) 14/5/2012 tarihli ve 2012/3226 sayılı Bakanlar
 Kurulu Kararı ile Rektörlük bünyesinde bulunan Mühendislik-Mimarlık
@@ -19329,9 +19343,9 @@ b)
 8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye
 bağlı olarak Sağlık Bilimleri Yüksekokulu kurulmuştur.
 
-c)
-8/10/2012 tarihli ve 2012/3796 sayılı Bakanlar Kurulu Kararı ile Rektörlük
-bünyesinde yer alan Güzel Sanatlar Fakültesi kapatılmıştır.
+c) 8/10/2012
+tarihli ve 2012/3796 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer
+alan Güzel Sanatlar Fakültesi kapatılmıştır.
 
 ç)
 16/3/2015 tarihli ve 2015/7438 sayılı Bakanlar Kurulu Kararı ile Rektörlük
@@ -19340,8 +19354,8 @@ Bilimler Fakültesi kapatılmış ve Rektörlüğe bağlı olarak Sosyal ve Beş
 Bilimler Fakültesi ile İşletme ve Yönetim Bilimleri Fakültesi kurulmuştur.
 
 d)
-14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Sağlık Bilimleri Enstitüsü kurulmuştur.
+14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı
+olarak Sağlık Bilimleri Enstitüsü kurulmuştur.
 
 e)
 30/10/2017 tarihli ve 2017/11320 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -19410,10 +19424,10 @@ Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri Enstitüsü k
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
 
 d) 16/5/2025
-tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı
-Kararı ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş,
-Rektörlük bünyesinde bulunan Fen Bilimleri Enstitüsü, Sağlık Bilimleri
-Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
+tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı Kararı
+ile Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük
+bünyesinde bulunan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ve
+Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 e) 16/5/2025
 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı
@@ -19438,9 +19452,9 @@ bentler buna göre teselsül ettirilmiştir.
 a) 5/7/2012 tarihli ve 2012/3445 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
 bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
-b)
-22/4/2013 tarihli ve 2013/4693 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi kurulmuştur.
+b) 22/4/2013
+tarihli ve 2013/4693 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi kurulmuştur.
 
 [203]
 
@@ -19591,9 +19605,9 @@ a) 10/2/2012 tarihli ve 2012/2828 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 bağlı olarak Sağlık Bilimleri Fakültesi ile Beden Eğitimi ve Spor Yüksekokulu
 kurulmuştur.
 
-b)
-14/5/2012 tarihli ve 2012/3208 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
-bağlı olarak İslami İlimler Fakültesi kurulmuştur.
+b) 14/5/2012
+tarihli ve 2012/3208 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak
+İslami İlimler Fakültesi kurulmuştur.
 
 c)
 22/7/2013 tarihli ve 2013/5151 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -19628,6 +19642,11 @@ c)
 Rektörlüğe bağlı olan Eğitim Fakültesi ile Eğitim
 Bilimleri Enstitüsünün bağlantısı değiştirilerek Fatih Sultan Mehmet Vakıf
 Üniversitesi Rektörlüğüne bağlanması kararlaştırılmıştır.
+
+ç) 30/10/2026
+tarihli ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi
+ve İbni Sinâ Enstitüsü kurulmuştur.
 
 [211]
 
@@ -19735,18 +19754,17 @@ Enstitüsü, Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 f)
 25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’de yayımlanan 1157 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak İslami İlimler Fakültesi
-kurulmuştur.
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak İslami İlimler Fakültesi kurulmuştur.
 
 g)
 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5867 sayılı
 Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Bilim Tarihi Enstitüsü
 kurulmuştur.
 
-ğ)
-2/11/2023 tarihli ve 32357 sayılı Resmî Gazete’de yayımlanan 7759 sayılı
-Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Kıraat ve Mushaf Araştırmaları
-Enstitüsü kurulmuştur.
+ğ) 2/11/2023
+tarihli ve 32357 sayılı Resmî Gazete’de yayımlanan 7759 sayılı Cumhurbaşkanı
+Kararı ile Rektörlüğe bağlı olarak Kıraat ve Mushaf Araştırmaları Enstitüsü
+kurulmuştur.
 
 h) 14/7/2025
 tarihli ve 32956 sayılı Resmî Gazete’de yayımlanan 10073 sayılı Cumhurbaşkanı
@@ -19778,17 +19796,17 @@ Gazete’de yayımlanan 7290 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe 
 [216]
 30/3/2012 tarihli ve 6287 sayılı Kanunun 20 nci maddesiyle, bu maddenin
 “Konya Üniversitesi” olan başlığı metne i
-şlendiği şekilde, birinci
-fıkrasında yer alan “Konya Üniversitesi” ibaresi ise “Necmettin Erbakan
-Üniversitesi” şeklinde değiştirilmiştir.
+şlendiği şekilde, birinci fıkrasında
+yer alan “Konya Üniversitesi” ibaresi ise “Necmettin Erbakan Üniversitesi”
+şeklinde değiştirilmiştir.
 
 [217]
 a) 7/12/2011 tarihli ve 2011/2620 sayılı Bakanlar Kurulu Kararı ile
-Selçuk Üniversitesi Rektörlüğü bünyesinde yer alan Ahmet Keleşoğlu Eğitim
-Fakültesi, İlahiyat Fakültesi ile Meram Tıp Fakültesinin bağlantısı
-değiştirilerek Konya Üniversitesi Rektörlüğüne bağlanmıştır. (27/12/2011
-tarihli ve 28155 sayılı Resmi Gazete’de yayımlanan düzeltme ile bu Bakanlar
-Kurulu Kararının tarihi 8/12/2011 olarak düzeltilmiştir.)
+Selçuk Üniversitesi Rektörlüğü bünyesinde yer alan Ahmet Keleşoğlu Eğitim Fakültesi,
+İlahiyat Fakültesi ile Meram Tıp Fakültesinin bağlantısı değiştirilerek Konya
+Üniversitesi Rektörlüğüne bağlanmıştır. (27/12/2011 tarihli ve 28155 sayılı
+Resmi Gazete’de yayımlanan düzeltme ile bu Bakanlar Kurulu Kararının tarihi
+8/12/2011 olarak düzeltilmiştir.)
 
 b)
 16/1/2012 tarihli ve 2012/2733 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe
@@ -20085,19 +20103,18 @@ de yayımlanan 4455 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı o
 İktisadi, İdari ve Sosyal Bilimler Fakültesi ile Mühendislik ve Doğa Bilimleri
 Fakültesi kurulmuştur.
 
-f) 4/8/2023 tarihli ve 32669 sayılı Resmî
-Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
-yer alan İktisadi ve İdari Bilimler Fakültesi, Mimarlık Fakültesi ve
-Mühendislik Fakültesi kapatılmış, Rektörlüğe bağlı olarak İktisadi, İdari ve
-Sosyal Bilimler Fakültesi ile Mühendislik ve Doğa Bilimleri Fakültesi
-kurulmuştur.
+f) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de
+yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan
+İktisadi ve İdari Bilimler Fakültesi, Mimarlık Fakültesi ve Mühendislik
+Fakültesi kapatılmış, Rektörlüğe bağlı olarak İktisadi, İdari ve Sosyal
+Bilimler Fakültesi ile Mühendislik ve Doğa Bilimleri Fakültesi kurulmuştur.
 
 g)
 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de
 yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
 olarak Spor
-Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve
-Spor Yüksekokulu kapatılmıştır.
+Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor
+Yüksekokulu kapatılmıştır.
 
 [225]
 a)
@@ -20576,9 +20593,9 @@ h) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724
 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan İbni Sina Tıp
 Fakültesinin adı Buhara İbni Sina Tıp Fakültesi olarak değiştirilmiştir.
 
-ı) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724
-sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Özbekistan’ın Semerkant
-şehrinde Semerkant Tıp Fakültesi kurulmuştur.
+ı) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724 sayılı
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Özbekistan’ın Semerkant şehrinde
+Semerkant Tıp Fakültesi kurulmuştur.
 
 i) 17/4/2025 tarihli ve 32873 sayılı Resmî Gazete’de yayımlanan 9724
 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Özbekistan’ın Buhara
@@ -20597,10 +20614,10 @@ konusu fakültenin adının Tıp Fakültesi olarak değiştirilmesine karar
 verilmiştir.
 
 [248]
-25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’ de yayımlanan 1157
-sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Tıp Fakültesinin adı
-Hamidiye Tıp Fakültesi, Diş Hekimliği Fakültesinin adı Hamidiye Diş Hekimliği
-Fakültesi, Eczacılık Fakültesinin adı Hamidiye Eczacılık Fakültesi, Hemşirelik
+25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’ de yayımlanan 1157 sayılı
+Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Tıp Fakültesinin adı Hamidiye
+Tıp Fakültesi, Diş Hekimliği Fakültesinin adı Hamidiye Diş Hekimliği Fakültesi,
+Eczacılık Fakültesinin adı Hamidiye Eczacılık Fakültesi, Hemşirelik
 Fakültesinin adı Hamidiye Hemşirelik Fakültesi, Sağlık Bilimleri Fakültesinin
 adı Hamidiye Sağlık Bilimleri Fakültesi, Uluslararası Tıp Fakültesinin adı
 Hamidiye Uluslararası Tıp Fakültesi, Yaşam Bilimleri Fakültesinin adı Hamidiye
@@ -20726,9 +20743,9 @@ Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kur
 ve Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Rafet Kayış
 Fakültesi olarak değiştirilmiştir.
 
-ç) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de
-yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Yabancı
-Diller Yüksekokulu kurulmuştur.
+ç) 7/12/2018 tarihli ve 30618 sayılı Resmi
+Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak
+Yabancı Diller Yüksekokulu kurulmuştur.
 
 d)
 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı
@@ -20771,8 +20788,8 @@ Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
 
 ç)
 4/9/2021 tarihli ve 31588 sayılı Resmî
-Gazete’de yayımlanan 4455 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer
-alan Sanat ve Tasarım Fakültesinin adı Sanat, Tasarım ve Mimarlık Fakültesi
+Gazete’de yayımlanan 4455 sayılı Cumhurbaşkanı Kararı ile Rektörlük bünyesinde
+yer alan Sanat ve Tasarım Fakültesinin adı Sanat, Tasarım ve Mimarlık Fakültesi
 olarak, Mühendislik ve Mimarlık Fakültesinin adı Mühendislik ve Doğa Bilimleri
 Fakültesi olarak değiştirilmiştir.
 
@@ -21003,9 +21020,9 @@ Sanatlar Fakültesi olarak değiştirilmiştir.
 
 b)
 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de
-yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Mimarlık
-ve Tasarım Fakültesinin adı Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi
-olarak değiştirilmiştir.
+yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan Mimarlık ve
+Tasarım Fakültesinin adı Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi olarak
+değiştirilmiştir.
 
 c)
 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete’ de yayımlanan
@@ -21052,8 +21069,8 @@ değiştirilmiştir.
 ile Rektörlüğe bağlı olan Mühendislik Fakültesi kapatılmıştır.
 
 a)
-18/9/2025 tarihli ve 33021 sayılı Resmî Gazete’ de yayımlanan 10415
-sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi
+18/9/2025 tarihli ve 33021 sayılı Resmî Gazete’ de yayımlanan
+10415 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak Hemşirelik Fakültesi
 kurulmuştur.
 
 [273]
@@ -21069,8 +21086,8 @@ olarak İslami İlimler Fakültesi kurulmuştur.
 
 b)
 16/5/2025 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı
-Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan İslami İlimler
-Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
+Cumhurbaşkanı Kararı ile Rektörlük bünyesinde yer alan İslami İlimler Fakültesinin
+adı İlahiyat Fakültesi olarak değiştirilmiştir.
 
 [275]
 17/1/2019 tarihli ve 7161 sayılı Kanunun 14 üncü maddesiyle madde
@@ -21331,9 +21348,13 @@ bağlı olarak Lisansüstü
 Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Sağlık Bilimleri
 Enstitüsü kapatılmıştır.
 
-b) 14/7/2025 tarihli ve
-32956 sayılı Resmî Gazete’de yayımlanan 10073 sayılı Cumhurbaşkanı Kararı ile
+b) 14/7/2025 tarihli
+ve 32956 sayılı Resmî Gazete’de yayımlanan 10073 sayılı Cumhurbaşkanı Kararı ile
 Üniversiteye bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
+
+c)30/10/2026 tarihli
+ve 33416 sayılı Resmî Gazete’de yayımlanan 11937 sayılı Cumhurbaşkanı Kararı
+ile Rektörlüğe bağlı olarak Mühendislik ve Doğa Bilimleri Fakültesi kurulmuştur.
 
 [290]
 
@@ -21371,8 +21392,7 @@ kapatılmıştır.
 
 ç) 4/10/2019 tarihli ve 30908 sayılı Resmi
 Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olan
-Tarım Bilimleri ve Teknolojileri Fakültesinin adı “Ziraat Fakültesi” olarak
-değiştirilmiştir.
+Tarım Bilimleri ve Teknolojileri Fakültesinin adı “Ziraat Fakültesi” olarak değiştirilmiştir.
 
 [292]
 
@@ -21395,9 +21415,9 @@ olarak Mühendislik ve Doğa Bilimleri Fakültesi kurulmuştur.
 Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
 olarak Yabancı Diller Yüksekokulu kurulmuştur.
 
-d) 1/5/2021 tarihli ve 31471 sayılı Resmî
-Gazete’de yayımlanan 3940 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı
-olarak İktisadi, İdari ve Sosyal Bilimler Fakültesi kurulmuştur.
+d) 1/5/2021 tarihli ve 31471 sayılı Resmî Gazete’de
+yayımlanan 3940 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe bağlı olarak
+İktisadi, İdari ve Sosyal Bilimler Fakültesi kurulmuştur.
 
 [293]
 
