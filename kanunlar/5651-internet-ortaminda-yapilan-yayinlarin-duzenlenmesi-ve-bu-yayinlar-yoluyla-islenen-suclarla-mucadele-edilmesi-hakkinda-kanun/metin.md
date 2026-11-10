@@ -1057,8 +1057,6 @@ EK MADDE 4 –
 (Ek:29/7/2020-7253/6 md.)
 [58]
 [59]
-[60]
-[61]
 
 (1) Türkiye’den günlük erişimi bir milyondan fazla olan
 yurt dışı kaynaklı sosyal ağ sağlayıcı;
@@ -1124,26 +1122,27 @@ Başkanlık
 tarafından bildirim yapılır.
 
 (3) Türkiye’den günlük erişimi bir milyondan fazla olan
-yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, 9 uncu ve 9/A maddeleri kapsamındaki
-içeriklere yönelik olarak kişiler tarafından yapılacak başvurulara, başvurudan itibaren
-en geç kırk sekiz saat içinde olumlu ya da olumsuz cevap vermekle yükümlüdür. Olumsuz
-cevaplar gerekçeli olarak verilir.
+yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, (…)
+[60]
+
+kişiler tarafından yapılacak başvurulara, başvurudan itibaren en geç kırk sekiz
+saat içinde olumlu ya da olumsuz cevap vermekle yükümlüdür. Olumsuz cevaplar gerekçeli
+olarak verilir.
 
 (4) Türkiye’den günlük erişimi bir milyondan fazla olan
 yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, kendisine bildirilen içeriğin
-çıkarılması ve/veya erişimin engellenmesi kararlarının uygulanmasına ve üçüncü fıkra
-kapsamındaki başvurulara ilişkin istatistiksel ve kategorik bilgileri içeren Türkçe
-hazırlanmış raporları altı aylık dönemlerle
+çıkarılması ve/veya erişimin engellenmesi kararları ile yirmiüçüncü fıkranın uygulanmasına
+ve üçüncü fıkra kapsamındaki başvurulara ilişkin istatistiksel ve kategorik bilgileri
+içeren Türkçe hazırlanmış raporları altı aylık dönemlerle
 Başkanlığa
 
-bildirir. Üçüncü fıkra kapsamındaki başvurulara ilişkin rapor,
-kişisel verilerden arındırılmak suretiyle sosyal ağ sağlayıcının kendi internet
-sitesinde de yayınlanır.
+bildirir. Üçüncü fıkra kapsamındaki başvurulara
+ilişkin rapor, kişisel verilerden arındırılmak suretiyle sosyal ağ sağlayıcının
+kendi internet sitesinde de yayınlanır.
 (Ek cümleler:13/10/2022-7418/34 md.)
-Sosyal ağ
-sağlayıcıların
-Başkanlığa
 
+Sosyal ağ sağlayıcıların
+Başkanlığa
 sundukları raporlar; başlık etiketleri, öne çıkarılan veya erişimi azaltılan
 içeriklere ilişkin algoritmalarına, reklam politikalarına ve şeffaflık
 politikalarına ilişkin bilgileri de içerir. Sosyal ağ sağlayıcı hesap
@@ -1172,6 +1171,7 @@ sağlayıcı, reklamlara ilişkin içerik, reklam veren, reklam süresi, hedef
 kitlesi, ulaşılan kişi veya grup sayısı gibi bilgilerin yer aldığı bir reklam
 kütüphanesi oluşturarak bunu internet sitesi üzerinden yayınlar ve bu hususa
 raporunda yer verir.
+[61]
 
 (5)
 (Ek:13/10/2022-7418/34 md.)
@@ -1214,10 +1214,14 @@ yurt içi veya yurt dışı kaynaklı sosyal ağ sağlayıcı, Türkiye’deki k
 verilerini Türkiye’de barındırma yönünde gerekli tedbirleri alır.
 
 (7)
-(Ek:13/10/2022-7418/34 md.)
-Sosyal ağ
-sağlayıcı, çocuklara özgü ayrıştırılmış hizmet sunma konusunda gerekli
-tedbirleri alır.
+(Ek:13/10/2022-7418/34 md.) (Değişik:22/4/2026-7578/22
+md.)
+Sosyal ağ sağlayıcı, onbeş yaşını doldurmamış çocuklara hizmet sunamaz
+ve bu hizmetin sunulmaması konusunda yaş doğrulama dâhil gerekli tedbirleri
+almakla yükümlüdür. Sosyal ağ sağlayıcı, onbeş yaşını doldurmuş çocuklara özgü
+ayrıştırılmış hizmet sunma konusunda gerekli tedbirleri alır. Bu fıkra
+kapsamında alınan tedbirler sosyal ağ sağlayıcının kendi internet sitesinde
+yayınlanır.
 
 (8) Üçüncü fıkradaki yükümlülüğü yerine getirmeyen sosyal
 ağ sağlayıcıya beş milyon Türk lirası, dördüncü fıkradaki yükümlülüğü yerine getirmeyen
@@ -1333,10 +1337,12 @@ sistemleri, algoritmalar, veri işleme mekanizmaları ve ticari tutumlar dâhil
 her türlü açıklamayı talep edebilir. Sosyal ağ sağlayıcı,
 Başkanlık
 tarafından talep edilen bilgi ve
-belgeleri en geç üç ay içinde vermekle yükümlüdür.
+belgeleri derhâl ve onbeş günü geçmemek üzere Kurum tarafından belirlenecek
+süre içinde vermekle yükümlüdür.
 Başkanlık
-, sosyal ağ sağlayıcının bu Kanuna
-uyumunu sosyal ağ sağlayıcının bütün tesislerinde yerinde inceleyebilir.
+, sosyal ağ sağlayıcının bu Kanuna uyumunu sosyal ağ sağlayıcının bütün
+tesislerinde yerinde inceleyebilir.
+[62]
 
 (19)
 (Ek:13/10/2022-7418/34
@@ -1347,19 +1353,175 @@ Başkanlığa
 bildirmekle yükümlüdür.
 
 (20)
+(Ek:22/4/2026-7578/22
+md.)
+[63]
+
+Sosyal ağ sağlayıcı; açık, anlaşılır ve kullanıma elverişli ebeveyn kontrol
+araçları sağlar. Ebeveyn kontrol araçları;
+
+a) Hesap ayarlarının
+kontrol edilmesine,
+
+b) Satın alma, kiralama
+ve ücretli üyelik gibi ücrete dayalı işlemlerin ebeveyn iznine veya onayına
+tabi kılınmasına,
+
+c) Kullanım süresinin
+izlenmesi ve bu sürenin sınırlandırılmasına,
+
+ilişkin mekanizmaları
+içerir.
+
+(21)
+(Ek:22/4/2026-7578/22
+md.)
+63
+
+Sosyal
+ağ sağlayıcı, aldatıcı reklamları engelleyici tedbirleri almakla yükümlüdür.
+
+(22)
+(Ek:22/4/2026-7578/22
+md.)
+63
+
+Türkiye’den
+günlük erişimi on milyondan fazla olan sosyal ağ sağlayıcı, 8/A maddesi
+uyarınca gecikmesinde sakınca bulunan hâller kapsamında verilen kararların
+gereğini derhâl ve en geç bir saat içinde uygular.
+
+(23)
+(Ek:22/4/2026-7578/22
+md.)
+63
+
+Türkiye’den
+günlük erişimi on milyondan fazla olan sosyal ağ sağlayıcı, bu Kanun uyarınca
+verilen içeriğin çıkarılması ve/veya erişimin engellenmesi kararlarına konu
+yayının kendi internet sitesinde yayınlanmaması hususunda gerekli her türlü
+tedbiri alır.
+
+(24)
 (Ek:13/10/2022-7418/34
 md.)
-Bu maddenin altıncı, yedinci, onüçüncü, onaltıncı, onsekizinci ve
-ondokuzuncu fıkralarındaki yükümlülüklerini yerine getirmeyen sosyal ağ
-sağlayıcıya Başkan tarafından bir önceki takvim yılındaki küresel cirosunun
-yüzde üçüne kadar idari para cezası verilebilir.
+Bu maddenin altıncı, yedinci, onüçüncü, onaltıncı, onsekizinci, ondokuzuncu,
+yirminci, yirmibirinci ve yirmiüçüncü fıkralarındaki yükümlülüklerini yerine
+getirmeyen sosyal ağ sağlayıcıya Başkan tarafından bir önceki takvim yılındaki
+küresel cirosunun yüzde üçüne kadar idari para cezası verilebilir.
 
-(21) Bu maddenin uygulanmasına
+(Ek cümleler:22/4/2026-7578/22
+md.)
+
+Verilen idari para cezasının
+tebliğinden itibaren otuz gün içinde yükümlülüğün yerine getirilmemesi hâlinde
+Başkan tarafından Türkiye’de mukim vergi mükellefi olan gerçek ve tüzel
+kişilerin ilgili sosyal ağ sağlayıcısına yeni reklam vermesi yasaklanır, bu
+kapsamda yeni sözleşme kurulamaz ve buna ilişkin para transferi yapılamaz.
+Reklam yasağı kararının verildiği tarihten itibaren üç ay içinde yükümlülüğün
+yerine getirilmemesi hâlinde Başkan, sosyal ağ sağlayıcının internet trafiği
+bant genişliğinin yüzde elli oranında daraltılması için sulh ceza hâkimliğine
+başvurabilir. Başvurunun kabulüne ilişkin hâkim kararının uygulanmasından
+itibaren otuz gün içinde söz konusu yükümlülüğün yerine getirilmemesi hâlinde
+Başkan, sosyal ağ sağlayıcının internet trafiği bant genişliğinin yüzde doksan
+oranına kadar daraltılması için sulh ceza hâkimliğine başvurabilir. Hâkim
+ikinci başvuru üzerine vereceği kararında, yüzde elliden düşük olmamak
+kaydıyla, sunulan hizmetin niteliğini de dikkate alarak daha düşük bir oran
+belirleyebilir. Bu kararlara karşı Başkan tarafından 5271 sayılı Kanun
+hükümlerine göre itiraz yoluna gidilebilir. Hâkim tarafından verilen kararlar
+erişim sağlayıcılara bildirilmek üzere Kuruma gönderilir. Kararların gereği,
+bildirimden itibaren derhâl ve en geç dört saat içinde erişim sağlayıcıları
+tarafından yerine getirilir. Yükümlülüğün yerine getirilmesi hâlinde reklam
+yasağı kaldırılır ve hâkim kararları kendiliğinden hükümsüz kalır. İnternet
+trafiği bant genişliğine yapılan müdahalenin sona erdirilmesi için erişim
+sağlayıcılara Kurum tarafından bildirim yapılır.
+
+[64]
+
+(25) Bu maddenin uygulanmasına
 ilişkin usul ve esaslar
 Başkanlık
 
 tarafından
 belirlenir.
+
+EK MADDE 5-
+
+(Ek:22/4/2026-7578/23 md.)
+
+(1) Oyun platformu
+usulüne uygun olarak derecelendirilmeyen oyunları sunamaz. Ancak
+derecelendirilmeyen oyunları en yüksek yaş kriterine göre derecelendirmek
+kaydıyla sunabilir. Oyun platformu içerik veya yer sağlayıcı olmasından doğan
+sorumluluk ve yükümlülükleri saklı kalmak kaydıyla, usulüne uygun olarak
+derecelendirilmeyen içerikleri çıkarmakla yükümlüdür.
+
+(2) Türkiye’den
+günlük erişimi yüzbinden fazla olan yurt dışı kaynaklı oyun platformu; Kurum,
+Birlik, adli veya idari makamlarca gönderilecek tebligat, bildirim veya
+taleplerin gereği ile bu Kanun kapsamındaki diğer yükümlülüklerin yerine
+getirilmesini temin için Türkiye’de gerçek veya tüzel kişi temsilci
+belirlemekle ve bu temsilciye dair bilgileri Kuruma bildirmekle yükümlüdür.
+Oyun platformu, temsilcinin iletişim bilgilerine kolayca görülebilecek ve
+doğrudan erişilebilecek şekilde internet sitesinde yer verir.
+
+(3) Oyun platformu;
+açık, anlaşılır ve kullanıma elverişli ebeveyn kontrol araçları sağlar. Ebeveyn
+kontrol araçları;
+
+a) Hesap ayarlarının
+kontrol edilmesine,
+
+b) Satın alma, kiralama
+ve ücretli üyelik gibi ücrete dayalı işlemlerin ebeveyn iznine veya onayına
+tabi kılınmasına,
+
+ilişkin mekanizmaları
+içerir.
+
+(4) Kurum, oyun platformunun
+bu Kanuna uyumuna ilişkin olarak oyun platformundan kurumsal yapı, bilişim
+sistemleri, veri işleme mekanizmaları dâhil olmak üzere bu Kanunun
+uygulanmasıyla doğrudan ilgili açıklamaları talep edebilir. Oyun platformu,
+Kurum tarafından talep edilen bilgi ve belgeleri derhâl ve onbeş günü geçmemek
+üzere Kurum tarafından belirlenecek süre içinde vermekle yükümlüdür.
+
+(5) Bu maddenin
+uygulanmasına, oyun platformunun uyması gereken yükümlülüklere ve yaş
+kriterlerine göre derecelendirmeye dair usul ve esaslar, Kurum tarafından
+çıkarılan yönetmelikle belirlenir.
+
+(6) Bu maddede
+düzenlenen yükümlülükler ile Kurum tarafından çıkarılan yönetmelikte yer alan
+yükümlülüklerini yerine getirmeyen oyun platformuna Kurum tarafından bildirimde
+bulunulur. Bildirimden itibaren otuz gün içinde bildirime konu yükümlülüğün
+yerine getirilmemesi hâlinde oyun platformuna Başkan tarafından bir milyon Türk
+lirasından on milyon Türk lirasına kadar idari para cezası verilebilir. Verilen
+idari para cezasının tebliğinden itibaren otuz gün içinde bildirime konu
+yükümlülüğün yerine getirilmemesi hâlinde on milyon Türk lirasından otuz milyon
+Türk lirasına kadar bir kez daha idari para cezası verilebilir. İdari para
+cezası miktarı ihlalin niteliği, ağırlığı, kullanıcılar üzerindeki etkisi veya
+meydana gelen zarar dikkate alınarak takdir edilir.
+
+(7) İkinci kez
+verilen idari para cezasının tebliğinden itibaren otuz gün içinde bildirime
+konu yükümlülüğün yerine getirilmemesi hâlinde Başkan, oyun platformunun
+internet trafiği bant genişliğinin yüzde otuz oranında daraltılması için sulh
+ceza hâkimliğine başvurabilir. Başvurunun kabulüne ilişkin hâkim kararının
+uygulanmasından itibaren otuz gün içinde bildirime konu yükümlülüğün yerine
+getirilmemesi hâlinde Başkan, oyun platformunun internet trafiği bant
+genişliğinin yüzde elli oranına kadar daraltılması için sulh ceza hâkimliğine
+başvurabilir. Hâkim ikinci başvuru üzerine vereceği kararında, yüzde otuzdan
+düşük olmamak kaydıyla, sunulan hizmetin niteliğini de dikkate alarak daha
+düşük bir oran belirleyebilir. Bu kararlara karşı Başkan tarafından 5271 sayılı
+Kanun hükümlerine göre itiraz yoluna gidilebilir. Hâkim tarafından verilen
+kararlar erişim sağlayıcılara bildirilmek üzere Kuruma gönderilir. Kararların
+gereği, bildirimden itibaren derhâl ve en geç dört saat içinde erişim
+sağlayıcıları tarafından yerine getirilir. Bildirime konu yükümlülüğün yerine
+getirilmesi hâlinde; verilen idari para cezalarının dörtte biri tahsil edilir
+ve hâkim kararları kendiliğinden hükümsüz kalır. İnternet trafiği bant
+genişliğine yapılan müdahalenin sona erdirilmesi için erişim sağlayıcılara
+Kurum tarafından bildirim yapılır.
 
 GEÇİCİ MADDE 1-
 (1) Başkanlığın kuruluştaki hizmet binasının
@@ -1416,7 +1578,7 @@ hizmeti veren işletmecilerin en az dörtte birinin katılımıyla imzalanan Bir
 Kurum tarafından incelenerek uygun bulunmasını müteakip faaliyete başlar. Birliğin
 kurulmasını müteakip en geç bir ay içinde hâlen üye olmayan internet servis sağlayıcıları
 ve erişim hizmeti veren işletmeciler üyeliklerini tamamlamak zorundadır.
-[62]
+[65]
 
 (3) Belirtilen sürede Birliğin
 kuruluşunu tamamlayamaması hâlinde, Kurum tarafından internet servis sağlayıcılarına
@@ -1501,7 +1663,7 @@ MADDE 14-
 yürütür.
 
 (1) SAYILI LİSTE
-[63]
+[66]
 
 İHDAS EDİLEN KADROLAR
 
@@ -2501,24 +2663,6 @@ ve diğer fıkra buna göre teselsül ettirilmiştir.
 
 [59]
 
-22/4/2026 tarihli
-ve 7578 sayılı Kanunun 22 nci maddesiyle yayımı tarihinden altı ay sonra (1/11/2026)
-yürürlüğe girmek üzere bu maddede değişiklikler yapılmıştır. Söz konusu
-düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
-düzenlemeyi görmek için 1/5/2026 tarihli ve 33240 sayılı Resmî Gazete’ye
-bakınız.
-
-[60]
-
-22/4/2026 tarihli ve 7578 sayılı Kanunun
-23 üncü maddesiyle yayımı tarihinden altı ay sonra (1/11/2026) yürürlüğe girmek
-üzere bu maddeden sonra gelmek üzere Ek Madde 5 eklenmiştir. Söz konusu
-düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
-düzenlemeyi görmek için 1/5/2026 tarihli ve 33240 sayılı Resmî Gazete’ye
-bakınız.
-
-[61]
-
 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci
 maddesiyle bu maddenin
 birinci,
@@ -2528,13 +2672,44 @@ onuncu, onbirinci ve ondokuzuncu fıkralarında yer alan “Kuruma” ibareleri
 “Başkanlığa” şeklinde, dördüncü ve onbeşinci fıkralarında yer alan “Kurumla”
 ibareleri “Başkanlıkla” şeklinde değiştirilmiştir.
 
+[60]
+
+22/4/2026 tarihli ve 7578 sayılı Kanunun 22 nci
+maddesiyle
+bu fıkrada yer alan “9 uncu ve 9/A maddeleri kapsamındaki
+içeriklere yönelik olarak” ibaresi madde metninden çıkarılmıştır.
+
+[61]
+
+22/4/2026 tarihli ve 7578 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer
+alan “erişimin engellenmesi kararlarının” ibaresi “erişimin engellenmesi
+kararları ile yirmiüçüncü fıkranın” şeklinde değiştirilmiştir.
+
 [62]
+
+22/4/2026 tarihli ve 7578 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer
+alan “en geç üç ay” ibaresi “derhâl ve onbeş günü geçmemek üzere Kurum
+tarafından belirlenecek süre” şeklinde değiştirilmiştir.
+
+[63]
+
+22/4/2026 tarihli ve 7578 sayılı Kanunun 22 nci maddesiyle bu maddeye ondokuzuncu
+fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre
+teselsül ettirilmiştir.
+
+[64]
+
+22/4/2026 tarihli ve 7578 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer
+alan “ve ondokuzuncu” ibaresi “, ondokuzuncu, yirminci, yirmibirinci ve yirmiüçüncü”
+şeklinde değiştirilmiştir.
+
+[65]
 27/3/2015 tarihli ve 6639 sayılı Kanunun 30 uncu
 maddesiyle bu fıkrada yer alan “mevcut internet servis sağlayıcıları” ibaresi
 “bu maddenin yürürlük tarihi itibarıyla abonesi bulunan mevcut internet servis
 sağlayıcıları” şeklinde değiştirilmiştir.
 
-[63]
+[66]
 5/11/2008 tarihli ve 5809 sayılı Kanunun 67 nci
 maddesiyle, 2813 sayılı Kanuna eklenen Geçici 9 uncu maddenin “2813 sayılı
 Kanuna 1/3/2006 tarihli ve 5467 sayılı Kanunun 9 uncu maddesiyle eklenen ekli
