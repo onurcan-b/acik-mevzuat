@@ -210,8 +210,8 @@ Ayırt etme gücünün bulunmaması
 
 Madde
 15-
-Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü bulunmayan
-kimsenin fiilleri hukukî sonuç doğurmaz.
+Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü
+bulunmayan kimsenin fiilleri hukukî sonuç doğurmaz.
 
 3.
 Ayırt etme gücüne sahip küçükler ve kısıtlılar
@@ -440,8 +440,8 @@ Madde
 Doğum ve ölüm, nüfus sicilindeki kayıtlarla ispat olunur.
 
 Nüfus
-sicilinde bir kayıt yoksa veya bulunan kaydın doğru olmadığı anlaşılırsa, gerçek
-durum her türlü kanıtla ispat edilebilir.
+sicilinde bir kayıt yoksa veya bulunan kaydın doğru olmadığı anlaşılırsa,
+gerçek durum her türlü kanıtla ispat edilebilir.
 
 b.
 Ölüm karinesi
@@ -572,8 +572,8 @@ olmaması; ayrıca transseksüel yapıda olup, cinsiyet değişikliğinin ruh sa
 açısından zorunluluğunu (…)
 [3]
 
-bir eğitim ve araştırma hastanesinden
-alınacak resmî sağlık kurulu raporuyla belgelemesi şarttır.
+bir eğitim ve araştırma
+hastanesinden alınacak resmî sağlık kurulu raporuyla belgelemesi şarttır.
 
 Verilen
 izne bağlı olarak amaç ve tıbbî yöntemlere uygun bir cinsiyet değiştirme
@@ -679,8 +679,8 @@ Koşulu
 
 Madde 49-
 Tüzel kişiler,
-kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla, fiil ehliyetini
-kazanırlar.
+kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla, fiil
+ehliyetini kazanırlar.
 
 II.
 Kullanılması
@@ -760,8 +760,8 @@ Tanımı
 Madde
 56-
 Dernekler, gerçek veya tüzel en az yedi kişinin kazanç paylaşma dışında
-belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi ve çalışmalarını sürekli
-olarak birleştirmek suretiyle oluşturdukları, tüzel kişiliğe sahip kişi
+belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi ve çalışmalarını
+sürekli olarak birleştirmek suretiyle oluşturdukları, tüzel kişiliğe sahip kişi
 topluluklarıdır.
 [4]
 
@@ -852,10 +852,9 @@ Madde
 
 (Değişik: 4/11/2004-5253/38 md.)
 
-Dernekler,
-60 ıncı maddenin son fıkrası gereğince yapılan yazılı bildirimi izleyen altı ay
-içinde ilk genel kurul toplantılarını yapmak ve zorunlu organlarını
-oluşturmakla yükümlüdürler.
+Dernekler, 60 ıncı maddenin son fıkrası gereğince yapılan
+yazılı bildirimi izleyen altı ay içinde ilk genel kurul toplantılarını yapmak
+ve zorunlu organlarını oluşturmakla yükümlüdürler.
 
 B.
 Üyelik
@@ -919,8 +918,8 @@ Tüzükte çıkarma sebepleri gösterilmişse, çıkarma
 kararına bu sebeplerin haklı sayılamayacağı iddiasıyla itiraz edilemez.
 
 Tüzükte
-çıkarma düzenlenmemişse üye, ancak haklı sebeple çıkarılabilir. Bu çıkarma kararına,
-haklı sebep bulunmadığı ileri sürülerek itiraz edilebilir.
+çıkarma düzenlenmemişse üye, ancak haklı sebeple çıkarılabilir. Bu çıkarma
+kararına, haklı sebep bulunmadığı ileri sürülerek itiraz edilebilir.
 
 III.
 Kapsamı
@@ -1016,9 +1015,10 @@ Madde
 Genel kurul, tüzükte belirtilen zamanda yönetim kurulunun çağrısı
 üzerine toplanır.
 
-(Değişik ikinci fıkra: 4/11/2004-5253/38 md.)
-Olağan
-genel kurul toplantılarının en geç üç yılda bir yapılması zorunludur.
+(Değişik ikinci fıkra:
+4/11/2004-5253/38 md.)
+Olağan genel kurul toplantılarının en geç üç
+yılda bir yapılması zorunludur.
 
 b.
 Olağanüstü toplantı
@@ -1160,8 +1160,8 @@ Oluşumu
 
 Madde
 84-
-Yönetim kurulu, beş asıl ve beş yedek üyeden az olmamak üzere dernek tüzüğünde
-belirtilen sayıda üyeden oluşur.
+Yönetim kurulu, beş asıl ve beş yedek üyeden az olmamak üzere dernek
+tüzüğünde belirtilen sayıda üyeden oluşur.
 
 Yönetim
 kurulu üye sayısı, boşalmalar sebebiyle üye tamsayısının yarısının altına
@@ -1190,8 +1190,9 @@ Denetim kurulu,
 üyeden oluşur.
 
 Denetim
-kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre yapar;
-denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.
+kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre
+yapar; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula
+sunar.
 
 D. Sona erme
 
@@ -1284,8 +1285,8 @@ Yabancı dernekler, (...)
 [10]
 Dışişleri
 Bakanlığının görüşü alınmak suretiyle İçişleri Bakanlığının izniyle Türkiye’de
-faaliyette ve işbirliğinde bulunabilirler, şube açabilirler, üst kuruluşlar kurabilir
-ve kurulmuş üst kuruluşlara katılabilirler.
+faaliyette ve işbirliğinde bulunabilirler, şube açabilirler, üst kuruluşlar
+kurabilir ve kurulmuş üst kuruluşlara katılabilirler.
 
 III.
 Yabancıların dernek kurma hakkı
@@ -1442,9 +1443,9 @@ verilmiş olmasına ve bu belgede vakfın amacı ile özgülenecek mal ve haklar
 belirlenmiş bulunmasına bağlıdır.
 
 Mahkemeye
-başvurma, resmî senet düzenlenmiş ise vakfeden tarafından; vakıf ölüme bağlı tasarrufa
-dayanıyorsa ilgililerin veya vasiyetnameyi açan sulh hâkiminin bildirimi
-üzerine ya da Vakıflar Genel Müdürlüğünce re'sen yapılır.
+başvurma, resmî senet düzenlenmiş ise vakfeden tarafından; vakıf ölüme bağlı
+tasarrufa dayanıyorsa ilgililerin veya vasiyetnameyi açan sulh hâkiminin
+bildirimi üzerine ya da Vakıflar Genel Müdürlüğünce re'sen yapılır.
 
 Başvurulan
 mahkeme, mal ve hakların korunması için gerekli önlemleri re'sen alır.
@@ -1525,8 +1526,8 @@ mahkemesince tamamlattırılır.
 
 Tescili istenen vakfa ölüme bağlı tasarrufla özgülenen
 mal ve haklar amacın gerçekleşmesine yeterli değilse; vakfeden aksine bir irade
-açıklamasında bulunmuş olmadıkça bu mal ve haklar, denetim makamının görüşü alınarak
-hâkim tarafından benzer amaçlı bir vakfa özgülenir.
+açıklamasında bulunmuş olmadıkça bu mal ve haklar, denetim makamının görüşü
+alınarak hâkim tarafından benzer amaçlı bir vakfa özgülenir.
 
 C.
 Mirasçıların ve alacaklıların dava hakkı
@@ -1672,8 +1673,8 @@ Vakıfların
 malları üzerinde zilyetlik yoluyla kazanma hükümleri uygulanmaz.
 
 Derneklerin
-uluslararası faaliyette bulunmalarına ve üst kuruluş kurmalarına ilişkin hükümler
-kıyas yoluyla vakıflar hakkında da uygulanır.
+uluslararası faaliyette bulunmalarına ve üst kuruluş kurmalarına ilişkin
+hükümler kıyas yoluyla vakıflar hakkında da uygulanır.
 
 Kamuya yararlı veya özel kanunlarla
 kurulan vakıflar hakkındaki özel hükümler saklıdır.
@@ -1983,9 +1984,10 @@ herhangi bir evlendirme memuru önünde evlenebilme hakkı sağlar.
 Evlenmenin yapılamaması
 
 Madde 140-
-Evlenme koşullarının
-bulunmadığının anlaşılması veya belgelerin verilmesinden başlayarak altı ayın
-geçmesi hâlinde, evlendirme memuru evlenme törenini yapamaz.
+Evlenme
+koşullarının bulunmadığının anlaşılması veya belgelerin verilmesinden
+başlayarak altı ayın geçmesi hâlinde, evlendirme memuru evlenme törenini
+yapamaz.
 
 II.
 Yapılışı
@@ -2085,8 +2087,8 @@ veya akıl hastalığı iyileşen eş açabilir.
 
 Evliyken
 yeniden evlenen bir kimsenin önceki evliliği mutlak butlan kararı verilmeden
-önce sona ermişse ve ikinci evlenmede diğer eş iyiniyetli ise, bu evlenmenin butlanına
-karar verilemez.
+önce sona ermişse ve ikinci evlenmede diğer eş iyiniyetli ise, bu evlenmenin
+butlanına karar verilemez.
 
 B.
 Nisbî butlan
@@ -2290,15 +2292,15 @@ Terk
 
 Madde
 164-
-Eşlerden biri, evlilik birliğinden doğan yükümlülüklerini yerine getirmemek
-maksadıyla diğerini terk ettiği veya haklı bir sebep olmadan ortak konuta
-dönmediği takdirde ayrılık, en az altı ay sürmüş ve bu durum devam etmekte ve istem
-üzerine hâkim
+Eşlerden biri, evlilik birliğinden doğan yükümlülüklerini yerine
+getirmemek maksadıyla diğerini terk ettiği veya haklı bir sebep olmadan ortak
+konuta dönmediği takdirde ayrılık, en az altı ay sürmüş ve bu durum devam
+etmekte ve istem üzerine hâkim
 veya noter
-tarafından yapılan ihtar sonuçsuz kalmış ise;
-terk edilen eş, boşanma davası açabilir. Diğerini ortak konutu terk etmeye
-zorlayan veya haklı bir sebep olmaksızın ortak konuta dönmesini engelleyen eş
-de terk etmiş sayılır.
+tarafından yapılan ihtar
+sonuçsuz kalmış ise; terk edilen eş, boşanma davası açabilir. Diğerini ortak
+konutu terk etmeye zorlayan veya haklı bir sebep olmaksızın ortak konuta
+dönmesini engelleyen eş de terk etmiş sayılır.
 
 Davaya
 hakkı olan eşin istemi üzerine hâkim
@@ -2379,8 +2381,9 @@ Geçici önlemler
 Madde
 169-
 Boşanma veya ayrılık davası açılınca hâkim, davanın devamı süresince
-gerekli olan, özellikle eşlerin barınmasına, geçimine, eşlerin mallarının yönetimine
-ve çocukların bakım ve korunmasına ilişkin geçici önlemleri re'sen alır.
+gerekli olan, özellikle eşlerin barınmasına, geçimine, eşlerin mallarının
+yönetimine ve çocukların bakım ve korunmasına ilişkin geçici önlemleri re'sen
+alır.
 
 C.
 Karar
@@ -2433,8 +2436,8 @@ idiyse hâkimden bekârlık soyadını taşımasına izin verilmesini isteyebili
 
 Kadının,
 boşandığı kocasının soyadını kullanmakta menfaati bulunduğu ve bunun kocaya bir
-zarar vermeyeceği ispatlanırsa, istemi üzerine hâkim, kocasının soyadını taşımasına
-izin verir.
+zarar vermeyeceği ispatlanırsa, istemi üzerine hâkim, kocasının soyadını
+taşımasına izin verir.
 
 Koca,
 koşulların değişmesi hâlinde bu iznin kaldırılmasını isteyebilir.
@@ -2608,7 +2611,8 @@ Boşanma veya ayrılığın fer'î sonuçlarına ilişkin anlaşmalar, hâkim ta
 onaylanmadıkça geçerli olmaz.
 
 6.
-Hâkim, taraflardan birinin istemi üzerine duruşmanın gizli yapılmasına karar verebilir.
+Hâkim, taraflardan birinin istemi üzerine duruşmanın gizli yapılmasına karar
+verebilir.
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -2669,8 +2673,8 @@ Ailenin
 diğer ihtiyaçları için eşlerden biri, birliği ancak aşağıdaki hâllerde temsil
 edebilir:
 
-1. Diğer
-eş veya haklı sebeplerle hâkim tarafından yetkili kılınmışsa,
+1.
+Diğer eş veya haklı sebeplerle hâkim tarafından yetkili kılınmışsa,
 
 2.
 Birliğin yararı bakımından gecikmede sakınca bulunur ve diğer eşin hastalığı,
@@ -2686,8 +2690,8 @@ karşı müteselsilen sorumlu olurlar.
 
 Eşlerden
 her biri, birliği temsil yetkisi bulunmaksızın yaptığı işlemlerden kişisel
-olarak sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak şekilde
-aşılması hâlinde eşler müteselsilen sorumludurlar.
+olarak sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak
+şekilde aşılması hâlinde eşler müteselsilen sorumludurlar.
 
 III.
 Temsil yetkisinin kaldırılması veya sınırlanması
@@ -2700,8 +2704,8 @@ veya sınırlayabilir. İstemde bulunan eş, temsil yetkisinin kaldırıldığı
 sınırlandığını, üçüncü kişilere sadece kişisel duyuru yoluyla bildirebilir.
 
 Temsil
-yetkisinin kaldırılmasının veya sınırlanmasının iyiniyetli üçüncü kişilere karşı
-sonuç doğurması, durumun hâkimin kararıyla ilân edilmesine bağlıdır.
+yetkisinin kaldırılmasının veya sınırlanmasının iyiniyetli üçüncü kişilere
+karşı sonuç doğurması, durumun hâkimin kararıyla ilân edilmesine bağlıdır.
 
 IV.
 Temsil yetkisinin geri verilmesi
@@ -2709,7 +2713,8 @@ Temsil yetkisinin geri verilmesi
 Madde
 191-
 Temsil yetkisinin kaldırılmasına veya sınırlanmasına ilişkin karar,
-koşullar değiştiğinde eşlerden birinin istemi üzerine hâkim tarafından değiştirilebilir.
+koşullar değiştiğinde eşlerden birinin istemi üzerine hâkim tarafından
+değiştirilebilir.
 
 İlk
 karar ilân edilmiş ise, değişikliğe ilişkin karar da ilân olunur.
@@ -2785,8 +2790,8 @@ Eşlerden birinin istemi üzerine hâkim, ailenin geçimi için her birinin
 yapacağı parasal katkıyı belirler.
 
 Eşin
-ev işlerini görmesi, çocuklara bakması, diğer eşin işinde karşılıksız çalışması,
-katkı miktarının belirlenmesinde dikkate alınır.
+ev işlerini görmesi, çocuklara bakması, diğer eşin işinde karşılıksız
+çalışması, katkı miktarının belirlenmesinde dikkate alınır.
 
 Bu
 katkılar, geçmiş bir yıl ve gelecek yıllar için istenebilir.
@@ -2827,9 +2832,9 @@ V.
 Tasarruf yetkisinin sınırlanması
 
 Madde 199 -
-Ailenin ekonomik varlığının
-korunması veya evlilik birliğinden doğan malî bir yükümlülüğün yerine
-getirilmesi gerektirdiği ölçüde, eşlerden birinin istemi üzerine hâkim,
+Ailenin ekonomik
+varlığının korunması veya evlilik birliğinden doğan malî bir yükümlülüğün
+yerine getirilmesi gerektirdiği ölçüde, eşlerden birinin istemi üzerine hâkim,
 belirleyeceği malvarlığı değerleriyle ilgili tasarrufların ancak onun rızasıyla
 yapılabileceğine karar verebilir.
 
@@ -3107,8 +3112,8 @@ II.
 Edinilmiş mallar
 
 Madde 219-
-Edinilmiş mal, her
-eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği
+Edinilmiş mal,
+her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği
 malvarlığı değerleridir.
 
 Bir
@@ -3187,9 +3192,9 @@ Yönetim, yararlanma ve tasarruf
 
 Madde
 223 -
-Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmiş mallarını
-yönetme, bunlardan yararlanma ve bunlar üzerinde tasarrufta bulunma hakkına
-sahiptir.
+Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmiş
+mallarını yönetme, bunlardan yararlanma ve bunlar üzerinde tasarrufta bulunma
+hakkına sahiptir.
 
 Aksine
 anlaşma olmadıkça, eşlerden biri diğerinin rızası olmadan paylı mülkiyet konusu
@@ -3243,10 +3248,10 @@ Madde
 227 -
 Eşlerden biri diğerine ait bir malın edinilmesine, iyileştirilmesine
 veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa,
-tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında alacak
-hakkına sahip olur ve bu alacak o malın tasfiye sırasındaki değerine göre
-hesaplanır; bir değer kaybı söz konusu olduğunda katkının başlangıçtaki değeri
-esas alınır.
+tasfiye sırasında bu malda ortaya çıkan değer artışı için katkısı oranında
+alacak hakkına sahip olur ve bu alacak o malın tasfiye sırasındaki değerine
+göre hesaplanır; bir değer kaybı söz konusu olduğunda katkının başlangıçtaki
+değeri esas alınır.
 
 Böyle
 bir malın daha önce elden çıkarılmış olması hâlinde hâkim, diğer eşe ödenecek
@@ -3287,8 +3292,8 @@ Eşlerden birinin mal rejiminin sona ermesinden önceki bir yıl içinde diğer 
 rızası olmadan, olağan hediyeler dışında yaptığı karşılıksız kazandırmalar,
 
 2.
-Bir eşin mal rejiminin devamı süresince diğer eşin katılma alacağını azaltmak kastıyla
-yaptığı devirler.
+Bir eşin mal rejiminin devamı süresince diğer eşin katılma alacağını azaltmak
+kastıyla yaptığı devirler.
 
 Bu tür kazandırma veya devirlere ilişkin uyuşmazlıklarda
 mahkeme kararı, davanın kendisine ihbar edilmiş olması koşuluyla, kazandırma
@@ -3317,9 +3322,9 @@ Artık değer
 
 Madde 231-
 Artık değer,
-eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere her eşin
-edinilmiş mallarının toplam değerinden bu mallara ilişkin borçlar çıkarıldıktan
-sonra kalan miktardır.
+eklenmeden ve denkleştirmeden elde edilen miktarlar da dahil olmak üzere her
+eşin edinilmiş mallarının toplam değerinden bu mallara ilişkin borçlar
+çıkarıldıktan sonra kalan miktardır.
 
 Değer
 eksilmesi göz önüne alınmaz.
@@ -3457,7 +3462,8 @@ kendisine mülkiyet hakkı tanınmasını isteyebilir.
 
 Haklı
 sebeplerin varlığı hâlinde, sağ kalan eşin veya ölen eşin yasal mirasçılarının
-istemiyle intifa veya oturma hakkı yerine, konut üzerinde mülkiyet hakkı tanınabilir.
+istemiyle intifa veya oturma hakkı yerine, konut üzerinde mülkiyet hakkı
+tanınabilir.
 
 Sağ
 kalan eş, mirasbırakanın bir meslek veya sanat icra ettiği ve altsoyundan
@@ -3611,9 +3617,9 @@ olarak elden çıkardığı takdirde hâkim, diğer eşin alacağı denkleştirm
 hakkaniyete uygun olarak belirler.
 
 Mal
-rejiminin sona ermesinden önceki bir yıl içinde diğer eşin rızası olmadan olağan
-hediyeler dışında yapılan karşılıksız kazandırmaların bu eşin payını azaltmak
-kastıyla yapıldığı varsayılır.
+rejiminin sona ermesinden önceki bir yıl içinde diğer eşin rızası olmadan
+olağan hediyeler dışında yapılan karşılıksız kazandırmaların bu eşin payını
+azaltmak kastıyla yapıldığı varsayılır.
 
 Bu
 tür kazandırmalara ilişkin uyuşmazlıklarda mahkeme kararı, davanın kendisine
@@ -3761,8 +3767,8 @@ III.
 Kişisel mallar
 
 Madde 260-
-Kişisel mallar, mal
-rejimi sözleşmesi, üçüncü kişinin karşılıksız kazandırması veya kanunla
+Kişisel mallar,
+mal rejimi sözleşmesi, üçüncü kişinin karşılıksız kazandırması veya kanunla
 belirlenir.
 
 Eşlerden
@@ -3820,8 +3826,8 @@ Ortaklık malları ile meslek veya sanat icrası
 Madde
 264-
 Eşlerden biri, diğerinin rızasıyla ortaklık mallarını kullanarak, tek
-başına bir meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün hukukî
-işlemleri yapabilir.
+başına bir meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün
+hukukî işlemleri yapabilir.
 
 4.
 Mirasın kabulü veya reddi
@@ -3881,8 +3887,8 @@ meslek veya sanatın icra edilmesi nedeniyle yapılan borçlardan,
 Diğer eş için de kişisel sorumluluk doğuran borçlardan,
 
 4.
-Kişisel mal yanında ortaklık mallarının da sorumlu olacağı hususunda eşlerin üçüncü
-kişilerle anlaşarak yaptığı borçlardan.
+Kişisel mal yanında ortaklık mallarının da sorumlu olacağı hususunda eşlerin
+üçüncü kişilerle anlaşarak yaptığı borçlardan.
 
 II.
 Kişisel borçlar
@@ -3914,13 +3920,13 @@ Sona erme anı
 
 Madde
 271 -
-Mal rejimi eşlerden birinin ölümü, diğer bir mal rejiminin kabul edilmesi
-veya eşlerden biri hakkında iflâsın açılmasıyla son bulur.
+Mal rejimi eşlerden birinin ölümü, diğer bir mal rejiminin kabul
+edilmesi veya eşlerden biri hakkında iflâsın açılmasıyla son bulur.
 
 Mahkemece
-evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya mal ayrılığına geçilmesine
-karar verilmesi hâllerinde, mal rejimi dava tarihinden geçerli olmak üzere sona
-erer.
+evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya mal ayrılığına
+geçilmesine karar verilmesi hâllerinde, mal rejimi dava tarihinden geçerli
+olmak üzere sona erer.
 
 Ortaklık
 mallarıyla kişisel malların kapsamının belirlenmesinde mal ortaklığının sona
@@ -3959,8 +3965,8 @@ Madde
 274-
 Bir eşin kişisel malı veya ortaklık malıyla bir başka mal kesimine giren
 malvarlığı değerinin edinilmesi, iyileştirilmesi veya korunmasına katkıda
-bulunulmuşsa, edinilmiş mallara katılma rejiminde değer artış payına ilişkin hükümler
-uygulanır.
+bulunulmuşsa, edinilmiş mallara katılma rejiminde değer artış payına ilişkin
+hükümler uygulanır.
 
 V.
 Değer belirlenmesi
@@ -4084,8 +4090,8 @@ Yetki
 
 Madde
 283 -
-Soybağına ilişkin davalar, taraflardan birinin dava veya doğum sırasındaki
-yerleşim yeri mahkemesinde açılır.
+Soybağına ilişkin davalar, taraflardan birinin dava veya doğum
+sırasındaki yerleşim yeri mahkemesinde açılır.
 
 II.
 Yargılama usulü
@@ -4138,8 +4144,8 @@ Madde
 (Değişik:7/11/2024-7531/9 md.)
 
 Koca,
-ana veya çocuk soybağının reddi davasını açarak babalık karinesini çürütebilir.
-Bu dava, dava açma hakkına sahip diğer kişilere karşı açılır.
+ana veya çocuk soybağının reddi davasını açarak babalık karinesini
+çürütebilir. Bu dava, dava açma hakkına sahip diğer kişilere karşı açılır.
 
 II.
 İspat
@@ -4233,8 +4239,9 @@ Koşulu
 
 Madde
 292-
-Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi hâlinde
-kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tâbi olur.
+Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi
+hâlinde kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tâbi
+olur.
 
 II.
 Bildirim
@@ -4271,8 +4278,8 @@ iptaline ilişkin hükümler kıyas yoluyla uygulanır.
 
 ÜÇÜNCÜ AYIRIM
 
-TANIMA VE BABALIK
-HÜKMÜ
+TANIMA VE
+BABALIK HÜKMÜ
 
 A.
 Tanıma
@@ -4349,8 +4356,9 @@ Hak düşürücü süreler
 
 Madde 300-
 Tanıyanın dava
-hakkı, iptal sebebinin öğrenildiği veya korkunun etkisinin ortadan kalktığı tarihten
-başlayarak bir yıl ve her hâlde tanımanın üzerinden beş yıl geçmekle düşer.
+hakkı, iptal sebebinin öğrenildiği veya korkunun etkisinin ortadan kalktığı
+tarihten başlayarak bir yıl ve her hâlde tanımanın üzerinden beş yıl geçmekle
+düşer.
 
 İlgililerin
 dava hakkı, davacının tanımayı ve tanıyanın çocuğun babası olamayacağını
@@ -4379,8 +4387,8 @@ Dava
 babaya, baba ölmüşse mirasçılarına karşı açılır.
 
 Babalık
-davası, Cumhuriyet savcısına ve Hazineye; dava ana tarafından açılmışsa kayyıma;
-kayyım tarafından açılmışsa anaya ihbar edilir.
+davası, Cumhuriyet savcısına ve Hazineye; dava ana tarafından açılmışsa
+kayyıma; kayyım tarafından açılmışsa anaya ihbar edilir.
 
 II.
 Karine
@@ -4408,8 +4416,8 @@ Babalık davası, çocuğun doğumundan önce veya sonra açılabilir. Ananın
 dava hakkı, doğumdan başlayarak bir yıl geçmekle düşer.
 
 (İptal
-ikinci fıkra: Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2010/71, K.: 2011/143
-sayılı Kararı ile.)
+ikinci fıkra: Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2010/71, K.:
+2011/143 sayılı Kararı ile.)
 
 Çocuk
 ile başka bir erkek arasında soybağı ilişkisi varsa, bir yıllık süre bu
@@ -4456,8 +4464,8 @@ Genel koşulları
 
 Madde
 305-
-Bir küçüğün evlât edinilmesi, evlât edinen tarafından bir yıl süreyle bakılmış
-ve eğitilmiş olması koşuluna bağlıdır.
+Bir küçüğün evlât edinilmesi, evlât edinen tarafından bir yıl süreyle
+bakılmış ve eğitilmiş olması koşuluna bağlıdır.
 
 Evlât edinmenin her hâlde küçüğün yararına bulunması ve
 evlât edinenin diğer çocuklarının yararlarının hakkaniyete aykırı bir biçimde
@@ -4530,7 +4538,8 @@ Madde
 Rıza, küçüğün doğumunun üzerinden altı hafta geçmeden önce verilemez.
 
 Rıza,
-tutanağa geçirilme tarihinden başlayarak altı hafta içinde aynı usulle geri alınabilir.
+tutanağa geçirilme tarihinden başlayarak altı hafta içinde aynı usulle geri
+alınabilir.
 
 Geri
 almadan sonra yeniden verilen rıza kesindir.
@@ -4559,8 +4568,9 @@ Madde
 312-
 Küçük, gelecekte evlât edinilmek amacıyla bir kuruma yerleştirilir ve
 ana ve babadan birinin rızası eksik olursa, evlât edinenin veya evlât edinmede
-aracılık yapan kurumun istemi üzerine ve kural olarak küçüğün yerleştirilmesinden
-önce, onun oturduğu yer mahkemesi bu rızanın aranıp aranmamasına karar verir.
+aracılık yapan kurumun istemi üzerine ve kural olarak küçüğün
+yerleştirilmesinden önce, onun oturduğu yer mahkemesi bu rızanın aranıp
+aranmamasına karar verir.
 
 Diğer
 hâllerde, bu konudaki karar evlât edinme işlemleri sırasında verilir.
@@ -4696,7 +4706,8 @@ Diğer noksanlıklar
 Madde
 318-
 Evlât edinme esasa ilişkin diğer noksanlıklardan biriyle sakatsa,
-Cumhuriyet savcısı veya her ilgili evlâtlık ilişkisinin kaldırılmasını isteyebilir.
+Cumhuriyet savcısı veya her ilgili evlâtlık ilişkisinin kaldırılmasını
+isteyebilir.
 
 Noksanlıklar bu arada ortadan kalkmış veya sadece usule
 ilişkin olup ilişkinin kaldırılması evlâtlığın menfaatini ağır biçimde
@@ -4708,8 +4719,8 @@ Hak düşürücü süre
 Madde
 319-
 
-Dava hakkı, evlâtlık ilişkisinin kaldırılması
-sebebinin öğrenilmesinden başlayarak bir yıl (…)
+Dava hakkı, evlâtlık ilişkisinin
+kaldırılması sebebinin öğrenilmesinden başlayarak bir yıl (…)
 [23]
 geçmekle düşer.
 
@@ -4782,10 +4793,11 @@ ilişki kurma hakkı reddedilebilir veya kendilerinden alınabilir.
 
 (Ek
 üçüncü fıkra:24/11/2021-7343/38 md.)
-Velayet kendisine
-bırakılan ana veya baba, kişisel ilişki düzenlemesinin gereklerini yerine
-getirmezse çocuğun menfaatine aykırı olmamak kaydıyla velayet değiştirilebilir.
-Bu husus kişisel ilişki kurulmasına dair kararda taraflara ihtar edilir.
+Velayet
+kendisine bırakılan ana veya baba, kişisel ilişki düzenlemesinin gereklerini
+yerine getirmezse çocuğun menfaatine aykırı olmamak kaydıyla velayet
+değiştirilebilir. Bu husus kişisel ilişki kurulmasına dair kararda taraflara
+ihtar edilir.
 
 II.
 Üçüncü kişiler ile
@@ -4864,8 +4876,8 @@ Nafaka miktarının takdiri
 
 Madde
 330-
-Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşulları ve
-ödeme güçleri dikkate alınarak belirlenir. Nafaka miktarının belirlenmesinde
+Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşulları
+ve ödeme güçleri dikkate alınarak belirlenir. Nafaka miktarının belirlenmesinde
 çocuğun gelirleri de göz önünde bulundurulur.
 
 Nafaka
@@ -4969,7 +4981,8 @@ IV.
 
 Madde
 338-
-Eşler, ergin olmayan üvey çocuklarına da özen ve ilgi göstermekle yükümlüdürler.
+Eşler, ergin olmayan üvey çocuklarına da özen ve ilgi göstermekle
+yükümlüdürler.
 
 Kendi
 çocuğu üzerinde velâyeti kullanan eşe diğer eş uygun bir şekilde yardımcı olur;
@@ -4984,8 +4997,8 @@ Genel olarak
 
 Madde
 339-
-Ana ve baba, çocuğun bakım ve eğitimi konusunda onun menfaatini göz önünde
-tutarak gerekli kararları alır ve uygularlar.
+Ana ve baba, çocuğun bakım ve eğitimi konusunda onun menfaatini göz
+önünde tutarak gerekli kararları alır ve uygularlar.
 
 Çocuk,
 ana ve babasının sözünü dinlemekle yükümlüdür.
@@ -5006,8 +5019,8 @@ Eğitim
 
 Madde
 340-
-Ana ve baba, çocuğu olanaklarına göre eğitirler ve onun bedensel, zihinsel,
-ruhsal, ahlâkî ve toplumsal gelişimini sağlar ve korurlar.
+Ana ve baba, çocuğu olanaklarına göre eğitirler ve onun bedensel,
+zihinsel, ruhsal, ahlâkî ve toplumsal gelişimini sağlar ve korurlar.
 
 Ana ve baba çocuğa, özellikle bedensel ve zihinsel
 engelli olanlara, yetenek ve eğilimlerine uygun düşecek ölçüde, genel ve
@@ -5040,8 +5053,8 @@ yasal temsilcisidirler.
 varsayabilirler.
 
 Vesayet
-makamlarının iznine bağlı hususlar dışında kısıtlıların temsiline ilişkin hükümler
-velâyetteki temsilde de uygulanır.
+makamlarının iznine bağlı hususlar dışında kısıtlıların temsiline ilişkin
+hükümler velâyetteki temsilde de uygulanır.
 
 V.
 Çocuğun fiil ehliyeti
@@ -5124,9 +5137,9 @@ Ana ve babanın deneyimsizliği, hastalığı, başka bir
 yerde bulunması veya benzeri sebeplerden biriyle velayet görevini gereği gibi
 yerine getirememesi.
 
-2. Ana
-ve babanın çocuğa yeterli ilgiyi göstermemesi veya ona karşı yükümlülüklerini
-ağır biçimde savsaklaması.
+2.
+Ana ve babanın çocuğa yeterli ilgiyi göstermemesi veya ona karşı
+yükümlülüklerini ağır biçimde savsaklaması.
 
 Velâyet
 ana ve babanın her ikisinden kaldırılırsa çocuğa bir vasi atanır.
@@ -5140,9 +5153,10 @@ Ana veya babanın yeniden evlenmesi hâlinde
 
 Madde
 349-
-Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin kaldırılmasını
-gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâyet sahibi değiştirilebileceği
-gibi, durum ve koşullara göre velâyet kaldırılarak çocuğa vasi de atanabilir.
+Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin
+kaldırılmasını gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâyet
+sahibi değiştirilebileceği gibi, durum ve koşullara göre velâyet kaldırılarak
+çocuğa vasi de atanabilir.
 
 3.
 Velâyetin kaldırılması hâlinde ana ve babanın yükümlülükleri
@@ -5229,7 +5243,8 @@ tazminatlar ve benzeri edimler çocuğun bakımı için kısmen kullanılabilir.
 
 Çocuğun
 bakımı, yetiştirilmesi ve eğitimi için zorunluluk varsa hâkim, ana ve babaya
-belirlediği miktarlarda çocuğun diğer mallarına da başvurma yetkisini tanıyabilir.
+belirlediği miktarlarda çocuğun diğer mallarına da başvurma yetkisini
+tanıyabilir.
 
 E.
 Çocuğun serbest malları
@@ -5280,13 +5295,14 @@ I.
 
 Madde
 360-
-Ana ve baba, çocuğun mallarını yönetmekte her ne sebeple olursa olsun yeterince
-özen göstermezlerse hâkim, malların korunması için uygun önlemleri alır.
+Ana ve baba, çocuğun mallarını yönetmekte her ne sebeple olursa olsun
+yeterince özen göstermezlerse hâkim, malların korunması için uygun önlemleri
+alır.
 
 Hâkim,
 özellikle malların yönetimi konusunda talimat verebilir; belirli zamanlarda
-verilen bilgi ve hesabı yeterli görmezse, malların tevdi edilmesine veya güvence
-gösterilmesine karar verebilir.
+verilen bilgi ve hesabı yeterli görmezse, malların tevdi edilmesine veya
+güvence gösterilmesine karar verebilir.
 
 II.
 Yönetimin ana ve babadan alınması
@@ -5557,8 +5573,8 @@ Madde
 377-
 Aile malları ortaklığı, tüm ortakların elbirliği ile yönetilir.
 
-Ortaklardan her biri, olağan yönetim işlerini diğer ortakların
-katılmasına gerek olmaksızın yapabilir.
+Ortaklardan her biri, olağan yönetim işlerini diğer
+ortakların katılmasına gerek olmaksızın yapabilir.
 
 b.
 Yöneticinin yetkisi
@@ -5666,8 +5682,8 @@ içlerinden birine bırakabilirler.
 
 Bu
 pay, anlaşmayla belirlenmemişse, ortaklık mallarının uygun derecede uzun bir
-dönemdeki kazancın ortalama miktarı ile işleten ortağın çalışması ve yaptığı harcama
-göz önünde tutularak adil bir biçimde belirlenir.
+dönemdeki kazancın ortalama miktarı ile işleten ortağın çalışması ve yaptığı
+harcama göz önünde tutularak adil bir biçimde belirlenir.
 
 2.
 Özel sona erdirme sebepleri
@@ -5738,8 +5754,8 @@ b.
 Madde
 389-
 Aile yurdu hâline getirilecek taşınmazda yurt olabilmesi için gerekli
-koşullar bulunur ve yurdun kurulmasına üçüncü kişiler itiraz etmez veya itirazın
-haksız olduğu anlaşılırsa, mahkeme kuruluşa izin verir.
+koşullar bulunur ve yurdun kurulmasına üçüncü kişiler itiraz etmez veya
+itirazın haksız olduğu anlaşılırsa, mahkeme kuruluşa izin verir.
 
 Süresi
 içinde itiraz eden alacaklıların ilgilerinin kesildiği ispat edilmedikçe veya
@@ -5769,8 +5785,8 @@ Aile yurdu hâline getirilen taşınmazlar devrolunamaz, rehnedilemez ve
 kiraya verilemez.
 
 Aile
-yurdu ve eklentileri hakkında, mahkeme eliyle yönetim hâli saklı kalmak kaydıyla,
-cebrî icra yoluna başvurulamaz.
+yurdu ve eklentileri hakkında, mahkeme eliyle yönetim hâli saklı kalmak
+kaydıyla, cebrî icra yoluna başvurulamaz.
 
 2.
 Kan hısımlarının aile yurduna alınması
@@ -5852,8 +5868,8 @@ Kamu vesayeti
 
 Madde
 397-
-Kamu vesayeti, vesayet makamı ve denetim makamından oluşan vesayet daireleri
-tarafından yürütülür.
+Kamu vesayeti, vesayet makamı ve denetim makamından oluşan vesayet
+daireleri tarafından yürütülür.
 
 Vesayet
 makamı, sulh hukuk mahkemesi; denetim makamı, asliye hukuk mahkemesidir.
@@ -6026,9 +6042,9 @@ hastalığı veya akıl zayıflığı sebebiyle kısıtlamaya ancak resmî sağl
 raporu üzerine karar verilir.
 (Değişik cümle:2/3/2024-7499/6 md.)
 Resmî
-sağlık kurulu raporunun tanzimi için gereklilik bulunması halinde 436 ncı madde
-hükümleri uygulanır. Hâkim, karar vermeden önce, kurul raporunu göz önünde
-tutarak kısıtlanması istenen kişiyi dinleyebilir.
+sağlık kurulu raporunun tanzimi için gereklilik bulunması halinde
+436 ncı madde hükümleri uygulanır. Hâkim, karar vermeden önce, kurul
+raporunu göz önünde tutarak kısıtlanması istenen kişiyi dinleyebilir.
 
 II.
 İlân
@@ -6070,7 +6086,8 @@ kısıtlama yeni yerleşim yerinde ilân olunur.
 
 DÖRDÜNCÜ AYIRIM
 
-VASİNİN ATANMASI
+VASİNİN
+ATANMASI
 
 A.
 Koşulları
@@ -6189,9 +6206,9 @@ Geçici önlemler
 
 Madde 420-
 Vesayet işleri
-zorunlu kıldığı takdirde vesayet makamı, vasinin atanmasından önce de re'sen gerekli
-önlemleri alır; özellikle, kısıtlanması istenen kişinin fiil ehliyetini geçici
-olarak kaldırabilir ve ona bir temsilci atayabilir.
+zorunlu kıldığı takdirde vesayet makamı, vasinin atanmasından önce de re'sen
+gerekli önlemleri alır; özellikle, kısıtlanması istenen kişinin fiil ehliyetini
+geçici olarak kaldırabilir ve ona bir temsilci atayabilir.
 
 Vesayet
 makamının kararı ilân olunur.
@@ -6219,8 +6236,8 @@ Vasiliğe atanan kişi, bu durumun kendisine tebliğinden başlayarak on gün
 içinde vasilikten kaçınma hakkını kullanabilir.
 
 İlgili
-olan herkes, vasinin atandığını öğrendiği günden başlayarak on gün içinde atamanın
-kanuna aykırı olduğunu ileri sürebilir.
+olan herkes, vasinin atandığını öğrendiği günden başlayarak on gün içinde
+atamanın kanuna aykırı olduğunu ileri sürebilir.
 
 Vesayet
 makamı, vasilikten kaçınma veya itiraz sebebini yerinde görürse yeni bir vasi
@@ -6232,9 +6249,9 @@ Geçici görev
 
 Madde
 423-
-Vasiliğe atanan kimse, vasilikten kaçınmış veya atanmasına itiraz edilmiş
-olsa bile, yerine bir başkası atanıncaya kadar vasiye ait görevleri yerine getirmekle
-yükümlüdür.
+Vasiliğe atanan kimse, vasilikten kaçınmış veya atanmasına itiraz
+edilmiş olsa bile, yerine bir başkası atanıncaya kadar vasiye ait görevleri
+yerine getirmekle yükümlüdür.
 
 3.
 Karar
@@ -6326,8 +6343,8 @@ Yasal danışmanlık
 Madde
 429-
 Kısıtlanması için yeterli sebep bulunmamakla beraber korunması
-bakımından fiil ehliyetinin sınırlanması gerekli görülen ergin bir kişiye aşağıdaki
-işlerde görüşü alınmak üzere bir yasal danışman atanır:
+bakımından fiil ehliyetinin sınırlanması gerekli görülen ergin bir kişiye
+aşağıdaki işlerde görüşü alınmak üzere bir yasal danışman atanır:
 
 1.
 Dava açma ve sulh olma,
@@ -6437,8 +6454,9 @@ D.
 
 Madde
 435-
-Kuruma yerleştirilen kişi veya yakınları, verilen karara karşı kendilerine
-bildirilmesinden başlayarak on gün içinde denetim makamına itiraz edebilirler.
+Kuruma yerleştirilen kişi veya yakınları, verilen karara karşı
+kendilerine bildirilmesinden başlayarak on gün içinde denetim makamına itiraz
+edebilirler.
 
 Bu
 hak, kurumdan çıkarılma isteminin reddi hâlinde de kullanılabilir.
@@ -6460,8 +6478,8 @@ karşı denetim makamına itiraz edebileceğine yazılı olarak dikkatinin çeki
 zorunludur.
 
 2. Bir kuruma yerleştirilen kişiye, alıkonulma kararına
-veya kurumdan çıkarılma isteminin reddine karşı en geç on gün içinde denetim makamına
-itiraz edebileceği derhal yazılı olarak bildirilir.
+veya kurumdan çıkarılma isteminin reddine karşı en geç on gün içinde denetim
+makamına itiraz edebileceği derhal yazılı olarak bildirilir.
 
 3.
 Mahkeme kararını gerektiren her istem, gecikmeksizin yetkili hâkime
@@ -6535,7 +6553,8 @@ Defter tutma
 Madde 438-
 Vasiliğe atanma
 kararının kesinleşmesi üzerine vasi ile vesayet makamının görevlendireceği bir
-kişi tarafından, vakit geçirilmeksizin, yönetilecek malvarlığının defteri tutulur.
+kişi tarafından, vakit geçirilmeksizin, yönetilecek malvarlığının defteri
+tutulur.
 
 Vesayet
 altındaki kişi ayırt etme gücüne sahipse, olanak bulunduğu takdirde defter
@@ -6561,16 +6580,16 @@ Taşınırların satılması
 
 Madde
 440-
-Vesayet altındaki kişinin menfaati gerektirirse değerli şeylerin dışındaki
-taşınırlar, vesayet makamının vereceği talimat uyarınca, Ulusal Yargı Ağı
-Bilişim Sistemine entegre elektronik satış portalında açık artırma ile satılır.
-Hâkim, özel durumları, taşınırın niteliğini veya değerinin azlığını göz önüne
-alarak pazarlıkla satışa da karar verebilir.
+Vesayet altındaki kişinin menfaati gerektirirse değerli şeylerin
+dışındaki taşınırlar, vesayet makamının vereceği talimat uyarınca, Ulusal Yargı
+Ağı Bilişim Sistemine entegre elektronik satış portalında açık artırma ile
+satılır. Hâkim, özel durumları, taşınırın niteliğini veya değerinin azlığını
+göz önüne alarak pazarlıkla satışa da karar verebilir.
 [31]
 
 Vesayet
-altındaki kişinin kendisi veya ailesi için özel bir değer taşıyan şeyler, zorunluluk
-olmadıkça satılamaz.
+altındaki kişinin kendisi veya ailesi için özel bir değer taşıyan şeyler,
+zorunluluk olmadıkça satılamaz.
 
 IV.
 Paraların yatırılması
@@ -6614,8 +6633,8 @@ Taşınmazların satılması
 
 Madde
 444-
-Taşınmazların satışı, vesayet makamının talimatı uyarınca ve ancak vesayet
-altındaki kişinin menfaati gerekli kıldığı hâllerde mümkündür.
+Taşınmazların satışı, vesayet makamının talimatı uyarınca ve ancak
+vesayet altındaki kişinin menfaati gerekli kıldığı hâllerde mümkündür.
 
 (Değişik
 ikinci fıkra:16/7/2026-7589/12 md.)
@@ -6675,8 +6694,8 @@ yükümlüdür.
 
 Gecikmesinde
 sakınca bulunan hâllerde vasi, koruma amacıyla özgürlüğün kısıtlanmasına
-ilişkin hükümlere göre kısıtlıyı bir kuruma yerleştirebilir veya orada alıkoyabilir
-ve durumu derhal vesayet makamına bildirir.
+ilişkin hükümlere göre kısıtlıyı bir kuruma yerleştirebilir veya orada
+alıkoyabilir ve durumu derhal vesayet makamına bildirir.
 
 II.
 Temsil
@@ -6702,9 +6721,9 @@ Vesayet altındaki kişinin görüşünün alınması
 
 Madde
 450-
-Vesayet altındaki kişi görüşlerini oluşturma ve açıklama yeteneğine sahipse,
-vasi önemli işlerde karar vermeden önce olanak ölçüsünde, onun görüşünü almakla
-yükümlüdür.
+Vesayet altındaki kişi görüşlerini oluşturma ve açıklama yeteneğine
+sahipse, vasi önemli işlerde karar vermeden önce olanak ölçüsünde, onun
+görüşünü almakla yükümlüdür.
 
 Vesayet
 altındaki kişinin işi uygun bulmuş olması vasiyi sorumluluktan kurtarmaz.
@@ -6722,8 +6741,8 @@ Ayırt etme gücüne sahip olan vesayet altındaki kişi, vasinin açık veya
 vazgeçebilir.
 
 Yapılan
-işlem diğer tarafın belirlediği veya başvurusu üzerine hâkimin belirleyeceği uygun
-bir süre içinde onanmazsa, diğer taraf bununla bağlı olmaktan kurtulur.
+işlem diğer tarafın belirlediği veya başvurusu üzerine hâkimin belirleyeceği
+uygun bir süre içinde onanmazsa, diğer taraf bununla bağlı olmaktan kurtulur.
 
 b.
 Onamamanın sonucu
@@ -6731,13 +6750,13 @@ Onamamanın sonucu
 Madde
 452-
 Vasinin onamadığı işlemlerde taraflardan her biri verdiğini geri
-isteyebilir. Ancak, vesayet altındaki kişi, sadece kendi menfaatine harcanan veya
-geri isteme zamanında malvarlığında mevcut olan zenginleşme tutarıyla ya da
-iyiniyetli olmaksızın elden çıkarmış olduğu miktarla sorumludur.
+isteyebilir. Ancak, vesayet altındaki kişi, sadece kendi menfaatine harcanan
+veya geri isteme zamanında malvarlığında mevcut olan zenginleşme tutarıyla ya
+da iyiniyetli olmaksızın elden çıkarmış olduğu miktarla sorumludur.
 
 Vesayet
-altındaki kişi, fiil ehliyetine sahip olduğu hususunda diğer tarafı yanıltmış ise,
-onun bu yüzden uğradığı zarardan sorumlu olur.
+altındaki kişi, fiil ehliyetine sahip olduğu hususunda diğer tarafı yanıltmış
+ise, onun bu yüzden uğradığı zarardan sorumlu olur.
 
 5.
 Meslek veya sanat
@@ -6832,8 +6851,8 @@ Malvarlığının yönetimi
 
 Madde
 460-
-Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise, yalnız
-o malvarlığının yönetim ve korunması için gerekli olan işleri yapabilir.
+Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise,
+yalnız o malvarlığının yönetim ve korunması için gerekli olan işleri yapabilir.
 
 Kayyımın,
 bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
@@ -6877,15 +6896,15 @@ değerlerin alımı, satımı, devri ve rehnedilmesi,
 3.
 Olağan yönetim sınırlarını aşan yapı işleri,
 
-4.
-Ödünç verme ve alma,
+4. Ödünç
+verme ve alma,
 
 5.
 Kambiyo taahhüdü altına girme,
 
 6.
-Bir yıl veya daha uzun süreli ürün ve üç yıl veya daha uzun süreli taşınmaz kirası
-sözleşmeleri yapılması,
+Bir yıl veya daha uzun süreli ürün ve üç yıl veya daha uzun süreli taşınmaz
+kirası sözleşmeleri yapılması,
 
 7.
 Vesayet altındaki kişinin bir sanat veya meslekle uğraşması,
@@ -6922,8 +6941,8 @@ Madde
 Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamının da
 izni gereklidir:
 
-1. Vesayet
-altındaki kişinin evlât edinmesi veya evlât edinilmesi,
+1.
+Vesayet altındaki kişinin evlât edinmesi veya evlât edinilmesi,
 
 2.
 Vesayet altındaki kişinin vatandaşlığa girmesi veya çıkması,
@@ -6963,7 +6982,8 @@ D.
 Madde 465-
 Kanunen gerektiği
 hâlde vasinin yetkili vesayet dairelerinin iznini almadan yapmış olduğu
-işlemler, vesayet altındaki kişinin vasinin izni olmaksızın yaptığı işlem hükmündedir.
+işlemler, vesayet altındaki kişinin vasinin izni olmaksızın yaptığı işlem
+hükmündedir.
 
 DÖRDÜNCÜ AYIRIM
 
@@ -7012,7 +7032,8 @@ Görev ve yetki
 Madde
 469-
 Devletin vesayet dairelerinde görevli kişilere karşı rücu davasına
-bakmaya, vesayet dairelerinin bulunduğu yere en yakın asliye mahkemesi yetkilidir.
+bakmaya, vesayet dairelerinin bulunduğu yere en yakın asliye mahkemesi
+yetkilidir.
 
 Vesayetle
 ilgili tazminat ve diğer rücu davaları vesayet dairelerinin bulunduğu yer
@@ -7025,8 +7046,8 @@ ERMESİ
 
 BİRİNCİ AYIRIM
 
-VESAYETİ GEREKTİREN
-HÂLLERİN
+VESAYETİ
+GEREKTİREN HÂLLERİN
 
 SONA ERMESİ
 
@@ -7051,7 +7072,8 @@ Madde
 
 Özgürlüğü
 bağlayıcı cezaya mahkûmiyet sebebiyle kısıtlı bulunan kişi üzerindeki vesayet,
-hapis hâlinin hukuka uygun bir şekilde sona ermesiyle kendiliğinden ortadan kalkar.
+hapis hâlinin hukuka uygun bir şekilde sona ermesiyle kendiliğinden ortadan
+kalkar.
 
 Hapis
 hâlinin devamı süresince aşağıdaki şartların varlığı hâlinde vesayet sona
@@ -7115,8 +7137,9 @@ Madde
 475-
 Savurganlığı, alkol veya uyuşturucu madde bağımlılığı, kötü yaşama tarzı
 veya malvarlığını kötü yönetmesi sebebiyle kısıtlanmış olan kişinin vesayetin
-kaldırılmasını isteyebilmesi, en az bir yıldan beri vesayet altına alınmasını gerektiren
-sebeple ilgili olarak bir şikâyete meydan vermemiş olmasına bağlıdır.
+kaldırılmasını isteyebilmesi, en az bir yıldan beri vesayet altına alınmasını
+gerektiren sebeple ilgili olarak bir şikâyete meydan vermemiş olmasına
+bağlıdır.
 
 4.
 İstek üzerine kısıtlamada
@@ -7153,8 +7176,8 @@ hâllerinde, kayyımlığın sona erdiği de ilân olunur.
 
 İKİNCİ AYIRIM
 
-VASİLİK GÖREVİNİN
-SONA ERMESİ
+VASİLİK
+GÖREVİNİN SONA ERMESİ
 
 A.
 Fiil ehliyetinin yitirilmesi ve ölüm
@@ -7183,17 +7206,17 @@ Vasi, vasiliğe engel bir sebebin ortaya çıkması hâlinde görevinden
 çekilmek zorundadır.
 
 Vasi,
-bir kaçınma sebebi ortaya çıktığı takdirde sürenin bitiminden önce görevinden alınmasını
-isteyebilir; ancak, önemli sebeplerin varlığı hâlinde görevine devam etmek
-zorundadır.
+bir kaçınma sebebi ortaya çıktığı takdirde sürenin bitiminden önce görevinden
+alınmasını isteyebilir; ancak, önemli sebeplerin varlığı hâlinde görevine devam
+etmek zorundadır.
 
 III.
 Göreve devam zorunluluğu
 
 Madde
 482-
-Görevi sona eren vasi, yenisi göreve başlayıncaya kadar zorunlu işleri yapmakla
-yükümlüdür.
+Görevi sona eren vasi, yenisi göreve başlayıncaya kadar zorunlu işleri
+yapmakla yükümlüdür.
 
 C.
 Görevden alınma
@@ -7204,8 +7227,8 @@ Sebepleri
 Madde 483-
 Vasi, görevini
 ağır surette savsaklar, yetkilerini kötüye kullanır veya güveni sarsıcı
-davranışlarda bulunur ya da borç ödemede acze düşerse, vesayet makamı tarafından
-görevden alınır.
+davranışlarda bulunur ya da borç ödemede acze düşerse, vesayet makamı
+tarafından görevden alınır.
 
 Vasinin
 görevini yapmakta yetersizliği sebebiyle vesayet altındaki kişinin menfaatleri
@@ -7230,12 +7253,11 @@ Araştırma ve uyarı
 
 Madde
 485-
-Vesayet makamı, ancak gerekli araştırmayı yaptıktan ve vasiyi dinledikten
-sonra onu görevden alabilir.
+Vesayet makamı, ancak gerekli araştırmayı yaptıktan ve vasiyi
+dinledikten sonra onu görevden alabilir.
 
 Vesayet
-makamı, ağır olmayan hâllerde vasiye görevden alınacağı konusunda uyarıda
-bulunur.
+makamı, ağır olmayan hâllerde vasiye görevden alınacağı konusunda uyarıda bulunur.
 
 3.
 Geçici önlemler
@@ -7261,8 +7283,8 @@ altındaki kişinin korunması için gerekli diğer önlemleri de almakla yükü
 Madde
 488-
 İlgililer, vesayet makamının kararlarına karşı, tebliğ gününden
-başlayarak on gün içinde denetim makamına itiraz edebilirler. Denetim makamı, gerektiğinde
-duruşma da yaparak bu itirazı kesin karara bağlar.
+başlayarak on gün içinde denetim makamına itiraz edebilirler. Denetim makamı,
+gerektiğinde duruşma da yaparak bu itirazı kesin karara bağlar.
 
 ÜÇÜNCÜ AYIRIM
 
@@ -7276,8 +7298,7 @@ Madde
 489-
 Görevi sona eren vasi, yönetimle ilgili son raporu ve kesin hesabı
 vesayet makamına vermekle yükümlü olduğu gibi; malvarlığını vesayet altındaki
-kişiye, mirasçılarına veya yeni vasiye teslim edilmek üzere hazır bulundurmak
-zorundadır.
+kişiye, mirasçılarına veya yeni vasiye teslim edilmek üzere hazır bulundurmak zorundadır.
 
 B.
 Rapor ve hesabın incelenmesi
@@ -7298,9 +7319,9 @@ vasinin görevinin sona erdiğine karar verir.
 
 Vesayet
 makamı, son rapor ve kesin hesabın onaylanması veya reddi konusundaki kararı
-ile birlikte kesin hesabı vesayet altındaki kişiye, mirasçılarına veya yeni vasiye,
-tazminat davası açma hakları bulunduğunu da belirtmek suretiyle tebliğ eder. Bu
-tebliğde vasinin görevine son verildiği de belirtilir.
+ile birlikte kesin hesabı vesayet altındaki kişiye, mirasçılarına veya yeni
+vasiye, tazminat davası açma hakları bulunduğunu da belirtmek suretiyle tebliğ
+eder. Bu tebliğde vasinin görevine son verildiği de belirtilir.
 
 D.
 Sorumluluk davasında zamanaşımı
@@ -7310,13 +7331,13 @@ Olağan zamanaşımı
 
 Madde
 492-
-Sorumlu vasi ve kayyıma karşı açılacak tazminat davası kesin hesabın tebliğ
-edildiği tarihten başlayarak bir yıl geçmekle zamanaşımına uğrar.
+Sorumlu vasi ve kayyıma karşı açılacak tazminat davası kesin hesabın
+tebliğ edildiği tarihten başlayarak bir yıl geçmekle zamanaşımına uğrar.
 
 Tazmin
-ettirilemeyen zararlar için Devlete karşı açılacak tazminat davasının zamanaşımı
-süresi, zararın vasi, kayyım ve yasal danışmana tazmin ettirilemeyeceğinin
-anlaşılmasından başlayarak bir yıldır.
+ettirilemeyen zararlar için Devlete karşı açılacak tazminat davasının
+zamanaşımı süresi, zararın vasi, kayyım ve yasal danışmana tazmin
+ettirilemeyeceğinin anlaşılmasından başlayarak bir yıldır.
 
 Vesayet
 dairelerinde görevli olanların sebebiyet verdikleri zararlardan dolayı Devlete
@@ -7356,7 +7377,8 @@ MİRASÇILAR
 
 BİRİNCİ BÖLÜM
 
-YASAL MİRASÇILAR
+YASAL
+MİRASÇILAR
 
 A.
 Kan hısımları
@@ -7438,20 +7460,20 @@ oranlarda mirasçı olur:
 1.
 Mirasbırakanın altsoyu ile birlikte mirasçı olursa, mirasın dörtte biri,
 
-2. Mirasbırakanın
-ana ve baba zümresi ile birlikte mirasçı olursa, mirasın yarısı,
+2.
+Mirasbırakanın ana ve baba zümresi ile birlikte mirasçı olursa, mirasın yarısı,
 
 3.
-Mirasbırakanın büyük ana ve büyük babaları ve onların çocukları ile birlikte
-mirasçı olursa, mirasın dörtte üçü, bunlar da yoksa mirasın tamamı eşe kalır.
+Mirasbırakanın büyük ana ve büyük babaları ve onların çocukları ile birlikte mirasçı
+olursa, mirasın dörtte üçü, bunlar da yoksa mirasın tamamı eşe kalır.
 
 C.
 Evlâtlık
 
 Madde
 500-
-Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. Evlâtlığın
-kendi ailesindeki mirasçılığı da devam eder.
+Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar.
+Evlâtlığın kendi ailesindeki mirasçılığı da devam eder.
 
 Evlât
 edinen ve hısımları, evlâtlığa mirasçı olmazlar.
@@ -7481,8 +7503,8 @@ Vasiyette
 
 Madde
 502-
-Vasiyet yapabilmek için ayırt etme gücüne sahip ve onbeş yaşını doldurmuş
-olmak gerekir.
+Vasiyet yapabilmek için ayırt etme gücüne sahip ve onbeş yaşını
+doldurmuş olmak gerekir.
 
 II.
 Miras sözleşmesinde
@@ -7500,13 +7522,13 @@ Madde
 Mirasbırakanın yanılma, aldatma, korkutma veya zorlama etkisi altında
 yaptığı ölüme bağlı tasarruf geçersizdir. Ancak, mirasbırakan yanıldığını veya
 aldatıldığını öğrendiği ya da korkutma veya zorlamanın etkisinden kurtulduğu
-günden başlayarak bir yıl içinde tasarruftan dönmediği takdirde tasarruf
-geçerli sayılır.
+günden başlayarak bir yıl içinde tasarruftan dönmediği takdirde tasarruf geçerli
+sayılır.
 
 Ölüme
-bağlı tasarrufta kişinin veya şeyin belirtilmesinde açık yanılma hâlinde mirasbırakanın
-gerçek arzusu kesin olarak tespit edilebilirse, tasarruf bu arzuya göre
-düzeltilir.
+bağlı tasarrufta kişinin veya şeyin belirtilmesinde açık yanılma hâlinde
+mirasbırakanın gerçek arzusu kesin olarak tespit edilebilirse, tasarruf bu
+arzuya göre düzeltilir.
 
 İKİNCİ AYIRIM
 
@@ -7680,8 +7702,8 @@ Koşullar ve yüklemeler
 Madde
 515-
 Mirasbırakan, ölüme bağlı tasarruflarını koşullara veya yüklemelere
-bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren, her ilgili
-koşul veya yüklemenin yerine getirilmesini isteyebilir.
+bağlayabilir. Tasarruf hüküm ve sonuçlarını doğurduğu andan itibaren, her
+ilgili koşul veya yüklemenin yerine getirilmesini isteyebilir.
 
 Hukuka
 veya ahlâka aykırı koşullar ve yüklemeler, ilişkin bulundukları tasarrufu
@@ -7784,8 +7806,8 @@ artmirasçıya devretmekle yükümlü kılabilir.
 Aynı
 yükümlülük artmirasçıya yüklenemez.
 
-Bu kurallar
-belirli mal bırakmada da uygulanır.
+Bu
+kurallar belirli mal bırakmada da uygulanır.
 
 II.
 Artmirasçıya geçiş
@@ -7795,8 +7817,8 @@ Tasarrufta geçiş
 anı belirtilmemişse miras, önmirasçının ölümüyle artmirasçıya geçer.
 
 Tasarrufta
-geçiş anı gösterilmiş olup önmirasçının ölümünde bu an henüz gelmemişse miras, güvence
-göstermeleri koşuluyla önmirasçının mirasçılarına teslim edilir.
+geçiş anı gösterilmiş olup önmirasçının ölümünde bu an henüz gelmemişse miras,
+güvence göstermeleri koşuluyla önmirasçının mirasçılarına teslim edilir.
 
 Mirasın
 artmirasçıya geçmesine herhangi bir sebeple olanak kalmadığı anda miras,
@@ -7839,8 +7861,8 @@ Madde
 Artmirasçı, mirası belirlenmiş olan geçiş anında sağ ise kazanır.
 
 Artmirasçı
-geçiş anından önce ölmüşse, tasarrufta aksi öngörülmüş olmadıkça, miras önmirasçıya
-kalır.
+geçiş anından önce ölmüşse, tasarrufta aksi öngörülmüş olmadıkça, miras
+önmirasçıya kalır.
 
 Önmirasçı
 mirasbırakanın ölümünde sağ değilse veya mirastan yoksun kalmışsa ya da mirası
@@ -7940,8 +7962,8 @@ a.
 Düzenlenmesi
 
 Madde 532 -
-Resmî vasiyetname,
-iki tanığın katılmasıyla resmî memur tarafından düzenlenir.
+Resmî
+vasiyetname, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.
 
 Resmî memur, sulh hâkimi, noter veya kanunla kendisine
 bu yetki verilmiş diğer bir görevli olabilir.
@@ -7970,8 +7992,8 @@ vasiyetnameyi okuduğunu, bunun son arzularını içerdiğini memurun huzurunda 
 tanığa beyan eder.
 
 Tanıklar,
-bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil gördüklerini
-vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
+bu beyanın kendi önlerinde yapıldığını ve mirasbırakanı tasarrufa ehil
+gördüklerini vasiyetnameye yazarak veya yazdırarak altını imzalarlar.
 
 Vasiyetname
 içeriğinin tanıklara bildirilmesi zorunlu değildir.
@@ -7986,8 +8008,8 @@ vasiyetnameyi iki tanığın önünde ona okur ve bunun üzerine mirasbırakan
 vasiyetnamenin son arzularını içerdiğini beyan eder.
 
 Bu
-durumda tanıklar, hem mirasbırakanın beyanının kendi önlerinde yapıldığını ve onu
-tasarrufa ehil gördüklerini; hem vasiyetnamenin kendi önlerinde memur
+durumda tanıklar, hem mirasbırakanın beyanının kendi önlerinde yapıldığını ve
+onu tasarrufa ehil gördüklerini; hem vasiyetnamenin kendi önlerinde memur
 tarafından mirasbırakana okunduğunu ve onun vasiyetnamenin son arzularını
 içerdiğini beyan ettiğini vasiyetnameye yazarak veya yazdırarak altını
 imzalarlar.
@@ -8025,8 +8047,8 @@ sonuna kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması
 zorunludur.
 
 El
-yazılı vasiyetname, saklanmak üzere açık veya kapalı olarak notere, sulh hâkimine
-veya yetkili memura bırakılabilir.
+yazılı vasiyetname, saklanmak üzere açık veya kapalı olarak notere, sulh
+hâkimine veya yetkili memura bırakılabilir.
 
 4.
 Sözlü vasiyet
@@ -8061,8 +8083,8 @@ vasiyetname yapmaya ehil gördüklerini, onun son arzularını olağanüstü dur
 içinde kendilerine anlattığını hâkime beyan ederler.
 
 Tanıklar, daha önce bir belge düzenlemek yerine, vakit
-geçirmeksizin mahkemeye başvurup yukarıdaki hususları beyan ederek mirasbırakanın
-son arzularını bir tutanağa geçirtebilirler.
+geçirmeksizin mahkemeye başvurup yukarıdaki hususları beyan ederek
+mirasbırakanın son arzularını bir tutanağa geçirtebilirler.
 
 Sözlü
 vasiyet yoluna başvuran kimse askerlik hizmetinde bulunuyorsa, teğmen veya daha
@@ -8075,8 +8097,8 @@ Hükümden düşme
 
 Madde
 541-
-Mirasbırakan için sonradan diğer şekillerde vasiyetname yapma olanağı
-doğarsa, bu tarihin üzerinden bir ay geçince sözlü vasiyet hükümden düşer.
+Mirasbırakan için sonradan diğer şekillerde vasiyetname yapma olanağı doğarsa,
+bu tarihin üzerinden bir ay geçince sözlü vasiyet hükümden düşer.
 
 II.
 Vasiyetten dönme
@@ -8149,9 +8171,9 @@ tarafların yazılı anlaşmasıyla her zaman ortadan kaldırılabilir.
 
 Miras
 sözleşmesiyle mirasçı atanan veya kendisine belirli mal bırakılan kişinin,
-mirasbırakana karşı miras sözleşmesinin yapılmasından sonra mirasçılıktan çıkarma
-sebebi oluşturan davranışta bulunduğu ortaya çıkarsa; mirasbırakan, miras
-sözleşmesini tek taraflı olarak ortadan kaldırabilir.
+mirasbırakana karşı miras sözleşmesinin yapılmasından sonra mirasçılıktan
+çıkarma sebebi oluşturan davranışta bulunduğu ortaya çıkarsa; mirasbırakan,
+miras sözleşmesini tek taraflı olarak ortadan kaldırabilir.
 
 Tek
 taraflı ortadan kaldırma, vasiyetnameler için kanunda öngörülen şekillerden
@@ -8242,8 +8264,8 @@ Genel olarak
 Madde
 552-
 Mirasbırakan, tasarrufunda aksini öngörmüş veya sınırlı bir görev vermiş
-olmadıkça vasiyeti yerine getirme görevlisi, mirasbırakanın son arzularının yerine
-getirilmesi için gerekli bütün işlemleri yapmakla görevli ve yetkilidir.
+olmadıkça vasiyeti yerine getirme görevlisi, mirasbırakanın son arzularının
+yerine getirilmesi için gerekli bütün işlemleri yapmakla görevli ve yetkilidir.
 
 Vasiyeti
 yerine getirme görevlisi, özellikle;
@@ -8254,8 +8276,8 @@ borçların listesini düzenler. Liste düzenlenirken olanak varsa mirasçılar 
 bulundurulur.
 
 2.
-Terekeyi yönetir ve yönetimin gerektirdiği ölçüde tereke mallarının zilyetliğinin
-kendisine devrini ister.
+Terekeyi yönetir ve yönetimin gerektirdiği ölçüde tereke mallarının
+zilyetliğinin kendisine devrini ister.
 
 3.
 Tereke alacaklarını tahsil eder, borçlarını öder.
@@ -8334,8 +8356,7 @@ Sebepleri
 
 Madde
 557-
-Aşağıdaki sebeplerle ölüme bağlı bir tasarrufun iptali için dava
-açılabilir:
+Aşağıdaki sebeplerle ölüme bağlı bir tasarrufun iptali için dava açılabilir:
 
 1.
 Tasarruf mirasbırakanın tasarruf ehliyeti bulunmadığı bir sırada yapılmışsa,
@@ -8375,8 +8396,8 @@ Madde
 İptal davası açma hakkı, davacının tasarrufu, iptal sebebini ve
 kendisinin hak sahibi olduğunu öğrendiği tarihten başlayarak bir yıl ve her
 hâlde vasiyetnamelerde açılma tarihinin, diğer tasarruflarda mirasın geçmesi
-tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan davalılara
-karşı yirmi yıl geçmekle düşer.
+tarihinin üzerinden, iyiniyetli davalılara karşı on yıl, iyiniyetli olmayan
+davalılara karşı yirmi yıl geçmekle düşer.
 
 Hükümsüzlük,
 def"i yoluyla her zaman ileri sürülebilir.
@@ -8409,8 +8430,8 @@ Saklı pay sahibi mirasçılara ölüme bağlı tasarrufla yapılan ve tasarruf
 edilebilir kısmı aşan kazandırmaların onların saklı paylarını aşan kısmı
 orantılı olarak tenkise tâbi olur. Tenkise tâbi birden fazla ölüme bağlı
 tasarrufun bulunması hâlinde, saklı pay sahibi mirasçıya yapılan kazandırmanın
-saklı payı aşan kısmı ile saklı pay sahibi olmayan kimselere yapılan kazandırmalar
-orantılı olarak tenkis edilir.
+saklı payı aşan kısmı ile saklı pay sahibi olmayan kimselere yapılan
+kazandırmalar orantılı olarak tenkis edilir.
 
 3.
 Mirasçının alacaklılarının hakları
@@ -8451,8 +8472,8 @@ Bölünmez mal vasiyetinde
 
 Madde
 564-
-Değerinde azalma meydana gelmeksizin bölünmesine olanak bulunmayan
-belirli bir mal vasiyeti tenkise tâbi olursa, vasiyet alacaklısı, dilerse tenkisi
+Değerinde azalma meydana gelmeksizin bölünmesine olanak bulunmayan belirli
+bir mal vasiyeti tenkise tâbi olursa, vasiyet alacaklısı, dilerse tenkisi
 gereken kısmın değerini ödeyerek malın verilmesini, dilerse tasarruf edilebilir
 kısmın değerini karşılayan parayı isteyebilir.
 
@@ -8525,10 +8546,10 @@ mirasbırakanın ölümü zamanındaki satınalma değeri tenkise tâbi olur.
 Madde
 568-
 Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çevrilmeleri
-hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekesini
-yükümlü kılarsa, mirasçıları, intifa hakkının veya irat borcunun tenkisini ya
-da tasarruf edilebilir kısmı vererek bu yükümlülüğün kaldırılmasını
-isteyebilirler.
+hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile
+terekesini yükümlü kılarsa, mirasçıları, intifa hakkının veya irat borcunun
+tenkisini ya da tasarruf edilebilir kısmı vererek bu yükümlülüğün
+kaldırılmasını isteyebilirler.
 
 6.
 Artmirasçı bakımından
@@ -8544,8 +8565,8 @@ Tenkiste sıra
 Madde 570-
 Tenkis, saklı pay
 tamamlanıncaya kadar, önce ölüme bağlı tasarruflardan; bu yetmezse, en yeni
-tarihlisinden en eskisine doğru geriye gidilmek üzere sağlararası kazandırmalardan
-yapılır.
+tarihlisinden en eskisine doğru geriye gidilmek üzere sağlararası
+kazandırmalardan yapılır.
 
 Kamu
 tüzel kişileri ile kamuya yararlı dernek ve vakıflara yapılan ölüme bağlı
@@ -8711,8 +8732,8 @@ Mirasçı olarak
 
 Madde
 580-
-Mirasçı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak
-sağ olmak şarttır.
+Mirasçı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak sağ
+olmak şarttır.
 
 Mirasın açıldığı anda sağ olan mirasçı sonradan ölürse,
 onun miras hakkı kendi mirasçılarına kalır.
@@ -8796,8 +8817,8 @@ Ortada bulunmayan ve mirasın açıldığı anda sağ olup olmadığı ispat
 edilemeyen mirasçının miras payı resmen yönetilir.
 
 Mirasın
-açıldığı anda ortada bulunmayanın sağ olmaması hâlinde onun miras payı
-kendilerine kalacak olanlar, gaipliğe ilişkin sürelere ve usule uyarak o kimsenin
+açıldığı anda ortada bulunmayanın sağ olmaması hâlinde onun miras payı kendilerine
+kalacak olanlar, gaipliğe ilişkin sürelere ve usule uyarak o kimsenin
 gaipliğine karar verilmesini ve miras payının kendilerine teslimini
 isteyebilirler.
 
@@ -8853,8 +8874,8 @@ Genel olarak
 Madde 589-
 Mirasbırakanın
 yerleşim yeri sulh hâkimi, istem üzerine veya re'sen tereke mallarının
-korunması ve hak sahiplerine geçmesini sağlamak üzere gerekli olan bütün önlemleri
-alır.
+korunması ve hak sahiplerine geçmesini sağlamak üzere gerekli olan bütün
+önlemleri alır.
 
 Bu önlemler, özellikle kanunda belirtilen hâllerde
 terekede bulunan mal ve hakların yazımına, terekenin mühürlenmesine, terekenin
@@ -8866,9 +8887,9 @@ ilgili giderler, ileride terekeden alınmak üzere, başvuran kişi tarafından;
 
 Mirasbırakan,
 yerleşim yerinden başka bir yerde ölmüş ise, o yerin sulh hâkimi bu ölümü
-yerleşim yeri sulh hâkimine gecikmeksizin bildirir ve mirasbırakanın ölüm
-yerinde bulunan mallarının korunması için gerekli önlemleri alarak bununla
-ilgili dosyayı ve varsa vasiyetnameyi yerleşim yeri sulh hâkimine gönderir.
+yerleşim yeri sulh hâkimine gecikmeksizin bildirir ve mirasbırakanın ölüm yerinde
+bulunan mallarının korunması için gerekli önlemleri alarak bununla ilgili
+dosyayı ve varsa vasiyetnameyi yerleşim yeri sulh hâkimine gönderir.
 
 B.
 Defter tutma
@@ -8898,8 +8919,7 @@ Mühürleme
 Madde
 591-
 Yazımı yapılan tereke mallarından gerekenler mühürlenir. Mühürlenmeyen
-mallar için uygun koruma önlemi alınır. Mühür altına alma yazımdan önce de
-yapılabilir.
+mallar için uygun koruma önlemi alınır. Mühür altına alma yazımdan önce de yapılabilir.
 
 Tereke
 mühürlenirken mirasbırakanla birlikte oturanların ihtiyaçları için gerekli eşya
@@ -8956,9 +8976,9 @@ Madde
 593-
 Terekeyi resmen yöneten sulh hâkimi veya onun yönetimle görevlendirdiği
 kimse, resmen yönetme sebeplerinin ortadan kalkmasına ya da paylaştırmaya
-kadar, terekeyi hak sahiplerinin haklarının kaybına meydan vermeyecek biçimde iyi
-bir yönetici gibi özenle yönetmek ve özellikle aşağıda yazılı işleri görmekle
-yükümlüdür:
+kadar, terekeyi hak sahiplerinin haklarının kaybına meydan vermeyecek biçimde
+iyi bir yönetici gibi özenle yönetmek ve özellikle aşağıda yazılı işleri
+görmekle yükümlüdür:
 
 1.
 Henüz yapılmamışsa, terekenin yazımı,
@@ -8967,8 +8987,8 @@ Henüz yapılmamışsa, terekenin yazımı,
 Gereken koruma önlemlerinin alınması,
 
 3.
-Mirasçıların menfaatlerine veya iyi bir yönetimin gereklerine uygun düştüğü takdirde
-terekedeki malların satılması,
+Mirasçıların menfaatlerine veya iyi bir yönetimin gereklerine uygun düştüğü
+takdirde terekedeki malların satılması,
 
 4.
 Mirasbırakanın alacaklarının tahsili ve borçlarının ödenmesi,
@@ -8979,21 +8999,22 @@ hâkiminin izni ve asliye hâkiminin onayı ile yerine getirilmesi,
 
 6.
 Terekeye ait paraların faiz getirmek üzere Cumhurbaşkanınca çıkarılan
-yönetmelikte belirtilen bir bankaya yatırılması veya bu paralarla Devlet tahvili
-alınması ve yeterli güvencesi bulunmayan yatırımların güvenceli yatırımlara
-dönüştürülmesi,
+yönetmelikte belirtilen bir bankaya yatırılması veya bu paralarla Devlet
+tahvili alınması ve yeterli güvencesi bulunmayan yatırımların güvenceli
+yatırımlara dönüştürülmesi,
 [32]
 
 7.
 Terekede ticarethane, imalâthane veya başka bir işletme varsa, bunların olduğu
-gibi sürdürülmesi; sürdürmede yarar yoksa, tasfiyesi için gerekli önlemlerin alınması.
+gibi sürdürülmesi; sürdürmede yarar yoksa, tasfiyesi için gerekli önlemlerin
+alınması.
 
 Tereke
-yöneticisi, görevine giren hususlarda miras ortaklığının temsilcisi olup, ortaklık
-aleyhine açılan davalarda ve yapılan icra takiplerinde ortaklığı temsil eder ve
-gereken hâllerde ortaklık adına dava açmaya, icra takibinde bulunmaya, davadan
-feragate, kabule, sulh olmaya ve tahkime yetkilidir; davaları ve takipleri
-mirasçılara ihbar eder.
+yöneticisi, görevine giren hususlarda miras ortaklığının temsilcisi olup,
+ortaklık aleyhine açılan davalarda ve yapılan icra takiplerinde ortaklığı
+temsil eder ve gereken hâllerde ortaklık adına dava açmaya, icra takibinde
+bulunmaya, davadan feragate, kabule, sulh olmaya ve tahkime yetkilidir;
+davaları ve takipleri mirasçılara ihbar eder.
 
 Terekenin
 resmen yönetilmesinde, sulh hâkimi ile yöneticinin işlemleri konusunda,
@@ -9027,9 +9048,9 @@ olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur.
 
 Vasiyetnameyi
 düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arzusu üzerine
-saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kimse,
-ölümü öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi
-takdirde bu yüzden doğacak zarardan sorumludur.
+saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan
+kimse, ölümü öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür;
+aksi takdirde bu yüzden doğacak zarardan sorumludur.
 
 Sulh
 hâkimi, teslim edilen vasiyetnameyi derhâl inceler, gerekli koruma önlemlerini
@@ -9071,9 +9092,10 @@ Madde
 598-
 Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh
 mahkemesince
-veya noterlikçe
-mirasçılık sıfatlarını gösteren bir belge
-verilir.
+veya
+noterlikçe
+mirasçılık sıfatlarını gösteren
+bir belge verilir.
 [33]
 
 Mirasçı
@@ -9091,8 +9113,7 @@ bağlı tasarrufun iptaline ilişkin dava hakkı saklıdır.
 
 İKİNCİ AYIRIM
 
-MİRASIN
-KAZANILMASI
+MİRASIN KAZANILMASI
 
 A.
 Kazanma
@@ -9131,9 +9152,9 @@ alacak, tasarruftan aksi anlaşılmıyorsa vasiyet yükümlüsünün mirası kab
 etmesi veya ret hakkının düşmesiyle muaccel olur.
 
 Vasiyet
-alacaklısı, yükümlülüğünü yerine getirmeyen vasiyet yükümlüsüne karşı, vasiyet
-edilen malın teslimini veya hakkın devrini; vasiyet konusu bir davranış ise,
-bunun yerine getirilmemesinden doğan zararın giderilmesini dava edebilir.
+alacaklısı, yükümlülüğünü yerine getirmeyen vasiyet yükümlüsüne karşı, vasiyet edilen
+malın teslimini veya hakkın devrini; vasiyet konusu bir davranış ise, bunun
+yerine getirilmemesinden doğan zararın giderilmesini dava edebilir.
 
 2.
 Özel durumlar
@@ -9169,8 +9190,8 @@ haklarından, vasiyet alacaklılarının hakları da mirasçıların alacaklıla
 haklarından önce gelir.
 
 Mirası
-kayıtsız şartsız kabul eden mirasçıların alacaklıları ile mirasbırakanın alacaklıları
-aynı haklara sahiptirler.
+kayıtsız şartsız kabul eden mirasçıların alacaklıları ile mirasbırakanın
+alacaklıları aynı haklara sahiptirler.
 
 IV.
 Tenkis ve geri isteme
@@ -9246,8 +9267,8 @@ işlemeye başlar.
 Reddin şekli
 
 Madde 609-
-Mirasın reddi,
-mirasçılar tarafından sulh mahkemesine sözlü veya yazılı beyanla yapılır.
+Mirasın reddi, mirasçılar
+tarafından sulh mahkemesine sözlü veya yazılı beyanla yapılır.
 
 Reddin
 kayıtsız ve şartsız olması gerekir.
@@ -9304,7 +9325,8 @@ En yakın yasal mirasçıların tamamı tarafından reddolunan miras, sulh
 mahkemesince iflâs hükümlerine göre tasfiye edilir.
 
 Tasfiye
-sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine verilir.
+sonunda arta kalan değerler, mirası reddetmemişler gibi hak sahiplerine
+verilir.
 
 2.
 Mirasın sağ kalan eşe geçmesi
@@ -9372,9 +9394,10 @@ Ret hâlinde sorumluluk
 
 Madde 618-
 Ödemeden âciz
-bir mirasbırakanın mirasını reddeden mirasçılar, onun alacaklılarına karşı, ölümünden
-önceki beş yıl içinde ondan almış oldukları ve mirasın paylaşılmasında geri
-vermekle yükümlü olacakları değer ölçüsünde sorumlu olurlar.
+bir mirasbırakanın mirasını reddeden mirasçılar, onun alacaklılarına karşı,
+ölümünden önceki beş yıl içinde ondan almış oldukları ve mirasın
+paylaşılmasında geri vermekle yükümlü olacakları değer ölçüsünde sorumlu
+olurlar.
 
 Olağan eğitim ve öğrenim giderleriyle âdet üzere verilen
 çeyiz, bu sorumluluğun dışındadır.
@@ -9517,8 +9540,8 @@ Beyan
 Madde
 627-
 Mirasçılardan her biri, tanınan süre içinde mirası reddettiğini veya
-resmî tasfiye istediğini ya da deftere göre veya kayıtsız şartsız kabul ettiğini
-beyan edebilir.
+resmî tasfiye istediğini ya da deftere göre veya kayıtsız şartsız kabul
+ettiğini beyan edebilir.
 
 Süresi
 içinde herhangi bir beyanda bulunmayan mirasçı, mirası tutulan deftere göre
@@ -9629,9 +9652,9 @@ Resmî tasfiye, sulh mahkemesince veya atayacağı bir ya da birkaç tasfiye
 memuru tarafından yapılır.
 
 Resmî
-tasfiyeye terekenin defterinin düzenlenmesiyle başlanır ve aynı zamanda yapılacak
-ilânla mirasbırakanın alacaklılarından ve borçlularından, belirtilen süre
-içinde alacaklarını ve borçlarını bildirmeleri istenir.
+tasfiyeye terekenin defterinin düzenlenmesiyle başlanır ve aynı zamanda
+yapılacak ilânla mirasbırakanın alacaklılarından ve borçlularından, belirtilen
+süre içinde alacaklarını ve borçlarını bildirmeleri istenir.
 
 Terekenin
 daha önce resmî defteri düzenlenmiş ise resmî tasfiye bu deftere göre yapılır.
@@ -9670,8 +9693,8 @@ III.
 
 Madde 636-
 Mevcudu
-borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh mahkemesince iflâs hükümlerine
-göre yapılır.
+borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh mahkemesince iflâs
+hükümlerine göre yapılır.
 
 BEŞİNCİ AYIRIM
 
@@ -9703,8 +9726,8 @@ Miras sebebiyle istihkak davasının kabulü hâlinde, tereke veya terekeye
 dahil mal, davacıya zilyetliğe ilişkin hükümler uyarınca verilir.
 
 Miras
-sebebiyle istihkak davasında davalı, tereke malını zamanaşımı yoluyla kazandığını
-ileri süremez.
+sebebiyle istihkak davasında davalı, tereke malını zamanaşımı yoluyla
+kazandığını ileri süremez.
 
 C.
 Zamanaşımı
@@ -9970,8 +9993,8 @@ Aile
 belgeleri ile aile için özel anı değeri olan eşya, mirasçılardan birinin karşı
 çıkması hâlinde satılamaz. Mirasçılar arasında anlaşmazlık çıkarsa sulh hâkimi,
 yerel âdetleri, âdet yoksa kişisel durumları göz önünde tutarak bu eşyanın,
-payına mahsup edilmek veya edilmemek suretiyle mirasçılardan birine özgülenmesine
-ya da satılmasına karar verir.
+payına mahsup edilmek veya edilmemek suretiyle mirasçılardan birine
+özgülenmesine ya da satılmasına karar verir.
 
 Özel
 kanun hükümleri saklıdır.
@@ -10172,8 +10195,8 @@ Madde
 Denkleştirme, kazandırmanın denkleştirme anındaki değerine göre yapılır.
 
 Yarar
-ve zarar ile gelir ve giderler hakkında mirasçılar arasında sebepsiz
-zenginleşme hükümleri uygulanır.
+ve zarar ile gelir ve giderler hakkında mirasçılar arasında sebepsiz zenginleşme
+hükümleri uygulanır.
 
 D.
 Eğitim ve öğrenim giderleri
@@ -10303,8 +10326,8 @@ Mirasçılara rücu
 Madde
 682-
 Paylaşma sözleşmesinde ödenmesi kendisine yükletilmemiş olan bir tereke
-borcunu veya üzerine aldığı miktardan fazlasını ödeyen mirasçı, diğer mirasçılara
-rücu edebilir.
+borcunu veya üzerine aldığı miktardan fazlasını ödeyen mirasçı, diğer
+mirasçılara rücu edebilir.
 
 Rücu
 hakkı, ilk önce, ödenmiş olan borcu paylaşma sözleşmesiyle üstlenmiş bulunan
@@ -10395,8 +10418,8 @@ Eklenti sayılmayanlar
 Madde
 687-
 Asıl şeye zilyet olan kimsenin sadece geçici olarak kullanması veya
-tüketmesi için özgülenen ya da asıl şeyin özel niteliği ile herhangi bir
-ilişkisi bulunmadan sadece korunmak, satılmak veya kiraya verilmek üzere onunla
+tüketmesi için özgülenen ya da asıl şeyin özel niteliği ile herhangi bir ilişkisi
+bulunmadan sadece korunmak, satılmak veya kiraya verilmek üzere onunla
 birleştirilen şeyler eklenti sayılmaz.
 
 C.
@@ -10410,8 +10433,8 @@ Genel kurallar
 
 Madde
 688-
-Paylı mülkiyette birden çok kimse, maddî olarak bölünmüş olmayan bir
-şeyin tamamına belli paylarla maliktir.
+Paylı mülkiyette birden çok kimse, maddî olarak bölünmüş olmayan bir şeyin
+tamamına belli paylarla maliktir.
 
 Başka
 türlü belirlenmedikçe, paylar eşit sayılır.
@@ -10518,8 +10541,7 @@ vergiler ve diğer yükümlülükler, aksine bir hüküm bulunmadıkça, paydaş
 tarafından payları oranında karşılanır.
 
 Payına
-düşenden fazlasını ödemiş bulunan paydaş, diğerlerine payları oranında rücu
-edebilir.
+düşenden fazlasını ödemiş bulunan paydaş, diğerlerine payları oranında rücu edebilir.
 
 5.
 Kararların bağlayıcılığı
@@ -10546,8 +10568,8 @@ Kendi tutum ve
 davranışlarıyla veya malın kullanılmasını bıraktığı ya da fiillerinden sorumlu
 olduğu kişilerin tutum ve davranışlarıyla diğer paydaşların tamamına veya bir
 kısmına karşı olan yükümlülüklerini ağır biçimde çiğneyen paydaş, bu yüzden
-onlar için paylı mülkiyet ilişkisinin devamını çekilmez hâle getirmişse, mahkeme
-kararıyla paydaşlıktan çıkarılabilir.
+onlar için paylı mülkiyet ilişkisinin devamını çekilmez hâle getirmişse,
+mahkeme kararıyla paydaşlıktan çıkarılabilir.
 
 Davanın
 açılması, aksi kararlaştırılmış olmadıkça, pay ve paydaş çoğunluğuyla karar
@@ -10562,9 +10584,9 @@ Aynen
 ayrılmasına olanak bulunmayan maldaki payın dava tarihindeki değeriyle
 kendilerine devrini isteyen paydaş veya paydaşlar bu istemlerini paydaşlıktan
 çıkarma istemi ile birlikte ileri sürmek zorundadırlar. Hâkim, hüküm vermeden
-önce re'sen belirleyeceği uygun bir süre içinde pay değerinin ödenmesine veya tevdiine
-karar verir. Davanın kabulü hâlinde payın istemde bulunan adına tesciline
-hükmolunur.
+önce re'sen belirleyeceği uygun bir süre içinde pay değerinin ödenmesine veya
+tevdiine karar verir. Davanın kabulü hâlinde payın istemde bulunan adına
+tesciline hükmolunur.
 
 Payı
 karşılayacak kısım maldan aynen ayrılamaz ve bu payı isteyen paydaş da
@@ -10607,8 +10629,8 @@ Paylaşma biçimi
 
 Madde
 699-
-Paylaşma, malın aynen bölüşülmesi veya pazarlık ya da artırmayla satılarak
-bedelinin bölüşülmesi biçiminde gerçekleştirilir.
+Paylaşma, malın aynen bölüşülmesi veya pazarlık ya da artırmayla
+satılarak bedelinin bölüşülmesi biçiminde gerçekleştirilir.
 
 Paylaşma biçiminde uyuşma sağlanamazsa, paydaşlardan
 birinin istemi üzerine hâkim, malın aynen bölünerek paylaştırılmasına, bölünen
@@ -10739,8 +10761,8 @@ tâbidir.
 
 Madde
 707-
-Tapu kütüğüne kayıtlı bir taşınmazın mülkiyetinin işgal yoluyla
-kazanılması, ancak kaydının malikin istemiyle terkin edilmiş olmasına bağlıdır.
+Tapu kütüğüne kayıtlı bir taşınmazın mülkiyetinin işgal yoluyla kazanılması,
+ancak kaydının malikin istemiyle terkin edilmiş olmasına bağlıdır.
 
 Tapuya
 kayıtlı olmayan taşınmazlar üzerinde işgal yoluyla mülkiyet kazanılamaz.
@@ -10822,9 +10844,9 @@ Olağanüstü zamanaşımı
 Madde
 713-
 Tapu kütüğünde kayıtlı olmayan bir taşınmazı davasız ve aralıksız olarak
-yirmi yıl süreyle ve malik sıfatıyla zilyetliğinde bulunduran kişi, o taşınmazın
-tamamı, bir parçası veya bir payı üzerindeki mülkiyet hakkının tapu kütüğüne
-tesciline karar verilmesini isteyebilir.
+yirmi yıl süreyle ve malik sıfatıyla zilyetliğinde bulunduran kişi, o
+taşınmazın tamamı, bir parçası veya bir payı üzerindeki mülkiyet hakkının tapu
+kütüğüne tesciline karar verilmesini isteyebilir.
 
 Aynı
 koşullar altında, maliki tapu kütüğünden anlaşılamayan veya yirmi yıl önce (…)
@@ -10868,7 +10890,8 @@ Sürelerin hesabı
 Madde
 714-
 Kazandırıcı zamanaşımı sürelerinin hesaplanmasında, kesilmesinde ve
-durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla uygulanır.
+durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla
+uygulanır.
 
 6.
 Sahipsiz yerler ve yararı kamuya ait mallar
@@ -10892,9 +10915,9 @@ Tescili isteme hakkı
 
 Madde
 716-
-Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak malikten
-mülkiyetin kendi adına tescilini istemek hususunda kişisel hakka sahip olan
-kimse, malikin kaçınması hâlinde hâkimden, mülkiyetin hükmen geçirilmesini
+Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak
+malikten mülkiyetin kendi adına tescilini istemek hususunda kişisel hakka sahip
+olan kimse, malikin kaçınması hâlinde hâkimden, mülkiyetin hükmen geçirilmesini
 isteyebilir.
 
 Bir
@@ -10964,8 +10987,8 @@ Sınırlıklar üzerinde paylı mülkiyet
 
 Madde
 721-
-İki taşınmazı birbirinden ayırmaya yarayan duvar, parmaklık, çit gibi
-sınırlıklar, aksi ispat edilmedikçe, her iki komşunun paylı malı sayılır.
+İki taşınmazı birbirinden ayırmaya yarayan duvar, parmaklık, çit gibi sınırlıklar,
+aksi ispat edilmedikçe, her iki komşunun paylı malı sayılır.
 
 III.
 Arazideki yapılar
@@ -10984,8 +11007,8 @@ kullanırsa, bu malzeme arazinin bütünleyici parçası olur.
 
 Ancak,
 sahibinin rızası olmaksızın kullanılmış olan malzemenin sökülmesi aşırı zarara
-yol açmayacaksa, malzeme sahibi, gideri yapıyı yaptırana ait olmak üzere
-bunların sökülüp kendisine verilmesini isteyebilir.
+yol açmayacaksa, malzeme sahibi, gideri yapıyı yaptırana ait olmak üzere bunların
+sökülüp kendisine verilmesini isteyebilir.
 
 Aynı
 koşullar altında arazinin maliki de, rızası olmaksızın yapılan yapıda
@@ -11014,24 +11037,25 @@ Arazinin mülkiyetinin malzeme sahibine verilmesi
 Madde
 724-
 Yapının değeri açıkça arazinin değerinden fazlaysa, iyiniyetli taraf
-uygun bir bedel karşılığında yapının ve arazinin tamamının veya yeterli bir kısmının
-mülkiyetinin malzeme sahibine verilmesini isteyebilir.
+uygun bir bedel karşılığında yapının ve arazinin tamamının veya yeterli bir
+kısmının mülkiyetinin malzeme sahibine verilmesini isteyebilir.
 
 2.
 Taşkın yapılar
 
 Madde
 725-
-Bir yapının başkasına ait araziye taşırılan kısmı, eğer yapıyı yapan malik
-taşırılan arazi üzerinde bir irtifak hakkına sahip bulunuyorsa, ona ait
+Bir yapının başkasına ait araziye taşırılan kısmı, eğer yapıyı yapan
+malik taşırılan arazi üzerinde bir irtifak hakkına sahip bulunuyorsa, ona ait
 taşınmazın bütünleyici parçası olur.
 
 Böyle
 bir irtifak hakkı yoksa, zarar gören malik taşmayı öğrendiği tarihten
 başlayarak onbeş gün içinde itiraz etmediği, aynı zamanda durum ve koşullar da
-haklı gösterdiği takdirde, taşkın yapıyı iyiniyetle yapan kimse, uygun bir bedel
-karşılığında taşan kısım için bir irtifak hakkı kurulmasını veya bu kısmın
-bulunduğu arazi parçasının mülkiyetinin kendisine devredilmesini isteyebilir.
+haklı gösterdiği takdirde, taşkın yapıyı iyiniyetle yapan kimse, uygun bir
+bedel karşılığında taşan kısım için bir irtifak hakkı kurulmasını veya bu
+kısmın bulunduğu arazi parçasının mülkiyetinin kendisine devredilmesini
+isteyebilir.
 
 3.
 Üst hakkı
@@ -11098,8 +11122,8 @@ Madde
 730-
 Bir taşınmaz malikinin mülkiyet hakkını bu hakkın yasal kısıtlamalarına
 aykırı kullanması sonucunda zarar gören veya zarar tehlikesi ile karşılaşan
-kimse, durumun eski hâline getirilmesini, tehlikenin ve uğradığı zararın giderilmesini
-dava edebilir.
+kimse, durumun eski hâline getirilmesini, tehlikenin ve uğradığı zararın
+giderilmesini dava edebilir.
 
 Hâkim,
 yerel âdete uygun ve kaçınılmaz taşkınlıklardan doğan zararların uygun bir
@@ -11136,8 +11160,7 @@ a.
 Madde
 732-
 Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya
-kısmen üçüncü kişiye satması hâlinde, diğer paydaşlar önalım hakkını
-kullanabilirler.
+kısmen üçüncü kişiye satması hâlinde, diğer paydaşlar önalım hakkını kullanabilirler.
 
 b.
 Kullanma yasağı, feragat ve hak düşürücü süre
@@ -11181,8 +11204,8 @@ sahibi, belirlenen rayiç bedel ile alıcıya düşen tapu giderlerini
 nemalandırılmak üzere hâkim tarafından belirlenen yere verilen kesin süre
 içinde nakden yatırmakla yükümlüdür. Bu yükümlülük, verilen kesin süre içinde
 yerine getirilmezse önalım hakkı sahibi adına payın tesciline karar verilemez.
-Yatırılan bedel, hükmün kesinleşmesi üzerine nemalarıyla birlikte ilgilisine
-ödenir.
+Yatırılan bedel, hükmün kesinleşmesi üzerine nemalarıyla birlikte ilgilisine ödenir.
+[40]
 
 2.
 Sözleşmeden doğan önalım hakkı
@@ -11207,8 +11230,8 @@ Alım ve geri alım hakları
 
 Madde
 736-
-Tapu kütüğüne şerh verilen alım ve geri alım hakları, şerhde belirtilen süre
-içinde her malike karşı kullanılabilir.
+Tapu kütüğüne şerh verilen alım ve geri alım hakları, şerhde belirtilen
+süre içinde her malike karşı kullanılabilir.
 
 Şerhin
 etkisi, her durumda, şerhin verildiği tarihin üzerinden on yıl geçmekle sona
@@ -11222,9 +11245,9 @@ Kullanma biçimi
 
 Madde
 737-
-Herkes, taşınmaz mülkiyetinden doğan yetkileri kullanırken ve özellikle işletme
-faaliyetini sürdürürken, komşularını olumsuz şekilde etkileyecek taşkınlıktan
-kaçınmakla yükümlüdür.
+Herkes, taşınmaz mülkiyetinden doğan yetkileri kullanırken ve özellikle
+işletme faaliyetini sürdürürken, komşularını olumsuz şekilde etkileyecek
+taşkınlıktan kaçınmakla yükümlüdür.
 
 Özellikle,
 taşınmazın durumuna, niteliğine ve yerel âdete göre komşular arasında hoş
@@ -11266,8 +11289,8 @@ Kural
 Madde
 740-
 Komşunun arazisine taşarak zarar veren dal ve kökler, onun istemi
-üzerine uygun bir süre içinde kaldırılmazsa, komşu bu dal ve kökleri kesip kendi
-mülkiyetine geçirebilir.
+üzerine uygun bir süre içinde kaldırılmazsa, komşu bu dal ve kökleri kesip
+kendi mülkiyetine geçirebilir.
 
 Ekilmiş
 veya üzerine yapı yapılmış arazisine dalların taşmasına katlanan komşu, bu
@@ -11312,8 +11335,8 @@ etmek zorundadır.
 
 Alt
 taraftaki arazi maliki boşaltma dolayısıyla akan sulardan zarar görmekte ise,
-gideri üstteki arazi malikine ait olmak üzere, kendi arazisinde yapılacak
-mecrayla suyun akıtılmasını isteyebilir.
+gideri üstteki arazi malikine ait olmak üzere, kendi arazisinde yapılacak mecrayla
+suyun akıtılmasını isteyebilir.
 
 Bataklıkların
 kurutulması hakkındaki özel kanun hükümleri saklıdır.
@@ -11409,8 +11432,8 @@ gösterilir.
 Sınırlıklar
 
 Madde 749-
-Sınırlıklar üzerinde
-paylı mülkiyete ilişkin hükümler saklı kalmak üzere; her arazi maliki,
+Sınırlıklar
+üzerinde paylı mülkiyete ilişkin hükümler saklı kalmak üzere; her arazi maliki,
 taşınmazının sınırının çit veya duvar gibi sınırlıklarla çevrilmesi için
 yapılan giderleri karşılar.
 
@@ -11845,12 +11868,13 @@ Kaybedilmesi
 
 Madde
 778-
-Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası tarafından
-kazanılmadıkça yalnız zilyetliğin kaybıyla sona ermez.
+Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası
+tarafından kazanılmadıkça yalnız zilyetliğin kaybıyla sona ermez.
 
 İKİNCİ KISIM
 
-SINIRLI AYNÎ HAKLAR
+SINIRLI AYNÎ
+HAKLAR
 
 BİRİNCİ BÖLÜM
 
@@ -11867,10 +11891,10 @@ Konusu
 
 Madde
 779-
-Taşınmaz lehine irtifak hakkı, bir taşınmaz üzerinde diğer bir taşınmaz lehine
-konulmuş bir yük olup, yüklü taşınmazın malikini mülkiyet hakkının sağladığı
-bazı yetkileri kullanmaktan kaçınmaya veya yararlanan taşınmaz malikinin yüklü
-taşınmazı belirli şekilde kullanmasına katlanmaya mecbur kılar.
+Taşınmaz lehine irtifak hakkı, bir taşınmaz üzerinde diğer bir taşınmaz
+lehine konulmuş bir yük olup, yüklü taşınmazın malikini mülkiyet hakkının
+sağladığı bazı yetkileri kullanmaktan kaçınmaya veya yararlanan taşınmaz
+malikinin yüklü taşınmazı belirli şekilde kullanmasına katlanmaya mecbur kılar.
 
 Yapma borçları, irtifaka başlı başına konu olamaz; ona
 ancak yan edim olarak bağlanabilir.
@@ -11973,9 +11997,9 @@ Madde
 tescil, irtifakın kapsamını belirlemede esas oluşturur.
 
 Tescilden
-açıkça anlaşılmadığı hâllerde kapsam, tescilin sınırları içinde, irtifak hakkının
-kazanılma sebebine veya uzun süreden beri davasız ve iyiniyetle kullanılış
-biçimine göre belirlenir.
+açıkça anlaşılmadığı hâllerde kapsam, tescilin sınırları içinde, irtifak
+hakkının kazanılma sebebine veya uzun süreden beri davasız ve iyiniyetle
+kullanılış biçimine göre belirlenir.
 
 3.
 İhtiyaçların değişmesi
@@ -12172,9 +12196,9 @@ Giderler
 
 Madde
 801-
-İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler,
-yenilemeler ve eklemeler için, hak sona erdiğinde, vekâletsiz iş görme hükümleri
-uyarınca tazminat isteyebilir.
+İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler, yenilemeler
+ve eklemeler için, hak sona erdiğinde, vekâletsiz iş görme hükümleri uyarınca
+tazminat isteyebilir.
 
 Malikin
 tazminat vermekten kaçınması hâlinde intifa hakkı sahibi, yaptığı eklemeleri,
@@ -12282,11 +12306,11 @@ Güvence verilmemesinin sonuçları
 
 Madde
 810-
-İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence göstermez
-veya hakkın konusu olan malı malikin itiraz etmesine rağmen hukuka aykırı
-şekilde kullanmaya devam ederse; sulh hâkimi, yeni bir karara kadar intifa
-hakkı sahibinin zilyetliğini kaldırarak hakkın konusunu atayacağı bir kayyıma
-tevdi eder.
+İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence
+göstermez veya hakkın konusu olan malı malikin itiraz etmesine rağmen hukuka
+aykırı şekilde kullanmaya devam ederse; sulh hâkimi, yeni bir karara kadar
+intifa hakkı sahibinin zilyetliğini kaldırarak hakkın konusunu atayacağı bir
+kayyıma tevdi eder.
 
 3.
 Defter tutma
@@ -12313,8 +12337,8 @@ Malın muhafazası, daha önemli işlerin yapılmasını veya
 bildirmek ve bunların gerçekleştirilmesine izin vermek zorundadır.
 
 Malikin
-gereken işleri yapmaktan kaçınması hâlinde intifa hakkı sahibi, bunları onun
-hesabına kendisi yapabilir.
+gereken işleri yapmaktan kaçınması hâlinde intifa hakkı sahibi, bunları onun hesabına
+kendisi yapabilir.
 
 b.
 Bakım ve işletme giderleri
@@ -12332,8 +12356,8 @@ göre bunları malike tazmin etmek zorundadır.
 Diğer
 bütün yükümlülükler malike aittir. Ancak, intifa hakkı sahibi bunların yerine
 getirilmesi için gereken parayı, istemi üzerine malike karşılıksız olarak
-sağlamazsa; malik, intifa hakkı konusu malı bu yükümlülüklerin yerine getirilmesi
-için kısmen veya tamamen paraya çevirebilir.
+sağlamazsa; malik, intifa hakkı konusu malı bu yükümlülüklerin yerine
+getirilmesi için kısmen veya tamamen paraya çevirebilir.
 
 c.
 Malvarlığı intifaında borçların faizi
@@ -12356,7 +12380,8 @@ ettirmekle yükümlüdür.
 
 Bu
 durumda veya intifa hakkının sigortalı bir mal üzerinde kurulmuş olması hâlinde
-intifa hakkı sahibi, hakkının devamı süresince sigorta primlerini ödemekle yükümlüdür.
+intifa hakkı sahibi, hakkının devamı süresince sigorta primlerini ödemekle
+yükümlüdür.
 
 V.
 Özel hâller
@@ -12397,8 +12422,8 @@ Bir orman üzerinde intifa hakkına sahip olan kimse, ondan özel kanun
 hükümlerine uygun bir işletme plânı çerçevesinde yararlanabilir.
 
 Malik
-ile intifa hakkı sahibi, işletme plânı yapılırken kendi haklarının
-gözetilmesini isteyebilirler.
+ile intifa hakkı sahibi, işletme plânı yapılırken kendi haklarının gözetilmesini
+isteyebilirler.
 
 Fırtına,
 kar, yangın, sel, zararlı böcek akını veya diğer sebepler yüzünden olağan
@@ -12412,9 +12437,9 @@ Tüketilebilen ve değeri biçilen şeyler
 
 Madde 819-
 Tüketilebilen
-şeylerin mülkiyeti, aksi kararlaştırılmadıkça, intifa hakkı sahibine geçer;
-ancak, intifa hakkı sahibi geri verme sırasında bu şeylerin o günkü değerini
-ödemekle yükümlü olur.
+şeylerin mülkiyeti, aksi kararlaştırılmadıkça, intifa hakkı sahibine geçer; ancak,
+intifa hakkı sahibi geri verme sırasında bu şeylerin o günkü değerini ödemekle
+yükümlü olur.
 
 İntifa
 hakkı sahibi, değeri biçilerek kendisine teslim olunan diğer taşınırlar
@@ -12455,8 +12480,8 @@ olan borçlu, borcunu ikisine birlikte ödemek veya hâkimin belirleyeceği yere
 tevdi etmek zorundadır.
 
 Yerine
-getirilen edimin konusu ve özellikle geri ödenecek ana para, intifa hakkına tâbi
-olur.
+getirilen edimin konusu ve özellikle geri ödenecek ana para, intifa hakkına
+tâbi olur.
 
 Alacaklı veya intifa hakkı sahibi, ana paranın güvenilir
 ve getiri sağlayan bir yere yatırılmasını isteyebilir.
@@ -12577,11 +12602,11 @@ Bedel
 Madde
 829-
 Taşınmaz maliki, aksi kararlaştırılmadıkça, kendisine kalan yapılar için
-üst hakkı sahibine bir bedel ödemez. Uygun bir bedel ödenmesi kararlaştırılmışsa,
-miktarı ve hesaplanış biçimi belirlenir. Ödenmesi kararlaştırılan bedel, üst
-hakkı kendileri için rehnedilmiş olan alacaklıların henüz ödenmemiş
-alacaklarının güvencesini oluşturur ve rızaları olmaksızın üst hakkı sahibine
-ödenmez.
+üst hakkı sahibine bir bedel ödemez. Uygun bir bedel ödenmesi
+kararlaştırılmışsa, miktarı ve hesaplanış biçimi belirlenir. Ödenmesi
+kararlaştırılan bedel, üst hakkı kendileri için rehnedilmiş olan alacaklıların
+henüz ödenmemiş alacaklarının güvencesini oluşturur ve rızaları olmaksızın üst
+hakkı sahibine ödenmez.
 
 Kararlaştırılan
 bedel ödenmez veya güvence altına alınmazsa, üst hakkı sahibi veya bu hak
@@ -12672,8 +12697,8 @@ VI.
 Sürenin üst sınırı
 
 Madde 836-
-Üst hakkı, bağımsız
-bir hak olarak en çok yüz yıl için kurulabilir.
+Üst hakkı,
+bağımsız bir hak olarak en çok yüz yıl için kurulabilir.
 
 Üst hakkı, süresinin dörtte üçü dolduktan sonra,
 kurulması için öngörülen şekle uyularak her zaman en çok yüz yıllık yeni bir
@@ -12688,7 +12713,8 @@ Başkasının arazisinde bulunan kaynak üzerinde irtifak hakkı, bu arazinin
 malikini suyun alınmasına ve akıtılmasına katlanmakla yükümlü kılar.
 
 Bu
-hak, aksi kararlaştırılmış olmadıkça, başkasına devredilebilir ve mirasçıya geçer.
+hak, aksi kararlaştırılmış olmadıkça, başkasına devredilebilir ve mirasçıya
+geçer.
 
 Kaynak
 hakkı, bağımsız nitelikte ve en az otuz yıl için kurulmuş ise tapu kütüğüne
@@ -12699,9 +12725,9 @@ Diğer irtifak hakları
 
 Madde
 838-
-Malik, taşınmazı üzerinde herhangi bir kişi veya topluluk lehine atış eğitimi
-veya spor alanı ya da geçit olarak kullanılmak gibi belirli bir yararlanmaya
-hizmet etmek üzere başka irtifak hakları da kurabilir.
+Malik, taşınmazı üzerinde herhangi bir kişi veya topluluk lehine atış
+eğitimi veya spor alanı ya da geçit olarak kullanılmak gibi belirli bir
+yararlanmaya hizmet etmek üzere başka irtifak hakları da kurabilir.
 
 Bu
 haklar, aksi kararlaştırılmış olmadıkça, başkasına devredilemez ve mirasçılara
@@ -12871,8 +12897,8 @@ Yükün niteliği
 
 Madde
 849-
-Taşınmaz maliki değişirse yeni malik, başka bir işleme gerek bulunmaksızın
-taşınmaz yükünün yükümlüsü olur.
+Taşınmaz maliki değişirse yeni malik, başka bir işleme gerek
+bulunmaksızın taşınmaz yükünün yükümlüsü olur.
 
 Yüklü
 taşınmazın bölünmesinin taşınmaz yüküne etkisi hakkında irat senedine ilişkin
@@ -12930,15 +12956,15 @@ Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının hangi y
 paralar üzerinden kurulabileceği Cumhurbaşkanınca
 
 belirlenir.
-[40]
+[41]
 
 2.
 Faiz
 
 Madde
 852-
-Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını diledikleri
-gibi kararlaştırabilirler.
+Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını
+diledikleri gibi kararlaştırabilirler.
 
 III.
 Taşınmaz
@@ -13086,8 +13112,8 @@ Kira bedelleri
 
 Madde
 863-
-Kiraya verilmiş taşınmaz üzerindeki rehnin kapsamına, borçluya karşı rehnin
-paraya çevrilmesi yoluyla takibe başlanmasından veya borçlunun iflâsının
+Kiraya verilmiş taşınmaz üzerindeki rehnin kapsamına, borçluya karşı
+rehnin paraya çevrilmesi yoluyla takibe başlanmasından veya borçlunun iflâsının
 ilânından başlayarak rehnin paraya çevrilmesi anına kadar işleyen kira
 bedelleri de girer.
 
@@ -13237,9 +13263,9 @@ Madde
 872-
 Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehin
 mevcut değilse veya borçlu önceki bir rehin senedi üzerinde tasarruf etmemişse
-ya da önceki sırada bulunan rehinli alacak, o derece için tescilde belirtilen
-miktardan az ise; taşınmazın paraya çevrilmesinde satış bedeli, boş derece
-hesaba katılmaksızın sonraki alacaklılara sıralarına göre dağıtılır.
+ya da önceki sırada bulunan rehinli alacak, o derece için tescilde belirtilen miktardan
+az ise; taşınmazın paraya çevrilmesinde satış bedeli, boş derece hesaba
+katılmaksızın sonraki alacaklılara sıralarına göre dağıtılır.
 
 VII.
 Rehnin paraya çevrilmesi
@@ -13302,8 +13328,7 @@ Madde
 876-
 Alacaklı, rehinli taşınmazın korunması için zorunlu masraf yapmışsa ve
 özellikle malikin borçlu olduğu sigorta primlerini ödemişse, bundan doğan
-alacakları tescile gerek olmaksızın aynen rehinli alacağı gibi güvenceden
-yararlanır.
+alacakları tescile gerek olmaksızın aynen rehinli alacağı gibi güvenceden yararlanır.
 
 VIII.
 Arazinin iyileştirilmesi hâlinde rehin hakkı
@@ -13352,10 +13377,10 @@ Alacaklının temsili
 
 Madde
 880-
-Acele karar alınması gereken hâllerde, borçlunun veya diğer bir
-ilgilinin istemesi üzerine, şahsen hareket etmesi kanun hükmü gereği olup da
-adı veya nerede olduğu bilinmeyen alacaklıya, rehinli taşınmazın bulunduğu yer
-sulh hâkimi tarafından bir kayyım atanır.
+Acele karar alınması gereken hâllerde, borçlunun veya diğer bir ilgilinin
+istemesi üzerine, şahsen hareket etmesi kanun hükmü gereği olup da adı veya
+nerede olduğu bilinmeyen alacaklıya, rehinli taşınmazın bulunduğu yer sulh
+hâkimi tarafından bir kayyım atanır.
 
 İKİNCİ AYIRIM
 
@@ -13380,9 +13405,9 @@ Kuruluş
 
 Madde 882-
 Miktarı belirli
-olmayan veya değişebilen alacaklar da, belli rehin derecesine yerleştirilir ve tescilden
-sonra alacak miktarında meydana gelecek değişmelere bakılmaksızın sırasını
-korur.
+olmayan veya değişebilen alacaklar da, belli rehin derecesine yerleştirilir ve
+tescilden sonra alacak miktarında meydana gelecek değişmelere bakılmaksızın
+sırasını korur.
 
 Tapu
 memuru istem üzerine alacaklıya ipoteği gösteren bir belge verir. Sadece
@@ -13404,18 +13429,19 @@ terkin ettirmesini isteyebilir.
 
 (Ek
 fıkra:4/7/2019-7181/19 md.)
-İpotek süreli olarak kurulmuşsa, sürenin bitiminden
-itibaren otuz gün içinde ipotekli taşınmaz üzerinde 9/6/1932 tarihli
-ve 2004 sayılı İcra ve İflas Kanununun 150/c maddesinde belirtilen şerhin
-konulmaması hâlinde ipotek, malikin talebiyle tapu müdürlüğünce terkin edilir.
+İpotek süreli olarak kurulmuşsa, sürenin
+bitiminden itibaren otuz gün içinde ipotekli taşınmaz
+üzerinde 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun
+150/c maddesinde belirtilen şerhin konulmaması hâlinde ipotek, malikin
+talebiyle tapu müdürlüğünce terkin edilir.
 
 2.
 Borçtan sorumlu olmayan malikin hakkı
 
 Madde
 884-
-Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki, borçluya ait
-koşullar içinde borcu ödeyerek taşınmazın üzerindeki ipoteğin kaldırılmasını
+Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki, borçluya ait koşullar
+içinde borcu ödeyerek taşınmazın üzerindeki ipoteğin kaldırılmasını
 isteyebilir.
 
 Alacak,
@@ -13429,9 +13455,9 @@ Koşulları ve usulü
 
 Madde
 885-
-Değerini aşan bir borç için ipotek edilmiş olan bir taşınmazı edinen kimse,
-borçtan şahsen sorumlu değilse, icra takibine başlanmadan önce, satın alma
-bedelini ödeyerek taşınmazı ipotekten kurtarabilir. Taşınmazı karşılıksız
+Değerini aşan bir borç için ipotek edilmiş olan bir taşınmazı edinen
+kimse, borçtan şahsen sorumlu değilse, icra takibine başlanmadan önce, satın
+alma bedelini ödeyerek taşınmazı ipotekten kurtarabilir. Taşınmazı karşılıksız
 olarak edinen kimse de, takdir edeceği bedeli ödeyerek bu hakkı kullanabilir.
 
 İpotekten
@@ -13463,10 +13489,10 @@ aksi hâlde açık artırmayı isteyen alacaklıya ait olur.
 Ödeme istemi
 
 Madde 887-
-İpotekli
-taşınmazın maliki borçtan şahsen sorumlu değilse, alacaklının ödeme isteminin
-ona karşı etkili olması, bu istemin hem borçluya, hem kendisine karşı yapılmış
-olmasına bağlıdır.
+İpotekli taşınmazın
+maliki borçtan şahsen sorumlu değilse, alacaklının ödeme isteminin ona karşı
+etkili olması, bu istemin hem borçluya, hem kendisine karşı yapılmış olmasına
+bağlıdır.
 
 C.
 Hükmü
@@ -13503,9 +13529,9 @@ tebliğinden başlayarak bir ay içinde yazılı bildirimde bulunmak suretiyle
 alacağın bir yıl içinde ödenmesini borçludan isteyebilir.
 
 Yeni
-malikler, kendilerine ait taşınmaza düşen borcu yüklendikleri takdirde alacaklı,
-kendisine başvurma hakkını saklı tuttuğunu önceki borçluya bir yıl içinde
-yazılı olarak bildirmezse, borçlu borcundan kurtulur.
+malikler, kendilerine ait taşınmaza düşen borcu yüklendikleri takdirde
+alacaklı, kendisine başvurma hakkını saklı tuttuğunu önceki borçluya bir yıl
+içinde yazılı olarak bildirmezse, borçlu borcundan kurtulur.
 
 3.
 Borcu yüklenmenin bildirilmesi
@@ -13524,8 +13550,8 @@ Alacağın devri
 
 Madde
 891-
-İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, devrin
-tapu kütüğüne tescil edilmesine bağlı değildir.
+İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması,
+devrin tapu kütüğüne tescil edilmesine bağlı değildir.
 
 D.
 Kanunî ipotek
@@ -13552,8 +13578,8 @@ Aşağıdaki alacaklılar, kanunî ipotek hakkının tescilini isteyebilirler:
 Satıştan doğan alacağı için satılan taşınmaz üzerinde satıcı,
 
 2.
-Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için birlikte
-mirasçı olanlar veya diğer elbirliği ortakları,
+Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için
+birlikte mirasçı olanlar veya diğer elbirliği ortakları,
 
 3.
 Bir taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya
@@ -13616,8 +13642,8 @@ ve yüklenicilerin zararına olacağının alacaklılar tarafından bilinebilir
 olmasına bağlıdır.
 
 Önceki sırada bulunan alacaklılar, rehin senetlerini
-devrederlerse, bu devir yüzünden zanaatkârlar ve yüklenicilerin elde edemedikleri
-alacak miktarını tazmin etmekle yükümlü olurlar.
+devrederlerse, bu devir yüzünden zanaatkârlar ve yüklenicilerin elde
+edemedikleri alacak miktarını tazmin etmekle yükümlü olurlar.
 
 İşe
 başlandığı, hak sahibi, zanaatkârlar veya yüklenicilerden birinin bildirimi
@@ -13657,9 +13683,9 @@ Muacceliyet bildirimi
 
 Madde
 900-
-İpotekli borç senedindeki alacak, aksi kararlaştırılmış olmadıkça, faizlerin
-ödenmesi gereken tarihte, bu tarihten en az altı ay önce alacaklı veya borçlu
-tarafından diğer tarafa yapılacak bildirimle muaccel olur.
+İpotekli borç senedindeki alacak, aksi kararlaştırılmış olmadıkça,
+faizlerin ödenmesi gereken tarihte, bu tarihten en az altı ay önce alacaklı
+veya borçlu tarafından diğer tarafa yapılacak bildirimle muaccel olur.
 
 IV.
 Malikin durumu
@@ -13786,8 +13812,8 @@ Madde
 İpotekli borç senedinin veya irat senedinin düzenlenmesiyle birlikte
 dayanağı olan borç ilişkisi yenileme yoluyla sona erer.
 
-Bunun aksine yapılan sözleşme, sadece tarafları ve iyiniyetli
-olmayan üçüncü kişileri etkiler.
+Bunun aksine yapılan sözleşme, sadece tarafları ve
+iyiniyetli olmayan üçüncü kişileri etkiler.
 
 3.
 Tescil ve rehin senedi
@@ -13815,8 +13841,8 @@ Senetler
 üzerinde tapu memuru ile yetkili Hazine temsilcisinin imzaları bulunur.
 
 Bu
-senetler, alacaklı veya temsilcisine ancak borçlunun ve yüklü taşınmazın malikinin
-yazılı rızaları üzerine verilebilir.
+senetler, alacaklı veya temsilcisine ancak borçlunun ve yüklü taşınmazın
+malikinin yazılı rızaları üzerine verilebilir.
 
 c.
 Rehin senedinin şekli
@@ -13825,7 +13851,7 @@ Madde
 913-
 İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca
 çıkarılan yönetmelikle belirlenir.
-[41]
+[42]
 
 4.
 Alacaklının belirlenmesi
@@ -13964,8 +13990,8 @@ Alacağın devri
 
 Madde
 924-
-İpotekli borç senedindeki veya irat senedindeki alacağın devri, rehin
-senedinin teslim edilmesine bağlıdır.
+İpotekli borç senedindeki veya irat senedindeki alacağın devri, rehin senedinin
+teslim edilmesine bağlıdır.
 
 Rehin
 senedinin nama yazılı olması hâlinde devralanın adı ve devir işlemi senet
@@ -14020,8 +14046,8 @@ VI.
 
 Madde
 928 -
-Borcun tamamını ödeyen borçlu, alacaklıdan senedin iptal edilmemiş
-olarak geri verilmesini isteyebilir.
+Borcun tamamını ödeyen borçlu, alacaklıdan senedin iptal edilmemiş olarak
+geri verilmesini isteyebilir.
 
 VII.
 Hukukî ilişkide değişiklik
@@ -14036,9 +14062,9 @@ Tapu
 memuru, bu tür değişiklikleri senet üzerine de yazar.
 
 Meydana
-gelen değişikliklerin tescil edilmemiş olması hâlinde, senette yazılı yıllık edimlerin
-ödenmiş olması dışındaki değişiklikler senedi iyiniyetle kazanan kimseye karşı
-ileri sürülemez.
+gelen değişikliklerin tescil edilmemiş olması hâlinde, senette yazılı yıllık
+edimlerin ödenmiş olması dışındaki değişiklikler senedi iyiniyetle kazanan
+kimseye karşı ileri sürülemez.
 
 DÖRDÜNCÜ AYIRIM
 
@@ -14199,7 +14225,7 @@ fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz
 
 2.
 Ayrık durumlar
-[42]
+[43]
 
 Madde
 940-
@@ -14210,8 +14236,8 @@ kurulabilir. Bu amaçla tutulacak sicil Cumhurbaşkanınca çıkarılan yönetme
 belirlenir.
 
 Gerçek
-veya tüzel kişilerin alacaklarının güvence altına alınması için, kanun
-gereğince bir sicile tescili zorunlu olan taşınır mallar üzerinde, zilyetlik
+veya tüzel kişilerin alacaklarının güvence altına alınması için, kanun gereğince
+bir sicile tescili zorunlu olan taşınır mallar üzerinde, zilyetlik
 devredilmeden de, taşınır malın kayıtlı bulunduğu sicile yazılmak suretiyle
 rehin kurulabilir. Rehnin kurulmasına ilişkin diğer hususlar Cumhurbaşkanınca
 çıkarılan yönetmelikle belirlenir.
@@ -14252,8 +14278,8 @@ Geri verme borcu
 
 Madde
 944 -
-Alacağın ödenmesi suretiyle veya başka bir sebeple rehin hakkı sona erince
-alacaklı, rehinli taşınırı hak sahibine geri vermekle yükümlüdür.
+Alacağın ödenmesi suretiyle veya başka bir sebeple rehin hakkı sona
+erince alacaklı, rehinli taşınırı hak sahibine geri vermekle yükümlüdür.
 
 Alacaklı, alacağının tamamını almadıkça rehinli taşınırı
 veya onun bir kısmını geri vermek zorunda değildir.
@@ -14298,7 +14324,8 @@ kararlaştırılmış olmadıkça alacaklı, rehinli taşınırın doğal ürün
 bütünleyici parçası olmaktan çıkınca malike vermekle yükümlüdür.
 
 Rehin,
-paraya çevirme sırasında bütünleyici parça niteliğindeki doğal ürünleri de kapsar.
+paraya çevirme sırasında bütünleyici parça niteliğindeki doğal ürünleri de
+kapsar.
 
 3.
 Rehnin sırası
@@ -14355,8 +14382,8 @@ Borç ödemeden aciz
 
 Madde
 952-
-Alacaklı, borçlunun ödemeden acze düşmesi hâlinde, alacağı muaccel olmasa
-bile, hapis hakkını kullanabilir.
+Alacaklı, borçlunun ödemeden acze düşmesi hâlinde, alacağı muaccel
+olmasa bile, hapis hakkını kullanabilir.
 
 Borç
 ödemeden aciz, taşınırın tesliminden sonra meydana gelmiş veya daha önce
@@ -14432,9 +14459,9 @@ Emtiayı temsil eden kıymetli evrakın rehnedilmesiyle emtia üzerinde
 rehin hakkı doğar.
 
 Emtiayı
-temsil eden senetten başka özel bir rehin senedi (varant) düzenlenmişse, rehinli
-alacak miktarının ve muaccel olduğu tarihin senet üzerine yazılmış olması
-koşuluyla, rehin senedinin rehnedilmiş olması yeterlidir.
+temsil eden senetten başka özel bir rehin senedi (varant) düzenlenmişse,
+rehinli alacak miktarının ve muaccel olduğu tarihin senet üzerine yazılmış
+olması koşuluyla, rehin senedinin rehnedilmiş olması yeterlidir.
 
 IV.
 Art rehin
@@ -14484,8 +14511,8 @@ Rehin
 kendisine ihbar edilmiş olan borçlu, borcunu asıl alacaklıya veya rehin
 alacaklısına ancak diğerinin rızasıyla ödeyebilir.
 
-Bu rızanın
-bulunmaması hâlinde borçlu, borcunu tevdi etmekle yükümlüdür.
+Bu
+rızanın bulunmaması hâlinde borçlu, borcunu tevdi etmekle yükümlüdür.
 
 ÜÇÜNCÜ AYIRIM
 
@@ -14500,8 +14527,8 @@ I.
 
 Madde
 962-
-İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak isteyenler,
-yetkili makamdan izin almak zorundadırlar.
+İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak
+isteyenler, yetkili makamdan izin almak zorundadırlar.
 
 II.
 Süre
@@ -14534,7 +14561,8 @@ Rehnin paraya çevrilmesi
 Madde
 965-
 Borç vadesinde ödenmezse, ödünç veren, borçluya önceden noter aracılığı
-ile borcunu ödemesini ihtar ettikten sonra rehni icra yoluyla paraya çevirtebilir.
+ile borcunu ödemesini ihtar ettikten sonra rehni icra yoluyla paraya
+çevirtebilir.
 
 Borçlu,
 ödünç verene karşı kişisel olarak sorumlu değildir.
@@ -14691,8 +14719,8 @@ Hazırlar arasında
 
 Madde
 977-
-Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene
-teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti
+Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların,
+edinene teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti
 kullanacak duruma gelmesi hâlinde devredilmiş olur.
 
 II.
@@ -14803,8 +14831,8 @@ Fer'î zilyetlikte karine
 
 Madde
 986-
-Bir taşınıra malik olma iradesi bulunmaksızın zilyet olan kimse, taşınırı
-kendisinden iyiniyetle aldığı kişinin mülkiyet karinesine dayanabilir.
+Bir taşınıra malik olma iradesi bulunmaksızın zilyet olan kimse,
+taşınırı kendisinden iyiniyetle aldığı kişinin mülkiyet karinesine dayanabilir.
 
 Taşınıra
 bir sınırlı aynî hak veya kişisel hak iddiasıyla zilyet bulunan kimsenin iddia
@@ -14816,8 +14844,8 @@ Davaya karşı savunma
 
 Madde
 987-
-Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün hakka sahip
-olduğu karinesine dayanabilir.
+Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün hakka
+sahip olduğu karinesine dayanabilir.
 
 Gasp
 veya saldırıya ilişkin hükümler saklıdır.
@@ -14844,9 +14872,9 @@ Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir
 içinde taşınır davası açabilir.
 
 Bu
-taşınır, açık artırmadan veya pazardan ya da benzeri eşya satanlardan iyiniyetle
-edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere karşı taşınır davası,
-ancak ödenen bedelin geri verilmesi koşuluyla açılabilir.
+taşınır, açık artırmadan veya pazardan ya da benzeri eşya satanlardan
+iyiniyetle edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere karşı
+taşınır davası, ancak ödenen bedelin geri verilmesi koşuluyla açılabilir.
 
 Diğer
 konularda iyiniyetli zilyedin haklarına ilişkin hükümler uygulanır.
@@ -14965,14 +14993,14 @@ Madde
 Taşınmazlar üzerindeki hakları göstermek üzere tapu sicili tutulur.
 
 Tapu
-sicili, tapu kütüğü ve kat mülkiyeti kütüğü ile bunları tamamlayan yevmiye
-defteri ve belgeler ile plânlardan oluşur.
+sicili, tapu kütüğü ve kat mülkiyeti kütüğü ile bunları tamamlayan yevmiye defteri
+ve belgeler ile plânlardan oluşur.
 
 Sicilin örneği, nasıl tutulacağı ve yardımcı siciller
 Cumhurbaşkanınca
 çıkarılan yönetmelikle
 belirlenir.
-[43]
+[44]
 
 2.
 Taşınmazların kaydedilmesi
@@ -15001,7 +15029,7 @@ koşullar ve usul
 Cumhurbaşkanınca çıkarılan yönetmelikle
 belirlenir. Süreklilik koşulunun gerçekleşmesi
 için hakkın süresiz veya en az otuz yıl süreli olması gerekir.
-[44]
+[45]
 
 Kat
 mülkiyetine konu olan bağımsız bölümlerin taşınmaz olarak kaydı, özel kanun
@@ -15034,7 +15062,7 @@ izler.
 Bir
 taşınmazın bölünmesi veya birden çok taşınmazın birleştirilmesi hâlinde
 uyulacak usul Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
-[45]
+[46]
 
 Kütüğün
 her sayfasındaki özel sütunlara şunlar tescil edilir:
@@ -15066,8 +15094,8 @@ Kat mülkiyeti kütüğü
 
 Madde
 1001-
-Kat mülkiyetine konu olan bağımsız bölümler, ayrıca tutulacak kat mülkiyeti
-kütüğüne yazılır.
+Kat mülkiyetine konu olan bağımsız bölümler, ayrıca tutulacak kat
+mülkiyeti kütüğüne yazılır.
 
 Özel
 kanun hükümleri saklı kalmak üzere, kütükte yapılacak işlemler hakkında tapu
@@ -15078,8 +15106,8 @@ Yevmiye defteri ve belgeler
 
 Madde
 1002-
-Tapu kütüğüne tescil istemleri, isteyenin kimliği ve istemin konusu
-belirtilerek istem sırasına göre derhâl yevmiye defterine yazılır.
+Tapu kütüğüne tescil istemleri, isteyenin kimliği ve istemin konusu belirtilerek
+istem sırasına göre derhâl yevmiye defterine yazılır.
 
 Bu
 işlemlerin dayanağı olan belgeler, özenle sıraya konulur ve saklanır.
@@ -15094,7 +15122,7 @@ plân esas alınır.
 
 Plânların
 nasıl hazırlanacağı Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
-[46]
+[47]
 
 II.
 Tapu sicilinin tutulması
@@ -15242,7 +15270,7 @@ Taşınmaz
 mülkiyetine ilişkin kamu hukuku kısıtlamalarının beyanlar sütununa yazılması ve
 bu sütuna yazılabilecek diğer hususlar Cumhurbaşkanınca çıkarılan yönetmelikle
 belirlenir.
-[47]
+[48]
 
 Özel
 kanun hükümleri saklıdır.
@@ -15322,7 +15350,7 @@ kaydın bir örneği isteyen ilgiliye verilir.
 Tescil
 ve terkin ile verilecek örneklerin şekli Cumhurbaşkanınca çıkarılan
 yönetmelikle belirlenir.
-[48]
+[49]
 
 2.
 Taşınmaz lehine irtifaklarda
@@ -15458,9 +15486,9 @@ Düzeltme,
 eski tescilin terkini ve yeni bir tescilin yapılması biçiminde de olabilir.
 
 Tapu
-memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönetmelik
-uyarınca re'sen düzeltir.
-[49]
+memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönetmelik uyarınca
+re'sen düzeltir.
+[50]
 
 Yürürlükten
 kaldırılan kanun
@@ -15484,6 +15512,7 @@ değişiklikten önceki hükümlerin uygulanmasına devam olunur.
 (2) Bu maddeyi ihdas eden Kanunla 4721 sayılı Kanunun 734 üncü maddesinde
 yapılan değişiklikler, bu değişikliklerin yürürlüğe girdiği tarihten önce
 açılmış olan davalar hakkında da uygulanır.
+[51]
 
 Yürürlük
 
@@ -15505,8 +15534,8 @@ TARİHLİ VE 4721 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
 
 Madde 36 -
 Bu Kanunla
-değiştirilen Türk Medenî Kanununun 92 nci maddesi hükmü, dernek ve vakıf dışındaki
-diğer kâr amacı gütmeyen kuruluşlar hakkında da uygulanır.
+değiştirilen Türk Medenî Kanununun 92 nci maddesi hükmü, dernek ve vakıf
+dışındaki diğer kâr amacı gütmeyen kuruluşlar hakkında da uygulanır.
 
 4721 SAYILI KANUNA EK VE
 DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
@@ -15582,8 +15611,8 @@ Anayasa Mahkemesinin
 
 7/10/2009
 
-Anayasa Mahkemesinin
-2/7/2009 tarihli ve E.: 2005/114, K.: 2009/105 sayılı kararı
+Anayasa Mahkemesinin 2/7/2009
+tarihli ve E.: 2005/114, K.: 2009/105 sayılı kararı
 
 321
 
@@ -15611,8 +15640,8 @@ Anayasa Mahkemesinin
 
 303
 
-7/2/2012 tarihinden başlayarak
-bir yıl sonra
+7/2/2012 tarihinden
+başlayarak bir yıl sonra
 
 6462
 
@@ -15724,8 +15753,8 @@ Anayasa Mahkemesinin
 
 409, 436
 
-27/6/2023 tarihinden başlayarak
-9 ay sonra
+27/6/2023 tarihinden
+başlayarak 9 ay sonra
 
 (27/3/2024)
 
@@ -15742,8 +15771,8 @@ Anayasa Mahkemesi’nin
 
 12/3/2024
 
-Anayasa Mahkemesi’nin 26/7/2023
-tarihli ve E.: 2023/3, K.: 2023/139 sayılı Kararı
+Anayasa Mahkemesi’nin
+26/7/2023 tarihli ve E.: 2023/3, K.: 2023/139 sayılı Kararı
 
 314
 
@@ -15752,8 +15781,8 @@ yayımlanmasından başlayarak dokuz ay sonra
 
 (19/7/2024)
 
-Anayasa Mahkemesinin
-26/7/2023 Tarihli ve E: 2023/37, K: 2023/140 Sayılı Kararı
+Anayasa Mahkemesinin 26/7/2023
+Tarihli ve E: 2023/37, K: 2023/140 Sayılı Kararı
 
 286
 
@@ -15834,20 +15863,21 @@ yoksa,” ibaresi madde metninden çıkarılmıştır.
 [8]
 
 30/7/2003 tarihli ve 4963
-sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan "altı ay önceden"
-ibaresi madde metninden çıkarılmıştır.
+sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan "altı ay
+önceden" ibaresi madde metninden çıkarılmıştır.
 
 [9]
 (4/11/2004 tarihli ve 5253 sayılı
-Kanunun 38 inci maddesinde; “yerel bir gazete ile ilân edilir ve aynı zamanda bir
-yazıyla” ibareleri madde metninden çıkarılmıştır.) hükmüne istinaden bu arada
-yer alan “yerel bir gazete ile ilân edilir ve aynı zamanda üyelere bir yazıyla”
-şeklindeki ibare, madde metninden çıkarılmıştır.
+Kanunun 38 inci maddesinde; “yerel bir gazete ile ilân edilir ve aynı zamanda
+bir yazıyla” ibareleri madde metninden çıkarılmıştır.) hükmüne istinaden bu
+arada yer alan “yerel bir gazete ile ilân edilir ve aynı zamanda üyelere bir
+yazıyla” şeklindeki ibare, madde metninden çıkarılmıştır.
 
 [10]
 4/11/2004 tarihli ve 5253 sayılı
-Kanunun 38 inci maddesiyle bu maddede yer alan “uluslararası alanda işbirliği yapılmasında
-yarar görülen hallerde ve karşılıklı olmak koşuluyla” madde metninden çıkarılmıştır.
+Kanunun 38 inci maddesiyle bu maddede yer alan “uluslararası alanda işbirliği
+yapılmasında yarar görülen hallerde ve karşılıklı olmak koşuluyla” madde
+metninden çıkarılmıştır.
 
 [11]
 
@@ -15857,8 +15887,8 @@ koşuluyla” ibaresi madde metninden çıkarılmıştır.
 
 [12]
 2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzük” ibaresi “Cumhurbaşkanınca
-çıkarılan yönetmelik” şeklinde değiştirilmiştir.
+KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzük” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.
 
 [13]
 Anayasa Mahkemesi’nin 27/11/2007
@@ -15876,11 +15906,11 @@ Kanunun 19 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer ala
 “hâkim” ibarelerinden sonra gelmek üzere “veya noter” ibareleri eklenmiştir.
 
 [16]
-Anayasa Mahkemesinin 4/6/2026
-tarihli ve E.: 2025/156, K.: 2026/131 sayılı Kararı ile bu fıkrada yer alan “…süresiz
-olarak…” ibaresi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından
-başlayarak dokuz ay sonra (30/6/2027) yürürlüğe gireceği hüküm altına
-alınmıştır.
+Anayasa Mahkemesinin
+4/6/2026 tarihli ve E.: 2025/156, K.: 2026/131 sayılı Kararı ile bu fıkrada yer
+alan “…süresiz olarak…” ibaresi iptal edilmiştir. Kararın Resmî Gazete’de
+yayımlanmasından başlayarak dokuz ay sonra (30/6/2027) yürürlüğe gireceği hüküm
+altına alınmıştır.
 
 [17]
 6/2/2014 tarihli ve 6518 sayılı
@@ -15899,14 +15929,14 @@ Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Çocuk,” ibaresi “Ana do�
 
 [20]
 Anayasa Mahkemesi’nin 10/10/2013
-tarihli ve E.: 2013/62, K.: 2013/115 sayılı Kararı ile bu fıkrada yer alan “...her
-hâlde doğumdan başlayarak beş yıl...” ibaresi, iptal edilmiştir.
+tarihli ve E.: 2013/62, K.: 2013/115 sayılı Kararı ile bu fıkrada yer alan
+“...her hâlde doğumdan başlayarak beş yıl...” ibaresi, iptal edilmiştir.
 
 [21]
 Anayasa Mahkemesi’nin 15/3/2012
 tarihli ve E.: 2011/116, K.: 2012/39 sayılı Kararı ile bu fıkra “çocuk”
-yönünden iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 21/7/2012 tarihinden
-başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
+yönünden iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 21/7/2012
+tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
 
 [22]
 25/4/2013 tarihli ve 6462 sayılı
@@ -15919,13 +15949,14 @@ Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.:
 2012/35, K.: 2012/203 sayılı Kararı ile
 b
 u maddede yer
-alan “…ve her hâlde evlât edinme işleminin üzerinden beş yıl…” ibaresi iptal edilmiştir.
+alan “…ve her hâlde evlât edinme işleminin üzerinden beş yıl…” ibaresi iptal
+edilmiştir.
 
 [24]
 2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” ve ikinci fıkrasında yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+KHK’nin 139 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar
+Kurulunca” ibaresi “Cumhurbaşkanınca” ve ikinci fıkrasında yer alan “tüzükle”
+ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [25]
 Anayasa Mahkemesi’nin 2/7/2009
@@ -15933,19 +15964,19 @@ tarihli ve E.: 2005/114, K.: 2009/105 sayılı Kararı ile; bu maddenin birinci
 cümlesinde yer alan “… evli değilse ananın …” ibaresi iptal edilmiştir.
 
 [26]
-25/4/2013 tarihli ve 6462 sayılı
-Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli”
-şeklinde değiştirilmiştir.
+25/4/2013 tarihli ve 6462 sayılı Kanunun
+1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde
+değiştirilmiştir.
 
 [27]
 25/4/2013 tarihli ve 6462 sayılı
-Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlığı” ibaresi “engelliliği”
-şeklinde değiştirilmiştir.
+Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlığı” ibaresi
+“engelliliği” şeklinde değiştirilmiştir.
 
 [28]
 25/4/2013 tarihli ve 6462 sayılı
-Kanunun 1 inci maddesiyle, bu bentte yer alan ““özürleri” ibaresi “engelleri” şeklinde
-değiştirilmiştir.
+Kanunun 1 inci maddesiyle, bu bentte yer alan ““özürleri” ibaresi “engelleri”
+şeklinde değiştirilmiştir.
 
 [29]
 2/7/2018 tarihli ve 700 sayılı
@@ -15978,12 +16009,13 @@ KHK’nin 139 uncu maddesiyle, bu bentte yer alan “tüzükte” ibaresi
 [33]
 31/3/2011
 tarihli ve 6217 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “sulh
-mahkemesince” ibaresinden sonra gelmek üzere “veya noterlikçe” ibaresi eklenmiştir.
+mahkemesince” ibaresinden sonra gelmek üzere “veya noterlikçe” ibaresi
+eklenmiştir.
 
 [34]
-2/7/2018 tarihli ve 700 sayılı KHK’nin
-139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi “Cumhurbaşkanınca
-çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [35]
 2/7/2018 tarihli ve 700 sayılı
@@ -16004,8 +16036,9 @@ tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararı ile bu fıkrada yer alan �
 
 13/10/2022 tarihli ve 7418 sayılı Kanunun 28
 inci maddesiyle; bu fıkrada
-yer alan “gazeteyle bir defa”
-ibaresi “bir gazete ve bir internet haber sitesinde” şeklinde değiştirilmiştir.
+yer alan “gazeteyle bir
+defa” ibaresi “bir gazete ve bir internet haber sitesinde” şeklinde
+değiştirilmiştir.
 
 [39]
 24/12/2025 tarihli ve 7571 sayılı
@@ -16014,30 +16047,29 @@ yer alan “iki yıl” ibaresi “bir
 yıl” şeklinde değiştirilmiştir.
 
 [40]
+Anayasa Mahkemesinin 16/7/2026
+tarihli ve E.: 2026/23, K.: 2026/162 sayılı Kararı ile bu fıkra iptal edilmiş.
+Bu Kararın yayımı tarihinden başlayarak dokuz ay sonra (6/8/2027) tarihinde
+yürürlüğe gireceği hüküm altına alınmıştır.
+
+[41]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
-[41]
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
 [42]
 2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer
-alan “tüzükle” ibareleri “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde
-değiştirilmiştir.
-
-[43]
-2/7/2018 tarihli ve 700 sayılı KHK’nin
-139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi “Cumhurbaşkanınca
+KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi “Cumhurbaşkanınca
 çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-[44]
+[43]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer
+alan “tüzükle” ibareleri “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
-2/7/2018 tarihli ve 700
-sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+[44]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [45]
@@ -16047,22 +16079,35 @@ sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” 
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 [46]
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
-[47]
-2/7/2018 tarihli ve 700 sayılı
-KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-
-[48]
 
 2/7/2018 tarihli ve 700
 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
+[47]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
+[48]
+2/7/2018 tarihli ve 700 sayılı
+KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
 [49]
+
+2/7/2018 tarihli ve 700
+sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
+
+[50]
 2/7/2018 tarihli ve 700 sayılı
 KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzük kuralları” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.
+
+[51]
+
+Anayasa Mahkemesinin 16/7/2026 tarihli ve E.: 2026/23, K.: 2026/162
+sayılı Kararı ile bu fıkra iptal edilmiş. Bu Kararın yayımı tarihinden
+başlayarak dokuz ay sonra (6/8/2027) tarihinde yürürlüğe gireceği hüküm altına
+alınmıştır.
