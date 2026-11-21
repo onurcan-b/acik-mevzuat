@@ -1331,14 +1331,8 @@ olabilecek diğer ödemeler iş yeri sahiplerine ve işletenlerine aittir.
 Umumi kadınlar hakkında ahkam
 
 Madde
-128 –
-Sıhhat ve İçtimai Muavenet ve Dahiliye
-Vekaletleri müştereken bir yönetmelik neşrederek umumi kadınlar ve evlerin tabi
-olacakları hükümler ve bu fuhuş yüzünden intişar eden hastalıkların ve bilhassa
-zührevi hastalıkların sirayetine mani olacak tedbirleri tesbit ve yine
-müştereken tatbik ederler.Umumi kadınlarla umumi evler ve bunlara benzer
-mahaller bu yönetmelikte tarif ve tahdit olunacaktır.
-[19]
+128 – (İptal birinci ve ikinci cümle:Anayasa Mahkemesinin 16/7/2026 tarihli
+ve E.: 2025/144; K.: 2026/164 sayılı Kararı ile.) (…)
 
 Madde
 129 –
@@ -1361,7 +1355,7 @@ karşı tedbir ittihazı masarifi belediyelere aittir. Bu husus için umumi evle
 sahiplerinden 128 inci maddede zikredilen yönetmelikte gösterilecek bir ücret
 alınabilirse de umumi kadınlardan şahsan her nevi resim veya ücret cibayeti
 usulü mülgadır.
-[20]
+[19]
 
 Madde
 132 –
@@ -1456,7 +1450,7 @@ ilaç ve tıbbi levazım ile hasta tedavisi için tefrik edilen mahaller ve bu
 gemilerin şerait ve yolcu mahallerinin sıhhi vasıfları ve izdihama mani olacak
 ve yolcuların selamet ve emniyetini temin eyleyecek tedbirler Sıhhat ve İçtimai
 Muavenet ve İktisat Vekaletlerince müştereken bir yönetmelik ile tesbit olunur.
-[21]
+[20]
 
 Madde
 142 –
@@ -1547,7 +1541,7 @@ arasında intişar ve tatbikını teshil edecek tedbirleri ittihaz eyler.
 
 Madde 152 –
 (....)
-[22]
+[21]
 
 çocuk düşürmeğe vasıta olup Sıhhat ve İçtimai Muavenet Vekaletince tayin
 olunacak alat ve levazımın ithal ve satışı memnudur. Bunların tababette
@@ -1755,7 +1749,7 @@ Madde
 180 – (Mülga: 11/10/2011-KHK-663/58 md.)
 
 SEKİZİNCİ BAP
-[23]
+[22]
 
 Yenilecek ve içilecek şeyler ile
 kullanılacak bazı maddeler
@@ -1763,7 +1757,7 @@ kullanılacak bazı maddeler
 Madde
 181 –
 (…)
-[24]
+[23]
 
 umumi sıhhate taalük edip (183) ncü maddede envaı zikredilen eşya ve levazım, Sıhhat
 ve İçtimai Muavenet Vekaletinin teftiş ve murakabesine tabidir. Belediye
@@ -1771,7 +1765,7 @@ teşekkül etmiş olan mahallerde bu murakabe vekaletin bu kanun dairesinde ıst
 edeceği nizamnamelerle talimatlara tevfikan belediye tarafından ve belediyelerin
 bulunmadığı yerlerde vekalet sıhhi teşkilatına mensup memurlar tarafından icra
 edilir.
-[25]
+[24]
 
 (
 Ek
@@ -1780,7 +1774,7 @@ Sağlık ve Sosyal Yardım Bakanlığı
 belediyelerin bu teftiş ve murakabe hizmetlerini sürekli kontrol edebileceği
 gibi, lüzum gördüğü yerlerde veya lüzum görülen işlerde doğrudan doğruya teftiş
 ve murakabe etmek üzere memur görevlendirir. Gerektiğinde (…)
-24
+23
 183
 üncü maddede sayılan eşya ve levazımın bakanlıkça tespit edilecek
 laboratuvarlarda tetkikini sağlar.
@@ -1806,7 +1800,7 @@ sevketmek veya bu nevi eşya ve levazımı satmak üzere nezdinde bulundurmak,
 satılığa çıkarmak veya satmak ve yahut gıda maddelerine ait olduğu herkesçe malüm
 ve üzerinde buna dair alamet mevcut bulunan kaplar derununa muzır ve zehirli
 maddeler koyarak satılığa çıkarmak memnudur.
-[26]
+[25]
 
 Madde
 186 –
@@ -1815,14 +1809,14 @@ Halkı aldatmak üzere gıda maddelerini ve
 mahlütluğunu ve bunun nisbetini bildirmeyerek taklit veyahut mağşuş gıda
 maddelerini satmak üzere nezdinde bulundurmak, satılığa çıkarmak ve satmak
 memnudur.
-26
+25
 
 Madde
 187 –
 Gıda maddelerini yanlış unvan ve
 vasıflarla veya halkın aldan masını mucip olabilecek alametlerle ticarete
 çıkarmak, satmak üzere nezdinde bulundurmak ve satmak memnudur.
-26
+25
 
 Madde
 188-193– (Mülga: 27/5/2004-5179/37 md.)
@@ -1863,7 +1857,7 @@ Madde
 Madde
 199 –
 (…)
-[27]
+[26]
 
 bu kanunda zikredilen kullanılacak eşya ve levazımın ayrı ayrı hususi
 vasıflarını ve bunların ne gibi ahvalde bozulmuş, taklit veya tağşiş edilmiş
@@ -1994,7 +1988,7 @@ Mezarlık ittihaz olunan yerlerden
 başka yerlere ölü defni memnudur. Fevkalade hallerde ve sıhhi mahzur mevcut
 olmadığı takdirde Cumhurbaşkanı karariyle muayyen ve malüm mezarlıklar
 haricinde ölü defnine müsaade edilir.
-[28]
+[27]
 
 Madde 212 –
 Her şehir ve kasaba belediyesi şehir
@@ -2686,7 +2680,7 @@ Madde
 üzere sari hastalıklar hakkında tetkikatta bulunmağa salahiyettar memurlara
 muhalefet eden kimseler Türk Ceza Kanununun 195 inci maddesi mucibince
 cezalandırılır.
-[29]
+[28]
 
 Madde
 285 – (Değişik: 23/1/2008-5728/51 md.)
@@ -2748,7 +2742,7 @@ Madde 293 –
 138 inci maddedeki şeraite muvafık
 olmayan gemilerin kaptanları, Gemi Sağlık Resmi Kanununda yer alan para
 cezalarının on katı idarî para cezasıyla cezalandırılır.
-[30]
+[29]
 
 Madde
 294 – (Değişik: 23/1/2008-5728/58 md.)
@@ -2760,7 +2754,7 @@ saireyi bulundurmayan ve yolcuların selamet ve emniyetini temin eyleyecek tedbi
 riayet etmeyen gemi sahip veya süvarilerine dörtyüz Türk Lirası idarî para
 cezası verilir ve bu levazım ikmal edilinceye kadar gemilerin seyrüseferlerine
 mümanaat olunur.
-[31]
+[30]
 
 Bu Kanunda
 yazılı olan idarî para cezaları mahallî mülkî amir tarafından verilir.
@@ -2831,7 +2825,7 @@ Bu kanunda zikredilen sıhhat memurları;
 Devlet, belediye ve idarei hususiye işlerinde kullanılan tabipler ve Sıhhat ve
 İçtimai Muavenet Vekaletinin lüzum göreceği ve mezuniyet vereceği hususlarda
 tabiplerin maiyetinde bulunan küçük sıhhat memurlarıdır.
-[32]
+[31]
 
 Madde
 304 –
@@ -2906,22 +2900,22 @@ tabipliklerince tahsil olunur.
 
 Ek
 Madde 3 – (Ek: 22/9/1983 - 2890/4 md.)
-[33]
+[32]
 
 Bu
 Kanunun 185, 186, 187 (…)
-33
+32
 inci maddelerinde
 sayılan yasaklara aykırı fiilleri sebebiyle mahküm edilenler hakkında da Türk
 Ceza Kanununun 402 nci maddesinin ikinci fıkrası hükmü uygulanır.
 
 Bu
 Kanun kapsamına giren ve umumun sıhhatine (…)
-33
+32
 
-ilişkin davalara,
-mahkemelerce, 3005 sayılı Meşhud Suçların Muhakeme Usulü Kanununun 1 inci
-maddesindeki yer ve 4 üncü maddesindeki zaman kaydına bakılmaksızın suçüstü
+ilişkin
+davalara, mahkemelerce, 3005 sayılı Meşhud Suçların Muhakeme Usulü Kanununun 1
+inci maddesindeki yer ve 4 üncü maddesindeki zaman kaydına bakılmaksızın suçüstü
 hükümlerine göre bakılır ve hükümler kesinleştikten sonra bunların birer sureti
 Cumhuriyet savcılıklarınca doğrudan doğruya Sağlık ve Sosyal Yardım Bakanlığına
 gönderilir.
@@ -2970,8 +2964,8 @@ KHK’nin
 
 Numarası
 
-1593 Sayılı Kanunun Değişen veya İptal Edilen
-Maddeleri
+1593 Sayılı Kanunun Değişen
+veya İptal Edilen Maddeleri
 
 Yürürlüğe Giriş Tarihi
 
@@ -3001,8 +2995,8 @@ Yürürlüğe Giriş Tarihi
 
 5237
 
-1, 4, 5 ve 9 uncu maddeleri ile 51 inci maddesinin bu
-maddelerle ilgili hükümleri
+1, 4, 5 ve 9 uncu
+maddeleri ile 51 inci maddesinin bu maddelerle ilgili hükümleri
 
 Diğer maddeleri
 
@@ -3064,18 +3058,16 @@ KHK/560
 
 5179
 
-3, 20, 170, 171, 172, 181,182, 183, 184, 188, 189, 190,
-191, 192, 195, 198,199, 297 ve Ek Madde 3
+3, 20, 170, 171, 172,
+181,182, 183, 184, 188, 189, 190, 191, 192, 195, 198,199, 297 ve Ek Madde 3
 
 5/6/2004
 
-1100-1104
+1593 SAYILI KANUNA EK
+VE DEĞİŞİKLİK GETİREN MEVZUATIN
 
-1593
-SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
-
-YÜRÜRLÜĞE
-GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR
+LİSTE
 
 Değiştiren
 
@@ -3085,25 +3077,26 @@ KHK’nin
 
 Numarası
 
-1593 sayılı Kanunun
-değişen veya iptal edilen maddeleri
+1593
+sayılı Kanunun değişen veya iptal edilen maddeleri
 
-Yürürlüğe Giriş Tarihi
+Yürürlüğe
+Giriş Tarihi
 
 5728
 
-110, 282, 283, 284, 285, 287,
-288, 289, 290, 291,
+110, 282,
+283, 284, 285, 287, 288, 289, 290, 291,
 
-292, 294, 295, 296, 297,
-298, 299, 301, 302
+292, 294,
+295, 296, 297, 298, 299, 301, 302
 
 8/2/2008
 
 KHK/663
 
-10, 11, 12, 13, 14, 15,
-17, 126, 127, 180, Geçici Madde 1
+10, 11,
+12, 13, 14, 15, 17, 126, 127, 180, Geçici Madde 1
 
 2/11/2011
 
@@ -3127,18 +3120,25 @@ KHK/663
 
 KHK/700
 
-6, 7, 19, 30, 50, 52, 55,
-87, 88, 122, 128, 131, 141, 211, 294
+6, 7,
+19, 30, 50, 52, 55, 87, 88, 122, 128, 131, 141, 211, 294
 
-24/6/2018
-tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı
-seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
+24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve
+Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve
+başladığı tarihte (9/7/2018)
 
 7153
 
 127
 
 10/12/2018
+
+Anayasa
+Mahkemesinin 16/7/2026 tarihli ve E.: 2025/144; K.: 2026/164 sayılı Kararı
+
+128
+
+17/11/2026
 
 [1]
 
@@ -3252,53 +3252,48 @@ eklenmiştir.
 
 [19]
 
-2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname”
-ibaresi “yönetmelik” ve “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
-
-[20]
-
 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede”
 ibaresi “yönetmelikte” şeklinde değiştirilmiştir.
 
-[21]
+[20]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname”
 ibaresi “yönetmelik” şeklinde değiştirilmiştir.
 
-[22]
+[21]
 
 Bu maddenin başındaki "ilkaha mani veya"ibaresi 1/4/1965 tarih ve 557
 sayılı Kanunun 8 inci maddesiyle kaldırılmış olduğundan metinden çıkarılmıştır.
 
-[23]
+[22]
 
 Bu Bap'ın 24/6/1995 tarihli ve 560 sayılı KHK'ye aykırı hükümleri, söz konusu
 KHK'nin 21 inci maddesi ile yürürlükten kaldırılmıştır. Bu KHK 27/5/2004
 tarihli ve 5179 sayılı Kanun ile değiştirilerek kabul edilmiş, ancak gerek
 Meclis Tutanaklarında gerekse Kanun metninde bu hüküm yer almamıştır.
 
-[24]
+[23]
 
 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 inci maddesiyle bu maddenin;
 birinci fıkrasında yer alan, “Bütün gıda maddeleriyle” ibaresi ile ikinci
 fıkrasında yer alan “gıda maddeleri ile“ibaresi, madde metninden
 çıkartılmıştır.
 
-[25]
+[24]
 
 26/3/1941 tarih ve 3987 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan
 (182) rakamı (183) olarak değiştirilmiştir.
 
-[26]
+[25]
 
 Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.
 
-[27]
+[26]
 
 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan,
 “Her gıda maddesi ile” ibaresi madde metninden çıkarılmıştır.
 
-[28]
+[27]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “
 İcra Vekilleri Heyeti
@@ -3306,14 +3301,14 @@ Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.
 
 değiştirilmiştir.
 
-[29]
+[28]
 
 23/1/2008 tarihli ve 5728 sayılı Kanunun 50 nci maddesiyle; bu maddede yer
 alan
 “Ceza Kanununun 263 üncü” ibaresi “Türk Ceza Kanununun 195 inci”
 şeklinde değiştirilmiştir.
 
-[30]
+[29]
 
 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 293 üncü maddede
 yer alan "500 numaralı Rüsumu Sıhhiye Kanununda mündemiç cezayı nakdilerin
@@ -3321,17 +3316,17 @@ on misli alınmak suretiyle" ibaresi, "Gemi Sağlık Resmi Kanununda yer
 alan para cezalarının on katı idarî para cezasıyla olarak 6/5/2003 tarihinden
 geçerli olmak üzere değiştirilmiştir.
 
-[31]
+[30]
 
 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu fıkrada yer alan yer
 alan “nizamnamede” ibaresi “yönetmelikte” şeklinde
 değiştirilmiştir.
 
-[32]
+[31]
 
 Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
 
-[33]
+[32]
 
 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu maddenin birinci
 fıkrasında yer alan “ve 188” ibaresi ile son fıkrada yer alan “,yenecek ve
